@@ -5,11 +5,14 @@
  * Interested in contributing? Visit https://github.com/openblack/openblack
  *
  * openblack is licensed under the GNU General Public License version 3.
- *******************************************************************************/
+ ******************************************************************************/
 
 #include <iostream>
 #include <map>
 #include <memory>
+#include <cstdio>
+#include <csignal>
+#include <cstdlib>
 
 #include <SDL_messagebox.h>
 #include <cxxopts.hpp>
@@ -19,11 +22,163 @@
 // can't sort these includes
 #include <wtypes.h>
 #include <winreg.h>
+#include <windows.h>
+#include <dbghelp.h>
 // clang-format on
+#pragma comment(lib, "dbghelp.lib")
 #endif
 
 #include "EngineConfig.h"
 #include "Game.h"
+
+#ifdef _WIN32
+static int g_breakpointCount = 0;
+static constexpr int k_maxBreakpointLogs = 50;
+static bool g_symInitialized = false;
+
+static void WriteCrashLog(const char* message)
+{
+	FILE* f = fopen("crash_diagnostic.txt", "a");
+	if (f)
+	{
+		fprintf(f, "%s\n", message);
+		fflush(f);
+		fclose(f);
+	}
+	fprintf(stderr, "%s\n", message);
+	fflush(stderr);
+}
+
+static void WriteStackTrace()
+{
+	if (!g_symInitialized)
+		return;
+
+	HANDLE process = GetCurrentProcess();
+	void* stack[64];
+	USHORT frames = CaptureStackBackTrace(2, 64, stack, NULL);
+
+	SYMBOL_INFO* symbol = static_cast<SYMBOL_INFO*>(calloc(sizeof(SYMBOL_INFO) + 256, 1));
+	if (!symbol)
+		return;
+	symbol->MaxNameLen = 255;
+	symbol->SizeOfStruct = sizeof(SYMBOL_INFO);
+
+	IMAGEHLP_LINE64 line;
+	line.SizeOfStruct = sizeof(IMAGEHLP_LINE64);
+
+	FILE* f = fopen("crash_diagnostic.txt", "a");
+
+	for (USHORT i = 0; i < frames; i++)
+	{
+		DWORD64 address = reinterpret_cast<DWORD64>(stack[i]);
+		DWORD displacement = 0;
+		char buf[512];
+
+		if (SymFromAddr(process, address, 0, symbol))
+		{
+			if (SymGetLineFromAddr64(process, address, &displacement, &line))
+			{
+				snprintf(buf, sizeof(buf), "  [%02d] %s (%s:%lu)", i, symbol->Name, line.FileName, line.LineNumber);
+			}
+			else
+			{
+				snprintf(buf, sizeof(buf), "  [%02d] %s (0x%llX)", i, symbol->Name, static_cast<unsigned long long>(address));
+			}
+		}
+		else
+		{
+			snprintf(buf, sizeof(buf), "  [%02d] 0x%llX", i, static_cast<unsigned long long>(address));
+		}
+
+		if (f)
+			fprintf(f, "%s\n", buf);
+		fprintf(stderr, "%s\n", buf);
+	}
+
+	if (f)
+	{
+		fprintf(f, "---\n");
+		fflush(f);
+		fclose(f);
+	}
+	fflush(stderr);
+	free(symbol);
+}
+
+// Vectored exception handler - catches EXCEPTION_BREAKPOINT (from assert/__debugbreak)
+// before the CRT can abort the process. Skips past the int 3 instruction to keep running.
+static LONG CALLBACK BreakpointHandler(EXCEPTION_POINTERS* exceptionInfo)
+{
+	if (exceptionInfo->ExceptionRecord->ExceptionCode == EXCEPTION_BREAKPOINT)
+	{
+		g_breakpointCount++;
+
+		// Log first N breakpoints with stack traces
+		if (g_breakpointCount <= k_maxBreakpointLogs)
+		{
+			char buf[256];
+			snprintf(buf, sizeof(buf),
+			         "ASSERT SKIPPED (#%d) at 0x%p",
+			         g_breakpointCount,
+			         exceptionInfo->ExceptionRecord->ExceptionAddress);
+			WriteCrashLog(buf);
+			WriteStackTrace();
+		}
+		else if (g_breakpointCount == k_maxBreakpointLogs + 1)
+		{
+			WriteCrashLog("(Further breakpoint logs suppressed)");
+		}
+
+		// Skip past the int 3 instruction (1 byte: 0xCC) on x64
+		exceptionInfo->ContextRecord->Rip += 1;
+		return EXCEPTION_CONTINUE_EXECUTION;
+	}
+
+	// Not a breakpoint - let other handlers deal with it
+	return EXCEPTION_CONTINUE_SEARCH;
+}
+
+// Last-resort unhandled exception handler for non-breakpoint crashes
+static LONG WINAPI CrashHandler(EXCEPTION_POINTERS* exceptionInfo)
+{
+	char buf[512];
+	snprintf(buf, sizeof(buf),
+	         "FATAL CRASH: Unhandled exception code 0x%08lX at address 0x%p",
+	         exceptionInfo->ExceptionRecord->ExceptionCode,
+	         exceptionInfo->ExceptionRecord->ExceptionAddress);
+	WriteCrashLog(buf);
+
+	const char* desc = "Unknown";
+	switch (exceptionInfo->ExceptionRecord->ExceptionCode)
+	{
+	case EXCEPTION_ACCESS_VIOLATION: desc = "ACCESS_VIOLATION"; break;
+	case EXCEPTION_BREAKPOINT: desc = "BREAKPOINT"; break;
+	case EXCEPTION_STACK_OVERFLOW: desc = "STACK_OVERFLOW"; break;
+	case EXCEPTION_INT_DIVIDE_BY_ZERO: desc = "INT_DIVIDE_BY_ZERO"; break;
+	case EXCEPTION_FLT_DIVIDE_BY_ZERO: desc = "FLT_DIVIDE_BY_ZERO"; break;
+	case EXCEPTION_ILLEGAL_INSTRUCTION: desc = "ILLEGAL_INSTRUCTION"; break;
+	case EXCEPTION_ARRAY_BOUNDS_EXCEEDED: desc = "ARRAY_BOUNDS_EXCEEDED"; break;
+	case 0xE06D7363: desc = "C++ EXCEPTION (uncaught)"; break;
+	}
+	snprintf(buf, sizeof(buf), "Exception type: %s", desc);
+	WriteCrashLog(buf);
+
+	if (exceptionInfo->ExceptionRecord->ExceptionCode == EXCEPTION_ACCESS_VIOLATION &&
+	    exceptionInfo->ExceptionRecord->NumberParameters >= 2)
+	{
+		const char* op = exceptionInfo->ExceptionRecord->ExceptionInformation[0] == 0 ? "reading" : "writing";
+		snprintf(buf, sizeof(buf), "Access violation %s address 0x%p", op,
+		         reinterpret_cast<void*>(exceptionInfo->ExceptionRecord->ExceptionInformation[1]));
+		WriteCrashLog(buf);
+	}
+
+	WriteCrashLog("Stack trace:");
+	WriteStackTrace();
+
+	return EXCEPTION_EXECUTE_HANDLER;
+}
+#endif
 
 bool parseOptions(int argc, char** argv, openblack::Arguments& args, int& returnCode)
 {
@@ -198,6 +353,21 @@ bool parseOptions(int argc, char** argv, openblack::Arguments& args, int& return
 
 int main(int argc, char* argv[]) noexcept
 {
+#ifdef _WIN32
+	// Initialize debug symbol resolution for stack traces
+	g_symInitialized = SymInitialize(GetCurrentProcess(), NULL, TRUE) == TRUE;
+
+	// Suppress abort() dialog boxes and Watson reports so they don't hang the process
+	_set_abort_behavior(0, _WRITE_ABORT_MSG | _CALL_REPORTFAULT);
+
+	// Vectored handler catches EXCEPTION_BREAKPOINT (assert/debugbreak) and skips past them.
+	// This prevents bgfx BX_ASSERT and other debug asserts from killing the process.
+	AddVectoredExceptionHandler(1, BreakpointHandler);
+
+	// Unhandled exception filter for everything else (access violations, etc.)
+	SetUnhandledExceptionFilter(CrashHandler);
+#endif
+
 	// clang-format off
 	std::cout <<
 	    "==============================================================================\n"
@@ -227,6 +397,9 @@ int main(int argc, char* argv[]) noexcept
 	catch (std::exception& e)
 	{
 		std::cerr << e.what() << std::endl;
+#ifdef _WIN32
+		WriteCrashLog(e.what());
+#endif
 		SDL_ShowSimpleMessageBox(SDL_MESSAGEBOX_ERROR, "Fatal error", e.what(), nullptr);
 		return EXIT_FAILURE;
 	}

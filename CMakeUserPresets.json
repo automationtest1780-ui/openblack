@@ -1,0 +1,37 @@
+{
+  "version": 3,
+  "configurePresets": [
+    {
+      "name": "msvc-18-vcpkg",
+      "displayName": "Visual Studio 2025 (vcpkg)",
+      "description": "Configure with vcpkg toolchain and generate Visual Studio 2025 project files",
+      "generator": "Visual Studio 18 2026",
+      "inherits": "template-vcpkg"
+    },
+    {
+      "name": "ninja-vcpkg-local",
+      "displayName": "Ninja (vcpkg) - Local",
+      "description": "Configure with vcpkg toolchain and Ninja generator using VS compiler",
+      "generator": "Ninja Multi-Config",
+      "inherits": "template-vcpkg",
+      "cacheVariables": {
+        "CMAKE_C_COMPILER": "cl",
+        "CMAKE_CXX_COMPILER": "cl"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "msvc-18-vcpkg-debug",
+      "configurePreset": "msvc-18-vcpkg",
+      "displayName": "Build msvc-18-vcpkg-debug",
+      "configuration": "Debug"
+    },
+    {
+      "name": "ninja-vcpkg-local-debug",
+      "configurePreset": "ninja-vcpkg-local",
+      "displayName": "Build ninja-vcpkg-local-debug",
+      "configuration": "Debug"
+    }
+  ]
+}

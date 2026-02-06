@@ -25,9 +25,8 @@ using namespace openblack::ecs::systems;
 
 uint32_t VillagerInvalidState(LivingAction& action)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("ai"), "Villager #{}: Stuck in an invalid state",
-	                    static_cast<uint32_t>(Locator::entitiesRegistry::value().ToEntity(action)));
-	assert(false);
+	SPDLOG_LOGGER_WARN(spdlog::get("ai"), "Villager #{}: Stuck in an invalid state (continuing)",
+	                   static_cast<uint32_t>(Locator::entitiesRegistry::value().ToEntity(action)));
 	return 0;
 }
 

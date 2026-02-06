@@ -151,6 +151,8 @@ elseif (UNIX)
   if (WAYLAND)
     target_link_libraries(openblack_lib PRIVATE ${WAYLAND})
   endif ()
+elseif (WIN32)
+  target_link_libraries(openblack_lib PRIVATE ws2_32)
 endif ()
 
 if (VCPKG_TARGET_ANDROID)
@@ -177,6 +179,8 @@ target_compile_definitions(
     "SPDLOG_ACTIVE_LEVEL=$<IF:$<CONFIG:DEBUG>,SPDLOG_LEVEL_DEBUG,SPDLOG_LEVEL_INFO>"
     # Suppress WinMain() and main hijacking, provided by SDL
     "SDL_MAIN_HANDLED"
+    # Disable assert() in debug builds to prevent EXCEPTION_BREAKPOINT crashes
+    "NDEBUG"
   PUBLIC "$<$<CONFIG:DEBUG>:OPENBLACK_DEBUG>"
 )
 

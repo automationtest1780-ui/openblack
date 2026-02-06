@@ -539,6 +539,16 @@ std::optional<CameraModel::CameraInterpolationUpdateInfo> DefaultWorldCameraMode
 {
 	_elapsedTime += dt;
 
+	// Debug: Log camera state periodically during first few seconds
+	static int frameCount = 0;
+	const bool shouldLog = (frameCount < 60 || (frameCount % 300 == 0));
+	if (shouldLog)
+	{
+		SPDLOG_INFO("CameraModel frame {}: targetOrigin=({:.0f},{:.0f},{:.0f}), mode={}",
+		            frameCount, _targetOrigin.x, _targetOrigin.y, _targetOrigin.z, static_cast<int>(_mode));
+	}
+	frameCount++;
+
 	UpdateCameraInterpolationValues(camera);
 	UpdateRaycastHitPoints(camera);
 	UpdateFocusDistance();
@@ -732,6 +742,26 @@ void DefaultWorldCameraModel::SetFlight(glm::vec3 origin, glm::vec3 focus)
 	};
 	const auto wooshNoiseId = static_cast<entt::id_type>(Locator::rng::value().Choose(k_WooshingNoiseIds));
 	Locator::audio::value().PlaySound(wooshNoiseId, audio::PlayType::Once);
+}
+
+void DefaultWorldCameraModel::ResetToPosition(glm::vec3 origin, glm::vec3 focus)
+{
+	// Immediately set all internal state to the target position (no interpolation)
+	_currentOrigin = origin;
+	_currentFocus = focus;
+	_targetOrigin = origin;
+	_targetFocus = focus;
+	_focusAtClick = focus;  // Critical: used in euler angle computation
+	_originAtClick = origin;
+	_flightPath = std::nullopt;
+	_mode = Mode::Cartesian;
+	_modePrev = Mode::Cartesian;
+	_focusDistance = glm::length(origin - focus);
+	_averageIslandDistance = _focusDistance;
+	_originFocusDistanceAtInteractionStart = _focusDistance;
+	_elapsedTime = std::chrono::microseconds::zero();
+	SPDLOG_INFO("Camera reset to origin ({}, {}, {}), focus ({}, {}, {})",
+	            origin.x, origin.y, origin.z, focus.x, focus.y, focus.z);
 }
 
 glm::vec3 DefaultWorldCameraModel::GetTargetOrigin() const

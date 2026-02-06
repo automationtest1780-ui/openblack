@@ -89,8 +89,10 @@ bool AreWeThere(const glm::vec2& pos, const glm::vec2& goal, float threshold)
 /// +-----+-----+-----+
 std::array<ecs::MapInterface::CellId, 9> GetNeighboringCells(const glm::vec2& pos)
 {
-	const auto cellIndex = MapInterface::GetGridCell(pos);
-	assert(glm::compMin(cellIndex) > 0 && glm::all(glm::lessThan(cellIndex, MapInterface::k_GridSize - glm::u16vec2(1))));
+	auto cellIndex = MapInterface::GetGridCell(pos);
+	// Clamp to interior cells so neighbors are always valid (avoid underflow at edges)
+	const auto maxCell = MapInterface::k_GridSize - glm::u16vec2(1);
+	cellIndex = glm::clamp(cellIndex, glm::u16vec2(1), glm::u16vec2(maxCell.x - 1, maxCell.y - 1));
 	return {
 	    cellIndex,                          // Current
 	    {cellIndex.x + 1, cellIndex.y},     // Right
@@ -497,7 +499,8 @@ void PathfindingSystem::Update()
 		    // 2D cross product gives the sin between both vectors
 		    const float sin = glm::cross(glm::vec3(wallHug.step, 0.0f), glm::vec3(diff, 0.0f)).z;
 		    const auto newClockwise = sin > 0.0f ? MoveStateClockwise::Clockwise : MoveStateClockwise::CounterClockwise;
-		    assert(state.clockwise != MoveStateClockwise::Undefined);
+		    if (state.clockwise == MoveStateClockwise::Undefined)
+			    return;
 		    if (state.clockwise == newClockwise)
 		    {
 			    return;
@@ -523,7 +526,8 @@ void PathfindingSystem::Update()
 	registry.Each<const MoveStateLinearTag, Transform, WallHug, WallHugObjectReference>(
 	    [&registry](entt::entity entity, const MoveStateLinearTag& state, Transform& transform, WallHug& wallHug,
 	                WallHugObjectReference& reference) {
-		    assert(reference.stepsAway != 0xFF); // In this case, the component should have been removed
+		    if (reference.stepsAway == 0xFF) // Should have been removed, skip
+			    return;
 		    if (reference.stepsAway == 0)
 		    {
 			    auto clockwise = state.clockwise;

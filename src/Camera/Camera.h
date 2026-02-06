@@ -104,6 +104,10 @@ public:
 	void Update(std::chrono::microseconds dt);
 	void HandleActions(std::chrono::microseconds dt);
 
+	/// When true, the camera model won't override origin/focus (used by debug server and scripts)
+	void SetManualControl(bool manual) { _manualControl = manual; }
+	[[nodiscard]] bool IsManualControl() const { return _manualControl; }
+
 	[[nodiscard]] glm::mat4 GetRotationMatrix() const;
 	[[nodiscard]] Projection GetCameraProjection() const;
 
@@ -121,6 +125,7 @@ protected:
 	glm::mat4 _projectionMatrixReversedZ = glm::mat4 {1.0f};
 	std::unique_ptr<CameraModel> _model;
 	Projection _cameraProjection = Projection::ReversedZ;
+	bool _manualControl = false;
 };
 
 } // namespace openblack

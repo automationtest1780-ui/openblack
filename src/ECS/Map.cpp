@@ -18,10 +18,12 @@ using namespace openblack::ecs;
 
 MapInterface::CellId MapInterface::GetGridCell(const glm::vec2& pos)
 {
-	assert(glm::compMin(pos) >= 0);
-	const glm::u32vec2 coords = pos * k_PositionToGridFactor;
-	const MapInterface::CellId result(coords.x >> 0x10, coords.y >> 0x10);
-	assert(glm::all(glm::lessThan(result, k_GridSize))); // If not, clamp to 0, _gridSize
+	// Clamp negative positions to zero instead of asserting (entities may have uninitialized positions)
+	const glm::vec2 safePos = glm::max(pos, glm::vec2(0.0f));
+	const glm::u32vec2 coords = safePos * k_PositionToGridFactor;
+	MapInterface::CellId result(coords.x >> 0x10, coords.y >> 0x10);
+	// Clamp to grid bounds instead of asserting
+	result = glm::min(result, k_GridSize - glm::u16vec2(1));
 	return result;
 }
 

@@ -15,6 +15,8 @@
 #include <optional>
 #include <string>
 
+#include "Debug/DebugServer.h"
+
 #include <glm/mat4x4.hpp>
 #include <spdlog/common.h>
 
@@ -114,7 +116,10 @@ private:
 	uint32_t _turnCount {0};
 	bool _paused {true};
 	glm::ivec2 _mousePosition;
+	glm::ivec2 _prevMousePosition;
 	bool _handGripping;
+	bool _prevHandGripping {false};
 	std::optional<std::pair</* frame number */ uint32_t, /* output */ std::filesystem::path>> _requestScreenshot;
+	std::unique_ptr<debug::DebugServer> _debugServer;
 };
 } // namespace openblack

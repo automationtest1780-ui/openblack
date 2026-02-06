@@ -36,6 +36,7 @@
 #include "ECS/Archetypes/VillagerArchetype.h"
 #include "ECS/Components/Footpath.h"
 #include "ECS/Components/Stream.h"
+#include "ECS/Components/Transform.h"
 #include "ECS/Registry.h"
 #include "ECS/Systems/PlayerSystemInterface.h"
 #include "FileSystem/FileSystemInterface.h"
@@ -222,22 +223,22 @@ inline glm::vec3 GetSize(int size)
 	return glm::vec3(size, size, size) * 0.001f;
 }
 
-void FeatureScriptCommands::SetATownInfluenceMultiplier(int32_t townId, float multiplier)
+void FeatureScriptCommands::SetATownInfluenceMultiplier([[maybe_unused]] int32_t townId, [[maybe_unused]] float multiplier)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX Function {}(townId={}, multiplier={}) not implemented.", __func__,
-	                    townId, multiplier);
+	// Influence system not yet implemented
 }
 
-void FeatureScriptCommands::CreateMist(glm::vec3 position, float param2, int32_t param3, float param4, float param5)
+void FeatureScriptCommands::CreateMist([[maybe_unused]] glm::vec3 position, [[maybe_unused]] float param2,
+                                       [[maybe_unused]] int32_t param3, [[maybe_unused]] float param4,
+                                       [[maybe_unused]] float param5)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}, {}, {}, {}, {}) not implemented.",
-	                    __FILE__, __LINE__, __func__, glm::to_string(position), param2, param3, param4, param5);
+	// Cosmetic mist effect not yet implemented
 }
 
-void FeatureScriptCommands::CreatePath(int32_t param1, int32_t param2, int32_t param3, int32_t param4)
+void FeatureScriptCommands::CreatePath([[maybe_unused]] int32_t param1, [[maybe_unused]] int32_t param2,
+                                       [[maybe_unused]] int32_t param3, [[maybe_unused]] int32_t param4)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}, {}, {}, {}) not implemented.", __FILE__,
-	                    __LINE__, __func__, param1, param2, param3, param4);
+	// Path system not yet implemented
 }
 
 void FeatureScriptCommands::CreateTown(int32_t townId, glm::vec3 position, const std::string& playerOwner,
@@ -268,22 +269,24 @@ void FeatureScriptCommands::SetTownBelief(int32_t townId, const std::string& pla
 	town.beliefs.insert({playerOwner, belief});
 }
 
-void FeatureScriptCommands::SetTownBeliefCap(int32_t townId, const std::string& playerOwner, float belief)
+void FeatureScriptCommands::SetTownBeliefCap([[maybe_unused]] int32_t townId, [[maybe_unused]] const std::string& playerOwner,
+                                              [[maybe_unused]] float belief)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}, {}, {}) not implemented.", __FILE__,
-	                    __LINE__, __func__, townId, playerOwner, belief);
+	// Belief cap not tracked in Town component yet
 }
 
 void FeatureScriptCommands::SetTownUninhabitable(int32_t townId)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}) not implemented.", __FILE__, __LINE__,
-	                    __func__, townId);
+	auto& registry = Locator::entitiesRegistry::value();
+	auto& registryContext = registry.Context();
+
+	Town& town = registry.Get<Town>(registryContext.towns.at(townId));
+	town.uninhabitable = true;
 }
 
-void FeatureScriptCommands::SetTownCongregationPos(int32_t townId, glm::vec3 position)
+void FeatureScriptCommands::SetTownCongregationPos([[maybe_unused]] int32_t townId, [[maybe_unused]] glm::vec3 position)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}, {}) not implemented.", __FILE__, __LINE__,
-	                    __func__, townId, glm::to_string(position));
+	// Town component doesn't store congregation position yet
 }
 
 void FeatureScriptCommands::CreateAbode(int32_t townId, glm::vec3 position, const std::string& abodeInfo, int32_t rotation,
@@ -297,9 +300,9 @@ void FeatureScriptCommands::CreateAbode(int32_t townId, glm::vec3 position, cons
 void FeatureScriptCommands::CreatePlannedAbode(int32_t townId, glm::vec3 position, const std::string& abodeInfo,
                                                int32_t rotation, int32_t size, int32_t foodAmount, int32_t woodAmount)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}, {}, {}, {}, {}, {}, {}) not implemented.",
-	                    __FILE__, __LINE__, __func__, townId, glm::to_string(position), abodeInfo, rotation, size, foodAmount,
-	                    woodAmount);
+	// Planned abodes are scaffolding that builds into a full abode. For now, create the finished building.
+	AbodeArchetype::Create(townId, position, GAbodeInfo::Find(abodeInfo), rotation * 0.001f, size * 0.001f,
+	                       static_cast<uint32_t>(foodAmount), static_cast<uint32_t>(woodAmount));
 }
 
 void FeatureScriptCommands::CreateTownCentre(int32_t townId, glm::vec3 position, const std::string& abodeInfo, int32_t rotation,
@@ -309,54 +312,63 @@ void FeatureScriptCommands::CreateTownCentre(int32_t townId, glm::vec3 position,
 	                       static_cast<uint32_t>(0), static_cast<uint32_t>(0));
 }
 
-void FeatureScriptCommands::CreateTownSpell(int32_t townId, const std::string& spellName)
+void FeatureScriptCommands::CreateTownSpell([[maybe_unused]] int32_t townId, [[maybe_unused]] const std::string& spellName)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}, {}) not implemented.", __FILE__, __LINE__,
-	                    __func__, townId, spellName);
+	// Spell system not yet implemented
 }
 
-void FeatureScriptCommands::CreateNewTownSpell(int32_t townId, const std::string& spellName)
+void FeatureScriptCommands::CreateNewTownSpell([[maybe_unused]] int32_t townId, [[maybe_unused]] const std::string& spellName)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}, {}) not implemented.", __FILE__, __LINE__,
-	                    __func__, townId, spellName);
+	// Spell system not yet implemented
 }
 
-void FeatureScriptCommands::CreateTownCentreSpellIcon(int32_t param1, const std::string& param2)
+void FeatureScriptCommands::CreateTownCentreSpellIcon([[maybe_unused]] int32_t param1, [[maybe_unused]] const std::string& param2)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}, {}) not implemented.", __FILE__, __LINE__,
-	                    __func__, param1, param2);
+	// Spell icon system not yet implemented
 }
 
-void FeatureScriptCommands::CreateSpellIcon(glm::vec3 position, const std::string& param2, int32_t param3, int32_t param4,
-                                            int32_t param5)
+void FeatureScriptCommands::CreateSpellIcon([[maybe_unused]] glm::vec3 position, [[maybe_unused]] const std::string& param2,
+                                            [[maybe_unused]] int32_t param3, [[maybe_unused]] int32_t param4,
+                                            [[maybe_unused]] int32_t param5)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}, {}, {}, {}, {}) not implemented.",
-	                    __FILE__, __LINE__, __func__, glm::to_string(position), param2, param3, param4, param5);
+	// Spell icon system not yet implemented
 }
 
-void FeatureScriptCommands::CreatePlannedSpellIcon(int32_t param1, glm::vec3 position, const std::string& param3,
-                                                   int32_t param4, int32_t param5, int32_t param6)
+void FeatureScriptCommands::CreatePlannedSpellIcon([[maybe_unused]] int32_t param1, [[maybe_unused]] glm::vec3 position,
+                                                   [[maybe_unused]] const std::string& param3,
+                                                   [[maybe_unused]] int32_t param4, [[maybe_unused]] int32_t param5,
+                                                   [[maybe_unused]] int32_t param6)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}, {}, {}, {}, {}, {}) not implemented.",
-	                    __FILE__, __LINE__, __func__, param1, glm::to_string(position), param3, param4, param5, param6);
+	// Spell icon system not yet implemented
 }
 
-void FeatureScriptCommands::CreateVillager(glm::vec3 param1, glm::vec3 param2, const std::string& param3)
+void FeatureScriptCommands::CreateVillager(glm::vec3 abodePosition, glm::vec3 position, const std::string& tribeAndNumber)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}, {}, {}) not implemented.", __FILE__,
-	                    __LINE__, __func__, glm::to_string(param1), glm::to_string(param2), param3);
+	auto [tribe, number] = GetVillagerTribeAndNumber(tribeAndNumber);
+	VillagerArchetype::Create(abodePosition, position, GVillagerInfo::Find(tribe, number), 0);
 }
 
 void FeatureScriptCommands::CreateTownVillager(int32_t townId, glm::vec3 position, const std::string& villagerType, int32_t age)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}, {}, {}, {}) not implemented.", __FILE__,
-	                    __LINE__, __func__, townId, glm::to_string(position), villagerType, age);
+	auto [tribe, number] = GetVillagerTribeAndNumber(villagerType);
+	// Use the town's position as the abode position fallback
+	auto& registry = Locator::entitiesRegistry::value();
+	auto& registryContext = registry.Context();
+	auto townEntity = registryContext.towns.at(townId);
+	auto& townTransform = registry.Get<Transform>(townEntity);
+	VillagerArchetype::Create(townTransform.position, position, GVillagerInfo::Find(tribe, number),
+	                          static_cast<uint32_t>(age));
 }
 
-void FeatureScriptCommands::CreateSpecialTownVillager(int32_t param1, glm::vec3 position, int32_t param3, int32_t param4)
+void FeatureScriptCommands::CreateSpecialTownVillager(int32_t townId, glm::vec3 position, int32_t villagerTypeInt,
+                                                      int32_t age)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}, {}, {}, {}) not implemented.", __FILE__,
-	                    __LINE__, __func__, param1, glm::to_string(position), param3, param4);
+	auto& registry = Locator::entitiesRegistry::value();
+	auto& registryContext = registry.Context();
+	auto townEntity = registryContext.towns.at(townId);
+	auto& townTransform = registry.Get<Transform>(townEntity);
+	VillagerArchetype::Create(townTransform.position, position, static_cast<VillagerInfo>(villagerTypeInt),
+	                          static_cast<uint32_t>(age));
 }
 
 void FeatureScriptCommands::CreateVillagerPos(glm::vec3 abodePosition, glm::vec3 position, const std::string& tribeAndNumber,
@@ -530,10 +542,12 @@ void FeatureScriptCommands::HeightChange([[maybe_unused]] glm::vec3 position, in
 	// __func__);
 }
 
-void FeatureScriptCommands::CreateCreature(glm::vec3 position, int32_t param2, int32_t param3)
+void FeatureScriptCommands::CreateCreature(glm::vec3 position, int32_t playerIndex, int32_t creatureTypeInt)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}, {}, {}) not implemented.", __FILE__,
-	                    __LINE__, __func__, glm::to_string(position), param2, param3);
+	auto yAngleRadians = glm::radians(180.0f);
+	auto scale = 0.3f;
+	CreatureArchetype::CreateWithFreshMind(position, static_cast<PlayerNames>(playerIndex),
+	                                       static_cast<CreatureType>(creatureTypeInt), 0, yAngleRadians, scale);
 }
 
 void FeatureScriptCommands::CreateCreatureFromFile(const std::string& playerName, CreatureType creatureType,
@@ -704,12 +718,10 @@ void FeatureScriptCommands::CreateFootpathNode(int footpathId, glm::vec3 positio
 	footpath.nodes.emplace_back(Footpath::Node {position});
 }
 
-void FeatureScriptCommands::LinkFootpath(int32_t footpathId)
+void FeatureScriptCommands::LinkFootpath([[maybe_unused]] int32_t footpathId)
 {
 	// TODO(#482): The last MultiMapFixed created in this script is an implicit param
 	//             This Command adds the footpath to a list in a FootpathLink on the MultiMapFixed
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}) not implemented.", __FILE__, __LINE__,
-	                    __func__, footpathId);
 }
 
 void FeatureScriptCommands::CreateBonfire(glm::vec3 position, float rotation, [[maybe_unused]] float param3, float scale)
@@ -770,10 +782,9 @@ void FeatureScriptCommands::CreateStreetLight([[maybe_unused]] glm::vec3 positio
 	StreetLanternArchetype::Create(position);
 }
 
-void FeatureScriptCommands::SetLandNumber(int32_t number)
+void FeatureScriptCommands::SetLandNumber([[maybe_unused]] int32_t number)
 {
-	SPDLOG_LOGGER_ERROR(spdlog::get("scripting"), "LHScriptX: {}:{}: Function {}({}) not implemented.", __FILE__, __LINE__,
-	                    __func__, number);
+	// Land number tracking not yet needed
 }
 
 void FeatureScriptCommands::CreateOneShotSpell([[maybe_unused]] glm::vec3 position, const std::string&)

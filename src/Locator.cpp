@@ -28,6 +28,7 @@
 #include "ECS/MapProduction.h"
 #include "ECS/Registry.h"
 #include "ECS/Systems/Implementations/CameraBookmarkSystem.h"
+#include "ECS/Systems/Implementations/CreatureSystem.h"
 #include "ECS/Systems/Implementations/DynamicsSystem.h"
 #include "ECS/Systems/Implementations/HandSystem.h"
 #include "ECS/Systems/Implementations/LivingActionSystem.h"
@@ -58,6 +59,7 @@ using openblack::debug::gui::DebugGuiInterface;
 using openblack::ecs::MapProduction;
 using openblack::ecs::Registry;
 using openblack::ecs::systems::CameraBookmarkSystem;
+using openblack::ecs::systems::CreatureSystem;
 using openblack::ecs::systems::DynamicsSystem;
 using openblack::ecs::systems::HandSystem;
 using openblack::ecs::systems::LivingActionSystem;
@@ -138,6 +140,7 @@ void openblack::InitializeLevel(const std::filesystem::path& path)
 	Locator::townSystem::emplace<TownSystem>();
 	Locator::pathfindingSystem::emplace<PathfindingSystem>();
 	Locator::cameraBookmarkSystem::emplace<CameraBookmarkSystem>();
+	Locator::creatureSystem::emplace<CreatureSystem>();
 	Locator::terrainSystem::emplace<LandIsland>(path);
 }
 
@@ -168,6 +171,7 @@ void openblack::ShutDownServices()
 	Locator::rendereringSystem::reset();
 	Locator::dynamicsSystem::reset();
 	Locator::cameraBookmarkSystem::reset();
+	Locator::creatureSystem::reset();
 	Locator::livingActionSystem::reset();
 	Locator::townSystem::reset();
 	Locator::handSystem::reset();

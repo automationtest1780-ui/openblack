@@ -215,17 +215,38 @@ void Camera::Update(std::chrono::microseconds dt)
 {
 	using namespace std::chrono_literals;
 
-	const auto updateInfo = _model->Update(dt, *this);
-
-	if (updateInfo)
+	// Skip camera model updates when under manual/script control
+	if (!_manualControl)
 	{
-		const auto m1 = glm::zero<glm::vec3>();
-		// You have to normalize the velocity with the NEW duration
-		const auto durationSeconds = std::chrono::duration_cast<std::chrono::duration<float>>(updateInfo->duration);
-		SetOriginInterpolator(GetOrigin(), updateInfo->origin, GetOriginVelocity() * durationSeconds.count(), m1);
-		SetFocusInterpolator(GetFocus(), updateInfo->focus, GetFocusVelocity() * durationSeconds.count(), m1);
-		SetInterpolatorDuration(updateInfo->duration);
-		SetInterpolatorTime(0us);
+		const auto updateInfo = _model->Update(dt, *this);
+
+		if (updateInfo)
+		{
+			const auto m1 = glm::zero<glm::vec3>();
+			// You have to normalize the velocity with the NEW duration
+			const auto durationSeconds = std::chrono::duration_cast<std::chrono::duration<float>>(updateInfo->duration);
+			// Debug: Log when camera model is setting extreme positions
+			const float distFromCenter = glm::length(glm::vec2(updateInfo->origin.x - 2560.0f, updateInfo->origin.z - 2560.0f));
+			if (distFromCenter > 5000.0f || updateInfo->origin.y > 2000.0f)
+			{
+				SPDLOG_WARN("Camera::Update: model returning extreme origin ({}, {}, {}), dist={:.0f}",
+				            updateInfo->origin.x, updateInfo->origin.y, updateInfo->origin.z, distFromCenter);
+			}
+			SetOriginInterpolator(GetOrigin(), updateInfo->origin, GetOriginVelocity() * durationSeconds.count(), m1);
+			SetFocusInterpolator(GetFocus(), updateInfo->focus, GetFocusVelocity() * durationSeconds.count(), m1);
+			SetInterpolatorDuration(updateInfo->duration);
+			SetInterpolatorTime(0us);
+		}
+	}
+	else
+	{
+		// Debug: Log that we're in manual control mode
+		static int logCounter = 0;
+		if (++logCounter % 300 == 1) // Log once every ~5 seconds at 60fps
+		{
+			SPDLOG_INFO("Camera::Update: in manual control mode, origin=({}, {}, {})",
+			            GetOrigin().x, GetOrigin().y, GetOrigin().z);
+		}
 	}
 
 	const auto duration = GetInterpolatorDuration().count();

@@ -16,6 +16,7 @@
 #include "ECS/Components/Mesh.h"
 #include "ECS/Components/Transform.h"
 #include "ECS/Registry.h"
+#include "ECS/Systems/CreatureSystemInterface.h"
 #include "Enums.h"
 #include "Locator.h"
 
@@ -31,6 +32,27 @@ entt::entity CreatureArchetype::Create(const glm::vec3& position, PlayerNames pl
 	const auto entity = registry.Create();
 	auto meshId = creature::GetIdFromType(creatureType, CreatureBody::Appearance::Base);
 	registry.Assign<Creature>(entity, playerName, creatureType, creatureMindId);
+	registry.Assign<Mesh>(entity, meshId);
+	registry.Assign<Transform>(entity, position, glm::eulerAngleY(yAngleRadians), glm::vec3(scale));
+	return entity;
+}
+
+entt::entity CreatureArchetype::CreateWithFreshMind(const glm::vec3& position, PlayerNames playerName,
+                                                     CreatureType creatureType, uint32_t currentTick,
+                                                     float yAngleRadians, float scale)
+{
+	auto& registry = Locator::entitiesRegistry::value();
+	const auto entity = registry.Create();
+
+	// Create a fresh AI mind for this creature
+	entt::id_type mindId = 0;
+	if (Locator::creatureSystem::has_value())
+	{
+		mindId = Locator::creatureSystem::value().CreateMind(entity, creatureType, currentTick);
+	}
+
+	auto meshId = creature::GetIdFromType(creatureType, CreatureBody::Appearance::Base);
+	registry.Assign<Creature>(entity, playerName, creatureType, mindId);
 	registry.Assign<Mesh>(entity, meshId);
 	registry.Assign<Transform>(entity, position, glm::eulerAngleY(yAngleRadians), glm::vec3(scale));
 	return entity;

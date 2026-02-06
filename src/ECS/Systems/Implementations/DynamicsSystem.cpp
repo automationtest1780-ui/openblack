@@ -122,6 +122,12 @@ void DynamicsSystem::UpdatePhysicsTransforms()
 std::optional<std::pair<Transform, RigidBodyDetails>>
 DynamicsSystem::RayCastClosestHit(const glm::vec3& origin, const glm::vec3& direction, float tMax) const
 {
+	// Guard against zero-length or NaN direction (btVector3::normalize asserts on degenerate vectors).
+	// Using !(x > threshold) instead of (x < threshold) so NaN values are also caught.
+	const float dirLen2 = glm::length2(direction);
+	if (!(dirLen2 > 1e-12f))
+		return std::nullopt;
+
 	auto from = btVector3(origin.x, origin.y, origin.z);
 	auto to = from + tMax * btVector3(direction.x, direction.y, direction.z);
 

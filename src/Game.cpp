@@ -38,7 +38,9 @@
 #include "ECS/Components/CameraBookmark.h"
 #include "ECS/Map.h"
 #include "ECS/Registry.h"
+#include "Creature/CreatureInteraction.h"
 #include "ECS/Systems/CameraBookmarkSystemInterface.h"
+#include "ECS/Systems/CreatureSystemInterface.h"
 #include "ECS/Systems/DynamicsSystemInterface.h"
 #include "ECS/Systems/HandSystemInterface.h"
 #include "ECS/Systems/LivingActionSystemInterface.h"
@@ -116,6 +118,11 @@ Game::Game(Arguments&& args) noexcept
 
 Game::~Game() noexcept
 {
+	if (_debugServer)
+	{
+		_debugServer->Stop();
+		_debugServer.reset();
+	}
 	ShutDownServices();
 	SDL_Quit(); // todo: move to GameWindow
 	spdlog::shutdown();
@@ -143,10 +150,12 @@ bool Game::ProcessEvents(const SDL_Event& event) noexcept
 	switch (event.type)
 	{
 	case SDL_QUIT:
+		SPDLOG_LOGGER_ERROR(spdlog::get("game"), "EXIT DIAGNOSTIC: SDL_QUIT event received");
 		return false;
 	case SDL_WINDOWEVENT:
 		if (event.window.event == SDL_WINDOWEVENT_CLOSE && event.window.windowID == window.GetID())
 		{
+			SPDLOG_LOGGER_ERROR(spdlog::get("game"), "EXIT DIAGNOSTIC: SDL_WINDOWEVENT_CLOSE received");
 			return false;
 		}
 		else if (event.window.event == SDL_WINDOWEVENT_SIZE_CHANGED)
@@ -164,6 +173,7 @@ bool Game::ProcessEvents(const SDL_Event& event) noexcept
 		switch (event.key.keysym.sym)
 		{
 		case SDLK_ESCAPE:
+			SPDLOG_LOGGER_ERROR(spdlog::get("game"), "EXIT DIAGNOSTIC: SDLK_ESCAPE key pressed");
 			return false;
 		case SDLK_f:
 			window.SetDisplayMode(windowing::DisplayMode::Fullscreen);
@@ -174,6 +184,18 @@ bool Game::ProcessEvents(const SDL_Event& event) noexcept
 		case SDLK_F1:
 			Locator::rendererInterface::value().SetDebug(!Locator::rendererInterface::value().GetDebug());
 			break;
+		case SDLK_HOME:
+		case SDLK_h:
+		{
+			// Reset camera to island center at a reasonable height
+			const glm::vec3 islandCenter(2560.0f, 0.0f, 2560.0f);
+			const glm::vec3 cameraPos(2560.0f, 200.0f, 2760.0f);
+			// Force reset both camera and camera model internal state
+			camera.SetOrigin(cameraPos).SetFocus(islandCenter);
+			camera.GetModel().ResetToPosition(cameraPos, islandCenter);
+			SPDLOG_LOGGER_INFO(spdlog::get("game"), "Camera reset to island center");
+			break;
+		}
 		case SDLK_1:
 		case SDLK_2:
 		case SDLK_3:
@@ -215,11 +237,45 @@ bool Game::ProcessEvents(const SDL_Event& event) noexcept
 	case SDL_MOUSEMOTION:
 	{
 		SDL_GetMouseState(&_mousePosition.x, &_mousePosition.y);
+		// Track gesture for creature interaction
+		creature::GetCreatureInteraction().OnMouseMove(glm::vec2(_mousePosition.x, _mousePosition.y));
 		break;
 	}
+	case SDL_MOUSEBUTTONDOWN:
+		switch (event.button.button)
+		{
+		case SDL_BUTTON_LEFT:
+		{
+			// Check if clicking on a creature for stroke/slap interaction
+			const auto screenSize = Locator::windowing::has_value() ? Locator::windowing::value().GetSize() : glm::ivec2(1, 1);
+			if (screenSize.x > 0 && screenSize.y > 0 && Locator::dynamicsSystem::has_value())
+			{
+				glm::vec3 rayOrigin, rayDirection;
+				camera.DeprojectScreenToWorld(
+				    glm::vec2(_mousePosition) / static_cast<glm::vec2>(screenSize),
+				    rayOrigin, rayDirection);
+
+				auto& dynamicsSystem = Locator::dynamicsSystem::value();
+				if (auto hit = dynamicsSystem.RayCastClosestHit(rayOrigin, rayDirection, 1e10f))
+				{
+					creature::GetCreatureInteraction().OnMouseDown(
+					    hit->first.position,
+					    glm::vec2(_mousePosition.x, _mousePosition.y));
+				}
+			}
+		}
+		break;
+		}
+		break;
 	case SDL_MOUSEBUTTONUP:
 		switch (event.button.button)
 		{
+		case SDL_BUTTON_LEFT:
+		{
+			// End creature interaction gesture
+			creature::GetCreatureInteraction().OnMouseUp(glm::vec2(_mousePosition.x, _mousePosition.y));
+		}
+		break;
 		case SDL_BUTTON_MIDDLE:
 		{
 			const glm::ivec2 screenSize = window.GetSize();
@@ -267,8 +323,33 @@ bool Game::GameLogicLoop() noexcept
 		Locator::livingActionSystem::value().Update();
 	}
 
-	auto& lhvm = Locator::vm::value();
-	lhvm.LookIn(lhvm::ScriptType::All);
+	// Update creature AI minds
+	if (Locator::creatureSystem::has_value())
+	{
+		auto& creatureSystem = Locator::creatureSystem::value();
+		// First update what creatures perceive
+		creatureSystem.UpdateAllPerceptions();
+		// Then update their minds (decision making)
+		creatureSystem.Update(_turnCount);
+		// Sync AI decisions to behavior components for action execution
+		creatureSystem.SyncAllIntentionsToBehavior();
+	}
+
+	// Update creature movement toward their targets
+	{
+		float deltaSeconds = std::chrono::duration<float>(delta).count();
+		creature::GetCreatureInteraction().UpdateMovement(deltaSeconds);
+	}
+
+	try
+	{
+		auto& lhvm = Locator::vm::value();
+		lhvm.LookIn(lhvm::ScriptType::All);
+	}
+	catch (const std::exception& e)
+	{
+		SPDLOG_LOGGER_CRITICAL(spdlog::get("game"), "CRASH DIAGNOSTIC: Exception in LHVM at turn {}: {}", _turnCount, e.what());
+	}
 
 	_lastGameLoopTime = currentTime;
 	_turnDeltaTime = delta;
@@ -325,7 +406,14 @@ bool Game::Update() noexcept
 
 	if (!config.running)
 	{
+		SPDLOG_LOGGER_ERROR(spdlog::get("game"), "EXIT DIAGNOSTIC: config.running is false (set by ProcessEvents)");
 		return false;
+	}
+
+	// Process debug server commands (state queries + input injection)
+	if (_debugServer)
+	{
+		_debugServer->ProcessPendingCommands();
 	}
 
 	// ImGui events + prepare
@@ -333,6 +421,7 @@ bool Game::Update() noexcept
 		auto guiLoop = profiler.BeginScoped(Profiler::Stage::GuiLoop);
 		if (Locator::debugGui::value().Loop())
 		{
+			SPDLOG_LOGGER_ERROR(spdlog::get("game"), "EXIT DIAGNOSTIC: Debug GUI Loop() returned quit");
 			return false; // Quit event
 		}
 	}
@@ -388,15 +477,48 @@ bool Game::Update() noexcept
 				intersectionTransform.scale = scale;
 			}
 
+			const glm::vec3 handOffset(0, 1.5f, 0);
+			const glm::mat4 modelRotationCorrection = glm::eulerAngleX(glm::radians(90.0f));
+
+			auto& handSystem = Locator::handSystem::value();
+			const auto handSide = ecs::systems::HandSystemInterface::Side::Left;
+			const auto handEntity = handSystem.GetPlayerHands()[static_cast<size_t>(handSide)];
+			auto& handTransform = Locator::entitiesRegistry::value().Get<ecs::components::Transform>(handEntity);
+
+			// Detect grip state transitions
+			const bool justStartedGripping = _handGripping && !_prevHandGripping;
+			const bool justStoppedGripping = !_handGripping && _prevHandGripping;
+
+			if (justStartedGripping)
+			{
+				// Try to pick up object at hand position
+				handSystem.TryPickup(handSide, intersectionTransform.position);
+			}
+			else if (justStoppedGripping)
+			{
+				// Calculate throw velocity from mouse movement
+				const glm::vec2 mouseDelta = static_cast<glm::vec2>(_mousePosition - _prevMousePosition);
+				const float throwSpeed = glm::length(mouseDelta);
+
+				if (throwSpeed > 5.0f && handSystem.IsHolding(handSide))
+				{
+					// Fast movement - throw with velocity based on mouse direction
+					// Project mouse delta into world space direction
+					glm::vec3 throwDir = camera.GetForward() * mouseDelta.y + camera.GetRight() * mouseDelta.x;
+					throwDir.y = std::max(0.5f, throwDir.y); // Add upward component
+					throwDir = glm::normalize(throwDir);
+					handSystem.Throw(handSide, throwDir * (throwSpeed * 0.1f));
+				}
+				else
+				{
+					// Slow movement - gentle drop
+					handSystem.Drop(handSide);
+				}
+			}
+
+			// Update hand position
 			if (!_handGripping)
 			{
-				const glm::vec3 handOffset(0, 1.5f, 0);
-				const glm::mat4 modelRotationCorrection = glm::eulerAngleX(glm::radians(90.0f));
-
-				const auto handEntity =
-				    Locator::handSystem::value()
-				        .GetPlayerHands()[static_cast<size_t>(ecs::systems::HandSystemInterface::Side::Left)];
-				auto& handTransform = Locator::entitiesRegistry::value().Get<ecs::components::Transform>(handEntity);
 				// TODO(#480): move using velocity rather than snapping hand to intersectionTransform
 				handTransform.position = intersectionTransform.position;
 				handTransform.rotation = glm::eulerAngleY(camera.GetRotation().y) * modelRotationCorrection;
@@ -404,6 +526,22 @@ bool Game::Update() noexcept
 				handTransform.position += intersectionTransform.rotation * handOffset;
 				Locator::entitiesRegistry::value().SetDirty();
 			}
+			else
+			{
+				// While gripping, still move hand (and held object follows)
+				handTransform.position = intersectionTransform.position;
+				handTransform.rotation = glm::eulerAngleY(camera.GetRotation().y) * modelRotationCorrection;
+				handTransform.rotation = intersectionTransform.rotation * handTransform.rotation;
+				handTransform.position += intersectionTransform.rotation * handOffset;
+
+				// Update held object position to follow hand
+				handSystem.UpdateHeldObject(handSide, handTransform.position);
+				Locator::entitiesRegistry::value().SetDirty();
+			}
+
+			// Store previous grip state for next frame
+			_prevHandGripping = _handGripping;
+			_prevMousePosition = _mousePosition;
 		}
 
 		// Update Entities
@@ -423,7 +561,13 @@ bool Game::Update() noexcept
 		Locator::audio::value().Update();
 	} // Update Audio
 
-	return config.numFramesToSimulate == 0 || _frameCount < config.numFramesToSimulate;
+	bool shouldContinue = config.numFramesToSimulate == 0 || _frameCount < config.numFramesToSimulate;
+	if (!shouldContinue)
+	{
+		SPDLOG_LOGGER_ERROR(spdlog::get("game"), "EXIT DIAGNOSTIC: numFramesToSimulate limit reached (frameCount={}, limit={})",
+		                    _frameCount, config.numFramesToSimulate);
+	}
+	return shouldContinue;
 }
 
 bool Game::Initialize() noexcept
@@ -498,6 +642,14 @@ bool Game::Initialize() noexcept
 	{
 		SPDLOG_LOGGER_CRITICAL(spdlog::get("game"), "Failed to initialize game services.");
 		return false;
+	}
+
+	// Start debug server for AI tester / remote inspection
+	_debugServer = std::make_unique<debug::DebugServer>(7777);
+	if (!_debugServer->Start())
+	{
+		SPDLOG_LOGGER_WARN(spdlog::get("game"), "Failed to start debug server on port 7777");
+		_debugServer.reset();
 	}
 
 	auto& resources = Locator::resources::value();
@@ -842,8 +994,28 @@ bool Game::Run() noexcept
 	_frameCount = 0;
 	auto lastTime = std::chrono::high_resolution_clock::now();
 	auto& profiler = Locator::profiler::value();
-	while (Update())
+	while (true)
 	{
+		try
+		{
+			if (!Update())
+			{
+				SPDLOG_LOGGER_ERROR(spdlog::get("game"), "EXIT DIAGNOSTIC: Update() returned false at frame {}", _frameCount);
+				break;
+			}
+		}
+		catch (const std::exception& e)
+		{
+			SPDLOG_LOGGER_CRITICAL(spdlog::get("game"), "CRASH DIAGNOSTIC: Exception in Update() at frame {}: {}", _frameCount, e.what());
+			break;
+		}
+		catch (...)
+		{
+			SPDLOG_LOGGER_CRITICAL(spdlog::get("game"), "CRASH DIAGNOSTIC: Unknown exception in Update() at frame {}", _frameCount);
+			break;
+		}
+		try
+		{
 		auto duration = std::chrono::high_resolution_clock::now() - lastTime;
 		auto milliseconds = std::chrono::duration_cast<std::chrono::duration<uint32_t, std::milli>>(duration);
 		{
@@ -900,8 +1072,20 @@ bool Game::Run() noexcept
 		}
 
 		_frameCount++;
+		}
+		catch (const std::exception& e)
+		{
+			SPDLOG_LOGGER_CRITICAL(spdlog::get("game"), "CRASH DIAGNOSTIC: Exception in render at frame {}: {}", _frameCount, e.what());
+			break;
+		}
+		catch (...)
+		{
+			SPDLOG_LOGGER_CRITICAL(spdlog::get("game"), "CRASH DIAGNOSTIC: Unknown exception in render at frame {}", _frameCount);
+			break;
+		}
 	}
 
+	SPDLOG_LOGGER_ERROR(spdlog::get("game"), "EXIT DIAGNOSTIC: Game loop exited at frame {}", _frameCount);
 	return true;
 }
 
@@ -952,7 +1136,7 @@ bool Game::LoadMap(const std::filesystem::path& path) noexcept
 	_turnDeltaTime = 0ns;
 	SetGameSpeed(Game::k_TurnDurationMultiplierNormal);
 	_turnCount = 0;
-	_paused = true;
+	_paused = false; // Start unpaused so LHVM scripts execute immediately
 
 	return true;
 }
