@@ -29,3 +29,23 @@ Answers 9–11 were decided by Claude on the user's delegation. Spencer may over
    - **Answer:** written into each character sheet, under "Bond secret". None reveals a reveal-gated fact, and none settles open questions 2 or 3.
 11. **Approve the proposed premise and spine sentences** in project.md.
    - **Answer:** approved as drafted.
+
+## Raised by the roster and roadmap (2026-10-06)
+
+Decided by Claude on the user's delegation ("fill our gaps"). Spencer may override any of them.
+
+12. **Jory's father's "lie".** What did the last breakwater keeper leave behind?
+   - **Answer:** In the bad year a herring boat went down on the bar. Old Flint's log says the breakwater light was lit that night. The town believes he slept and lied in the log, and that's why the family left. The truth: the light *was* lit. The tide came early that night, the first symptom of the drift. Ivo's ledger recorded the early tide in Act III, and the reading of the ledger clears Flint's name. Jory brings his father's log up the stair in Act II (roadmap 2-4). Reveal gate: Act III.
+13. **Launch season.** Early autumn, so "autumn haze" matches the real season.
+14. **Festival calendar.** Adopt the roadmap's four: the Smokehouse Feast, Lamp Night, Blessing of the Boats and the Silver Fair. They're recorded in project.md (Calendar). The world bible stays verbatim, so it isn't edited. Lamp Night never lights the old lamp; that's saved for Act V.
+15. **Ferrow quartet.** Approved as proposed in roadmap §1.5 and §4. They need full sheets and a pair matrix before any kit (WB §8 step 6). Their guardrail: they know only what Ferrow could see.
+16. **Year-one roster depth.** Add a second post-launch Saltreach group, **the Customs House** (the council's other seats), debuting in Act III, when the council fractures. It's not designed yet. Bellwater and Mount Quell don't debut before Act IV.
+17. **Seasonal alts.** None in year one. Same-person returns only (WB §8).
+18. **Who says "Bloom" first?** Wren, from the thrift on the headland, with Corra as the only witness. Sera writes it on the wall (roadmap 3-4).
+19. **Hub unlock order.** Upgrades in 1-1, the lamp room hub in 1-2. The lamp room still appears as a place in the Opening. Structure notes item 11 is updated.
+20. **Act finales vs returns.** Each same-person return opens one version after the act that causes it, so no finale is spoiled (Hard rule 5).
+21. **Region pace.** Part 1 stays in Saltreach for about two years. Guest quartets carry the novelty, and the acts are not compressed.
+22. **Ledger status of the ending.** Fixed: the ending is now locked (OQ 1).
+23. **Jory and the money.** Ivo's unsigned money stays out of the main story for all of Part 1. A keeper who has done both bond tracks knows; Jory never learns on screen.
+24. **Act V chapter count.** Four short chapters, with 5-3 and 5-4 released as a double drop.
+

@@ -68,6 +68,9 @@ Skip, Auto, Log and skip-summary UI: present
 - Is each pair bark the right version for the act (for example, Sera and Ivo before and after Act III)?
 - Are absent heroes carried by letter or rumor only?
 - Does each content drop give one scene to an existing bench hero? Are next-drop heroes mentioned by existing heroes first (structure notes, items 6–7)?
+- Events running while an act is live are gated at the *previous* act's clear. While Act III is live, events never mention the ledger.
+- Lamp Night and any event: the old lamp stays dark until Act V.
+- Ferrow, Bellwater and Mount Quell heroes know only what their own sky showed them (roadmap §4.3).
 - Is anything invented that should have gone to `open-questions.md`?
 
 ### Character sheet fields (gacha 16.4, plus)
@@ -79,6 +82,13 @@ Use the gacha 16.4 sheet. Incrementum adds:
 - **Pair bonds are hero to hero** as well as hero to protagonist (structure notes, item 2; gacha 7.3).
 - **Alternate versions:** the same person in a new role only, never an alt with a different personality (world bible §8; gacha 10.3).
 - **Quartet scenes** close each act as a group story (structure notes, item 1; gacha 8.2). They're the starter roster, so everyone has them.
+
+### Calendar (gacha 9.5, world-bible slot)
+Early-autumn launch (OQ 13). Saltreach festivals (OQ 14; details in roadmap §4.2): **the Smokehouse Feast** (launch), **Lamp Night** (winter; the old lamp stays dark until Act V), **the Blessing of the Boats** (spring), **the Silver Fair** (summer herring run). The real-world anniversaries line up with the act finales (roadmap §1.2).
+
+### Roster and plan
+- Launch roster: `roster.md`. Sheets are in `characters/`, quartets in `groups/`.
+- Part 1 plan: `roadmap.md` (Opening + 21 chapters + 2 interludes; launch = Opening + Act I).
 
 ## Factions and places
 | Name | One line | Source |
