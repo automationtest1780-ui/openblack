@@ -556,6 +556,8 @@ SERA: I don't look at Ivo.
 BRAM: I know. I've watched you not do it. It's a lot of work, not looking at a man that tall.
 SERA: He wrote it in his own hand. "Consistent with." He likes those words. They don't weigh anything.
 BRAM: He's frightened for the town, Sera. He's frightened in sums. You're frightened in chalk.
+SERA: I'm not frightened.
+BRAM: No. Course not. Me neither. That's why my lamp's lit at three in the afternoon.
 SERA: He signed your light dark with the same pen.
 BRAM: He did. And I forgave him. It's still the right pen. It's just a sad sum.
 KEEPER: He told me there was a great deal of fog, the night it fell.
@@ -568,8 +570,6 @@ SERA: They vote. He writes "consistent with." I come back again.
 BRAM: And in between, she eats. That's my part of the plan. Nobody minutes my part.
 SERA: Your part's the only bit that ever works.
 BRAM: Did you hear that, Keeper? Write that down. Nobody's ever going to believe it.
-SERA: I'm not frightened.
-BRAM: No. Course not. Me neither. That's why my lamp's lit at three in the afternoon.
 [The headland comes up ahead, and the dark tower on it.]
 SERA: The girl's been up there four hours.
 BRAM: With the rules.
@@ -679,8 +679,8 @@ SERA: You answered. That's all I asked.
 [Objective: Talk to Sera.]
 [Sera holds out her hand without looking up. The Keeper puts the logbook in it. She copies the two-fifteen line into her own book, word for word.]
 SERA: Your hand's neat. The hour's where it should be. The wind's where it should be.
-SERA: You squared your wick. I saw your lamp from here last night. It stood up straight.
-KEEPER: Someone told me how.
+SERA: Your lamp burned blue down one side last night. I saw it from here.
+KEEPER: Someone told me how to fix it.
 SERA: Then someone was right. Write down who, one day. People forget who was right.
 SERA: Seven pages. Every bearing, every hour. The post. The cup. Where she pointed.
 SERA: Next session, they'll have it in front of them before they sit.
@@ -867,7 +867,7 @@ KEEPER: What's that?
 JORY: Return half. Packet ticket. You buy them both at once, down the coast. It's cheaper.
 KEEPER: You haven't used it.
 JORY: It doesn't go off. It's good till the packet sinks.
-JORY: Which, with the tides doing what Pell says, might be Thursday. Not my business.
+JORY: Which, the way the sky's going, might be Thursday. Not my business.
 KEEPER: Why did you come back?
 [Jory looks at the lamp.]
 JORY: Your lamp's drawing well. Hear that? That's a good flame.
@@ -893,7 +893,7 @@ KEEPER: There's a notch in the breakwater wall. Cut to the old tower.
 SERA: Cut to the tower, or to the Belt over it?
 KEEPER: To the Belt over the tower. At dusk.
 [Sera lifts the sextant and sights out through the glass toward the small yellow light on the breakwater, then up at the Belt. Her lips move.]
-SERA: A finger, from the sea wall. A finger's four, and a bit, from here.
+SERA: A finger, from the sea wall. A finger's four degrees, and a bit.
 SERA: Same star. Different stone.
 SERA: Within half a degree of mine.
 SERA: Who cut it?
@@ -910,7 +910,8 @@ SERA: Tonight two of us wrote a finger. From two different stones.
 SERA: You didn't ask me anything. You brought one up the stair.
 SERA: You asked me why it matters what they write.
 SERA: Seven to two is still seven. I know that. I can count.
-SERA: But one is one. I've been one, up here, every dusk the council's been right.
+SERA: But two isn't one.
+SERA: One is a woman up a tower with a wall. A room can vote her away before dinner.
 [She doesn't say any more about it. She turns back to the wall.]
 WREN: Mm. Is it supper?
 SERA: Not yet. Go back to sleep.
@@ -918,7 +919,7 @@ WREN: Is the keeper in again? From out?
 SERA: In.
 WREN: Good. Out's too far.
 [Wren is asleep again before she's finished saying it.]
-[She takes a stub of chalk out of her cuff, the end worn flat, and holds it out.]
+[Sera takes a stub of chalk out of her cuff, the end worn flat, and holds it out.]
 SERA: Here. That one's yours. Don't lick it.
 [The Keeper takes the chalk.]
 SERA: Hold the chalk.
@@ -1005,3 +1006,58 @@ SERA: Keeper. Bearing and hour. Mark it.
 [Skip summary: Bram brings supper and finds the door open and the keeper with chalk. Sera eats two spoons. From the window, Sera sees a lamp at the crater after dark, where nobody goes. Wren asks if it's someone looking for her. Sera has the keeper mark it on the wall.]
 
 ## Review
+
+### Mechanical check (`check_script.py --budget 6750-13500`)
+14 scenes, 704 dialogue lines, **7,114 spoken words**, average line 10.1 words, no line over the 40-word cap, every scene has a skip summary. OK, no warnings.
+- About 32 minutes of reading at 225 wpm, plus two battles. That's at the low end of the VN main-chapter band (30-60 min), which suits an arrival chapter in a terse house style.
+- The first pass came in at 4,635 words. I deepened by playing out beats instead of stating them, not by lengthening lines: Jory on the stool, the oil count and the night of the fall; Tam's nerves and the skipping rhyme; the chandler, the harbormaster's boy and Pell's mutter in session; Ivo on the seats as sums; the town debating the dunes road and Nell's crew; Jory's "bit where he snores"; Sera's "no adjectives" in the marsh and her count of six as they come down; Bram counting her fingers; Wren's "many" and the sextant; Hester's step (a new light scene that also keeps the stair → breakwater move from feeling like a jump); the return half of Jory's ticket; Sera's mother's notch beside the old keeper's.
+- 14 speaking roles. Harbormaster, Chandler, Cooper, Net-hauler and Gutting-woman are titled or unnamed townsfolk. Pell is the existing NPC from 000. No new named NPCs.
+
+### Gacha 15: hard rules
+- * Can someone who owns none of these heroes follow the main story? **Yes.** Sera, Ivo, Bram and Wren are free. Hester, Jory and Tam speak as townsfolk, never fight, and hold no plot only they can unlock. The notch is something the keeper sees with their own eye (Hard rule 1, 7.5).
+- * Main chapter understandable without any event, and every referenced event archived? **Yes.** No event is referenced. Hester's feast isn't mentioned.
+- * Every story scene ends with a skip summary? **Yes**, all fourteen.
+- * Contradicts a banner fantasy or teaser? **No.** Sera sees first and stands alone (competence). Ivo is in cold control. Hester knows everything and feeds everyone. Jory is the prodigal who won't say why. Tam's gentleness doesn't break. Bram protects. Wren is chaos and softness.
+- * Teaser copy spoils a fate? Not applicable.
+- * Contradicts design assumptions? **No.** The lamp room becomes home base in 1-2, after upgrades in 1-1 (OQ 19, structure notes 11). Unowned heroes are present only as people in town.
+
+### Gacha 15: structure
+- Can a skipper state today's goal from the first two lines? **Yes.** Scene 1's summons note and objective ("Attend the council at ten") are in the first lines. Every later scene opens on place and job: "Take the keeper's chair", "Item four", "Sit. Herring, bread, and you tell me what was said", "Stand there. Left of the post", and so on. Objectives match what's said.
+- Does the featured hero want something that isn't the protagonist? **Yes.** Sera wants the sightings minuted as seen; Ivo wants the town dull; Hester wants the town decided in her room; Jory wants to watch the lamp unasked.
+- Is there a cause between scenes? **Yes.** Summons → session → refusal → Sera walks north while Hester calls the keeper in → Hester sends herring after Sera → the marsh, Bram sees from the window, the fight → the lost bearing makes Sera turn to Wren → the tests → the wrong question and the bolt → Bram on the stair sends the keeper to their lamp → Hester's step on the way → Jory's notch → the count carried up the stair → the chalk → supper and the crater lamp.
+- Did someone change a habit, not just receive information? **Yes.** The keeper now takes a dusk reading at the notch and carries it up every clear dusk, with their own chalk. Sera now shares the wall with a second regular count. She also eats half a herring and two spoons, which Hester and Bram both record.
+- Is the button a feeling or a fact, not a trailer? **Both, small.** A lamp at the crater where nobody goes, Wren's frightened question, Bram's silence. Then the keeper's first mark that isn't Sera's dusk count. Nobody names who's out there.
+- Does this drop give one scene to a bench hero? At launch every pullable is new. Tam (featured in 1-1) gets the session witness beat and the smokehouse. Pell (000) carries the town's memory.
+- Does the free story cast still matter? **Yes.** Sera carries the arc, Ivo carries the council, Bram the stair and the supper, Wren the tests and the button.
+- Within budget? **Yes.** 7,114, inside 6,750-13,500 (VN).
+
+### Gacha 15: craft
+- Jargon budget: **two new terms**. "Fog-madness" is glossed on screen by the cooper. "The notch" is shown on the parapet. "Item four" and "the seats" are glossed by Tam. The skipping rhyme is WB canon. No new proper nouns.
+- Line length: average 10.1, nothing near the cap. The longest lines are Bram's and Hester's, which fits their voice notes.
+- Does the companion react rather than recap? **Yes.** Wren asks and misnames; she never summarizes. She hears the council as "cancel," the test as a game, and "out" as a place.
+- Do heavy and light alternate? **Yes.** Dawn meeting (quiet) → benches (light) → session (heavy) → door (light, dry) → smokehouse (social, tense at the rumor) → marsh and fight (heavy) → road (walk, banter) → tests (comic) → the bolt (heavy) → stair (warm) → Hester's step (light) → notch (quiet, heavy underneath) → the chalk (warm peak) → supper (light) with an uneasy button.
+- Could two characters trade lines unnoticed? **No.** Sera speaks in bearings and counts and never softens. Ivo uses full sentences, "the chair", costs, February and no contractions. Bram has food, family and "So. Funny thing." Hester has the book, the slate, fish names and "Who's asking?" Jory says "Not my business," "the old keeper," never "my father" or "home," and answers a different question. Tam is literal and accidentally funny ("I've never had fog in my lap"). The cooper and chandler speak as their trades.
+- Is the protagonist a catalyst, not silent, not worshipped, not the star? **Yes.** The keeper answers a seat, writes the hour, asks the wrong question and pays for it, then brings a count instead of a question. Nobody praises them. Sera gives them a job and a chalk stub ("Don't lick it"), and Jory gives them a notch and asks to be kept out of it.
+- Canon tier labeled; no joke event editing the main story? **Locked**; no events.
+- Project review additions answered? See below.
+
+### Gacha 15: common failures
+- Chosen-one plot, cosmology monologue, villain explaining the theme: **No.** The plot is a council vote and a stone notch.
+- Black-screen fight text: **No.** Two fights are marked as battle stages, with short dialogue before them.
+- Companion recap: **No.**
+- A scene advertising the next banner by name: **No.** Jory is met as a person with a bollard. Nobody mentions a banner hero who isn't in town.
+- Story text and objectives disagree: **No.**
+- A twist that deletes the last chapter's cost: **No.** The night-three cover-up stands; Ivo repeats it.
+
+### Project review additions
+- Does any line name the Bloom, or state a cosmology answer early? **No.** No "Bloom", no "measure/measuring" anywhere in the script. Nobody explains what the Plumbs are for, why chalking a post disturbed one, why the shard is warm, or where Wren came from. Sera writes Wren's pointed bearing as a number she won't say. Wren's "Can places walk?" is a child's question, not an answer. The keeper's notch reading confirms only what Act I already allows: the Belt moved.
+- Does Wren's voice match her stage, and is it in the header? **Fledgling**, in the header. Fast run-on questions, words slightly wrong ("council... where they cancel things", "Is a surveyor a kind of survivor?", "many-seven", "a going-past thing"). Her frightening lines end in a question: "Can you come back from it?", "Is the keeper still a keeper, out there? Or just a person?", "Is it somebody looking for me?" Her height is never chalked (that's 2-3); Bram's "When you're bigger" is a parent's line, not a report.
+- Do the Plumbs stay silent and the Bloom wordless? **Yes.** The Plumbs make no sound; they stand, turn a head, step down and step back up.
+- Is each pair bark the right version for the act? **Yes.** Bram / Ivo ("that face" / "my only face"), Tam / Jory (sleeve, pre-group-story version), Hester / Jory ("What do we owe you"). All are base versions. Sera never speaks directly to Ivo: in session she talks to the seats through the harbormaster ("Tell the chair I'm speaking to the seats"; "He's given them my third point"), and she doesn't answer his "Surveyor."
+- Are absent heroes carried by letter or rumor only? Nell is mentioned (her crew, coming home on the keeper's lamp), Mags is mentioned (counting the pans in), Abel is mentioned (he leans). Corra and Teodor are not mentioned. The crater lamp is unnamed.
+- Does the drop give a scene to an existing bench hero, and are next-drop heroes mentioned first? Jory (1.1 banner) is met here in person, one drop ahead. Teodor (1.1 phase 2) is left to 1-3 by brief.
+- Events gating: not applicable (main chapter).
+- Lamp Night: not applicable. The old lamp stays dark; Bram's lantern is lit in daylight, which is his fear, not the old lamp.
+- Ferrow / Bellwater / Mount Quell: not mentioned.
+- Is anything invented that should have gone to `open-questions.md`? **Nothing that settles an open question.** Old Flint's log stays at rumor level (OQ 12): the slip says he wrote the light was lit and slept; Jory says only "The book said the light was lit. That's all the book said"; Hester calls it weather. The notch is new physical color. It shows Flint was careful without clearing him; that's for Act III. Ivo's unsigned money is untouched (OQ 23). Hester's "Ivo pays in coin" is texture, not a hint at the envelopes. Ivo is shown writing only the council's green minute book, never a ledger. His private-sounding lines are all on the public road and keep his public line: "There was a great deal of fog that night." He never says "haze" himself in the script. The new soft facts are listed in the planning sheet.
+- Stays inside the synopsis? **Yes.** No Teodor, no glass sales, no Ivo walking to the crater, no Glass Hounds, no visible shift. The lamp at the crater is left unexplained for 1-3.
