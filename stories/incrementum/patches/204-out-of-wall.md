@@ -129,6 +129,9 @@ KEEPER: What did you tell him?
 JORY: Told him she's taller. He said, "Well, that's a new one." Then he went to sleep.
 JORY: He gave me his needle to keep. Whalebone. Said mind it, it knows the way.
 JORY: It doesn't know the way. I've tried it.
+JORY: You lit late last night, by the way. Two minutes. Not that I had a watch on it.
+KEEPER: You had a watch on it.
+JORY: I had a watch near it.
 JORY: Tall ones stood in the harbor again last night. At the evening tide.
 JORY: Up to their waists in it. Faces to the quay. Nobody touched them.
 KEEPER: Nobody?
@@ -193,6 +196,8 @@ SERA: Mine and yours, Keeper. If you're on the road at dusk, sight off the tower
 KEEPER: With no sextant?
 SERA: Arm straight. Fingers together. A finger's four. You know that now.
 SERA: Bring it back on your hand. I'll put it next to mine.
+SERA: After the wall, it goes in books. Yours is the best kept in the harbor, Keeper. I'll start with yours.
+[Bram stops tearing the loaf for a moment. Then he starts again.]
 KEEPER: And after the stone?
 SERA: After, I'll find somewhere.
 BRAM: The harbor's got bets on where. Pell's on the floor.
@@ -216,6 +221,9 @@ WREN: You're eating it very loudly.
 SERA: He said a thing last night. I'm still counting it.
 BRAM: Count away. I'll wait.
 SERA: You always wait.
+WREN: Keeper, they're doing it with their faces now. Is that worse than words?
+KEEPER: Usually.
+WREN: I thought so. Faces last longer.
 WREN: Bram. Can I come on the road tonight? I'll walk behind your boot. Either boot.
 BRAM: No.
 WREN: Because I'm dangerous?
@@ -264,6 +272,13 @@ BRAM: That's a lovely hand, Hester.
 HESTER: It's the only hand I've got. Out with the rest. You've a face on you.
 BRAM: I've the same face as always.
 HESTER: That's what I said.
+HESTER: And you, haddock. You've eaten nothing since your herring at noon. I can tell by your collar.
+KEEPER: My collar?
+HESTER: It's hungry. Sit for one bowl. On the slate.
+BRAM: We've a road to walk.
+HESTER: Roads keep. Soup doesn't.
+HESTER: And don't look at the notice on your way past. "Don't look up after supper." That was ours. Harbor women said it first, at these benches.
+HESTER: Now it's got a magistrate under it, and nobody says it here anymore. He's spoilt it.
 [Mags looks up from her bowl.]
 MAGS: Bram. You on the crater road tonight?
 BRAM: Every dusk. Keeper and me.
@@ -312,6 +327,11 @@ BRAM: My grandad used to say the worst thing about a lighthouse is you see every
 BRAM: Ships, weather, trouble. Hours before anybody on the quay. And you can't stop a bit of it. You just light up and watch.
 KEEPER: The breakwater's like that.
 BRAM: Aye. You see the water first. I know. I've been seeing it with you.
+BRAM: Grandad'd light up, and then he'd stand at the glass with his supper going cold, and say, "Well. There it comes."
+BRAM: Never once said what. Just, "There it comes." Then he'd go and wake whoever needed waking.
+KEEPER: Did he ever not wake them?
+BRAM: ...Once. A squall, the year I was six. He let my mam sleep. Said she'd only worry.
+BRAM: She didn't talk to him for a week. Hang on. I'd forgotten that.
 KEEPER: Jory found the stub.
 [Bram keeps walking. The lantern swings a little more than it did.]
 BRAM: Did he.
@@ -389,6 +409,9 @@ ABEL: I'm coming.
 [They keep coming. A row forms. Behind it, another row. Behind that, another.]
 BRAM: So. Funny thing about fence posts. They don't usually walk here on their own.
 BRAM: That's not five. That's not fifty.
+BRAM: Nine rows. Ten. Keeper, how many rows?
+KEEPER: I can't see the end.
+BRAM: No. Me neither. Never mind. Never mind the end.
 ABEL: That's a row. Look at it. That's a row like a fence.
 [Abel walks out between two of them before Bram can stop him. He counts his paces under his breath to the next one, careful not to cross the line between them.]
 ABEL: Twelve. And twelve to the next. And twelve.
@@ -424,6 +447,8 @@ IVO: The council has rationed lamp oil, Hollis. It would look poorly if its chai
 IVO: From the customs house window they look like fence posts. I came to see whether the council had ordered a fence.
 BRAM: Did it?
 IVO: Not that I recall. I would remember voting for nineteen rows.
+BRAM: You're out here in the dark so the town sees you keeping your own rule.
+IVO: I am out here in the dark because I could not find a lamp I was permitted to light. The harbor fund holds eleven weeks of oil. I intend to spend them slowly.
 [His lips move as his eyes go along the rows. He makes no sound. The Keeper sees.]
 ABEL: Magistrate.
 IVO: Mr Thorn.
@@ -505,6 +530,12 @@ IVO: It is my only face, Hollis. Tonight I am not certain it fits.
 IVO: Faster than the last. I will not guess why.
 BRAM: Don't guess. Count. You're good at counting.
 IVO: Four rows left. Twelve minutes. Perhaps ten.
+[Fourth row. Bram crosses first, as always. The row swings, and this time the far end comes round fast, a long arm reaching across the lantern light for the Keeper.]
+BRAM: Keeper! In! In the light!
+[The Keeper steps into the light. The arm stops at its edge, the way the hounds did, and hangs there.]
+IVO: Light is a line to them as well. Hollis, your lamp is the only safe ground on this marsh.
+BRAM: I've been saying that for eleven years. Nobody listens to a lamp.
+IVO: I am listening now. Hold it high.
 BRAM: So. Funny thing about ten minutes. It's a lot of minutes. Ask anyone in a queue.
 [Over the headland the Belt is up, three stars in a row. The middle star sits just over the lamp room of the old tower.]
 BRAM: Keeper! Your arm! She said sight off the tower!
@@ -536,6 +567,11 @@ BRAM: Sera.
 WREN: They're all looking at us. Sera, are they looking at us?
 SERA: They're facing the tower. Stand back from the glass.
 WREN: Is it rude to look back? I'm looking back. Somebody should.
+WREN: Is Bram cross with you? Since last night?
+SERA: Bram doesn't get cross. He eats it. Like stew.
+WREN: Is he eating it now?
+SERA: He's been eating something for days.
+WREN: Will he see me from the marsh? If I go bright?
 SERA: Look at the Belt. The middle star. Over our own roof.
 WREN: How can you see our own roof from inside our own roof?
 SERA: You can't. I know where it is. Twenty-four.
@@ -563,6 +599,9 @@ WREN: That's Bram. He runs when he's frightened. Is he frightened?
 SERA: He's late.
 WREN: Is late a kind of frightened?
 SERA: For Bram.
+WREN: Sera? When he gets here, can we not tell him about the floor? He'll do his quiet.
+SERA: He'll see the sleeves.
+WREN: ...Oh. The sleeves tell everybody everything.
 [Skip summary: In the lamp room at the same minute, Sera counts the shift alone with Wren while the Plumb rows face the tower. Wren glows gold and grows as the Belt slides from twenty-four to twenty, and begs Sera not to stop counting. Afterward Wren asks if Sera counted her; Sera says she counted the Belt, and chalks twenty on the last clean stone. Bram's lantern is running up the headland path.]
 
 ### Scene 9 — The empty marsh
@@ -573,6 +612,11 @@ KEEPER: The window went gold.
 IVO: Yes.
 KEEPER: Was it Wren?
 IVO: I saw what you saw, Keeper. A window, and a colour.
+IVO: Hollis agreed with me quickly tonight. About the town.
+KEEPER: He did.
+IVO: He does not usually. He forgives me. He seldom agrees with me. I noticed.
+KEEPER: He has his reasons.
+IVO: Everyone has, Keeper. Reasons are the most plentiful thing in Saltreach. After salt.
 [He looks up at the tower for a long moment. His lips don't move this time.]
 IVO: The town was at supper. It will have seen a lamp in a dead tower, if it looked. Which it was told not to.
 KEEPER: And the marsh?
@@ -607,6 +651,13 @@ BRAM: ...Well. That's the coat done for. I'll have words with the sheep.
 WREN: It's not the coat. It's me. I know it's me now. You don't have to say the coat.
 BRAM: I like saying the coat.
 WREN: Then say it. I'll pretend. I'm good at pretending now. There's more of me to do it with.
+BRAM: Sera. You all right? Up here on your own?
+SERA: I wasn't on my own. I had Wren.
+BRAM: That's not what I—
+SERA: I know what you meant.
+BRAM: I saw the window go from the marsh. I knew it was her. I thought it was you anyway.
+SERA: It was her.
+BRAM: I know. I thought it anyway. Both. That's how thinking goes, on a marsh.
 [The Keeper comes up the last turn behind Bram.]
 SERA: Keeper. Hand.
 [The Keeper holds out a hand. "1 finger", in chalk, smudged from the stair rail.]
@@ -625,6 +676,9 @@ WREN: Was it pretty from down there? I've never seen me from down there.
 BRAM: It was bright, Sparrow. Brightest thing on the marsh.
 WREN: The floor went further off. Bram, is that what tall is? The floor leaving?
 BRAM: It's what it is tonight, love.
+WREN: Keeper! Stand there. Look. I'm up to your eyebrows now. Last week I was your chin.
+KEEPER: You were my chin.
+WREN: Your chin was very nice. I'll miss it.
 SERA: She lit at twenty-three. Out at twenty. Sixty-one seconds.
 WREN: You counted me! Bram, she counted me!
 SERA: The light was in my sextant. I counted what was in it.
@@ -650,6 +704,8 @@ WREN: Do you want my height? It's new. I'll stand very still.
 SERA: No stone.
 WREN: Oh. Is no stone good? It sounds restful.
 SERA: After tonight it goes in books.
+BRAM: There's a whole tower of stone down the stair. I've oiled every hinge on it.
+SERA: Down there's not where I sight from.
 SERA: Keeper. The breakwater log first. Every gauge since the bar. I'll copy it tonight.
 BRAM: Tonight? Eat first. Pie's at Hester's, I'll fetch it, it's—
 SERA: The log keeps the tide. I want the tide.
@@ -679,6 +735,9 @@ JORY: Thought, she'll want books after. She'll want this one.
 JORY: And a book with a page out is a liar's book. I'm not having another one in that lamp house.
 [He opens the log on the lamp-cradle step, at the stub, and steps back from it.]
 JORY: Night of the bar. Cut. Knife.
+JORY: I'm not saying who. I don't know who. I'm saying a page.
+SERA: Did you read it? Before it went?
+JORY: No. I read what's left. That's my family's whole trade, reading what's left.
 SERA: You read logs.
 JORY: The old keeper taught me. Stitching first. Then the words.
 SERA: Then read me the stitching.
@@ -750,8 +809,10 @@ SERA: Five days isn't sideways. Five days is never.
 SERA: I put nineteen on that wall. Then thirty-one. Then two-ten.
 SERA: I thought two-ten was the worst of it. For five days I've thought that.
 SERA: I told the slips two-ten. I told Mags. I told Nell to her face.
+SERA: My name's on every table in this harbor. Nailed up. And you knew they were done.
 BRAM: And they kept the boats in. And nobody's drowned.
 SERA: Because they were lucky. Not because they were told.
+SERA: Every boat that goes out tomorrow goes out on two-ten. Because that's all I gave them.
 SERA: You cut "rising" out of this harbor, Bram.
 BRAM: It's one word.
 SERA: It's the only word on it that matters. Rising is faster. Rising is not done yet.
@@ -790,11 +851,16 @@ BRAM: Stood her against the stone and drew a line over her head, and wrote it do
 BRAM: Tonight you'd have told me how high she went at the third bar, if I'd let you.
 BRAM: And at three in the morning you'd have stood yourself in the bar like a gauge, and written that down too.
 BRAM: That's all anything is up here. Something to read.
+SERA: She asked me to. She stood there and asked.
+BRAM: She'd ask you to chalk her on the moon, if you'd look at her while you did it.
+[Sera has no number for that.]
 SERA: That's not—
 BRAM: I'd rather have you wrong and here than right and in the water.
 BRAM: There. That's the truth. You wanted the truth. That's all of it.
 SERA: You don't get to choose that.
 BRAM: I chose it.
+BRAM: And I'd choose it again tomorrow night.
+SERA: I know you would. That's the worst of it.
 [A long silence. Wind on the glass.]
 SERA: The first night you came up here, you brought soup.
 SERA: You never once told me to stop. Not once. You just kept coming up with soup.
@@ -840,6 +906,10 @@ KEEPER: It wasn't your fault.
 WREN: I know it's not. But I'm in it. Being in it's different, isn't it?
 WREN: Sera reads me. Bram says I'm not a reading. They both say it like it's the truest thing there is.
 WREN: Can it be both? Can I be a reading and a Wren?
+WREN: I'd like to be both. A reading's something somebody keeps. A Wren's something somebody calls.
+WREN: Keeper. Bram tells me everything sideways. You tell me straight. Is Sera going to stop counting me?
+KEEPER: I don't know.
+WREN: That's straight. Thank you. I didn't like it, but thank you.
 [The Keeper doesn't answer. Wren looks up the stair, then down it.]
 WREN: Are you in trouble too? She said you held the chalk. Is holding it bad now?
 KEEPER: I kept quiet.
@@ -877,6 +947,9 @@ HESTER: Course he is.
 HESTER: You kept a number off Sera Vant. You. You couldn't keep a herring off a gull.
 BRAM: I kept it five days.
 HESTER: Then you're better at it than I'd have liked.
+HESTER: And the girl? Where's she in this?
+BRAM: On the stair. In the middle. She says somebody has to be.
+HESTER: Then she's the only one of you with any sense. Middle's where the warm is.
 HESTER: Did she eat tonight?
 BRAM: No.
 HESTER: Did she throw anything?
@@ -936,6 +1009,13 @@ JORY: I wasn't having this book go the same way. That's all. Not my business.
 BRAM: I knew the old keeper, Jory. He trimmed a good wick.
 JORY: ...He did.
 [Jory looks at the lamp. It's lit.]
+TAM: Did she shout, Bram?
+BRAM: She doesn't shout, Tam. She counts at you.
+TAM: That's worse.
+BRAM: It is. Five days and an evening, she said. To the evening.
+JORY: Your book's honest again, Keeper.
+KEEPER: It's got a stub in it.
+JORY: Stub's honest. Stub says somebody cut. That's true. That's all a book's for.
 [Bram sets the pot down and takes a coil of new wick out of his coat. He starts trimming the lantern.]
 TAM: That's new wick.
 BRAM: She bought it me. Twelve days after I said mine was short. Twelve days. She counted.
@@ -996,7 +1076,19 @@ KEEPER: You measured her tonight.
 SERA: I counted what was in the sextant.
 SERA: I put the chalk away. You saw.
 [She takes the chalk from her pocket. She looks at the wall for somewhere, out of habit. There isn't anywhere.]
-[She writes on the back of her own hand instead: 2 h 40.]
+[She writes on the back of her own hand instead: 2 h 40. Then she folds the leaf and puts it in the front of her tide book, not the back.]
+SERA: Five days. Did you think about it? Up here, holding my chalk?
+KEEPER: Every dusk.
+SERA: And you held it anyway.
+KEEPER: I held it.
+SERA: I don't know what to do with that yet. Don't ask me to.
+SERA: He said he'd still go down to the slip. At three. What does he do there?
+KEEPER: He looks at the water on the steps. Which step it's up to.
+SERA: And writes it?
+KEEPER: He doesn't write it. He just looks.
+[A long pause.]
+SERA: He's never written anything down in his life.
+SERA: He looks, though.
 KEEPER: There's no stone left.
 SERA: I've used my hand before. The night she fell.
 [Down on the quay, far below, a lantern lifts and dips toward the tower. Twice. Seen you.]
