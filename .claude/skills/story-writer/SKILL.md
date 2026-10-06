@@ -1,0 +1,89 @@
+---
+name: story-writer
+description: Write and maintain story projects (game scenarios, gacha events, character stories, bond scenes, spine chapters, fiction) by following a story bible and the project's saved canon. Use this skill whenever the user asks to write, outline, draft, revise, or check any story content, scene, script, patch, event, chapter, character sheet, or continuity ledger, or mentions a story bible, a story project in stories/, or one of their characters or worlds, even if they don't say "skill" or "bible".
+---
+
+# Story Writer
+
+Write story content governed by a **bible** (a normative style and structure spec) and the **project state** (the canon of one particular world). The bible says *how* to write. The project says *what is true*. Neither is optional: a draft that follows the bible but contradicts canon is wrong, and so is one that fits canon but breaks the bible.
+
+## Layout
+
+```
+.claude/skills/story-writer/
+├── bibles/README.md      # index of available bibles: what each is for, what state it needs
+├── bibles/<bible>.md     # the bibles themselves, kept verbatim as the user wrote them
+├── templates/<bible>/    # starter files for a new project under that bible
+└── scripts/check_script.py   # mechanical checks on a finished script
+
+stories/<project>/        # one folder per world, at the repo root
+└── project.md            # names the bible, holds premise + tone; other files depend on the bible
+```
+
+## Workflow
+
+### 1. Find the project and its bible
+
+- Look in `stories/` for the project the user means. If there is exactly one, use it. If there are several and it is unclear, ask.
+- Read `stories/<project>/project.md`. Its `Bible:` line names the bible file.
+- If no project exists yet, read `bibles/README.md`, pick the bible that fits (ask if more than one could), and set up a project from `templates/<bible>/` (see "New project" below).
+- Read the whole bible file before writing anything. Bibles are short on purpose, and their rules interlock; skimming one section misses constraints set in another.
+
+### 2. Load the canon that this request touches
+
+Read `project.md` and the project's index of released content, then only the state files the request involves: the characters who appear, the ledger, and any earlier content the request refers back to. Don't read every file for a single bond scene, but always read the ledger when writing anything with canon weight, since locked facts there can't be contradicted.
+
+### 3. Check for missing inputs
+
+Bibles usually require some sheets to be filled before writing (for example, the gacha bible refuses to write a character's story if their sheet has empty fields). When something required is missing:
+
+- If the user gave enough to fill it, fill it, write it to the project, and tell them what you assumed.
+- If filling it means inventing something that matters (a wound, a faction, a locked fact), draft a proposal, mark it `Status: proposed`, and ask before building a story on it. The user owns their canon. Small, low-stakes details you may invent freely, then mention them.
+
+### 4. Write in the bible's order
+
+Produce output in whatever order the bible prescribes (the gacha bible: patch sheet, then scene cards, then script). The planning sheets aren't overhead: they're where the story gets decided, and they make the script checkable.
+
+**Script format** (use this unless the bible says otherwise, so `check_script.py` can read it):
+
+```
+### Scene 3 — Platform 9, before the rain
+[Stage direction: short, playable, no narration of action.]
+MIRA: One idea per line.
+PROTAGONIST: Short questions.
+```
+
+Speaker names are uppercase followed by a colon. Stage directions go in square brackets on their own line.
+
+### 5. Review before you hand it over
+
+1. Run `python3 .claude/skills/story-writer/scripts/check_script.py <file>` (pass `--budget MIN-MAX` for the bible's word range for this layer). It reports spoken word count, scene count, overlong lines, and the average line length. Fix what it flags.
+2. Run the bible's own review checklist honestly (the gacha bible's is section 11.3, "Rejection pass"). Record the answers in the output file. Where the bible says a "no" means a rewrite, rewrite the scene; don't just annotate it.
+3. Reread one scene aloud in your head as each speaking character. If two characters could trade lines, the voices need work.
+
+### 6. Save and update canon
+
+- Save the piece in the project folder where the bible's template puts it, using a numbered, slugged name such as `patches/003-humming-box.md`.
+- Add new facts to the ledger. Mark them locked or soft as the bible defines those terms.
+- Update character sheets with anything that has now become true (new habit, new idle line, the bond secret revealed).
+- Add the piece to the project's index.
+- Tell the user what was created and which canon changed. Don't paste the whole script into chat unless they ask; they can open the file.
+
+## When a request breaks the bible
+
+The bibles are normative: the user wrote them so that requests get held to them. If a request conflicts with one, name the rule it breaks (section number), then offer the closest compliant version. If the user insists, they're overriding their own rule, so do it, and note the override in the output file's header so it's visible later.
+
+## New project
+
+1. Ask for (or take from the conversation) the project name, premise, and whatever the bible's setup section requires.
+2. Copy `templates/<bible>/` to `stories/<project-slug>/` and fill in what you know. Leave unknown fields as clearly marked `TODO`s rather than inventing canon.
+3. Show the user the filled-in `project.md` before writing story content.
+
+## Adding a bible
+
+When the user provides a new bible:
+
+1. Save it verbatim as `bibles/<short-name>.md`. Don't edit their rules; it's their spec.
+2. Add an entry to `bibles/README.md`: what kind of story it's for, which project files it needs, its output order, and its review checklist location.
+3. Create `templates/<short-name>/` with starter files for the state that bible needs. Read the bible to decide what that state is (sheets it requires, ledgers it maintains).
+4. If the bible has no review checklist, `check_script.py` and the read-aloud test still apply.
