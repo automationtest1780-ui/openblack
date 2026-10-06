@@ -12,14 +12,17 @@ World bible: `world-bible.md` (v0.1 working draft, Spencer's). Kept verbatim; ne
 **Invention policy (world bible, "How to Use"):** if neither bible covers something that matters, keep it mysterious on screen and add it to `open-questions.md`; don't make up lore. Purely local color (a net-loft gossip's name, what's in tonight's soup) is fine, as long as it doesn't create a fact anyone must remember.
 
 ## Premise sentence (gacha §9)
-Proposed: *Plain-spoken working people of a cold harbor town face a sky that has started to move. Every hero is a person of a place first and a fighter second, and the sky is never explained by anyone who speaks like a prophet.*
+Approved (delegated to Claude, 2026-10-06): *Plain-spoken working people of a cold harbor town face a sky that has started to move. Every hero is a person of a place first and a fighter second, and the sky is never explained by anyone who speaks like a prophet.*
 
 ## Spine sentence (gacha §3)
-Proposed: *When a growing star pulls on the ground of Saltreach, four people who refuse to look away gather in the dead lighthouse to count, shield and fight the Plumbs, but each shift grows Wren further from the girl they found, until the sky gets a new fixed point.*
+Approved (delegated to Claude, 2026-10-06): *When a growing star pulls on the ground of Saltreach, four people who refuse to look away gather in the dead lighthouse to count, shield and fight the Plumbs, but each shift grows Wren further from the girl they found, until the sky gets a new fixed point.*
 
 ## Protagonist
-- Role: **the player.** The world bible addresses them at home base ("You're back. Good. Hold the chalk.") but never says who they are in-world. See open question 9.
-- Voiced: no. They speak little (gacha §6).
+- Role: **the new keeper of the breakwater light.** Hired by the council this season, after the last keeper's family left in the bad year. New to Saltreach, so they don't know the Belt, the tides, or anyone (the gacha bible's "ignorant interlocutor", §1.5). Characters call them "Keeper". Unnamed, no gender, no backstory beyond this. (Decided by Claude, 2026-10-06; see open question 9.)
+- Why there: they work nights watching the sea, so they saw the light fall from the breakwater. They keep the light nobody loves and keep climbing to the one everybody does.
+- Thematic job: a **second witness**. Sera's fear is being the only one who believes. Cosmology rule 2 says a shared measurement holds more. "Hold the chalk" makes the player the person who shares her count, without making them the star.
+- Bram: the keeper does the job Bram's family lost. He brings them soup anyway. That's who he is.
+- Voiced: no. They speak little (gacha §6): questions, choices, short commitments.
 
 ## Campaign structure
 - Opening (pre-gacha) + Acts I–V = the **spine** (gacha layer "Spine chapter"). Act and Wren-stage gating follow world bible §3 "What Players Learn and When" and §4 Wren arc.
@@ -49,7 +52,8 @@ Plain speech; people talk like workers. Understatement is the house style. Fear 
 - Is anything invented that should have gone to `open-questions.md`?
 
 ## Budget overrides
-None (pair bonds capped at 300 words per WB §8).
+- Pair bonds: capped at 300 words (WB §8).
+- Opening (patch 000): 900–1,300 spoken words in place of the spine's 1,500–2,500. Why: the WB calls it "a short scene" before the first summon, and it doubles as the tutorial. (Claude, 2026-10-06, on the user's delegation.)
 
 ## Rule overrides
 None.

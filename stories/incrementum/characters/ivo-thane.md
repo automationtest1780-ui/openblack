@@ -15,7 +15,7 @@ Full profile: world-bible.md §4. Where this sheet and the world bible differ, t
 - Verbal tic: costs and odds; humor so dry it's often missed
 - Silence: lowers his voice when angry (WB). The ledger is his locked silence until Act III.
 - Hook behavior: opening the ledger, writing one line, closing it without looking up (WB §8, victory pose)
-- Bond secret: *proposed:* TODO, needs user. Candidate from canon: he respects Sera more than anyone alive and will never tell her. But that may belong to the Sera/Ivo arc, not the player.
+- Bond secret: Every month he sends money, unsigned, to the two families who left Saltreach in the bad year. The keeper finds out because the breakwater keeper carries the harbor mail to the packet boat. *(Decided by Claude, 2026-10-06. Why: it shows the cost he counts and the guilt under the coldness, without touching the ledger, which is locked until Act III.)*
 - Banner promise: competence; cold control
 
 ## Signature
@@ -25,6 +25,6 @@ The hidden ledger; its last page is always blank. Victory line: "As calculated. 
 The ledger's existence and how far back it goes. Before Act III he may be seen going to the crater alone, but never shown writing in a sky ledger.
 
 ## Current state
-- Habits gained: none yet
+- Habits gained: Has drawn the keeper into his first lie: "there was haze" (000).
 - Idle lines: WB §4 samples
-- Appearances: none written
+- Appearances: 000

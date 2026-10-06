@@ -11,7 +11,7 @@ import argparse
 import re
 import sys
 
-SCENE_RE = re.compile(r"^#{2,4}\s*Scene\b(.*)", re.IGNORECASE)
+SCENE_RE = re.compile(r"^#{2,4}\s*Scene\s+\d+(.*)", re.IGNORECASE)
 LINE_RE = re.compile(r"^\s*\**([A-Z][A-Z0-9 .'\-]*?)\**\s*:\s*(.+)$")
 
 

@@ -15,13 +15,13 @@ Full profile: world-bible.md §4. Where this sheet and the world bible differ, t
 - Verbal tic: numbers instead of adjectives ("four degrees off")
 - Silence: Ivo. She refuses to speak to him (WB §6 quartet scene 1). *(Derived.)*
 - Hook behavior: chalking a mark, or sextant raised to sight, before she speaks (WB §8 physical habit)
-- Bond secret: *proposed:* TODO, needs user. Not in world bible.
+- Bond secret: In the back of her tide book she keeps a second, tiny tally that nobody knows about: one stroke for every night Bram has brought supper. She has never missed one. *(Decided by Claude, 2026-10-06. Why: her warmth shows through remembering, and her love shows through counting. It hints at the Sera/Bram question without answering open question 3.)*
 - Banner promise: competence; the one who sees first
 
 ## Signature
 Mother's brass sextant, one notch filed off where the old Belt sat. Victory line: "Mark it. We were right." Death line: "Someone... keep counting."
 
 ## Current state
-- Habits gained: none yet
+- Habits gained: Marks on the back of her hand when the wall is out of reach (000). Has let someone else hold the chalk (000).
 - Idle lines: WB §4 samples
-- Appearances: none written
+- Appearances: 000
