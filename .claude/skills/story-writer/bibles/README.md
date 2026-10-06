@@ -1,18 +1,24 @@
 # Bibles
 
-Each bible is the user's spec, kept verbatim. This index tells you which to use and what it needs.
+Style bibles are game-agnostic and govern **structure**. Each project's world bible (in `stories/<project>/world-bible.md`) governs facts, characters, themes and tone.
 
-## gacha — `gacha.md`
+## gacha — `gacha.md` (v2, research-built)
 
-- **For:** live-service / gacha game story: spine chapters, faction arcs, events, character stories, bond scenes, flavor lines.
+- **For:** live-service and gacha game story: main story, interludes, events, group stories, character and bond stories, chats, mail, hub lines, barks.
+- **Basis:** built by a research workflow on 2026-10-06 from patterns in long-running gacha games. Sources are in `gacha-sources.md`. Structures name the games they follow. Blocks labeled "Craft suggestion" are optional house defaults.
 - **Project files** (template: `templates/gacha/`):
-  - `project.md`: premise sentence (§9), spine sentence (§3), tone, budget overrides
-  - `characters/<name>.md`: one sheet per character (§5); all fields filled before that character's story is written
-  - `ledger.md`: continuity ledger (§8): Fact, Layer, Locked, Owner
+  - `project.md`: the project settings in gacha §16.1 (premise and spine, protagonist, hierarchy, reveal schedule, invention policy, tone, budget column, design assumptions §16.3, project review additions, character sheet fields, recorded deviations)
+  - `characters/<name>.md`: one sheet per hero (§16.4)
+  - `ledger.md`: continuity ledger (§17): Fact, Layer, Locked, Owner, Reveal, Source
   - `index.md`: released content, in release order
-  - `open-questions.md`: unknowns to resolve with the user instead of inventing
+  - `open-questions.md`: unknowns to resolve with the user instead of inventing them
   - `world-bible.md` (optional): the user's canon for this world, verbatim
-  - `patches/NNN-slug.md`: one file per patch, event, character story or bond set
-- **Output order:** patch sheet (§11.1), then scene cards (§11.2), then script (§14).
-- **Word budgets:** §12 (spine 1,500–2,500; event 2,000–3,500; character story 600–1,000; bond 120–250; flavor under 20).
-- **Review checklist:** §11.3 rejection pass, plus §10 anti-patterns.
+  - `patches/NNN-slug.md`: one file per piece
+- **Output order:** file header (§14.1), planning sheet (§14.2), scene cards (§14.3), script (§14.4; other formats §14.5), review answers (§15).
+- **Budgets:** §13. Pass the project's column range to `check_script.py --budget`.
+- **Review:** §15 checklist, plus the project review additions. A starred item failing means a rewrite; anything else is fixed, or the deviation is recorded.
+- **Hard rules:** §1 (five rules). Breaking one needs the user's written override in `project.md`.
+
+## Archive
+
+- `archive/gacha-v1.md`: the first gacha bible, written by another AI. Replaced by v2. Kept for reference only; don't write to it.

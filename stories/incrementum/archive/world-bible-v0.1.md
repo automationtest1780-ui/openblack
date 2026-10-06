@@ -2,15 +2,13 @@
 
 *Grow until the sky has to move.*
 
-**World Bible: v0.2 working draft**
+**World Bible: v0.1 working draft**
 
 Prepared for Spencer Bond and the Incrementum writing and design team
 
 # How to Use This Document
 
 **Canon** (Spencer's fixed material) is preserved exactly. Everything else is **working material** and can be revised. The ending is a **working direction**, not locked. If the bible doesn't cover something, keep it mysterious and add it to Open Questions instead of making something up.
-
-Structure (content layers, chapter and event formats, bonds, unlocks, lengths, cadence, home-base line systems, review) now lives in the gacha bible (`.claude/skills/story-writer/bibles/gacha.md`). This document holds the story's principles and background. Incrementum's structure settings are kept in `structure-notes.md`, next to this file.
 
 # 1. Core Concept and Theme
 
@@ -302,7 +300,7 @@ All canon details below are preserved exactly. Voice notes, visual notes, extra 
 | **Bonds**        | Sera is her hero, Bram her family, Ivo the person she's desperate to make smile |
 | **Victory line** | *"Did I do good? I did good!"*                                                  |
 
-**Voice notes.** Early on she speaks in fast, run-on questions, using new words slightly wrong. As she grows, her speech slows and gets stranger, as if it's coming from far up. She keeps her cheer. Even her most frightening lines end in a question or a joke. Her stage (see the arc beats) sets how she sounds in any scene.
+**Voice notes.** Early on she speaks in fast, run-on questions, using new words slightly wrong. As she grows, her speech slows and gets stranger, as if it's coming from far up. She keeps her cheer. Even her most frightening lines end in a question or a joke. Tag each scene with its Wren stage (see the arc beats).
 
 **Sample lines:**
 
@@ -423,9 +421,9 @@ The quartet's fault line runs between **Sera and Ivo** and the lie. **Wren** is 
 
 - Ivo: "I noted it. Under 'almost.'"
 
-# 6. The Quartet Together
+# 6. The Quartet Scene
 
-At the close of each act, the four should share a scene in the lamp room. These are story beats for the quartet as a group. Working titles:
+When all four are fielded together, a **quartet scene** unlocks at the home base after each act. Working titles:
 
 > 1\. **"Supper in the Lamp Room"** (Act I). Bram feeds everyone. Ivo arrives uninvited. Sera refuses to speak to him. Wren asks what supper is.
 >
@@ -453,13 +451,13 @@ At the close of each act, the four should share a scene in the lamp room. These 
 
 - Plumbs step down out of the haze around the crater, tall and silent, measuring.
 
-- **The first fight:** all four heroes, one battle. Sera pulls a Plumb off its line. Bram's lantern catches a blow. Ivo calls the weak point. The nameless girl glows, grows, and drops the first *Starfall*.
+- **The first fight:** all four heroes, one battle, a guided tutorial. Sera pulls a Plumb off its line. Bram's lantern catches a blow. Ivo calls the weak point. The nameless girl glows, grows, and drops the first *Starfall*.
 
 - **After the fight:** Bram wraps her in his coat. "We'll call you Wren. You chatter." Ivo says nothing. Sera writes a mark on the back of her hand.
 
-- **Then the first summon.** The first pull is framed as "someone else in Saltreach who saw the light fall."
+- **Then the first summon.** The player's starter roster is these four. The first pull is framed as "someone else in Saltreach who saw the light fall."
 
-From here on, the **lamp room** is where the four gather (see Section 8, The Lamp Room).
+**Home base unlock:** After the first mission, the **lamp room** unlocks (see Section 8, Home Base).
 
 ## Act I: Haze
 
@@ -527,21 +525,23 @@ From here on, the **lamp room** is where the four gather (see Section 8, The Lam
 
 **Post-ending hook:** Skies elsewhere (Ferrow, Bellwater, Mount Quell) start to drift too.
 
-# 8. Writing the Heroes
+# 8. Gacha-Facing Guidance
 
-**Core principle:** every hero needs a voice, a physical habit (Sera chalking, Bram trimming the wick, Ivo's ledger, Wren looking up), and named bonds with the others they fight beside. Their ultimate, death line, and victory pose should all come out of the backstory. The drama inside the four is what players root for. The world plot is the frame around it.
+**Core rule:** every hero needs a voice, a physical habit (Sera chalking, Bram trimming the wick, Ivo's ledger, Wren looking up), and a named bond with the squad the player actually fields. Their ultimate, death line, and victory pose should all come out of the backstory. The drama inside the four is what players root for. The world plot is the frame around it.
 
-## The Quartet Together
+## Quartet Scene
 
 See Section 6. Each quartet scene should move at least one internal quarrel forward, and none should hold plot information that exists nowhere else.
 
-## Pairs
+## Pair Bonds
 
-Pair barks should change after major arc beats (for example, Sera and Ivo before and after Act III), so the pairs track the relationships in Section 5. Each pair should have its own conversations, separate from the quartet scenes, that grow out of that relationship.
+- Two heroes who share wins build bond. At set thresholds they unlock a short conversation (under 300 words) and a battlefield bark that only plays when both are fielded.
+
+- Pair barks should change after major arc beats (for example, Sera and Ivo before and after Act III).
 
 ## Same-Person Returns
 
-Favorites come back as **themselves**: the same name and voice, in a changed role, brought back by something in the story. Never a replacement with a different personality.
+Favorites come back as **themselves**: the same name, the same voice actor and voice, a changed role, and a return triggered by the story. Never introduce a replacement "alt" with a different personality.
 
 **Suggested Saltreach returns (working material):**
 
@@ -553,17 +553,23 @@ Favorites come back as **themselves**: the same name and voice, in a changed rol
 
 - **Wren, the Fixed Star:** post-ending. A stationary, field-wide anchor. She doesn't move, she holds.
 
-## Absent and Unmet Heroes
+## The Campaign Fields the Player's Four
 
-- **Unowned heroes are people the owned ones talk about.** Before a new hero arrives, Saltreach heroes should already have mentioned them.
+- Campaign battles use the player's chosen roster. Saltreach's four are the starter roster.
 
-- When the story needs someone who isn't there, letters and rumor suit the world: a note in the lamp room, gossip from the net lofts.
+- Scenes needing an unowned hero are told **by letter or rumor**, such as a note in the lamp room or gossip from the net lofts.
 
-- Older heroes keep turning up in new stories. For example, a Ferrow story might include a letter from Sera about how the Belt looks inland.
+- **Unowned heroes are people the owned ones talk about.** Before a new hero releases, Saltreach heroes should already have mentioned them.
 
-## The Lamp Room
+## Bench Anecdotes
 
-The lamp room is home. Someone is usually waiting there, and what they say should notice the player coming back. The chalk wall filling up is the town's record of the campaign.
+- **Every content drop owes one scene to an existing bench hero.** For example, a Ferrow event might include a letter from Sera about how the Belt looks inland.
+
+## Home Base
+
+- After the first mission, the player's favorite (the hero they fielded most, defaulting to Sera) waits in the lamp room and has a **new line each time the player returns**. Line pools are tied to act, time of day, and recent fights.
+
+- The chalk wall shows campaign progress. Bram's lamp shows login streak, burning brighter on longer streaks (working idea).
 
 ## Naming Conventions for Future Heroes
 
@@ -597,7 +603,7 @@ The lamp room is home. Someone is usually waiting there, and what they say shoul
 >
 > 5\. **One question:** a member who is the thing the others must decide about (Wren).
 >
-> 6\. **Write the six pairings first**, then the kits. Let existing heroes mention the newcomers before they arrive.
+> 6\. **Write the six pairings first**, then the kits, then bench mentions in existing heroes' lines one drop ahead of release.
 
 # 9. Glossary
 
@@ -639,6 +645,6 @@ The lamp room is home. Someone is usually waiting there, and what they say shoul
 >
 > 6\. **Wren's visual scaling:** Should her portrait art change by act? This affects art budget and gacha splash art.
 >
-> 7\. **The first summon:** Is the starter quartet guaranteed, with the gacha starting afterward? Or is one of the four a first-pull guarantee? *(Structure setting: see structure notes, item 13.)*
+> 7\. **The first summon:** Is the starter quartet guaranteed, with the gacha starting afterward? Or is one of the four a first-pull guarantee?
 >
-> 8\. **The living title screen:** Is the plan for the title-screen sky to track the player's campaign progress, or live real-world time? *(Structure setting: see structure notes, item 17.)*
+> 8\. **The living title screen:** Is the plan for the title-screen sky to track the player's campaign progress, or live real-world time?

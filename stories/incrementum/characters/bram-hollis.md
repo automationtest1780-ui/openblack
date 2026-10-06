@@ -15,8 +15,11 @@ Full profile: world-bible.md §4. Where this sheet and the world bible differ, t
 - Verbal tic: a joke right before anything frightening; bad news comes out sideways
 - Silence: when he's truly scared, he goes quiet (WB voice notes)
 - Hook behavior: trimming the lantern wick, or arriving with a bowl, before he speaks (WB §8)
+- Rarity and release: starter quartet, Opening (rarity set by design)
+- Pairs: Sera (trust / unspoken love), Ivo (fond, unlikely friends), Wren (family: the coat). WB §5
+- Alt policy: same person in a new role only (WB §8 returns)
 - Bond secret: For eleven years he has bought one bottle of lamp oil a month out of his net wages. They're stored in a locked cupboard at the foot of the old stair, "in case." The cask is nearly full. *(Decided by Claude, 2026-10-06. Why: it's quietly sad, it isn't a power, and it sets up Act V, where Bram lights the old lamp.)*
-- Banner promise: protection; warmth
+- Banner fantasy: protection; warmth
 
 ## Signature
 The last working lamp from the old tower; wick trimmed every night for eleven years. Victory line: "Everyone still here? Good. Supper's on me." Death line: "Light's... still on. Go."

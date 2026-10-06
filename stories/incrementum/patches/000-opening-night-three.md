@@ -1,5 +1,7 @@
 # 000 — Night Three: The Glass in the Marsh
 
+> **Status:** written under gacha bible v1 (archived). It has skip summaries for gacha v2 Hard rule 3, but it is still below the story-first VN Opening budget (~2,250–4,500 words), so it needs a revision pass. Section references below (§11.1 and so on) point at the v1 bible.
+
 ## Patch sheet (gacha §11.1)
 
 | Field | Value |
@@ -95,6 +97,7 @@ PELL: Take her my bearing, would you? I'm too old for that stair, and she won't 
 [He presses a wooden net-tag into the Keeper's hand. Numbers are scratched into it.]
 PELL: Tell her it's exact. Tell her Pell said so. She'll know what that's worth.
 [Objective: Take Pell's bearing to the old lighthouse.]
+[Skip summary: The new keeper meets old Pell, who lost his pots when the Ploughman's Belt slipped east; the council calls it haze. Pell sends the keeper up the old lighthouse with his bearing.]
 
 ### Scene 2 — The old lighthouse stair
 [A spiral of salt-worn stone. A big man in an oilskin sits on the steps with a covered pot beside him, oiling a hinge that holds no door.]
@@ -115,6 +118,7 @@ KEEPER: I've got a bearing for her. From Pell.
 BRAM: Pell's pots? Ah. Poor old sod. Forty years and never lost one.
 BRAM: Up you go. If you get her to look at her feet for one whole minute, I'll owe you a fish.
 [Objective: Climb to the lamp room.]
+[Skip summary: Bram Hollis, whose family kept the old light, welcomes the keeper on the stair with stew and sends them up to Sera.]
 
 ### Scene 3 — The lamp room
 [A round room of salt-stained glass around an empty lamp cradle. One stone wall is nearly covered in chalk marks. A narrow woman in a long coat sights the sky through a brass sextant, then adds one mark.]
@@ -142,6 +146,7 @@ SERA: North. The marsh.
 BRAM: Right. I'm faster. You two keep up.
 [He is already on the stair, lantern swinging.]
 [Objective: Follow the light into the salt marsh.]
+[Skip summary: Sera's count and Pell's bearing agree: the Belt is four degrees east. Bram brings supper. Then a light falls into the north marsh.]
 
 ### Scene 4 — The salt marsh
 [Reed beds and black channels. Bram's lantern is far ahead, bobbing. Sera stops every twenty steps to sight the sky.]
@@ -153,6 +158,7 @@ SERA: Afterward, everyone will say what it looked like. Nobody will know where i
 KEEPER: The reeds.
 SERA: All leaning. All one way. There's no wind.
 SERA: Stay out of the channels. Bram can carry one of us. Not two.
+[Skip summary: Sera and the keeper follow Bram into the marsh. Every reed leans toward the glow.]
 
 ### Scene 5 — The crater
 [A bowl of glass where there was sand an hour ago. It is still warm. Bram kneels at the bottom with his lantern. A barefoot girl of about ten is curled in the glass.]
@@ -173,6 +179,7 @@ GIRL: Out of where? Is it far? Was I in it?
 KEEPER: What's your name?
 GIRL: I don't know! Is that bad? Is "what" a kind of name?
 BRAM: It's not bad. It's just not finished yet.
+[Skip summary: Bram finds a barefoot girl with no name in a crater of glass. Sera wants her left where she fell.]
 
 ### Scene 6 — The crater rim
 [Footsteps on the glass. A tall man in a magistrate's coat walks out of the reeds alone, on foot, gloved, with no lantern.]
@@ -195,6 +202,7 @@ SERA: Plumbs, then. Bram, lift her again. Slowly.
 IVO: They move when she moves.
 SERA: Then we don't carry her past them. We move them.
 [Objective: Protect the girl.]
+[Skip summary: Ivo, the magistrate, arrives alone on foot. When Bram lifts the girl, tall faceless figures (Plumbs) come down out of the haze and lean toward her.]
 
 ### Scene 7 — The crater, the fight
 [Tutorial battle. The four stand around the girl in the glass.]
@@ -208,6 +216,7 @@ GIRL: Is this a game? I think I know this game!
 [Light falls out of the sky in a line, across every Plumb at once.]
 [The Plumbs step back up into the haze the way they came. The marsh goes quiet.]
 GIRL: Did I do good? I did good!
+[Skip summary: The four fight the Plumbs. The girl glows, grows and drops light on all of them. The Plumbs withdraw.]
 
 ### Scene 8 — The crater, after
 [The glass cools. The girl shivers. Bram takes off his coat and wraps her in it. The sleeves hang past her hands, and he rolls them back four times.]
@@ -230,6 +239,7 @@ IVO: I will tell them there was haze. You will not tell them otherwise.
 [He walks back into the reeds alone.]
 WREN: Did he almost smile? I think he almost smiled.
 BRAM: Don't mind him. That's his kind face.
+[Skip summary: Bram gives the girl his coat and names her Wren. Sera marks her hand. Ivo tells the keeper he'll call their absence haze, and leaves.]
 
 ### Scene 9 — The lamp room, before dawn
 [Grey light on the glass. Wren is asleep under the window in Bram's coat. Bram is asleep sitting on the top step, the cold stew beside him. Sera is at the wall.]
@@ -246,6 +256,7 @@ SERA: Come back at dusk, Keeper. Hold the chalk.
 WREN: Sera? The three in a row. Is that where they live?
 [Sera lifts the sextant to the Belt. She doesn't lower it.]
 SERA: It's where they lived.
+[Skip summary: Dawn in the lamp room: three counts on the wall. Wren asks if the Belt's stars live there. Sera: "It's where they lived."]
 
 ## Review
 

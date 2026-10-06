@@ -15,8 +15,11 @@ Full profile: world-bible.md §4. Where this sheet and the world bible differ, t
 - Verbal tic: run-on questions early; slower and stranger later, always ending on a question or joke
 - Silence: looks up a moment too long before turning back (WB victory pose)
 - Hook behavior: looking up at the sky before speaking (WB §8)
+- Rarity and release: starter quartet, Opening (rarity set by design)
+- Pairs: Sera (hero / proof), Bram (family: the coat), Ivo (danger / "make him smile"). WB §5
+- Alt policy: same person in a new role only (WB §8 returns)
 - Bond secret: She keeps her own height marks scratched on the underside of the stair, where nobody looks, and she has started crouching a little when Sera measures her. *(Decided by Claude, 2026-10-06. Why: it turns Sera's measuring back on itself, and it shows her fear of being called up without leaking the Act IV reveal. Unlock it at Act I close or later, after her growth is visible.)*
-- Banner promise: chaos and softness; the thing everyone protects
+- Banner fantasy: chaos and softness; the thing everyone protects
 
 ## Stage (tag every scene)
 | Act | Stage | Size / voice |

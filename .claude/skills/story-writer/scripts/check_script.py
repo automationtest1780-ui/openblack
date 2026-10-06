@@ -3,9 +3,11 @@
 
 Reads a markdown file containing scenes ("### Scene ..." headings), dialogue
 lines ("NAME: text") and stage directions ("[...]"). Reports spoken word count,
-per-scene counts, and dialogue lines over the length limits.
+per-scene counts, dialogue lines over the length limits, and story scenes
+missing a "[Skip summary: ...]" line. Chat scenes ("### Scene N — Chat: ...")
+are exempt from the skip-summary check.
 
-Usage: check_script.py FILE [--budget MIN-MAX] [--soft 25] [--hard 40]
+Usage: check_script.py FILE [--budget MIN-MAX] [--soft 15] [--hard 40]
 """
 import argparse
 import re
@@ -23,11 +25,11 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("file")
     ap.add_argument("--budget", help="spoken word range, e.g. 2000-3500")
-    ap.add_argument("--soft", type=int, default=25, help="average line target")
+    ap.add_argument("--soft", type=int, default=15, help="average line target")
     ap.add_argument("--hard", type=int, default=40, help="per-line cap")
     args = ap.parse_args()
 
-    scenes = []  # [title, line_count, word_count, speakers]
+    scenes = []  # [title, line_count, word_count, speakers, has_skip_summary]
     long_lines = []
     all_counts = []
     current = None
@@ -35,11 +37,14 @@ def main():
         for n, raw in enumerate(f, 1):
             m = SCENE_RE.match(raw)
             if m:
-                current = [m.group(1).strip(" -—:") or f"line {n}", 0, 0, set()]
+                current = [m.group(1).strip(" -—:") or f"line {n}", 0, 0, set(), False]
                 scenes.append(current)
                 continue
             if current is None:
                 continue  # sheets and cards before the first scene aren't spoken
+            if raw.strip().lower().startswith("[skip summary:"):
+                current[4] = True
+                continue
             m = LINE_RE.match(raw)
             if not m:
                 continue
@@ -64,15 +69,19 @@ def main():
     print(f"Speaking roles: {len(speakers)} ({', '.join(sorted(speakers))})")
     print(f"Average line: {avg:.1f} words (target under {args.soft})")
     print()
-    for i, (title, lines, w, sp) in enumerate(scenes, 1):
+    for i, (title, lines, w, sp, _) in enumerate(scenes, 1):
         print(f"  {i:>2}. {title[:50]:<50} {lines:>3} lines {w:>5} words")
 
     problems = 0
     if avg >= args.soft:
         print(f"\nWARN average line length {avg:.1f} >= {args.soft}")
         problems += 1
+    for i, s in enumerate(scenes, 1):
+        if not s[4] and not s[0].lower().startswith("chat"):
+            print(f"WARN scene {i} ({s[0][:40]}) has no [Skip summary: ...] line")
+            problems += 1
     for n, speaker, w in long_lines:
-        print(f"WARN line {n}: {speaker} has {w} words (cap {args.hard}; allowed only for a single joke or confession)")
+        print(f"WARN line {n}: {speaker} has {w} words (hard cap {args.hard})")
         problems += 1
     if args.budget:
         lo, hi = (int(x) for x in args.budget.split("-"))

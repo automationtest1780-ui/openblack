@@ -23,7 +23,7 @@ stories/<project>/        # one folder per world, at the repo root
 └── ...                   # other files depend on the bible (sheets, ledger, index, written pieces)
 ```
 
-There are two kinds of bible. A **style bible** (in `bibles/`) is reusable across worlds and governs craft. A **world bible** (in the project folder) is the user's canon for one world: its facts, characters, reveal schedule, and often its own rules. The project's `project.md` states which wins where. When it doesn't say, the world bible wins on facts about the world, the style bible wins on craft, and a real conflict goes to the user.
+There are two kinds of bible. A **structure bible** (in `bibles/`) is reusable across worlds and governs structure: content layers, formats, lengths, cadence and review. A **world bible** (in the project folder) is the user's canon for one world: its facts, characters, themes, tone, reveal schedule and story direction. It should read as principles and background, not format rules. The project's `project.md` holds the settings that connect the two and states which wins where. When it doesn't say, the world bible wins on facts, characters and tone, the structure bible wins on structure, and a real conflict goes to the user. Older bibles are kept in `archive/` folders for reference; don't write against them.
 
 ## Workflow
 
@@ -42,7 +42,7 @@ If the project has a world bible, read the sections for every character and plac
 
 ### 3. Check for missing inputs
 
-Bibles usually require some sheets to be filled before writing (for example, the gacha bible refuses to write a character's story if their sheet has empty fields). When something required is missing:
+Bibles usually require some sheets to be filled before writing (for example, the gacha bible wants a hero's character sheet filled before their story is written, gacha 16.4). When something required is missing:
 
 - If the user gave enough to fill it, fill it, write it to the project, and tell them what you assumed.
 - If filling it means inventing something that matters (a wound, a faction, a locked fact), draft a proposal, mark it `Status: proposed`, add it to `open-questions.md`, and ask before building a story on it. The user owns their canon.
@@ -50,7 +50,7 @@ Bibles usually require some sheets to be filled before writing (for example, the
 
 ### 4. Write in the bible's order
 
-Produce output in whatever order the bible prescribes (the gacha bible: patch sheet, then scene cards, then script). The planning sheets aren't overhead: they're where the story gets decided, and they make the script checkable.
+Produce output in whatever order the bible prescribes (the gacha bible: file header, planning sheet, scene cards, script, review answers; gacha 14). The planning sheets aren't overhead: they're where the story gets decided, and they make the script checkable.
 
 **Script format** (use this unless the bible says otherwise, so `check_script.py` can read it):
 
@@ -61,12 +61,12 @@ MIRA: One idea per line.
 PROTAGONIST: Short questions.
 ```
 
-Speaker names are uppercase followed by a colon. Stage directions go in square brackets on their own line.
+Speaker names are uppercase followed by a colon. Stage directions go in square brackets on their own line. Write player choices as bracketed lines (`[Choice a: "..."]`) so they aren't counted as spoken words. Follow the bible's own format if it adds more; the gacha bible ends each story scene with a `[Skip summary: ...]` line, and the checker warns when one is missing.
 
 ### 5. Review before you hand it over
 
-1. Run `python3 .claude/skills/story-writer/scripts/check_script.py <file>` (pass `--budget MIN-MAX` for the bible's word range for this layer). It reports spoken word count, scene count, overlong lines, and the average line length. Fix what it flags. Clipped, understated voices tend to land well under budget on a first draft. When that happens, look for thin scenes: a beat stated instead of played, or a relationship told rather than shown in an exchange. Deepen those. Don't add filler lines. If the source material itself calls for something shorter, record a budget override in `project.md` with the reason, rather than padding.
-2. Run the bible's own review checklist honestly (the gacha bible's is section 11.3, "Rejection pass"), plus any "project review additions" in `project.md`. Record the answers in the output file. Where the bible says a "no" means a rewrite, rewrite the scene; don't just annotate it.
+1. Run `python3 .claude/skills/story-writer/scripts/check_script.py <file>` (pass `--budget MIN-MAX` for this layer's word range in the project's chosen budget column). It reports spoken word count, scene count, overlong lines, and the average line length. Fix what it flags. Clipped, understated voices tend to land well under budget on a first draft. When that happens, look for thin scenes: a beat stated instead of played, or a relationship told rather than shown in an exchange. Deepen those. Don't add filler lines. If the source material itself calls for something shorter, record a budget override in `project.md` with the reason, rather than padding.
+2. Run the bible's own review checklist honestly (the gacha bible's is section 15), plus any "project review additions" in `project.md`. Record the answers in the output file. Where the bible says a failed item means a rewrite (the gacha bible stars its hard-rule items), rewrite the scene; don't just annotate it. For softer items, fix the problem or record the deviation and why in the piece's header.
 3. Reread one scene aloud in your head as each speaking character. If two characters could trade lines, the voices need work.
 
 ### 6. Save and update canon
@@ -79,7 +79,7 @@ Speaker names are uppercase followed by a colon. Stage directions go in square b
 
 ## When a request breaks the bible
 
-The bibles are normative: the user wrote them so that requests get held to them. If a request conflicts with one, name the rule it breaks (section number), then offer the closest compliant version. If the user insists, they're overriding their own rule, so do it, and note the override in the output file's header so it's visible later.
+Bibles mix hard rules with defaults. Bend a default when there's a good reason, and record it as a deviation. Hard rules are different: the user set them so that requests get held to them. If a request conflicts with a hard rule, name the rule (section number), then offer the closest compliant version. If the user insists, they're overriding their own rule, so do it, and note the override in the output file's header so it's visible later.
 
 ## New project
 
