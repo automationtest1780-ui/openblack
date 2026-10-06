@@ -1169,3 +1169,69 @@ JORY: Lit on time.
 [Skip summary: At dusk the next day, Jory asks to read the breakwater log, the way the old keeper taught him: count the leaves by the stitching before reading the words. He reads the line about Patience on the bar, then finds a leaf cut out after it. He looks at the keeper, says nothing about it, and watches the lamp lit.]
 
 ## Review
+
+### Mechanical check (`check_script.py --budget 6750-13500`)
+```
+Scenes: 16   Dialogue lines: 770   Spoken words: 6816
+Speaking roles: 12 (BRAM, CRAB SKIPPER, CREWMAN, HESTER, JORY, KEEPER, MAGS, NELL, PELL, SERA, TAM, WREN)
+Average line: 8.9 words (target under 15)
+OK
+```
+- About 30 minutes of reading at 225 wpm, plus one combat stage and one rescue stage. Inside the VN main-chapter range, at the low end of the 6,800-7,500 aim. Longest line 24 words (Bram on his grandad reading the water); nothing over the soft cap of 25 or near the hard cap of 40.
+- The first pass came in at 4,755 words. I deepened by playing beats instead of stating them, not by lengthening lines. Two scenes were added: Wren's last morning awake at Fledgling size on the stair (the "proper dips when I'm big" beat) and Bram at the window during the rescue (the choice to stay, played rather than reported in scene 14). Exchanges were added to existing scenes: Gage scrubbing the door; Mags on glass money; Bram at the crater rim remembering the bread-bin girl; Pell's "being right in a hat"; Sera's run of numbers to Nell; Tam and Jory's sleeve; Hester catching Bram without a joke; Nell's "land's the thing you hit"; Sera on who uses her table; the seven swells; Nell recognizing Sera's voice; the keeper's raw hands; Hester's "Later, with the date"; Bram on Nell going quiet.
+
+### Gacha 15: hard rules
+- * Can someone who owns none of these heroes follow the main story? **Yes.** Bram and Sera (free) carry every decision. Nell, Jory, Hester, Tam and Mags are NPCs in story. Neither stage needs them: the crater road is Bram's lantern and the keeper's strikes; the bar is the keeper's punt and Sera's calls. Jory's coda is a scene, not a gate.
+- * Main chapter understandable without any event? **Yes.** No event is referenced. Act I is restated on screen where it matters: the "weather" notice, the old keeper's stool and wick, Bram's two dips, "straight, then sideways", the hounds ("Low worked on the dogs").
+- * Every story scene ends with a skip summary? **Yes**, all sixteen.
+- * Contradicts a banner fantasy or teaser? **No.** Bram's protection is real (the lantern on the road, the window) and its cost is shown and caused (he hides a reading to protect her); that is his canon Act II beat (WB §4), not a reversal. Sera stays competent: she finds the gut, calls the line and reads the shift. Nell's command fantasy holds: she makes the call on the bar and on the slip. Jory's prodigal stays unexplained.
+- * Teaser copy spoils a fate? Not applicable.
+- * Contradicts design assumptions? **No.** No unlock. Crater Patrols (unlocked in 1-4) is used as story. The rescue stage has no enemies; noted as a deviation.
+
+### Gacha 15: structure
+- Skipper can state today's goal from the first two lines? **Yes.** "Keeper. Slip. Morning water." / "Thirty-two. Same as last night. Mark it small." / "Road-walkers. Names." / "Read it." / "Keeper. Low, in the north." Each scene's on-screen objective matches its first exchange.
+- Featured hero wants something that isn't the protagonist? **Yes.** Bram: Sera out of the water. Sera: her tables right. Nell: one more night's fishing, on her own terms. Jory: to read the book the old way.
+- Cause between scenes? **Yes.** Thirty-one minutes → Sera asks for the three o'clock → patrol → Bram learns the stick and renews "straight" → fifty-two → Nell goes out on the table anyway → Nell asks for the dips → cloud sends Sera to the water → the water turns two hours ten early → the bar → Bram can't leave Wren → the slip, where Sera promises to stand on the bar with a pole → the shift → Bram brings tea at three and reads the reading → the knife → he lets her sleep through the morning water → Jory reads the book.
+- Someone changed a habit? **Yes.** Bram hides something from Sera for the first time, and starts carrying it. Nell stops saying "done" about the south and says "done arguing" without slapping anything. Sera corrects her table in public by two hours, and plans to go out on the bar. Jory asks to touch the book.
+- Button a feeling or a fact, not a trailer? **Both.** "Let her sleep. Water'll still be wet in an hour", with his hand on the pocket, is a feeling. The coda's stub is a fact the player and Jory now share. Neither withholds this chapter's point: the reading is hidden, and the player saw it hidden.
+- Bench-hero scene? **Yes.** Jory gets the coda and the slip; Nell gets three scenes and the set piece; Mags gets the patrol; Tam and Hester the smokehouse and the slip.
+- Free story cast matters? **Yes.** Every turn of the chapter is Bram's or Sera's.
+- Within budget? **Yes.** 6,816 of 6,750-13,500 (aim 6,800-7,500).
+
+### Gacha 15: craft
+- Jargon budget: **two new terms**, both on screen: *the gauge* / "the stick" (a painted post, shown and read in scene 4) and *the Nail* (a star Sera points at, glossed in one line: "Navigators steer by it"). *The bar* and *the gut* are common harbor words, shown as white water and explained once by Bram. *Tide-Plumbs* are not used.
+- Line length: average 8.9, under the 12-15 default; recorded as a deviation (house understatement, matching 104 and 105). Nothing over 25 words (longest 24).
+- Companion reacts rather than recaps? **Yes.** Wren asks (minutes as "small hours", clouds as a lid, stars as holes) and never sums up.
+- Heavy and light alternate? **Mostly.** Light slip → lamp room → patrol fight → breakwater lesson → stair (quiet) → slip argument → smokehouse comedy → lamp room turn → the turn of the water → the bar → the window (quiet) → the slip (mixed, Hester's comedy around Nell's decision) → the shift → the knife → dawn (quiet) → coda. The longest run without a laugh is scenes 13-14. The shift scene keeps two light beats ("Two's twice one"; "a good bit east"), scene 14 keeps Hester's tea and "I'd know it drunk", and scene 15 opens on "That's catering".
+- Could two characters trade lines? **No.** Sera: numbers, no softeners ("It's thirty-one."; "Two's twice one."), never "near enough", never "very". Bram: food, "Funny thing about...", a joke before fear, silence when it's bad ("I'm walking. You can't walk and talk on this road."), never a degree. Nell: slaps, "Done.", hands not numbers, "here" not home. Jory: "Not my business", "the old keeper", glances at the lamp, answers a different question. Hester: "sprat", the slate, "Later, with the date", never "love". Tam: literal, needle out of his teeth, "Third time's when it holds". Mags: names, feet, "Fair's fair". Pell: forty years and a hat. Wren: run-on questions, wrong words, every line ends on a question or a joke.
+- Protagonist a catalyst? **Yes.** The keeper reads the stick, rows the punt, holds the line, writes "Tables not usable", and keeps a silence they didn't ask for. Nobody praises them for existing. Nell's thanks is for the lantern, and she gives it so as not to thank Sera; Sera's "You held six" is a count.
+- Canon tier labeled? **Locked.**
+
+### Gacha 15: common failures
+- Chosen-one plot? **No.** The rescue is a harbor trick (a light on a line), done by two workers.
+- Cosmology monologue? **No.** Nobody explains the tide, the jump at the gauge, the shift, or why it's four days. "Since the sky moved" is a time, and Bram stops it.
+- Villain explains the theme? **No.** The Plumbs and the sky are silent.
+- Twist deleting a cost? **No.** The leaf stays cut; Nell's decision stays made.
+- Black-screen fight text? **No.** Both stages are stage directions with short calls.
+- Protagonist praised for existing? **No.**
+- Companion recap? **No.**
+- Scene advertising a banner by name? **No.** Jory and Tam (1.1 rate-up) have their own business.
+- Story and objective disagree? **No.**
+- Hero seen once and dropped? **No.** Every NPC here carries into 2-2 to 2-4 per the handoff.
+
+### Project review additions
+- "Bloom" or a cosmology answer early? **No.** No "Bloom", no "measuring", no ledger, no explanation. Allowed Act II reveals used: the sky speeding up ("Sixteen days. Then four.") and the tide falling off the tables ("Tables not usable", "Two hours ten").
+- Wren's voice right for her stage? **Fledgling** in the header (three rolls, before the 3rd shift). Fast questions, words slightly wrong ("Ow-Ow", "small hours", "a going-to-sleep"), and her scary-adjacent beat (the underside of the stair) ends on a joke about a spider. She is asleep from scene 8 on and never seen awake after the shift; scene 15 shows only "a long shape" under the coat, and Bram won't look.
+- Plumbs silent, Bloom wordless? **Yes.** The road Plumbs turn and strike without a sound. No Tide-Plumbs.
+- Pair barks right for the act? **Yes.** Bram/Sera deal (kept twice). Nell/Tam uses the after-Act II version ("That's twice now" / "Don't keep score. Haul."), which the near-loss earns. Nell/Jory, Nell/Hester, Tam/Hester, Tam/Jory used as written. No Sera/Ivo bark (Ivo is off screen). No "Sparrow".
+- Absent heroes by letter or rumor only? Ivo, Corra, Abel and Teodor are only mentioned (the notice; Mags on Corra and Abel; Hester's "Lisle" pot). Launch heroes on screen are NPCs, as in Act I.
+- Bench scene and next-drop mentions? Jory (1.1 phase 1) has the coda and the slip; Tam (1.1 phase 1) has three scenes. Mags and Abel (1.1 event leads) are mentioned or seen.
+- Events gated at the previous act? Not applicable (main chapter).
+- Old lamp stays dark? **Yes.** Only Bram's storm lantern is used in the window.
+- Ferrow / Bellwater / Mount Quell knowledge? Not touched.
+- Invented anything that should have gone to open questions? **Local color only:** the painted gauge post ("the stick"), the gut and the bar's depths, the breakwater punt, the Coll family (a crewman, a wedding), the crab-boat skipper, *Patience*'s draft, Bram learning to sink off the slip, the Nail by name (WB working constellation). **Flags for open-questions.md (not added; this brief forbids editing other files):** (a) *OQ 30* (keep Jory off the tide): here he reads the bar line in silence and says nothing about the tide; recommend keeping it that way through 2-4. (b) *The water jumped at the gauge as the Belt moved* (scene 13, seen by the keeper only). Shown, not explained; it should stay unexplained until Act III. (c) *Sera's plan to read the bar herself, every turn, for a week* is now said aloud on the slip. 2-2 to 2-4 should either show her doing it at the slip only (not the bar), or let Bram's hiding be what keeps her off the bar; otherwise she would take a morning reading that shows the 2 h 40 figure herself. The handoff says she never sees it.
+- Bond secrets kept? **Yes.** Bram's oil cupboard isn't mentioned. Sera's supper tally isn't opened. Wren's stair marks are only a look at the underside of the stair. Ivo's money and Jory's envelopes are not touched. Teodor's cases are not touched.
+- Handoff rules: Sera never speaks to Ivo (he is absent). Ivo says nothing. Bram never lies outright to Sera's face: at dawn he changes the subject ("Water'll still be wet in an hour") and she is half asleep; he never states a false figure. The keeper's choice at the knife is non-branching silence.
+
+### Read-aloud pass
+Scene 14 read as each speaker. Bram's lines need the food and the turn-away ("Drink your tea. Hester'll ask"); in Sera's mouth "There's no sideways on that one" would be a number. The keeper's lines are all short and factual ("Two hours forty ahead."; "That was the deal."). Scene 12 read for Nell and Hester: Nell's lines fail without the flat statements and "Done"; Hester's fail without the slate. No line moves to another speaker unchanged.
