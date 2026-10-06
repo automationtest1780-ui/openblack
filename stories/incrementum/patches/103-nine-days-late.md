@@ -3,7 +3,7 @@ Layer: main chapter
 Canon tier: locked
 Arc / version: Part 1, Act I "Haze", chapter 1-3; launch version 1.0
 Featured hero(es): Ivo Thane, Sera Vant (starter quartet, free); Corra Vey, Abel Thorn, Mags Teller (Salt Pans introduction); Teodor Lisle (arrives). Bench: Bram Hollis and Wren (scene 13)   Banner tie-in: Corra (1.0 phase 1 rate-up); Teodor met in story ahead of his rate-up (roadmap 4.3)
-Prerequisite: 000 (the Opening). Written to stand without 1-1 and 1-2: it opens in-world on place and job, and leans on no detail from them.
+Prerequisite: 1-2 (Fog-Madness). It opens in-world on place and job, and leans on 1-1 and 1-2 only lightly (Mags names the crater lamp of 1-2's button as Corra's lantern).
 Reveal gate: Act I. The Belt has moved; the council denies it; something fell and it was Wren; tall figures come down to the crater. Nobody says "Bloom" or "measuring," nobody explains why Wren fell or why the reeds lean, and Ivo's ledger is never shown.
 Wren stage: Fledgling (child-sized; sleeves rolled four times; fast questions, words slightly wrong)
 Budget: 6,750-13,500 spoken words (column: VN)
@@ -46,7 +46,7 @@ Deviations: The roadmap entry has Teodor arriving "in the button". Here he steps
 
 **New locked facts (for the ledger)**
 - The salt pans sell crater glass. Corra picks it at sun-up from her own pan and has sold it at the slip for nine mornings, a penny a piece, as "luck for the boat".
-- Mags's ruling: Corra picks her own pan only, never the bowl; the pan-house takes a half-share for the winter; nobody goes into the bowl.
+- Mags's ruling: Corra picks her own pan only, never the bowl, dawn picks only, no lantern by the bowl after dark; the pan-house takes a half-share for the winter; nobody goes into the bowl. The lamp seen at the crater after dark in 1-2 was Corra's (Mags counted her out with it the council night).
 - Abel asked the magistrate in public to fill the crater. Ivo said nothing fell, there was haze and a hot night, and the council won't pay to bury glass.
 - Sera paced the crater at noon: thirty-two paces rim to rim. She said it aloud on the slip, through the keeper; Ivo heard it and didn't write it down.
 - Teodor Lisle stepped off the packet on the ninth day. He paid Corra a shilling for a piece offered at a penny and never haggles. Mags sold him the pan-house half-share.
@@ -56,7 +56,7 @@ Deviations: The roadmap entry has Teodor arriving "in the button". Here he steps
 - Corra counted to four hundred out loud on the north road, with the keeper listening, for Sera ("Learn. Then come."). She began to tell the keeper something about the night of the fall, and stopped.
 
 **Soft facts (local color)**
-- The packet calls twice a week. Teodor lodges in the room over Hester's smokehouse and paid in advance, which Hester takes as an insult.
+- The packet calls twice a week. Teodor lodges in the back room of Hester's smokehouse (the loft over it is Tam's, with Jory on the floor) and paid in advance, which Hester takes as an insult.
 - Patch likes Teodor at once.
 - Mags splits the dinner loaf into shares and takes the heel.
 - Wren is working on a joke about a fish. She doesn't know the end yet.
@@ -223,7 +223,7 @@ CORRA: She talks to you different. Like you're a number she likes.
 KEEPER: Is that good?
 CORRA: It's better than me. I'm a number she's still checking.
 CORRA: She'll get to me. She checks everything in the end. That's what Bram says.
-CORRA: He says she checked his stew for a month before she ate it. Now she just holds it.
+CORRA: He says she checked his stew for a week before she ate it. Now she just holds it.
 [Objective: Reach the pan-house.]
 [Skip summary: On the north road the keeper and Corra catch up with Sera, who wants the crater fixed by daylight before anyone moves more glass. Corra wants it sold, Abel wants it buried, and Sera wants it counted: a third side.]
 
@@ -325,6 +325,9 @@ MAGS: Here's fair, and you'll none of you like it.
 MAGS: Corra picks her own pan. Not the bowl. Not past the reeds. Nobody goes in the bowl.
 CORRA: There's better glass in the bowl!
 MAGS: There's better boots in Bellwater. Nobody's walking there either.
+MAGS: And dawn picks only. No lantern out by the bowl after dark. I counted you out with one the council night, and back in at ten.
+CORRA: Glass shows best by lantern!
+MAGS: Then it can show itself to somebody else.
 SERA: And my daylight?
 MAGS: You'll have your daylight, Surveyor. Noon today. Then it's ours again.
 SERA: Noon gives me one fix. I wanted three.
@@ -474,7 +477,7 @@ CORRA: Wren. Like the bird.
 CORRA: What's she like?
 SERA: She asks questions. All of them. Whether supper's a kind of star.
 CORRA: Does she... remember? Being out here? Anyone out here?
-SERA: She remembers nothing before the glass.
+SERA: She says she remembers nothing before the glass.
 [Corra breathes out.]
 CORRA: Good. That's... good. For her, I mean.
 SERA: Why?
@@ -620,7 +623,7 @@ SERA: Somebody's book should have it.
 [She walks off along the quay toward the headland without looking back.]
 [Ivo watches her go.]
 KEEPER: Why won't she speak to you?
-IVO: Because I called her numbers haze in open council, with her standing in front of it.
+IVO: Because I gave her numbers a softer name in open council, with her standing in front of it.
 IVO: She has a long memory, Keeper. And a longer wall.
 [Then, quietly, to the Keeper only.]
 IVO: You were at the crater. Was there anything there but glass?
@@ -678,7 +681,7 @@ TEODOR: Then I'm not a man in a hurry, Magistrate.
 TEODOR: News travels at its own pace. As you know.
 IVO: Noted.
 IVO: Where will you lodge, Mr Lisle?
-TEODOR: I'm told there's a room over a smokehouse. I'm told it's the only room.
+TEODOR: I'm told there's a room at the back of a smokehouse. I'm told it's the only room.
 IVO: It is. Mrs Pike will feed you and remember everything you say.
 TEODOR: Then I shall say very little, and eat a great deal. It's how I like to travel.
 [Ivo lets a moment go by.]
@@ -946,7 +949,7 @@ WREN: You know. That face. Like a fish that's been told something.
 [Bram laughs so hard he has to sit down on the wall.]
 BRAM: Don't tell him that one. Promise me. Save it for when I'm there.
 [Bram wipes his eyes, then looks along the harbor road toward the customs house, where one window is still lit.]
-BRAM: There's a buyer in the room over the smokehouse, Hester says. Bellwater man.
+BRAM: There's a buyer in Hester's back room, Hester says. Bellwater man.
 BRAM: Paid in advance. Coins on the counter. Hester's furious. Says nobody pays, it's not how the book works.
 WREN: Can I meet him? Is a buyer a kind of fish?
 BRAM: No, love, and not tonight. We've got a woman up a tower who hasn't eaten since noon.
@@ -1094,7 +1097,7 @@ IVO: Goodnight, Keeper. Mind your lamp at dusk.
 ## Review
 
 ### Mechanical check (`check_script.py --budget 6750-13500`)
-15 scenes, 733 dialogue lines, **7,090 spoken words**, average line 9.7 words, no line over the 40-word cap, every scene has a skip summary. OK, no warnings.
+15 scenes, 736 dialogue lines, **7,134 spoken words** (after the Act I continuity pass), average line 9.7 words, no line over the 40-word cap, every scene has a skip summary. OK, no warnings.
 - About 31 minutes of reading at 225 wpm, plus two stage battles: inside the VN main-chapter range (30-60 min).
 - The first pass came in at 4,386 words, because the clipped voices ran short. I deepened by playing beats instead of stating them, not by lengthening lines: Corra's customers and her mum's sleep; Sera's three sides and "Fewer is a number"; Mags on the night of the fall; Corra and Abel on rent and her mother; the Dunn boy's clod and the tide at four; Abel's coat on Corra; Sera on numbers nobody believes; dinner (the hens, Mags's sister); Abel's one speech a year; Ivo's "fog stands up in a marsh"; Teodor on fair people, his lodging, the second piece, Corra's pan; the walk talk at the ford; a new scene 12 where Corra counts to four hundred aloud; Bram on Ivo's habit of posting a coat; Pell's pots by the chimney (which pays off in Ivo's last scene); Ivo on the emptied port.
 - Average 9.7, near patch 000's 9.9 and a little under the 10-15 the brief gives. That's the house understatement. I didn't pad lines to raise it.
@@ -1102,7 +1105,7 @@ IVO: Goodnight, Keeper. Mind your lamp at dusk.
 
 ### Gacha 15: hard rules
 - Can someone who owns none of these heroes follow the main story? **Yes.** Sera, Bram, Ivo and Wren are free. Corra, Abel, Mags and Teodor speak and act as story characters (Hard rule 1, 7.5). Both battles are fought by "the player's squad", and no story beat needs a pullable unit fielded.
-- Main chapter understandable without any event? **Yes.** It references none, and leans on no detail from 1-1 or 1-2 beyond the Opening.
+- Main chapter understandable without any event? **Yes.** It references none. It leans on 1-2 only for Mags's one line about Corra's lantern, which plays without it.
 - Every story scene ends with a skip summary? **Yes**, all fifteen.
 - Contradicts a banner fantasy or teaser? **No.** Corra: the scrappy kid striking it rich (a shilling for a penny piece). Abel: the old man who's right to be afraid, tender with Patch. Mags: fairness, taking the heel. Teodor: the gentle stranger who knows more than he says; his scene-14 line is his proposed teaser, said in story. Ivo: competence and control, cracked once in private.
 - Teaser copy spoils a fate? Not applicable.
@@ -1134,7 +1137,7 @@ IVO: Goodnight, Keeper. Mind your lamp at dusk.
 - Twist deleting a prior cost? **No.** The keeper still holds the 000 lie. Ivo refers to it ("I asked that once already").
 - Scene advertising a banner by name? **No.** Teodor arrives because of the glass, and his name is said once on the slip.
 - Story text and objectives disagree? **No.**
-- Hero appears for their banner and vanishes? Teodor is now lodged in town (the room over the smokehouse) and has a business with the pans.
+- Hero appears for their banner and vanishes? Teodor is now lodged in town (Hester's back room) and has a business with the pans.
 
 ### Project review additions
 - "Bloom", or a cosmology answer, early? **No.** No "Bloom" and no "measuring". Nobody says why Wren fell or why the reeds lean. Abel observes ("All of them", "Before. Two prayers") and refuses to say more. Sera's "It turned when she crossed between it and the bowl" is an observation, and she says she doesn't know why.
@@ -1145,7 +1148,7 @@ IVO: Goodnight, Keeper. Mind your lamp at dusk.
 - Next-drop heroes mentioned first? Teodor is met in story ahead of his phase 2 rate-up. Abel, Mags and Corra all talk about him before his banner.
 - Ivo's ledger never shown? **Yes.** At the crater he stands, looks up, kneels, lays a bare hand on the glass and takes a sight with a brass octant. Twice the stage directions say "It does not write anything down" / "He doesn't write anything down."
 - Teodor beyond his sheet? **No.** He talks about Bellwater's weather and its bell tower ("very fond of itself", color only: WB already says Bellwater has a bell tower). He uses his proposed teaser line. He never names the new star, never explains, and never says why he was nine days late. "We have had our share [of haze]" is the "other skies" hint the roster allows.
-- Anything invented that should have gone to open-questions? **No.** Local color only: thirty-two paces, the shilling, a shilling a handful, the packet calling twice a week, Teodor's room over the smokehouse, Mags's sister in the hills, the hen woman, the tinker and the kettle, Ivo's "mile and a half" to the crater. No new named NPCs. The CARTER is unnamed. Pell, Patch, the Dunn boys, old Ferris and Hester all exist already. Mags's sister and the coal man are unnamed. Pell's new marks ("the church roof") assume an unnamed harbor church.
+- Anything invented that should have gone to open-questions? **No.** Local color only: thirty-two paces, the shilling, a shilling a handful, the packet calling twice a week, Teodor's room at the back of the smokehouse, Mags's sister in the hills, the hen woman, the tinker and the kettle, Ivo's "mile and a half" to the crater. No new named NPCs. The CARTER is unnamed. Pell, Patch, the Dunn boys, old Ferris and Hester all exist already. Mags's sister and the coal man are unnamed. Pell's new marks ("the church roof") assume an unnamed harbor church.
 
 ### Read-aloud check
 Scene 11, read as each speaker: Mags's lines fall apart if Teodor says them (no titles, no conditionals), and his can't be hers (no names, no feet). Abel's three lines in the scene start with a question or a saying, never an explanation. Corra's money list ends on a small honest thing a beat late ("And I don't like that he didn't argue"), which is her tic.

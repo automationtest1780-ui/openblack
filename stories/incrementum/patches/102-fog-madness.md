@@ -7,7 +7,7 @@ Prerequisite: 1-1 (Words and Stairs)
 Reveal gate: Act I (the Belt moved; the council denies it; something fell and it was Wren; tall figures come down to the marsh). No "Bloom", no "measuring", nobody explains why Wren fell or what the Plumbs are for. Old Flint's log is rumor only (OQ 12, Act I level).
 Wren stage: Fledgling
 Budget: 6,750-13,500 spoken words (column: VN)
-Deviations: 14 scenes in 8 stages, but only 2 battles (stages 4 and 5); the other stages are story nodes. Act I teaches the town, and the council and smokehouse have no fight in them. Pell (existing NPC from 000) and unnamed townsfolk speak; no new named NPCs. Council members are titled only (Harbormaster, Chandler, Cooper).
+Deviations: 14 scenes in 8 stages, but only 2 battles (stages 4 and 5); the other stages are story nodes. Act I teaches the town, and the council and smokehouse have no fight in them. Pell (existing NPC from 000) and unnamed townsfolk speak; no new named NPCs. Council members are titled only (Harbormaster, Chandler, Cooper); Ivo names the cooper once, Councillor Gage, so the name 1-4 uses is already on screen.
 
 ## Planning sheet (gacha 14.2)
 
@@ -24,7 +24,7 @@ Deviations: 14 scenes in 8 stages, but only 2 battles (stages 4 and 5); the othe
 > In the lamp room, Sera tested Wren, then bolted the keeper out over one wrong question.
 > At dusk, Jory Flint showed the keeper his father's old sighting notch on the breakwater. The keeper brought the count up the stair, and Sera handed over a stub of chalk.
 
-**Link outward:** a lamp moves at the crater after dark, where nobody goes. The keeper marks it; 1-3 goes out to the salt pans.
+**Link outward:** a lamp moves at the crater after dark, where nobody goes. The keeper marks it; 1-3 goes out to the salt pans, where Mags lets slip whose lantern it was (Corra's, night-picking).
 
 **Arc position:** arrival (Act I, chapter 2 of 4). Arc focus: Sera, right and alone.
 **System unlock:** the lamp room as home base (scene 13: "Hold the chalk"). The home-base favorite starts here, Sera by default (structure notes 8, 11; OQ 19).
@@ -44,9 +44,9 @@ Deviations: 14 scenes in 8 stages, but only 2 battles (stages 4 and 5); the othe
 
 **New locked facts (for the ledger)**
 - The council minuted item four, "Reports of tall figures in the north marsh," as "consistent with fog-madness": residents to rest, eat hot food and keep off the pans after dark; no further action. Six hands; the chair does not vote. Ivo wrote and read the minute himself. (WB, roadmap)
-- "Fog-madness" is an old marsh word (the cooper's grandfather's) for cutters who came in off the marsh seeing tall men in the reeds. Ivo took it up in session: "That is the word."
+- "Fog-madness" is an old marsh word (the cooper's grandfather's; the cooper is Councillor Gage) for cutters who came in off the marsh seeing tall men in the reeds. Ivo took it up in session: "That is the word."
 - Sera asked three things: minute the sightings as seen, a lamp and watch on the marsh road at dusk, nobody on the marsh after dark. Refused, except the third, which Ivo kept for a different reason.
-- Sera brought five reports with a bearing on each; the lines cross in the north reeds inside a quarter mile; two were at noon. Tam testified to one at noon from the loft roof.
+- Sera brought five reports with a bearing on each; the lines cross in the north reeds inside a quarter mile; two were at noon. Tam testified to the 1-1 noon figure from the loft roof (it stood an hour, then turned when Nell poked it), and Sera reminded the seats that half the harbor watched it.
 - Sera spoke to the seats through the harbormaster and never to the chair. The minutes record that she "will come back."
 - The keeper's logbook (the council's book) holds a line for a figure standing in the north marsh at a quarter past two, written at Sera's word.
 - Sera tested Wren in the lamp room: names, the Belt, the shard in a cup of cold seawater (warm by a count of sixty), and "where did you come from" (Wren pointed up; Sera wrote a number she wouldn't say).
@@ -54,9 +54,9 @@ Deviations: 14 scenes in 8 stages, but only 2 battles (stages 4 and 5); the othe
 - Jory and the keeper have met. Jory won't say why he came back. He watches the breakwater lamp from the bollard at the far end, dawn and dusk.
 - The breakwater parapet has a sighting notch cut by the old keeper; at dusk the old tower sits in the V and the Belt used to sit on top of it "like a cap on a post." It is now one finger east. Jory showed the keeper and asked not to be named.
 - Sera gave the keeper a stub of chalk of their own. The keeper's dusk count from the breakwater is now on the wall beside hers ("Hold the chalk").
-- A lamp was seen at the crater after dark, where nobody goes. The keeper marked it.
+- A lamp was seen at the crater after dark, where nobody goes. The keeper marked it. Nobody names it in 1-2; it is Corra's picking lantern (Mags mentions it in 1-3).
 
-**Soft facts:** the harbor fund holds oil for eleven weeks, all of it for the breakwater; the keeper's chair in the customs house has a bad leg; the harbormaster has a boy cutting on the pans and a mortgage on two boats; the children's skipping rhyme (WB §2) is first heard here, "four days old, off the pan children"; Jory sleeps on Tam Rook's floor and Hester feeds him without writing it down; Jory carries the unused return half of his packet ticket (sheet signature item); the notch was cut the year the breakwater light went up, and the old keeper checked it every clear dusk for ten years; Ivo eats at Hester's on Thursdays and pays in coin; Bram's story of the first nights (bolted out the first night; the pot came back empty the second; "Hold this"); Sera ate half of Hester's herring and two spoons of supper; Wren licked the chalk; Wren thinks a council is where they cancel things.
+**Soft facts:** the harbor fund holds oil for eleven weeks, all of it for the breakwater; the keeper's chair in the customs house has a bad leg; the harbormaster has a boy cutting on the pans and a mortgage on two boats; the children's skipping rhyme (WB §2), first heard in 1-1, is "a day old, off the pan children" by Pell's reckoning; Jory sleeps on Tam Rook's floor and Hester feeds him without writing it down; Jory carries the unused return half of his packet ticket (sheet signature item); the notch was cut the year the breakwater light went up, and the old keeper checked it every clear dusk for ten years; Ivo eats at Hester's on Thursdays and pays in coin; Bram's story of the first nights (bolted out the first night; the pot came back empty the second; "Hold this"); Sera ate half of Hester's herring and two spoons of supper; Wren licked the chalk; Wren thinks a council is where they cancel things.
 
 **Button line:** WREN: "Is it somebody looking for me?" / SERA: "Keeper. Bearing and hour. Mark it."
 
@@ -146,7 +146,7 @@ KEEPER: Why would they?
 JORY: They wouldn't. You're new.
 [He reaches over and taps the folded paper on the logbook.]
 JORY: That's Thane's hand. Item four. That'll be the marsh.
-JORY: Half the harbor's seen something stood in the reeds this week. Nobody's saying what.
+JORY: Half the harbor's seen something stood in the reeds since. Nobody's saying what.
 KEEPER: Have you?
 JORY: I don't go north. I don't go anywhere much. I sit here.
 KEEPER: Where do you sleep?
@@ -208,7 +208,7 @@ SERA: Then point north. North is north in a customs house.
 TAM: Is it? Course it is. Sorry. I'm all knots this morning.
 [Outside the open window, two children on the harbor wall are chanting as they skip.]
 [Children's voices: "Ploughman, Ploughman, where's your belt? / Lost it in the marsh where the glass is felt."]
-PELL: That's new. Four days old, that one. They had it off the pan children.
+PELL: That's new. A day old, that one. They had it off the pan children.
 KEEPER: Who made it up?
 PELL: Nobody makes those up. They just turn up one morning, like gulls.
 SERA: It's wrong. The Belt isn't in the marsh. It's four degrees east of where it was.
@@ -232,14 +232,15 @@ HARBORMASTER: I'll be quick. My men won't cross the pans after dusk. That's two 
 HARBORMASTER: I'd like to know if they're right not to. Tam Rook. You first.
 [Tam stands. He holds his netting needle in both hands like a cap.]
 TAM: I was mending on the loft roof. Noon. Sun out.
-TAM: There was one stood in the reeds, past the last pan. Tall as the loft. Thin as a mast.
+TAM: There was one stood in the reeds, by the north road. Tall as the loft. Thin as a mast.
 TAM: It didn't do anything. That was the worst bit. I mended a whole row and it didn't do anything.
+TAM: Not for an hour. Then Nell Garrow poked it with a boathook, and it did.
 CHANDLER: How far off?
 TAM: Far enough I couldn't see its face.
 TAM: Near enough I could see it hadn't got one.
 [A murmur goes along the benches.]
 COOPER: Was it fog, lad? Marsh fog stands up tall, of an autumn.
-TAM: Couldn't say. I've never had fog in my lap.
+TAM: Couldn't say. I've never seen fog with a gull on it.
 [Laughter. Tam goes red and sits down.]
 HARBORMASTER: Keeper. You're up all night with the best view in Saltreach. Seen anything stood in the marsh?
 [Choice a: "Yes. Tall, and standing still."]
@@ -257,7 +258,8 @@ IVO: So the chair hears. Go on.
 SERA: Five reports. I took a bearing on every one, from where the witness stood.
 SERA: Five lines. They cross in the north reeds, inside a quarter mile.
 SERA: Two seen at dusk. One at dawn. Two at noon, in full sun.
-SERA: Fog doesn't stand in one place for a week. Fog doesn't stand up at noon.
+SERA: Fog doesn't stand in one place for two days. Fog doesn't stand up at noon.
+SERA: Yesterday half the harbor stood on the north road and watched one for an hour. Ask them.
 CHANDLER: What do you say they are, then?
 SERA: I say they're there. I call them Plumbs. Tall, thin, dead straight.
 COOPER: Plumbs! She's gone and named them.
@@ -291,7 +293,7 @@ IVO: The chair will minute what folk saw. The question is what to call it.
 COOPER: My grandad had a word for it. When the cutters came in off the marsh, seeing men in the reeds.
 COOPER: Fog-madness. The marsh fog gets in behind your eyes, and you see what's not there. Tall men, mostly.
 COOPER: Rest, a hot dinner, keep off the pans after dark. It passes by spring.
-IVO: Thank you. That is the word.
+IVO: Thank you, Councillor Gage. That is the word.
 [Sera turns, for the first time, toward the middle chair. Then she turns back to the seats.]
 SERA: Tam Rook saw it at noon, sober, in sun. His bearing crosses mine.
 SERA: Pell's pots crossed mine. The keeper's eyes crossed mine. Three counts, one night.
@@ -317,7 +319,7 @@ IVO: Minuted.
 [The benches empty into the harbor road. Ivo comes out last with a hammer, a nail and a copied sheet, and pins the minute to the board beside the door.]
 [Objective: Leave the customs house.]
 IVO: Keeper. A moment.
-IVO: Your lamp was lit on time every night this week. That is also minuted. It is the part I prefer.
+IVO: Your lamp was lit on time every night since you came. That is also minuted. It is the part I prefer.
 KEEPER: You counted?
 IVO: The chandler counts the oil. I count the chandler. It comes to the same.
 IVO: You answered the harbormaster. That was correct. Seats should be answered when they ask.
@@ -461,7 +463,7 @@ SERA: Then you'll be standing a while. Good. I need a witness who isn't me.
 SERA: You're the council's keeper. Your eyes count in that room. Mine didn't, today.
 KEEPER: Is that one of them?
 SERA: Six hundred paces. It hasn't moved since I got here. That's an hour and ten.
-SERA: Tam's stood there at noon. Same spot, near enough.
+SERA: Tam's stood nearer the road, yesterday noon. Same line, near enough.
 [The Keeper looks. The figure is a grey upright line among the leaning reeds, thinner than a man and taller than a mast.]
 KEEPER: Does it see us?
 SERA: It hasn't got anything to see with. Don't ask me how I know it's facing us.
@@ -475,8 +477,8 @@ KEEPER: Just past two.
 SERA: Two and a quarter. Write it. Your book, not mine.
 KEEPER: What do I write? "A figure"?
 SERA: "Standing, north marsh, past the last pan. Did not move." That's all. No adjectives.
-KEEPER: Not "tall"?
-SERA: Tall's an adjective. I'll get you a height when I've got two bearings. Then it's a number.
+KEEPER: Nine feet, like yesterday's?
+SERA: Yesterday's was forty paces off. This one's six hundred. I'll get you a height when I've got two bearings. Then it's a number.
 [The Keeper writes it in the logbook. Sera watches the pencil, not the figure.]
 SERA: Now it's in two books. One of them belongs to the council.
 SERA: Let them call the council's own book mad.
@@ -797,7 +799,7 @@ HESTER: Nobody ever does. That's why it's on the slate and not in the fire.
 [She wipes her hands on her apron, twice, though there's nothing on them.]
 HESTER: Here's how it is, in Saltreach. Nobody asks for anything.
 HESTER: Sera Vant's never asked me for a crumb. Bram's never asked me to stop feeding her on his tab.
-HESTER: That Flint boy sat on my bench a week and never asked once. I had to put the plate in his hands.
+HESTER: That Flint boy's sat on my bench two nights and never asked once. I had to put the plate in his hands.
 KEEPER: And you?
 HESTER: Me? I'm the one who doesn't need asking. That's my job. Somebody's got to have it.
 KEEPER: Jory sits on the breakwater all night.
@@ -1008,7 +1010,7 @@ SERA: Keeper. Bearing and hour. Mark it.
 ## Review
 
 ### Mechanical check (`check_script.py --budget 6750-13500`)
-14 scenes, 704 dialogue lines, **7,114 spoken words**, average line 10.1 words, no line over the 40-word cap, every scene has a skip summary. OK, no warnings.
+14 scenes, 706 dialogue lines, **7,160 spoken words** (after the Act I continuity pass), average line 10.1 words, no line over the 40-word cap, every scene has a skip summary. OK, no warnings.
 - About 32 minutes of reading at 225 wpm, plus two battles. That's at the low end of the VN main-chapter band (30-60 min), which suits an arrival chapter in a terse house style.
 - The first pass came in at 4,635 words. I deepened by playing out beats instead of stating them, not by lengthening lines: Jory on the stool, the oil count and the night of the fall; Tam's nerves and the skipping rhyme; the chandler, the harbormaster's boy and Pell's mutter in session; Ivo on the seats as sums; the town debating the dunes road and Nell's crew; Jory's "bit where he snores"; Sera's "no adjectives" in the marsh and her count of six as they come down; Bram counting her fingers; Wren's "many" and the sextant; Hester's step (a new light scene that also keeps the stair → breakwater move from feeling like a jump); the return half of Jory's ticket; Sera's mother's notch beside the old keeper's.
 - 14 speaking roles. Harbormaster, Chandler, Cooper, Net-hauler and Gutting-woman are titled or unnamed townsfolk. Pell is the existing NPC from 000. No new named NPCs.
@@ -1029,14 +1031,14 @@ SERA: Keeper. Bearing and hour. Mark it.
 - Is the button a feeling or a fact, not a trailer? **Both, small.** A lamp at the crater where nobody goes, Wren's frightened question, Bram's silence. Then the keeper's first mark that isn't Sera's dusk count. Nobody names who's out there.
 - Does this drop give one scene to a bench hero? At launch every pullable is new. Tam (featured in 1-1) gets the session witness beat and the smokehouse. Pell (000) carries the town's memory.
 - Does the free story cast still matter? **Yes.** Sera carries the arc, Ivo carries the council, Bram the stair and the supper, Wren the tests and the button.
-- Within budget? **Yes.** 7,114, inside 6,750-13,500 (VN).
+- Within budget? **Yes.** 7,160, inside 6,750-13,500 (VN).
 
 ### Gacha 15: craft
 - Jargon budget: **two new terms**. "Fog-madness" is glossed on screen by the cooper. "The notch" is shown on the parapet. "Item four" and "the seats" are glossed by Tam. The skipping rhyme is WB canon. No new proper nouns.
 - Line length: average 10.1, nothing near the cap. The longest lines are Bram's and Hester's, which fits their voice notes.
 - Does the companion react rather than recap? **Yes.** Wren asks and misnames; she never summarizes. She hears the council as "cancel," the test as a game, and "out" as a place.
 - Do heavy and light alternate? **Yes.** Dawn meeting (quiet) → benches (light) → session (heavy) → door (light, dry) → smokehouse (social, tense at the rumor) → marsh and fight (heavy) → road (walk, banter) → tests (comic) → the bolt (heavy) → stair (warm) → Hester's step (light) → notch (quiet, heavy underneath) → the chalk (warm peak) → supper (light) with an uneasy button.
-- Could two characters trade lines unnoticed? **No.** Sera speaks in bearings and counts and never softens. Ivo uses full sentences, "the chair", costs, February and no contractions. Bram has food, family and "So. Funny thing." Hester has the book, the slate, fish names and "Who's asking?" Jory says "Not my business," "the old keeper," never "my father" or "home," and answers a different question. Tam is literal and accidentally funny ("I've never had fog in my lap"). The cooper and chandler speak as their trades.
+- Could two characters trade lines unnoticed? **No.** Sera speaks in bearings and counts and never softens. Ivo uses full sentences, "the chair", costs, February and no contractions. Bram has food, family and "So. Funny thing." Hester has the book, the slate, fish names and "Who's asking?" Jory says "Not my business," "the old keeper," never "my father" or "home," and answers a different question. Tam is literal and accidentally funny ("I've never seen fog with a gull on it"). The cooper and chandler speak as their trades.
 - Is the protagonist a catalyst, not silent, not worshipped, not the star? **Yes.** The keeper answers a seat, writes the hour, asks the wrong question and pays for it, then brings a count instead of a question. Nobody praises them. Sera gives them a job and a chalk stub ("Don't lick it"), and Jory gives them a notch and asks to be kept out of it.
 - Canon tier labeled; no joke event editing the main story? **Locked**; no events.
 - Project review additions answered? See below.

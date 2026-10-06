@@ -63,7 +63,7 @@ Deviations: none. The keeper's squad fights; in story the fights are shown with 
 - Bram asked the keeper to log anything they see in the north marsh from the breakwater and tell him in the morning, "straight", so he can tell Sera "sideways". (Soft; seeds Act II, where Bram hides a reading.)
 - Bram tells Tam and Wren there's "no oil" for the big lamp. (Soft; a small lie against his bond secret, the oil cupboard. Don't resolve before Act V.)
 - Harbor children already chant the world bible's skipping rhyme ("Ploughman, Ploughman, where's your belt?") the morning after the fall. (Soft.)
-- Abel says Corra was out at the crater at dawn with a bucket, picking glass. (Mention ahead for 1-3; consistent with roster.)
+- Abel says Corra was out on her pan by the crater at dawn with a bucket, picking glass. (Mention ahead for 1-3; consistent with roster.)
 - Hester says Jory Flint came home on the packet the night of the fall and "didn't say ten words"; Nell says the Flints "went off at night". (Mention ahead for 1-2; Jory and the keeper have not met.)
 
 **Button line:** [In the north marsh, by moonlight, something tall stands in the reeds and does not move.] Preceded by the keeper's log entry and Bram's lantern dipping twice in the old tower's window.
@@ -686,7 +686,7 @@ ABEL: So that's what was in the glass.
 BRAM: That's Wren, Abel. She's got a name.
 ABEL: I heard. I'm not deaf. I'm only old.
 ABEL: You kept her out of my marsh, at least. Good.
-ABEL: Not like the Vey girl. Out at the crater at dawn with a bucket. Picking.
+ABEL: Not like the Vey girl. Out on her pan by the crater at dawn, with a bucket. Picking.
 SERA: Picking what?
 ABEL: Glass. Says it's worth money. Marsh gives, marsh keeps. She'll learn the second half.
 WREN: Is it your marsh? Do you own all the wet? Did you lose some?
@@ -1045,7 +1045,7 @@ PELL: "Seen you." Somebody's seen you, Keeper. You'd better say so back.
 ## Review
 
 ### Mechanical check (`check_script.py --budget 6750-13500`)
-16 scenes, 715 dialogue lines, **7,071 spoken words**, average line 9.9 words, no line over the 40-word cap, every scene has a skip summary. **OK, no warnings.**
+16 scenes, 715 dialogue lines, **7,074 spoken words** (after the Act I continuity pass), average line 9.9 words, no line over the 40-word cap, every scene has a skip summary. **OK, no warnings.**
 - About 31 minutes of reading at 225 wpm, plus three battle stages: inside the VN main-chapter range (30-60 minutes), at its lean end, which suits the house's terse voices.
 - The first pass landed at 4,884 words. I deepened by adding exchanges, not longer lines: a "words" walk down the headland (scene 3); Sera at the slip correcting her own tide table, and Nell asking her for the Belt "in fingers" (scene 4); the noon crowd (Hester, Pell, the "Plumbs" word spreading); Nell shaken, and Wren offering her a sleeve (scene 8); the lamp glass and "Will you light it again?" in the loft (scene 9); Hester's loaf for Abel; a walk home where Bram admits what scares him (scene 12); Tam mending the keeper's cuff; Wren and the first stars on the stair; Wren asking to be on the wall; Pell and the old two-dip wave (scene 16).
 - Speaking roles: 9. No new named NPCs. Pell is the Opening's existing NPC.
@@ -1066,7 +1066,7 @@ PELL: "Seen you." Somebody's seen you, Keeper. You'd better say so back.
 - Button a feeling or fact, not a trailer? **Both, small.** Feeling: the two-dip "seen you" answered across the harbor. Fact: something stands in the marsh again. The council handoff is said earlier by Hester as gossip, not as a teaser line.
 - Bench-hero scene? **Yes.** Abel Thorn (Salt Pans; not on the 1.0 phase 1 rate-up) gets scenes 10-12. Mentions ahead: Jory (1-2) by Hester and Nell; Corra (1-3) by Abel.
 - Free story cast matters? **Yes.** Bram and Wren lead; Sera frames the day and takes the numbers; the launch heroes cause and color.
-- Within budget? **Yes.** 7,071 in 6,750-13,500, VN column.
+- Within budget? **Yes.** 7,074 in 6,750-13,500, VN column.
 
 ### Gacha 15: craft
 - Jargon budget: **no new terms.** "Plumbs" is the Opening's word and is only used in stage directions and in Hester's line about the word spreading. Hester's "slate" is glossed on screen ("It's a book"). The upgrade unlock uses plain things (glass, wick, brass, chain). Jory Flint is named once and glossed in the same breath ("Your breakwater's last keeper. His boy").

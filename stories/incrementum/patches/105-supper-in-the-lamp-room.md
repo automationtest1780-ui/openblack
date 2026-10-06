@@ -7,7 +7,7 @@ Prerequisite: Act I clear (1-4 "A Finger More"); unlocks at the lamp room (home 
 Reveal gate: Act I. Nothing from Act II on: nobody explains the shift or Wren's growth, nobody marks Wren's height on the wall (that's 2-3), nobody says "Sparrow" (that's 2-2), and no "Bloom".
 Wren stage: Fledgling (just after the Act I close: sleeves rolled three times, not four)
 Budget: 1,500-2,800 spoken words (column: VN, with the override below)
-Deviations: Gacha 13 sets a group story at 3,400-6,750 words in 4-8 scenes (VN column). This is a hub group scene: three scenes, one room, one evening, budgeted at 1,500-2,800. Why: quartet scenes are short character pieces that unlock at the home base after each act and carry no plot (WB §6, §8; structure notes item 1), so the full group-story length would mean padding. The override still needs recording in project.md (Budget column), which this piece doesn't edit.
+Deviations: Gacha 13 sets a group story at 3,400-6,750 words in 4-8 scenes (VN column). This is a hub group scene: three scenes, one room, one evening, budgeted at 1,500-2,800. Why: quartet scenes are short character pieces that unlock at the home base after each act and carry no plot (WB §6, §8; structure notes item 1), so the full group-story length would mean padding. The override is recorded in project.md (Budget column overrides).
 
 ## Planning sheet (gacha 14.2)
 
@@ -106,7 +106,7 @@ BRAM: Come here. Your sleeves are in the gravy before there's any gravy.
 [He rolls the left sleeve. Once. Twice. Three times. Her hand is out. He stops with the fourth fold half made.]
 [He rolls the right sleeve. Three times. Her hand is out.]
 [BRAM is quiet.]
-SERA: Four rolls last night. Three tonight.
+SERA: Four rolls last night. Three this morning.
 BRAM: I can count rolls, Sera.
 [He smooths the sleeves flat, slowly. Then he grins.]
 BRAM: So. Funny thing about coats. Seems this one's shrinking. I'll have words with it.
@@ -314,7 +314,7 @@ WREN: Good. Then I'll be here.
 
 ### Mechanical check (`check_script.py --budget 1500-2800`)
 ```
-Scenes: 3   Dialogue lines: 182   Spoken words: 1605
+Scenes: 3   Dialogue lines: 182   Spoken words: 1606
 Speaking roles: 5 (BRAM, IVO, KEEPER, SERA, WREN)
 Average line: 8.8 words (target under 15)
    1. A proper supper    51 lines   514 words

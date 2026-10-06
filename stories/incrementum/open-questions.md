@@ -49,3 +49,15 @@ Decided by Claude on the user's delegation ("fill our gaps"). Spencer may overri
 23. **Jory and the money.** Ivo's unsigned money stays out of the main story for all of Part 1. A keeper who has done both bond tracks knows; Jory never learns on screen.
 24. **Act V chapter count.** Four short chapters, with 5-3 and 5-4 released as a double drop.
 
+
+## Raised by Act I (2026-10-06)
+
+Raised while writing and continuity-editing patches 101-105. All **open**. These are Act II+ material: keep them unexplained on screen until someone decides.
+
+25. **Why do the Glass Hounds look up at the shift, then go home?** (104) At the second shift they stopped, lifted their faceless heads to the Belt and walked back to the crater. Writers' guess: it ties to the Plumbs "measuring" (Act II) and the Bloom (Act III). Status: open. Don't explain before Act II.
+26. **Wren's stair counts.** (101, 104, 105) The stair is 108 steps; Wren has counted 96, 103, 88, 91 and "a hundred and eleventeen". Is there a pattern (for example, tracking the drift or her growth), or is it only a child miscounting? Decide before any Act II scene uses the counts as evidence. Status: open.
+27. **Why the hounds turn to Wren, and why her shard glows when Corra's glass doesn't.** (104) Shown, not explained. Status: open (Act IV material: the sky's child).
+28. **What disturbs a Plumb?** (101, 102, 103) On screen: a touch (Nell's boathook), a chalk mark near one (Sera's post), and someone crossing between it and the crater (Corra). The ledger keeps it as "until disturbed". Confirm the rule before Act II's Tide-Plumbs. Status: open.
+29. **How much of the ledger may Act I-II hint at?** (103, 104) Ivo sights from the crater with a brass octant, his lips move ahead of Sera's count, and he knows where the Belt sits from the bend. Each is covered as a navigator's habit, and nothing is written down. Set a ceiling for Act II hints. Status: open.
+30. **Old Flint's log, as Jory tells it.** (104) "He wrote what was true, one night. Light lit. Tide came in." That stays at rumor level, but it sits close to OQ 12's Act III answer (the early tide). Should Act II keep Jory off the tide entirely? Status: open.
+31. **Ivo's plain notebook** (105) versus the hidden ledger. It's a separate notebook (one line, contents never shown). Confirm that it stays separate, so Act III's reveal isn't muddied. Status: open.

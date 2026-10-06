@@ -41,6 +41,6 @@ Source: roster.md (Quartet 3); world-bible.md §2, §8. Where this sheet and the
 - The bond secret should come after the Opening's facts are settled on screen, and Wren should not learn it in a bond chapter (only the keeper does). If it ever reaches Wren, that's a group or main-story beat with a cause.
 
 ## Current state
-- Habits gained: none yet
-- Hub lines: samples above
-- Appearances: none yet
+- Habits gained: Touched the warm glass first, never went into the bowl (000). Sells crater glass at dawn as "luck", a penny a piece, and calls the keeper "Keep" (103). Her night lantern at the crater was the light seen from the lamp room on day 2; Mags has banned it (102-103). Was paid a shilling by Teodor and is frightened by it ("When somebody pays too much, it's because they know something you don't.") (103). Counted to four hundred aloud with the keeper listening; nearly told them about the night of the fall (103). Still wearing Abel's coat (103). Went back for an evening pick on day 13 and brought hounds behind her; asked "Did I take theirs?" (104). Tried to sight the shift with a flat hand (104).
+- Hub lines: samples above; "Keep! A shilling. For one piece. Nobody's worth a shilling. Is he mad, or am I cheap?" (after 1-3)
+- Appearances: 000, 103, 104 (mentioned in 101)

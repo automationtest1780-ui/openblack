@@ -40,6 +40,6 @@ Source: roster.md (Quartet 3); world-bible.md §2, §8. Where this sheet and the
 - What the leaning-before-the-fall means. He saw it; he must never explain it. No character ties the ground's pull to the sky before Act III.
 
 ## Current state
-- Habits gained: none yet
-- Hub lines: samples above
-- Appearances: none yet
+- Habits gained: Saw the reeds lean before the fall ("two prayers. I said three") (000). Won't look up; turned the salt cart's pony away from the Plumbs and saw Wren glow ("You mind yourself, child. Whatever you are.") (101). Shovelled Corra's pan glass into his cart and asked Ivo in public to fill the crater; was told he saw haze (103). Put his own coat on Corra after the channel (103). Named the Glass Hounds ("Dogs come when you call.") and broke one with his reed-hook (104). Stakes the leaning reeds (104, his bond secret glimpsed, not told).
+- Hub lines: samples above; "Keeper. You stood in my pan today. Don't stand in the bowl." (after 1-3)
+- Appearances: 000, 101 (bench scenes 10-12), 103, 104

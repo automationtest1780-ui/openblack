@@ -40,6 +40,6 @@ Source: roster.md (Quartet 2); world-bible.md §2, §8. Where this sheet and the
 - Act III: any line that knows the bad year was the sky and not the herring moving on. Before that, "the fish went south" is what she believes.
 
 ## Current state
-- Habits gained: none yet
+- Habits gained: Lost her bearing over her bow and came home on the keeper's lamp (000). Sprang *Patience* on uncharted rock the morning after and came home on the lamp again; said in public the fleet goes south before the gales (101). Prodded the noon Plumb with a boathook, sure it was a post; won't have her crew told she sat down (101). Fills her pipe and doesn't light it when the night of the fall comes up (101). Told Sera "You were right" in front of the town after the shift, then asked where it was (104). Won't wait for a third shift ("Done."), as she said about spring and summer (104).
 - Hub lines: samples above
-- Appearances: none yet
+- Appearances: 000, 101, 104 (mentioned in 102)

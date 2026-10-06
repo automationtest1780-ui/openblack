@@ -270,7 +270,7 @@ TAM: It went over the pans! Big as a door! I didn't drop a stitch!
 KEEPER: You kept mending?
 TAM: Hole was there before it fell. Still there after.
 TAM: Hester! Put it in the book! Not one stitch!
-HESTER: Already have, love. Get down off that roof.
+HESTER: Already have, sprat. Get down off that roof.
 [Past the breakwater, a boat comes in hard with one lantern at the bow. A woman in a sou'wester stands at the rail.]
 NELL: Keeper! You're the one off the breakwater?
 NELL: Something came down right over my bow. Lost my bearing. First time in thirty years.

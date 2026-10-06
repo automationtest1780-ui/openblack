@@ -41,6 +41,6 @@ Source: roster.md (Quartet 2); project.md (Protagonist); ledger ("previous break
 - What "the lie" his father left behind was. Undecided; keep it rumor. Suggested for open-questions.md (not added; see the report).
 
 ## Current state
-- Habits gained: none yet
-- Hub lines: samples above
-- Appearances: none yet
+- Habits gained: Met the keeper at dawn on day 2; watches the breakwater lamp from the far bollard, "not looking" (102). Showed the keeper his father's sighting notch and asked to be kept off the wall (102). Sleeps on Tam's loft floor (102). Answers "why did you come back" with a different question ("Packet comes in twice a week"; "Tide was right") (102, 104). Watched the keeper's lamp all night of the shift; "Guttered at four. Told you." (104). Still carries the unused return half of his packet ticket (102, 104).
+- Hub lines: samples above; "Lamp guttered at four. Told you. Not that I was counting." (Act I close, 104)
+- Appearances: 102, 104 (mentioned in 101, 103)

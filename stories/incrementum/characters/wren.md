@@ -37,6 +37,7 @@ A shard of crater glass, warm and growing. Wears Bram's coat; sleeves rolled fou
 That she is the Bloom's child (Act IV). That the sky is calling her (Act IV).
 
 ## Current state
-- Habits gained: Named (000). Tries to make Ivo smile (000).
-- Idle lines: WB §4 samples
-- Appearances: 000
+- Stage: Fledgling through Act I. Woke two fingers taller on the morning of day 14; sleeves rolled three times, not four (104). Nobody has said why.
+- Habits gained: Named (000). Tries to make Ivo smile (000; "almost" in 104, "I noted it. Under 'almost.'" in 105). Counts the stair out loud and never gets 108 (96, 103, 88, 91, "a hundred and eleventeen") (101, 104, 105). Knows "careful", "window", "landing" (101). On Hester's slate (101). Waves Bram's lantern twice to the breakwater (101). Licked the chalk (102). Calls the Glass Hounds "glass dogs" and talked to one (104). Itched during the shift (104). Looked at the underside of the stair a moment too long (104, bond teaser). Decided supper means "here" (105).
+- Hub lines: WB samples; "I'm in Hester's book! On the slate! Is that the same as belonging? It sounds the same." (after 1-1); "Keeper's got a chalk. I've got a lick of one. That's nearly the same, isn't it?" (Act I, 102); "The glass dogs went home! Do they have a home? Is it the hole?" (Act I close, 104); "Bram says supper's every night. Even when the sky's busy. Is it every night for you too?" (Act I close, 105)
+- Appearances: 000, 101, 102, 103, 104, 105

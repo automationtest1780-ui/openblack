@@ -74,6 +74,7 @@ Every chapter opens with place and job in-world (gacha 12.3) and ships with skip
 - WB beat: Bram teaches Wren words and stairs; Plumbs appear in the marsh.
 - Unlock moment: upgrades (Bram shows the keeper the net loft where the old tower's gear is stored).
 - New facts: Plumbs can stand in daylight and don't move until disturbed **(new)**; Wren counts the stair aloud and gets a different number each time **(new, soft)**.
+- **Written:** `patches/101-words-and-stairs.md` (2026-10-06; day 1 after the fall). Continuity-edited with 102-105.
 
 **1-2 Fog-Madness**
 - Synopsis: the council meets in the customs house about the marsh sightings; Ivo minutes them as "fog-madness"; Sera, refused again, tests Wren in the lamp room and shuts the keeper out when they ask the wrong question.
@@ -81,12 +82,14 @@ Every chapter opens with place and job in-world (gacha 12.3) and ships with skip
 - WB beat: council blames "fog-madness"; Sera tests Wren; Sera right and alone.
 - Unlock moment: the lamp room hub (Sera hands the keeper a stub of chalk: "Hold the chalk." The home-base favorite starts here).
 - New facts: the council minutes the sightings as "fog-madness" (WB); Jory and the keeper have met; Jory won't say why he came back **(new)**.
+- **Written:** `patches/102-fog-madness.md` (2026-10-06; day 2). The button's crater lamp is Corra's night-picking lantern (named by Mags in 1-3), not Ivo.
 
 **1-3 Nine Days Late**
 - Synopsis: on the salt pans, Corra is selling crater glass and Abel wants it buried; Mags holds the peace; on the ninth day a soft-spoken glass-buyer from Bellwater steps off the packet, and that night the keeper, on shift, sees Ivo walk out to the crater alone.
-- Featured: Ivo, Sera; Corra Vey, Mags Teller, Abel Thorn (Salt Pans intro); Teodor Lisle (arrives in the button).
+- Featured: Ivo, Sera; Corra Vey, Mags Teller, Abel Thorn (Salt Pans intro); Teodor Lisle (arrives in the button; as written, mid-chapter, see below).
 - WB beat: Ivo denies publicly, then goes out to the crater alone.
 - New facts: Corra touched the glass first (roster); Teodor arrived nine days after the fall and Ivo notes it (roster); the keeper saw Ivo at the crater and Ivo knows they saw **(new)**.
+- **Written:** `patches/103-nine-days-late.md` (2026-10-06; day 9). **Deviation:** Teodor steps off the packet mid-chapter (scene 9), not in the button, so his arrival, Ivo's public "nothing fell" and Ivo's night walk form one causal chain. The button is Ivo's ("How much clean stone is left?" / "Less, by now."). Ivo walks to the crater with no lantern and sights with a brass octant; nothing is written down.
 
 **1-4 A Finger More** (Act I finale)
 - Synopsis: Glass Hounds climb out of the crater at dusk; the quartet holds the marsh road while Sera counts; the Belt shifts again where the whole town can see it, and in the morning Wren's sleeves are rolled three times, not four.
@@ -94,7 +97,10 @@ Every chapter opens with place and job in-world (gacha 12.3) and ships with skip
 - WB beat: act close (visible shift; Wren taller; wall almost full).
 - Production: best of the act (Glass Hound boss, the shift as a CG).
 - New facts: the second shift is seen by the whole town **(new)**; Glass Hounds first appear from the crater (WB variant); Wren's sleeves go from four rolls to three **(new)**; the wall has one clean course of stone left **(new)**.
+- **Written:** `patches/104-a-finger-more.md` (2026-10-06; dusk of day 13 to the morning of day 14). Belt 36 → 32 over the town; the council's notice becomes "Weather. The council is watching it."; the morning tide is nineteen minutes early (2-1 must start above that); Crater Patrols unlock.
 - **Quartet scene 1, "Supper in the Lamp Room"** (group story, unlocks at Act I clear): Bram feeds everyone, Ivo arrives uninvited, Sera won't speak to him, Wren asks what supper is.
+  - **Written:** `patches/105-supper-in-the-lamp-room.md` (2026-10-06; evening of day 14), at the quartet-scene budget override (project.md).
+- **Act I status:** all four chapters and quartet scene 1 written and continuity-edited as one act (2026-10-06). Timeline: Opening = night three (day 0); 1-1 day 1; 1-2 day 2; 1-3 day 9; 1-4 day 13-14; quartet scene day 14.
 
 ### Act II: The Wall Fills (versions 1.1-1.4)
 - **WB beats:** the sky speeds up; tides fall off the tables; boats nearly lost; Bram hides one bad reading; Wren reaches teenage height and hurts someone by accident; the town notices her; "Don't look up after supper" spreads. Ivo manages the town's fear brilliantly and it costs him. Sera treats Wren as evidence and Bram calls her on it. Close: Sera runs out of wall; Bram's reading comes out; they quarrel.

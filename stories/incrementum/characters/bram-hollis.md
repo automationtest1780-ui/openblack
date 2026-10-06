@@ -25,6 +25,6 @@ Full profile: world-bible.md §4. Where this sheet and the world bible differ, t
 The last working lamp from the old tower; wick trimmed every night for eleven years. Victory line: "Everyone still here? Good. Supper's on me." Death line: "Light's... still on. Go."
 
 ## Current state
-- Habits gained: Has Wren to keep safe; calls her "love" for now. "Sparrow" not yet used (000).
-- Idle lines: WB §4 samples
-- Appearances: 000
+- Habits gained: Has Wren to keep safe; calls her "love" ("Sparrow" not yet used; held for 2-2) (000). Taught Wren the stair and asked her to count it aloud "so I know where you are" (101). Gave the old tower's gear away to the keeper (upgrades) and told Tam and Wren there's "no oil" for the big lamp (101). Dips his storm lantern twice from the lamp-room window, his father's "seen you" (101). Asked the keeper to tell him bad news straight so he can tell Sera sideways (101). Keeps his lantern lit in daylight when he's scared (102). Was angry at Sera for the first time, on the sluice bridge (104). Rolled Wren's sleeves three times and went quiet; tells her the coat shrank and pie makes you grow (104-105). Carries a spare bowl up the stair (105). Walks the crater road at dusk with the keeper (Crater Patrols, 104).
+- Hub lines: WB samples; "Hundred and eight steps. I've counted them since I was four. She's had two goes and two answers. I'm not worried. Mostly." (after 1-1); "Three rolls. Don't say anything. I'm not." (Act I close, 104); "Spare bowl's warm. Somebody always turns up. Tonight it's you." (Act I close, 105)
+- Appearances: 000, 101, 102, 103, 104, 105

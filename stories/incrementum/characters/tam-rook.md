@@ -40,6 +40,6 @@ Source: roster.md (Quartet 2); world-bible.md §2, §8. Where this sheet and the
 None.
 
 ## Current state
-- Habits gained: none yet
-- Hub lines: samples above
-- Appearances: none yet
+- Habits gained: Watched it fall and kept mending (000). Spotted the noon Plumb from the loft roof (101). Slept six years on the Hollis crate, thinking it a bench (101). Offered to take in Wren's coat; she won't let him touch the sleeves (101, 104). Testified to the council about the noon figure ("I've never seen fog with a gull on it.") (102). Gives Jory his floor (102). Dropped a stitch at the shift, the first since he was nine; took Jory bread and a blanket at two (104).
+- Hub lines: samples above; "Nell's net's done. One hole was a cart-and-horse. The other was just a horse." (after 1-1); the Act I close+ sample ("Wren's sleeves are down to three rolls. I measured. Well, I looked.") is now true (104)
+- Appearances: 000, 101, 102, 104

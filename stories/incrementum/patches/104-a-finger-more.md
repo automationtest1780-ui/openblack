@@ -8,7 +8,7 @@ Reveal gate: Act I. The Belt moved, the council denies it, something fell and it
 Wren stage: Fledgling (glows and grows in the fight, as in 000; wakes taller at the close: sleeves rolled three times, not four)
 Budget: 6,750-16,000 spoken words (column: VN; arc finale, up to 1.5x a main chapter; aim 8,000-10,000)
 Production: best of Act I. Boss stage with a long cutscene (the Glass Hound pack, scene 8). The second shift is a CG, shown twice: from the marsh road (scene 9) and over the whole harbor (scene 10).
-Deviations: (1) Scene 10 is a cutaway montage of the harbor without the keeper in it. Every other scene keeps the keeper on screen. Why: the brief is "where the whole town can see it", and a montage of witnesses is the clearest way to stage that in VN form. (2) Ivo's lips move ahead of Sera's count (scene 9), and he knows where the Belt sits from the bend (scene 6). These are hints, not the ledger. Nothing is shown or named, and he covers both as a navigator's habits (Act III). (3) Spoken words land at 7,748, a little under the 8,000 aim and well inside budget. The voices are terse (average line ~9 words), and further length would be filler.
+Deviations: (1) Scene 10 is a cutaway montage of the harbor without the keeper in it. Every other scene keeps the keeper on screen. Why: the brief is "where the whole town can see it", and a montage of witnesses is the clearest way to stage that in VN form. (2) Ivo's lips move ahead of Sera's count (scene 9), and he knows where the Belt sits from the bend (scene 6). These are hints, not the ledger. Nothing is shown or named, and he covers both as a navigator's habits (Act III). (3) Spoken words land at 7,735, a little under the 8,000 aim and well inside budget. The voices are terse (average line ~9 words), and further length would be filler.
 
 ## Planning sheet (gacha 14.2)
 
@@ -25,7 +25,7 @@ Deviations: (1) Scene 10 is a cutaway montage of the harbor without the keeper i
 > The Lamp Room four held the road while Sera kept counting, and the Ploughman's Belt slid a finger further east with the whole town watching.
 > In the morning the council had a new word for it, the wall had one course left, and Wren's sleeves only needed three rolls.
 
-**Link outward:** the morning tide comes in eleven minutes early (into Act II, 2-1 "Early Water"), and Bram promises a proper supper in the lamp room tonight, not for Ivo (into quartet scene 1, "Supper in the Lamp Room").
+**Link outward:** the morning tide comes in nineteen minutes early (into Act II, 2-1 "Early Water"), and Bram promises a proper supper in the lamp room tonight, not for Ivo (into quartet scene 1, "Supper in the Lamp Room").
 
 **Arc position:** finale of Act I (gacha 3.2). Close locally: the town saw it, and "haze" and "fog-madness" are gone from the door. The global question stays open: what is moving the sky, and why did the glass come out to watch it?
 **System unlock:** endgame, Crater Patrols (roadmap Act I unlocks: "after 1-4"). Announced in scene 12: Mags says someone has to walk the crater road every dusk from now on, and Bram and the keeper take it on.
@@ -61,9 +61,9 @@ Deviations: (1) Scene 10 is a cutaway montage of the harbor without the keeper i
 - Locked: the keeper chalked the count on the back of their own hand (9 hounds; 36; 32), and stood beside Sera at the same sighting point as a second witness. They also wrote the shift into the breakwater log.
 - Locked: Pell gave Sera a second bearing for the shift (chimney, then bell post); it's on the wall with Sera's and the keeper's.
 - Locked: Councillor Gage is the cooper on the council (1-2's COOPER, now named). "Fog-madness" was his grandfather's word, and Ivo wrote and pinned it. Gage watched the shift under the notice and asked Ivo what to write now. Ivo told the town to go home and promised a word by breakfast. In the morning the notice reads "Weather. The council is watching it.", in black ink (Ivo: "Red is for things we are sure of."). "Fog-madness" is off the door, and nobody says haze.
-- Locked: the wall has one clean course of stone left: the bottom course, low by the door, where the clean corner was. Sera has been writing smaller. The first thing in the last course is "11".
+- Locked: the wall has one clean course of stone left: the bottom course, low by the door, where the clean corner was. Sera has been writing smaller. The first thing in the last course is "19".
 - Locked: Wren woke two fingers taller. The sleeves need three rolls, not four. Nobody said why.
-- Locked: the morning tide came in eleven minutes before Sera's table.
+- Locked: the morning tide came in nineteen minutes before Sera's table (it was twelve the morning after the fall, 1-1).
 - Locked: Crater Patrols. From now on someone walks the crater road at dusk. Bram and the keeper took it on, and Mags put the keeper in the pan book "under road".
 - Soft: Jory watched the breakwater lamp all night ("Not for you."). The lamp guttered at four, as he said it would. He told the keeper the old keeper once "wrote what was true" and the town called him a liar (rumor-level, consistent with OQ 12).
 - Soft: a crab boat went out at three and couldn't find its pot marks.
@@ -76,7 +76,7 @@ Deviations: (1) Scene 10 is a cutaway montage of the harbor without the keeper i
 - Soft: Ivo stood at the back of the last Lamp Night the old tower was lit, eleven years ago, the week he signed the order, and didn't hold a candle.
 - Soft: Hester chalks names on people's stew pots; she'll do one for Wren.
 
-**Button line:** SERA (the morning tide below): "Tide's in early. Eleven minutes early." / KEEPER: "Is that a lot?" / SERA: "It's eleven minutes. Hold the chalk."
+**Button line:** SERA (the morning tide below): "Tide's in early. Nineteen minutes early." / KEEPER: "Is that a lot?" / SERA: "It's nineteen minutes. Hold the chalk."
 
 **Aftertaste**
 - Hub (Sera, Act I close pool): "One course left. I'll write small."
@@ -85,7 +85,7 @@ Deviations: (1) Scene 10 is a cutaway montage of the harbor without the keeper i
 - Hub (Wren, Act I close pool): "The glass dogs went home! Do they have a home? Is it the hole?"
 - Hub (Tam, already on his sheet, now true): "Wren's sleeves are down to three rolls. I measured. Well, I looked."
 - Hub (Jory, Act I close pool): "Lamp guttered at four. Told you. Not that I was counting."
-- Pair barks used: Bram / Ivo ("doing that face" / "only face"), Ivo / Wren ("I noted it. Under 'almost.'"), Bram / Sera (refused, then kept), Abel / Mags ("Reeds leaned again" variant), Corra / Wren (Sera counted first), Corra / Mags ("Fair's whatever the one holding the tin says"), Nell / Bram (slip), Nell / Tam (south's warm), Hester / Mags ("You look thin" / "My feet are fat").
+- Pair barks used: Bram / Ivo ("doing that face" / "only face"), Ivo / Wren (shortened to "Almost."; the full bark is saved for quartet scene 1), Bram / Sera (refused, then kept), Abel / Mags ("Reeds leaned again" variant), Corra / Wren (Sera counted first), Corra / Mags ("Fair's whatever the one holding the tin says"), Nell / Bram (slip), Nell / Tam (south's warm), Hester / Mags ("You look thin" / "My feet are fat").
 - Bond teaser (Wren): in scene 16 she looks at the underside of the stair a moment too long. No dialogue.
 
 ## Scene cards (gacha 14.3)
@@ -125,7 +125,7 @@ Deviations: (1) Scene 10 is a cutaway montage of the harbor without the keeper i
 ## Script
 
 ### Scene 1 — The breakwater, dusk
-[The new breakwater light, squat and bright against a red sky. The Keeper opens the logbook. Every page is the same line, night after night: "Lamp lit at dusk."]
+[The new breakwater light, squat and bright against a red sky. The Keeper opens the logbook. Every page starts with the same line, night after night: "Lamp lit at dusk."]
 [A young man sits on a bollard at the far end of the breakwater with his collar up. He is looking at the lamp, not the sea.]
 [Objective: Light the lamp.]
 JORY: Keeper. Light's late.
@@ -234,7 +234,7 @@ BRAM: Sera.
 SERA: I'm not shouting. I'm counting.
 [She turns back to the wall. The conversation is over. Bram looks at the Keeper and shrugs, the way a man shrugs about weather.]
 BRAM: She's like this every night. You should see her at breakfast. Oh, wait, you can't. She doesn't eat it.
-BRAM: Don't take it to heart. She shut me out for a month when I first came up.
+BRAM: Don't take it to heart. She bolted me out my first night up here. This is only a door left open.
 BRAM: I just kept bringing soup till I was furniture.
 [Wren is at the glass now, nose against it, looking north over the dark marsh.]
 WREN: Sera? The crater's sparkly.
@@ -447,7 +447,7 @@ WREN: I don't know either! Tam didn't finish it. He had a pin in his mouth.
 WREN: Is it funny without the end? I think it's funnier.
 IVO: It is a great deal funnier without the end. Most things are.
 WREN: Did you smile? Did you almost smile?
-IVO: I noted it. Under "almost."
+IVO: Almost.
 WREN: Almost is nearly! Bram, I nearly did it!
 BRAM: You're closer than I've ever got. And I've been at it for years.
 [Wren goes back into the light, triumphant. Ivo turns to the Keeper, and lowers his voice.]
@@ -935,7 +935,7 @@ BRAM: I know you did.
 [Hester's smokehouse: long and low, hot from the fires, every bench full. Mags stands in the doorway with her lamp, counting heads. Twenty pies sit out on the quay wall in the dark, untouched.]
 [Objective: Get everyone counted.]
 MAGS: Bram Hollis. Keeper. The little one.
-MAGS: What's your name, love? I've had you down as "the little one" for weeks.
+MAGS: What's your name, love? I've had you down as "the little one" near a fortnight.
 WREN: Wren! It's short. It's the shortest in the harbor. Bram said.
 MAGS: Wren. Right. Wren, in. That's all of Bram's lot.
 BRAM: The magistrate's gone to the customs house. He'll want counting there, I expect.
@@ -977,9 +977,9 @@ TAM: Hester. Can I sit by the fire? My hands want something to do.
 HESTER: You've got a net, you daft sprat.
 TAM: I know. I want them to do it warm.
 [He sits by the fire and mends without looking at it. He glances once at Wren's sleeves, then back at his knots.]
-TAM: Wren. Your cuff's going. Left one. I'll do it tomorrow if you like.
-WREN: No! Nobody touches the sleeves. They're supposed to be like this. That's the point of them.
-TAM: Fair enough. Well, that's a new one.
+TAM: Wren. Your cuff's going. Left one.
+WREN: No! Nobody touches the sleeves. You know that.
+TAM: I know. I'm only telling it. Somebody should.
 [The door bangs. Abel comes in with the reed-hook over his shoulder, reed-dust on his coat. Mags looks up.]
 MAGS: Abel. You're late. I'd counted you at the slip and then you went.
 ABEL: Went to see to the reeds. They're lying east, Mags. Every one in the north bed.
@@ -1284,18 +1284,18 @@ SERA: Good.
 SERA: Then that's two of us. In a month.
 [She stands and looks down at the harbor. The morning tide is already at the slips, lapping one step higher than the tide table nailed beside them.]
 SERA: Tide's in early.
-SERA: Eleven minutes early.
+SERA: Nineteen minutes early.
 KEEPER: Is that a lot?
-SERA: It's eleven minutes.
+SERA: It's nineteen minutes.
 SERA: Hold the chalk.
-[The Keeper holds the chalk. Sera writes "11" in the last clean course, very small.]
+[The Keeper holds the chalk. Sera writes "19" in the last clean course, very small.]
 [Objective: Return at dusk. Supper in the lamp room.]
-[Skip summary: In the morning Wren's hands are out of the coat sleeves; she has grown two fingers in the night. Bram rolls the sleeves three times, not four, and goes quiet. Sera starts to mark it and stops. The council's new notice says "Weather. The council is watching it." Bram plans a proper supper in the lamp room tonight, not for Ivo. One course of clean stone is left, and Sera chalks the morning tide in it: eleven minutes early.]
+[Skip summary: In the morning Wren's hands are out of the coat sleeves; she has grown two fingers in the night. Bram rolls the sleeves three times, not four, and goes quiet. Sera starts to mark it and stops. The council's new notice says "Weather. The council is watching it." Bram plans a proper supper in the lamp room tonight, not for Ivo. One course of clean stone is left, and Sera chalks the morning tide in it: nineteen minutes early.]
 
 ## Review
 
 ### Mechanical check (`check_script.py --budget 6750-16000`)
-16 scenes, 856 dialogue lines, **7,748 spoken words**, average line 9.1 words, no line over the 40-word cap, every scene has a skip summary. **OK, no warnings.**
+16 scenes, 856 dialogue lines, **7,735 spoken words** (after the Act I continuity pass), average line 9.1 words, no line over the 40-word cap, every scene has a skip summary. **OK, no warnings.**
 - About 34 minutes of reading at 225 wpm, plus four battles: inside the VN main-chapter range and the 1.5x finale allowance (6,750-16,000).
 - The first pass came in at 4,253 words and the second at 5,747, both too thin. I deepened by playing beats instead of stating them, not by lengthening lines. Additions: Jory's "Tide was right"; Wren wanting to write a six; Sera shutting the keeper out; Mags and Abel fighting with a pay-tin and a reed-hook; the Ivo/Abel exchange; Bram trimming the wick and "ask me after supper"; the Ivo/Bram bark; the port Ivo saw empty; Sera making the keeper her second sighting; the hound at Wren's toes "like a question"; the boss's second phase on Sera's count; Bram and Ivo on the last Lamp Night; Corra's flat-hand sighting; Pell and the children. Two scenes were added: the customs house (Ivo choosing the word) and the breakwater before dawn (Jory and the log). Lines were split, never padded. The final count is a little under the 8,000 aim. That's recorded as a deviation rather than padded.
 - Speaking roles: 20. Unnamed walk-ons (CHILD, FISHERMAN, WOMAN, VOICE) carry one to three lines each. FERRIS is an existing name from Mags's sheet. GAGE names 1-2's unnamed cooper councillor, the only new name in the chapter.
@@ -1313,10 +1313,10 @@ SERA: Hold the chalk.
 - Featured heroes want something that isn't the protagonist? **Yes.** A dark count, everyone home, a word the town can sleep on, a name on a pot.
 - Cause between scenes? **Yes.** Jory takes the lamp → the dusk count shows the crater moving → the pans are nearest → Corra's missing → the hounds want the road south → the bridge → too many, fall back → the bend → Starfall → the hounds look up and the Belt moves → the town saw → Sera wants "where" and Ivo sends them home → Mags counts and asks for patrols, and sends the keeper to count Ivo → Ivo chooses the word → the counts go on the wall → Jory hands the night back → morning: three rolls, the notice, the tide.
 - Someone changed a habit? **Yes.** Sera steps into Bram's light at the bend, eats her stew hot for the first time, and takes the deal back. She puts the chalk down instead of marking Wren. The keeper writes more than one line in the log. The council's word on the door changes ("haze", then "fog-madness", now "weather").
-- Button a feeling or a fact, not a trailer? **Fact and feeling.** Eleven minutes early is a number; "Hold the chalk" is the two of them. It points into Act II (2-1, the early tide) without withholding this chapter's point. The town saw, Wren is taller and the wall is almost full, and all of that is delivered before the button.
+- Button a feeling or a fact, not a trailer? **Fact and feeling.** Nineteen minutes early is a number; "Hold the chalk" is the two of them. It points into Act II (2-1, the early tide) without withholding this chapter's point. The town saw, Wren is taller and the wall is almost full, and all of that is delivered before the button.
 - Bench-hero scene? **Yes.** Jory gets scenes 1 and 15. Every launch hero gets lines in scene 10.
 - Free story cast matters? **Yes.** The Lamp Room four carry every battle and every decision. The witnesses react.
-- Within budget? **Yes.** 7,748 of 6,750-16,000.
+- Within budget? **Yes.** 7,735 of 6,750-16,000.
 
 ### Gacha 15: craft
 - Jargon budget: **two new terms**, both tied to the screen: *Glass Hounds / hounds* (named by Abel as they come down the road; Wren's "glass dogs" is the same thing) and *Crater Patrols* (a UI unlock, said in plain words: "walk that road at dusk"). *Fog-madness* is restated from 1-2, written on a door we see. *Course* (of stone) and *sluice* are common words. No new proper nouns beyond the name Gage.

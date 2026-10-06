@@ -40,6 +40,6 @@ Source: roster.md (Quartet 2); world-bible.md §2, §8. Where this sheet and the
 None.
 
 ## Current state
-- Habits gained: none yet
+- Habits gained: Fed the keeper on credit and wrote it in her book (000). Hid the old tower's gear in Tam's loft as "smoking racks" eleven years ago (101). Put Wren on the slate (101). Feeds Jory without writing it down (102). Settled fog-madness her way: "fog in the street, Plumbs in the kitchen, and the children in by dark" (102). Lets Teodor lodge in her back room, insulted that he paid in advance (103). Wrote the sky in her book, which she never does (104). Chalks names on stew pots (104). Never says "love" (000 line fixed to "sprat").
 - Hub lines: samples above
-- Appearances: none yet
+- Appearances: 000, 101, 102, 104 (mentioned in 103, 105)

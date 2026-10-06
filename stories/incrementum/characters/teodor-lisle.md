@@ -42,6 +42,6 @@ Source: roster.md (Quartet 3, Links, Reveal guardrails); world-bible.md §2 (Bel
 - He knows nothing on screen the Lamp Room doesn't, before the act that reveals it (roster, Reveal guardrails).
 
 ## Current state
-- Habits gained: none yet
-- Hub lines: samples above
-- Appearances: none yet
+- Habits gained: Stepped off the packet on day 9 and paid Corra a shilling for a penny piece; never haggles (103). Gave Ivo "News travels at its own pace, Magistrate. As you know." to his nine-day sum (103). Patch the pony took to him at once (103). Lodges in Hester's back room (103). Unsurprised by the Belt ("Surprise is a young man's luxury"; "Skies move. Most towns simply don't look.") (103). Watched the shift calmly ("It would be rude to make a fuss in someone else's sky.") and tried to pay for the town's supper (104). Touches the silent bell when home comes up.
+- Hub lines: samples above; "Keeper, good evening. Your lamp is very steady. I watched it a long while last night." (once owned, after 1-3)
+- Appearances: 103, 104

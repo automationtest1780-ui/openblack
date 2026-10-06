@@ -40,6 +40,6 @@ Source: roster.md (Quartet 3); world-bible.md §2, §8. Where this sheet and the
 None.
 
 ## Current state
-- Habits gained: none yet
-- Hub lines: samples above
-- Appearances: none yet
+- Habits gained: Counted heads across the pans the night of the fall (000, voice). Sent Corra to fetch "a council coat" so she could say she asked (103). Ruled on the glass: own pan only, dawn picks, nobody in the bowl, a pan-house half-share; sold that share to Teodor and said so to Abel's face (103). Counts the keeper in her roll call while they're on her pans, but not Teodor (103). Shielded the Dunn boys with her pay-tin (104). Asked for someone to walk the crater road every dusk and put the keeper in the pan book "under road" (104, Crater Patrols). Takes the heel of the loaf (103).
+- Hub lines: samples above; "Corra, Abel, me, the Dunn boys, old Ferris. And the coat. Feet, you can stop now." (after 1-3)
+- Appearances: 000 (voice), 103, 104

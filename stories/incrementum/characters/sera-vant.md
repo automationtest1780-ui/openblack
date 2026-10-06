@@ -25,6 +25,7 @@ Full profile: world-bible.md §4. Where this sheet and the world bible differ, t
 Mother's brass sextant, one notch filed off where the old Belt sat. Victory line: "Mark it. We were right." Death line: "Someone... keep counting."
 
 ## Current state
-- Habits gained: Marks on the back of her hand when the wall is out of reach (000). Has let someone else hold the chalk (000).
-- Idle lines: WB §4 samples
-- Appearances: 000
+- Habits gained: Marks on the back of her hand when the wall is out of reach (000). Has let someone else hold the chalk (000). Corrects her own tide table in public, on the slip post (101). Wants "two books, not one": has the keeper log ground sightings in the council's book (101-102). Gave the keeper their own chalk stub and puts their dusk count beside hers (102). Bolts the door when a question cuts too close (102). Counted the shift outside Bram's light ("Not tonight"), then stepped into it at the bend; ate her stew hot; the deal is back on (104). Writes smaller: one clean course left (104). Took Ivo's two-degree correction without speaking to him (105). Has put off measuring Wren until "tomorrow" on Bram's word (105; she does it in 2-3).
+- Still never speaks directly to Ivo: relays through Bram, the keeper, the harbormaster or Wren (000-105).
+- Hub lines: WB samples; "You're back. Good. Hold the chalk." (first home-base line, 1-2); "Breakwater count first. Then mine. Don't argue, I've already written the order down." (Act I, 102); "One course left. I'll write small." (Act I close, 104); "One course left. Hold the chalk, and don't shout on the stair." (Act I close, 105)
+- Appearances: 000, 101, 102, 103, 104, 105

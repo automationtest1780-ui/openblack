@@ -44,7 +44,9 @@ World bible §8, "Tone Rules". These override gacha 12.4:
 ### Budget column (gacha 12.1, 13)
 **Story-first VN.** Incrementum is a stage-node squad gacha like Arknights, NIKKE and Epic Seven, and those deliver story VN-style. Matching that is how it fits the genre. The terse voices still apply: reach the budget with more scenes and fuller exchanges, not longer lines.
 - Overrides: pair-bond conversations stay under 300 words each (structure notes, item 2).
-- Patch 000 (the Opening) was written under the old bible at 1,035 words. That's under the VN Opening range of ~2,250–4,500, so it needs a revision pass.
+- Overrides: **quartet hub group scenes** (the five Lamp Room quartet scenes, WB §6) run 1,500-2,800 spoken words in 2-4 scenes, not the gacha 13 group-story range (3,400-6,750). Why: they are short home-base character pieces that carry no plot (WB §8; structure notes item 1), so the full range would mean padding. First used by 105 "Supper in the Lamp Room" (2026-10-06).
+- Overrides: the act finale main chapter may run to 1.5x a main chapter (6,750-16,000), per gacha 3.6 finale weight. First used by 104 "A Finger More".
+- Patch 000 (the Opening) was first written under the old bible at 1,035 words. It has since been revised into the VN Opening range (~2,250–4,500); it stands at 2,671.
 
 ### Design assumptions (gacha 16.3)
 ```
