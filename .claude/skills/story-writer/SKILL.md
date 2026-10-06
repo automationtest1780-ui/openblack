@@ -65,7 +65,7 @@ Speaker names are uppercase followed by a colon. Stage directions go in square b
 
 ### 5. Review before you hand it over
 
-1. Run `python3 .claude/skills/story-writer/scripts/check_script.py <file>` (pass `--budget MIN-MAX` for the bible's word range for this layer). It reports spoken word count, scene count, overlong lines, and the average line length. Fix what it flags.
+1. Run `python3 .claude/skills/story-writer/scripts/check_script.py <file>` (pass `--budget MIN-MAX` for the bible's word range for this layer). It reports spoken word count, scene count, overlong lines, and the average line length. Fix what it flags. Clipped, understated voices tend to land well under budget on a first draft. When that happens, look for thin scenes: a beat stated instead of played, or a relationship told rather than shown in an exchange. Deepen those. Don't add filler lines. If the source material itself calls for something shorter, record a budget override in `project.md` with the reason, rather than padding.
 2. Run the bible's own review checklist honestly (the gacha bible's is section 11.3, "Rejection pass"), plus any "project review additions" in `project.md`. Record the answers in the output file. Where the bible says a "no" means a rewrite, rewrite the scene; don't just annotate it.
 3. Reread one scene aloud in your head as each speaking character. If two characters could trade lines, the voices need work.
 
