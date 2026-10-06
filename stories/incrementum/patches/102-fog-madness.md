@@ -7,7 +7,7 @@ Prerequisite: 1-1 (Words and Stairs)
 Reveal gate: Act I (the Belt moved; the council denies it; something fell and it was Wren; tall figures come down to the marsh). No "Bloom", no "measuring", nobody explains why Wren fell or what the Plumbs are for. Old Flint's log is rumor only (OQ 12, Act I level).
 Wren stage: Fledgling
 Budget: 6,750-13,500 spoken words (column: VN)
-Deviations: Stage-node chapter with 8 stages but only 2 battles (stages 4 and 5); the other stages are story nodes. Act I teaches the town, and the council and smokehouse have no fight in them. Pell (existing NPC from 000) and unnamed townsfolk speak; no new named NPCs. Council members are titled only (Harbormaster, Chandler, Cooper).
+Deviations: 14 scenes in 8 stages, but only 2 battles (stages 4 and 5); the other stages are story nodes. Act I teaches the town, and the council and smokehouse have no fight in them. Pell (existing NPC from 000) and unnamed townsfolk speak; no new named NPCs. Council members are titled only (Harbormaster, Chandler, Cooper).
 
 ## Planning sheet (gacha 14.2)
 
@@ -27,7 +27,7 @@ Deviations: Stage-node chapter with 8 stages but only 2 battles (stages 4 and 5)
 **Link outward:** a lamp moves at the crater after dark, where nobody goes. The keeper marks it; 1-3 goes out to the salt pans.
 
 **Arc position:** arrival (Act I, chapter 2 of 4). Arc focus: Sera, right and alone.
-**System unlock:** the lamp room as home base (scene 12: "Hold the chalk"). The home-base favorite starts here, Sera by default (structure notes 8, 11; OQ 19).
+**System unlock:** the lamp room as home base (scene 13: "Hold the chalk"). The home-base favorite starts here, Sera by default (structure notes 8, 11; OQ 19).
 
 **Stages**
 
@@ -39,8 +39,8 @@ Deviations: Stage-node chapter with 8 stages but only 2 battles (stages 4 and 5)
 | 1-2-4 | 6 | North marsh | Find Sera; hold the bank | Plumbs in the north reeds |
 | 1-2-5 | 7 | Marsh road | Get back to the lighthouse | Plumbs across the marsh road |
 | 1-2-6 | 8-9 | Lamp room, afternoon | Help Sera test Wren | — |
-| 1-2-7 | 10-11 | Stair; breakwater, dusk | Light the lamp; write the dusk | — |
-| 1-2-8 | 12-13 | Lamp room, night | Give Sera the count (hub unlock) | — |
+| 1-2-7 | 10-12 | Stair; smokehouse step; breakwater, dusk | Light the lamp; write the dusk | — |
+| 1-2-8 | 13-14 | Lamp room, night | Give Sera the count (hub unlock) | — |
 
 **New locked facts (for the ledger)**
 - The council minuted item four, "Reports of tall figures in the north marsh," as "consistent with fog-madness": residents to rest, eat hot food and keep off the pans after dark; no further action. Six hands; the chair does not vote. Ivo wrote and read the minute himself. (WB, roadmap)
@@ -56,7 +56,7 @@ Deviations: Stage-node chapter with 8 stages but only 2 battles (stages 4 and 5)
 - Sera gave the keeper a stub of chalk of their own. The keeper's dusk count from the breakwater is now on the wall beside hers ("Hold the chalk").
 - A lamp was seen at the crater after dark, where nobody goes. The keeper marked it.
 
-**Soft facts:** the harbor fund holds oil for eleven weeks, all of it for the breakwater; the harbormaster's wife keeps their boy off the pans; Bram's story of the first nights (bolted out the first night; the pot came back empty the second; "Hold this"); Sera ate half of Hester's herring and two spoons of supper; Wren licked the chalk; Wren thinks a council is where they cancel things.
+**Soft facts:** the harbor fund holds oil for eleven weeks, all of it for the breakwater; the keeper's chair in the customs house has a bad leg; the harbormaster has a boy cutting on the pans and a mortgage on two boats; the children's skipping rhyme (WB §2) is first heard here, "four days old, off the pan children"; Jory sleeps on Tam Rook's floor and Hester feeds him without writing it down; Jory carries the unused return half of his packet ticket (sheet signature item); the notch was cut the year the breakwater light went up, and the old keeper checked it every clear dusk for ten years; Ivo eats at Hester's on Thursdays and pays in coin; Bram's story of the first nights (bolted out the first night; the pot came back empty the second; "Hold this"); Sera ate half of Hester's herring and two spoons of supper; Wren licked the chalk; Wren thinks a council is where they cancel things.
 
 **Button line:** WREN: "Is it somebody looking for me?" / SERA: "Keeper. Bearing and hour. Mark it."
 
@@ -89,11 +89,13 @@ Deviations: Stage-node chapter with 8 stages but only 2 battles (stages 4 and 5)
 
 **10. The stair.** Objective: go down to the breakwater. Bram wants the keeper to stay on the stair. By the end the keeper knows Sera stood alone in council the first time, and how Bram got in. Only-him lines: "She shut the door. You're still on the stair." / "It took me supper to get in. What've you got?" Skip summary: Bram's story of the bolt.
 
-**11. Breakwater, dusk.** Objective: light the lamp; write the dusk. Jory wants to show someone the notch without it being his. By the end the keeper has a count from the sea wall. Only-him lines: "Flint's a bad name to have on a wall." / "The lamp'll burn till dawn whether you watch it or not." Skip summary: the old keeper's notch; the Belt a finger east of the tower.
+**11. Smokehouse step, toward dusk.** Objective: walk to the breakwater. Hester wants to know if Sera ate; the keeper wants to know what they did wrong. By the end Hester has written "half a herring" and called the question a kick. Only-her lines: "I don't write secrets down. Only debts." / "A man who pays cash doesn't want to be in anybody's book." Skip summary: Hester on asking, and on the Flint story.
 
-**12. Lamp room, after dusk.** Objective: give Sera the dusk count. Sera wants a count that isn't hers. By the end the keeper has their own chalk. Only-her lines: "You didn't ask me anything. You brought one up the stair." / "Same star. Different stone." Skip summary: Hold the chalk; the lamp room is home base.
+**12. Breakwater, dusk.** Objective: light the lamp; write the dusk. Jory wants to show someone the notch without it being his. By the end the keeper has a count from the sea wall. Only-him lines: "Flint's a bad name to have on a wall." / "The lamp'll burn till dawn whether you watch it or not." Skip summary: the old keeper's notch; the Belt a finger east of the tower.
 
-**13. Lamp room, supper.** Objective: eat; then back to the breakwater. Bram wants everyone fed; Wren wants a chalk. By the end there's a lamp at the crater and the keeper marks it. Only-them lines: BRAM "Door's open. Chalk's out. I've only brought three bowls." / WREN "Is it somebody looking for me?" Skip summary: supper; a lamp at the crater.
+**13. Lamp room, after dusk.** Objective: give Sera the dusk count. Sera wants a count that isn't hers. By the end the keeper has their own chalk. Only-her lines: "You didn't ask me anything. You brought one up the stair." / "Same star. Different stone." Skip summary: Hold the chalk; the lamp room is home base.
+
+**14. Lamp room, supper.** Objective: eat; then back to the breakwater. Bram wants everyone fed; Wren wants a chalk. By the end there's a lamp at the crater and the keeper marks it. Only-them lines: BRAM "Door's open. Chalk's out. I've only brought three bowls." / WREN "Is it somebody looking for me?" Skip summary: supper; a lamp at the crater.
 
 ## Script
 
@@ -113,9 +115,7 @@ KEEPER: The last keeper's name.
 JORY: The old keeper's. Yes.
 JORY: You've got his stool. His hook for the oilskin. That's his nail the book hangs on.
 JORY: Don't move them on my account. They were the council's. Everything out here's the council's.
-[Choice a: "Why did you come back?"]
-[Choice b: "Is it strange, seeing someone else out here?"]
-[Choices converge.]
+KEEPER: Why did you come back?
 JORY: Packet comes in twice a week. I came in on one of them.
 KEEPER: That's not what I asked.
 JORY: No. It's what I'm answering.
@@ -134,6 +134,9 @@ KEEPER: Pell said that. "Write it anyway."
 JORY: Pell would. Pell's the only man in this town who reads anything twice.
 [He looks out past the harbor mouth, where the packet boat comes in.]
 JORY: I came in on the packet the night the sky dropped. Stood on the deck and watched it go over.
+JORY: Dropped right over the one town I'd sworn I'd never see again. Felt about right.
+KEEPER: What did it look like?
+JORY: Like a lamp somebody threw. Ask the surveyor. She'll give you a number. I've only got a feeling, and that's free.
 JORY: Your lamp was lit. Nobody on the breakwater. I looked.
 KEEPER: I was at the marsh.
 JORY: Council says there was haze that night. Funny. It was clear as glass from the packet.
@@ -279,7 +282,9 @@ IVO: The chair asks what the harbormaster would sell, in February, to buy the oi
 PELL: Haze doesn't cut rope.
 IVO: The benches do not speak in session, Mr Pell.
 PELL: Didn't speak. Muttered. There's a difference, at my age.
-IVO: Then the chair did not hear it. We had a bad year. Two families sold up and went. The fish buyers who still come here come because we are dull.
+IVO: Then the chair did not hear it.
+IVO: We had a bad year. Two families sold up and went.
+IVO: The fish buyers who still come here come because we are dull.
 IVO: I would like us to stay dull. Dull is eleven weeks of oil. Frightened is a harbor of boats for sale.
 HARBORMASTER: And the first point? Minute what folk saw?
 IVO: The chair will minute what folk saw. The question is what to call it.
@@ -320,6 +325,9 @@ KEEPER: You wrote fog-madness anyway.
 IVO: I wrote what the council voted. That is the whole of the job, most days.
 IVO: The rest is nails.
 [He taps the nail flat with the hammer, twice.]
+KEEPER: The harbormaster put his hand up last.
+IVO: He did. He has a boy on the pans, and a mortgage on two boats. Both of those voted.
+IVO: You will learn the seats, Keeper. Each one is a sum. Most of them add up to February.
 [Down the road, Sera walks north without looking back, the brass sextant at her hip.]
 IVO: The surveyor walks north. The marsh road.
 IVO: By two o'clock somebody will come and tell me she walked north. I will thank them for it.
@@ -333,7 +341,7 @@ BRAM: Fog-madness. That's a new one.
 IVO: It is an old one, Hollis. The cooper's grandfather's. The council has simply found a use for it.
 BRAM: You're doing that face where you've already won.
 IVO: It is my only face, Hollis.
-BRAM: Shame. It's a good face for a funeral. Wasted on a Tuesday.
+BRAM: Shame. It's a good face for a funeral. Wasted on a council morning.
 BRAM: Keeper. Did she go north?
 KEEPER: Up the marsh road.
 BRAM: Course she did. I've got the little one up top with the rules. I'll watch from the window.
@@ -405,9 +413,7 @@ JORY: It's better told at the slip. They do the voices.
 JORY: There's a bit where he snores. Ask for the bit where he snores. It's the best part.
 NET-HAULER: Now, lad, I never said...
 JORY: No. You never said. Nobody ever says. It just gets told.
-[Choice a: "Sit here."]
-[Choice b: "Morning, Jory."]
-[Choices converge.]
+[The Keeper shifts along the bench. Tam is already making room on the other side.]
 TAM: Jory! Here, there's room. Your sleeve's going. I'll do it tonight.
 JORY: You don't have to keep doing that.
 TAM: I know. I like doing it. It's a good sleeve. It just wants a hand.
@@ -500,9 +506,7 @@ SERA: It's standing still. It's been standing still an hour and ten.
 BRAM: So's a bull, till it isn't.
 SERA: Two bearings, Bram. Then I'll come up.
 BRAM: Keeper. Tell her. She listens to strangers. She thinks they've got no reason to lie.
-[Choice a: "Come back up, Sera."]
-[Choice b: "Get your bearing. We'll stand here."]
-[Choices converge.]
+KEEPER: Sera. Come back up the bank.
 SERA: One more number. That's all.
 [She chalks a number on the nearest reed post, close to the figure.]
 [The figure turns its faceless head toward the mark. In the haze above the reeds, more shapes step down, tall and silent, and stand.]
@@ -704,9 +708,7 @@ KEEPER: How many?
 SERA: I don't know yet. More than seven. I'll know it when they can't lift the stack.
 WREN: I can lift lots! I lifted Bram's boot! Can I lift the pages?
 SERA: Not yet.
-[Choice a: "Why does it matter what they write down?"]
-[Choice b: "Why does it matter what they write down? You know what you saw."]
-[Choices converge.]
+KEEPER: Why does it matter what they write down? You know what you saw.
 [Sera stops writing. She doesn't look up.]
 [Wren lowers the shard.]
 SERA: Go and light your lamp, Keeper.
@@ -854,9 +856,10 @@ KEEPER: You could come in. Out of the wind. There's the stool.
 JORY: No.
 JORY: That's the keeper's stool. I'm not the keeper. Everybody in this town's very clear on that.
 JORY: The bollard's mine. Nobody's ever wanted it. That's the best kind of thing to have.
-[Choice a: "Will you tell her?"]
-[Choice b: "Can I write it down?"]
-[Choices converge.]
+KEEPER: Can I write it down?
+JORY: Why are you asking me?
+KEEPER: It's his notch.
+JORY: It's the council's wall. He cut it on the council's time. Everything out here's the council's. I told you.
 JORY: It's your book now. Write what you want in it.
 JORY: Just don't put my name next to it. Flint's a bad name to have on a wall.
 [He takes something out of his coat pocket and turns it over in his fingers. It is half a packet-boat ticket, folded soft.]
