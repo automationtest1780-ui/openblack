@@ -78,7 +78,7 @@ Deviations: (1) **Scene 16 is a coda set at dusk on day 18**, after the chapter'
 - Hub (Bram, Act II pool): "Funny thing about knives. You only remember you've got one when you shouldn't."
 - Hub (Sera, Act II pool): "Two hours ten. I'll have a new table by the gales. Hold the chalk."
 - Hub (Nell, already on her sheet, now true): "Nearly lost three boats on a flat sea. Done arguing. We go south."
-- Hub (Jory, Act II pool): "Your book's sound, Keeper. Mostly. Light it on time."
+- Hub (Jory, Act II pool): "Lit on time last night. Not that I looked. Not that I read anything."
 - Pair barks used: Bram / Sera (deal, kept), Nell / Bram (slip), Nell / Jory ("Leaving at night, Skipper?"), Nell / Tam (Act II version: "That's twice now." / "Don't keep score. Haul."), Nell / Hester ("Put it on next season. Done.").
 - Bond teaser (Bram): the oilskin pocket. He keeps his hand on it in scenes 14-15. No dialogue about it.
 
@@ -176,7 +176,7 @@ SERA: Tell her the table's thirty-one off. Tell her it was nineteen two days ago
 BRAM: She knows, Sera. Whole slip knows. It's chalked on the post.
 SERA: Then tell her it's moving.
 BRAM: I'll tell her. She'll say "done". She says "done" to weather.
-PELL: She said "done" at her own wedding. Halfway through. Then she stayed for the cake.
+PELL: She said "done" at the Coll wedding. Halfway through the vows. They stayed married anyway.
 SERA: Keeper. Three o'clock. Don't forget.
 KEEPER: Three o'clock.
 SERA: Write the minutes. Not "early". Not "a bit". The minutes.
@@ -389,12 +389,12 @@ BRAM: Not on the stair, love. Not yet. Keep counting, you'll lose your place.
 WREN: Thirty-two. Keeper's in my way. Thirty-two and a keeper.
 KEEPER: Thirty minutes last night. At three.
 BRAM: Thirty. One better than the morning. I'll tell her. Sideways, with a bun.
+WREN: Thirty babies! The small hours! Is it the same babies as yesterday?
+BRAM: Different babies, love. Every day's got its own.
 WREN: Keeper, did you see the three? The three in the night? What does it look like?
 KEEPER: Dark. Like the two. And the four.
 WREN: Oh. I thought it'd be a bit lighter. Being in the middle.
 BRAM: Nights don't work like that, love. They're dark all the way through. That's the bargain.
-WREN: Thirty babies! The small hours! Is it the same babies as yesterday?
-BRAM: Different babies, love. Every day's got its own.
 [They go down together, Wren in front. Bram takes each step with a small grunt.]
 BRAM: Forty years on this stair. My knees know every one of them by name.
 WREN: What are their names?
@@ -424,7 +424,7 @@ BRAM: Stairs can't, love. Stairs are the one thing in this town that stay put.
 [Skip summary: Coming down the lighthouse stair in the morning, Wren counts the steps aloud and gets a hundred and nine. She asks Bram if she can do his father's two lantern dips for the boats when she's big; he says yes, when she's big, and goes quiet. On the ninth step she looks a moment too long at the underside of the stair, and says it's a spider.]
 
 ### Scene 6 — The slip, morning
-[The next morning, day 17. Grey and close, the sky a lid of low cloud. Sera stands on the slip in water to her shins. Patience lies at the slip with her crew loading nets. Nell stands on her rail.]
+[The slip, a little later on day 17. Grey and close, the sky a lid of low cloud. Sera stands on the slip in water to her shins. Patience lies at the slip with her crew loading nets. Nell stands on her rail.]
 [Objective: Read the morning water.]
 SERA: Fifty-two.
 [She chalks it under the 31. Her hand is steady. The number is not small.]
@@ -656,7 +656,7 @@ SERA: Two hours ten.
 KEEPER: Patience.
 SERA: She'll come for the bar at twenty past twelve, on my table.
 SERA: She thinks she's coming in on the top of the water. She's coming in on the back of it.
-SERA: By twenty past twelve the bar's had an hour and a half of ebb off it.
+SERA: By twenty past twelve the bar's had an hour and forty minutes of ebb off it.
 KEEPER: How much water is that?
 SERA: She draws seven feet with a catch in her. Over the bar there'll be six.
 SERA: Less than she draws. Over the bar. Not in the gut.
@@ -915,11 +915,11 @@ SERA: My mother learned it on purpose. She said cloud was the sky's door.
 SERA: She said if you waited at it long enough, someone opened it.
 KEEPER: Did they?
 SERA: Most nights. She'd wait at the window with bread in one hand.
+SERA: She never once said "maybe it won't". She said "when".
 [High on the headland, the small light still burns in the tower window.]
 KEEPER: Bram's still in the window.
 SERA: He'll stay in it till I'm up the stair. He always does.
 SERA: He thinks I don't know. I can see it from every slip in the harbor.
-SERA: She never once said "maybe it won't". She said "when".
 KEEPER: Nell called you Vant.
 SERA: Everyone over forty calls me Vant. They called my mother Vant.
 SERA: Nell's come in on my tables four years. Never once looked at them.
@@ -1125,7 +1125,7 @@ BRAM: Let her sleep. Let them both sleep.
 BRAM: Let her sleep. Water'll still be wet in an hour.
 [He keeps his hand on his oilskin, over the pocket, and doesn't take it off.]
 [Objective: Return at dusk.]
-[Skip summary: At first light the keeper climbs to the lamp room. Sera has chalked the shift on the wall and fallen asleep against it. Wren sleeps under the window with the coat over her head; Bram won't look until she's up. When Sera half wakes and asks to time the morning tide, Bram tells her the water will still be wet in an hour, and lets her sleep through the turn. His hand stays on his oilskin pocket.]
+[Skip summary: At first light the keeper climbs to the lamp room. Sera has chalked the shift on the wall and fallen asleep against it. Wren sleeps under the window with the coat over her head; Bram won't look until she's up. When Sera half wakes and asks to time the morning water, Bram tells her it will still be wet in an hour, and lets her sleep while it comes in untimed. His hand stays on his oilskin pocket.]
 
 ### Scene 16 — Coda: the breakwater, the next dusk
 [Dusk, the next day. The breakwater. The lamp is not yet lit. Jory sits on his bollard at the far end with his collar up. The logbook hangs on the old keeper's nail by the lamp-house door.]
@@ -1152,7 +1152,7 @@ JORY: He taught me to read it. The old keeper. Before I could read anything else
 JORY: Sundays, on the stool. Me on his knee and the book on mine.
 JORY: Not the words first. You count the leaves first. By the stitching.
 JORY: He said a book can lie by being short.
-[He opens it at the back and runs his thumb along the inside of the spine, leaf by leaf, counting under his breath. His lips move.]
+[He opens it at the front and runs his thumb along the inside of the spine, leaf by leaf, counting under his breath. His lips move.]
 [He reaches last night. The full page: dusk, cloud, the turn, Patience on the bar, three boats in, the Belt at two.]
 [His thumb stops on that page. He reads the line about the bar twice. Then his thumb goes on.]
 [After it, close in by the stitching, there is a stub: a narrow edge of paper, cut clean. Then "Lamp out at dawn."]
@@ -1160,7 +1160,7 @@ JORY: He said a book can lie by being short.
 [He looks at it a long time. Then he looks up at the Keeper. The Keeper looks back.]
 [Neither of them says anything.]
 [Jory closes the book and hangs it back on its nail, square, the way it was.]
-JORY: Book's sound. Mostly.
+JORY: Book's sound.
 [He glances at the lamp, as if checking it's lit. It isn't yet.]
 JORY: Go on, then. Light it.
 [The Keeper lights the lamp. The wick catches. Jory watches it the whole time.]

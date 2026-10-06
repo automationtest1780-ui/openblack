@@ -127,6 +127,8 @@ JORY: He asked after her. Your Wren. First thing, when he could talk again.
 JORY: Asked was she all right. His hands like two puddings, and he asks was she all right.
 KEEPER: What did you tell him?
 JORY: Told him she's taller. He said, "Well, that's a new one." Then he went to sleep.
+JORY: He gave me his needle to keep. Whalebone. Said mind it, it knows the way.
+JORY: It doesn't know the way. I've tried it.
 JORY: Tall ones stood in the harbor again last night. At the evening tide.
 JORY: Up to their waists in it. Faces to the quay. Nobody touched them.
 KEEPER: Nobody?
@@ -208,6 +210,12 @@ BRAM: You'll stand by the loaf, is where you'll stand.
 [Sera doesn't look at Bram. Bram doesn't look at Sera. The loaf gets torn into more pieces than anyone needs.]
 SERA: I didn't chalk anything.
 BRAM: No. You didn't.
+WREN: Are you two still doing last night?
+BRAM: We're not doing anything, love. We're eating bread.
+WREN: You're eating it very loudly.
+SERA: He said a thing last night. I'm still counting it.
+BRAM: Count away. I'll wait.
+SERA: You always wait.
 WREN: Bram. Can I come on the road tonight? I'll walk behind your boot. Either boot.
 BRAM: No.
 WREN: Because I'm dangerous?
@@ -232,16 +240,65 @@ BRAM: Lighter than you'd think. Here. Left.
 SERA: Keeper. Before dusk. Back on the road where you can see the tower.
 BRAM: We'll be on the road. We're always on the road. It's a very well-walked road.
 [He stands, brushing crumbs off his knees, and takes his storm lantern off its hook by the window. He stops on the top step.]
+BRAM: Hester's for a minute on the way. Pie at nine. I'll bring it up.
 BRAM: Sera.
 SERA: What.
 BRAM: Eyes up there, feet down here. Deal?
 [A beat. She looks at him for the first time since he came up.]
 SERA: Deal. Stay in the light.
 BRAM: I'm the one holding it.
-[Objective: Walk the crater road.]
+[Objective: Stop at Hester's on the way.]
 [Skip summary: In the lamp room, one clean stone is left on Sera's wall, for tonight's dusk count. Wren is already past the height line Sera chalked last night, and wants to be measured again and to come on patrol; Bram says no. When Wren reaches into the right-hand pocket of his oilskin, Bram stops her and jokes that he keeps weather in it. Sera and Bram, still raw from last night, make their deal before he leaves.]
 
-### Scene 3 — The crater road
+### Scene 3 — The smokehouse, five o'clock
+[Hester's smokehouse at five, with the sun still up. Every bench is full. Under the oil ration, Saltreach eats its supper in daylight now, and fast.]
+[Hester goes down the benches with a ladle. Mags sits at the end with her pay-tin and a bowl. Corra sits beside her, eating like someone who has been told it's on the slate.]
+[Objective: Stop at Hester's on the way.]
+HESTER: Bram Hollis. Keeper. In or out, there's no standing in my door.
+BRAM: Out, Hester. We're on the road. I'm only here for a promise.
+HESTER: Pie. Nine o'clock. Lid with her name on. I know.
+BRAM: How do you know?
+HESTER: You've asked for it every night since the fall, you great cod. I chalk it at noon now. Saves time.
+[She lifts a lid on the side table to show him. SERA, in chalk.]
+BRAM: That's a lovely hand, Hester.
+HESTER: It's the only hand I've got. Out with the rest. You've a face on you.
+BRAM: I've the same face as always.
+HESTER: That's what I said.
+[Mags looks up from her bowl.]
+MAGS: Bram. You on the crater road tonight?
+BRAM: Every dusk. Keeper and me.
+MAGS: Then bring Abel in. He's out on the north bed tying reeds up again.
+MAGS: He won't come in to eat. Not for me. He listens to you.
+BRAM: He doesn't listen to anybody, Mags.
+MAGS: He listens to you slower. That's something.
+MAGS: My feet have walked that bed twice today. They're not walking it again.
+CORRA: He's staking them by hand. One by one. I've seen him.
+CORRA: They're all lying down again by breakfast. He knows they will.
+MAGS: Eat your soup, Corra.
+CORRA: I'm eating it. It's on the slate. Everything's on the slate now.
+CORRA: No glass money, so it's slate. Mam's on the slate. My brothers are on the slate.
+HESTER: The whole marsh is on my slate, sprat. You're in good company.
+CORRA: I don't want company. I want my pan.
+MAGS: My cutters want to know who to blame for the glass.
+MAGS: I told them the weather. They said the weather didn't sign the notice.
+BRAM: He's not wrong about the oil, Mags.
+MAGS: Nobody said he was wrong. They said he signed it.
+[Corra puts her spoon down. She looks at the Keeper.]
+CORRA: Is Sera on her last stone? Pell says tonight.
+KEEPER: Tonight.
+CORRA: What'll she write on after?
+BRAM: Don't you start. The whole harbor's got a bet on.
+CORRA: I'm not betting. I'm asking. It's not the same.
+CORRA: I copied her marks onto the pan-house door. All the ones I could see from the road.
+MAGS: In case of what?
+CORRA: In case she runs out. Then there's two.
+[Nobody says anything to that. Hester wipes her hands on her apron, twice.]
+HESTER: Go on, the pair of you. Fetch Abel. If he won't come, tell him I'll send it out in the cart and Patch can have it.
+BRAM: He'd let her, too.
+[Objective: Walk the crater road.]
+[Skip summary: At five, under the oil ration, the harbor eats supper in daylight at Hester's. Hester has Sera's pie chalked and ready for nine. Mags asks Bram to bring Abel in off the reed beds, where he's tying the leaning reeds up again. Corra, eating on the slate now there's no glass money, has copied Sera's marks onto the pan-house door in case Sera runs out of wall.]
+
+### Scene 4 — The crater road
 [The crater road north between the reed beds, late afternoon. Bram walks with the storm lantern lit, though it's still day. The Keeper walks beside him.]
 [Objective: Walk the crater road.]
 BRAM: Lamp's lit in daylight. Don't say anything. I'm aware.
@@ -249,9 +306,12 @@ BRAM: It's the ration. If I can't burn it after nine, I'll burn it before. That'
 KEEPER: Is that why?
 BRAM: No.
 [They walk. The reeds on both sides lean a little north, toward the crater, with no wind.]
-BRAM: Pie tonight. Hester's crust. She's got the oven going early, on account of nobody's allowed a lamp to eat by.
 BRAM: Whole harbor eating supper at five like the old folk. My nan'd be pleased. She thought dark was for sleeping and nothing else.
 BRAM: She thought that about Tuesdays and all.
+BRAM: My grandad used to say the worst thing about a lighthouse is you see everything coming.
+BRAM: Ships, weather, trouble. Hours before anybody on the quay. And you can't stop a bit of it. You just light up and watch.
+KEEPER: The breakwater's like that.
+BRAM: Aye. You see the water first. I know. I've been seeing it with you.
 KEEPER: Jory found the stub.
 [Bram keeps walking. The lantern swings a little more than it did.]
 BRAM: Did he.
@@ -289,10 +349,10 @@ BRAM: ...Aye. I know whose it is.
 BRAM: I'm not daft. I know whose it is. I just know where she'd take it.
 [Ahead, where the road bends toward the north reed bed, an old man is bent over in the reeds with a mallet. A pony waits on the road with a cart of stakes.]
 BRAM: So. Funny thing about the reed beds.
-BRAM: There's always Abel in them. Evening, Abel!
-[Skip summary: Walking the crater road with the keeper, Bram admits he still has the cut page in his pocket. He cut it with his wick knife and has never found a night to tell Sera; he meant "sideways" to be soft, not five days. He goes down to the slip at three every morning to look at the water, and says she'd go and stand in it. They find Abel in the reed beds.]
+BRAM: There's always Abel in them. Evening, Abel! Mags wants you in!
+[Skip summary: Walking the crater road to fetch Abel, Bram admits he still has the cut page in his pocket. He cut it with his wick knife and has never found a night to tell Sera; he meant "sideways" to be soft, not five days. He goes down to the slip at three every morning to look at the water, and says she'd go and stand in it. They find Abel in the reed beds.]
 
-### Scene 4 — The reed beds, dusk
+### Scene 5 — The reed beds, dusk
 [Boss cutscene.]
 [The north reed bed at the first edge of dusk. Every reed leans the same way, toward the crater. Abel works down a row of them with a mallet and a bundle of stakes, tying each reed upright by hand.]
 [Patch the pony stands on the road with the cart. Bram's lantern comes up beside her.]
@@ -301,7 +361,7 @@ ABEL: Hollis. Keeper. Mind the stakes. I've only so many.
 BRAM: Evening, Abel. Tying them up again?
 ABEL: Every night. They lie down again by morning. I tie them again.
 ABEL: Marsh gives, marsh keeps. Meaning, I don't sleep anyway.
-BRAM: Come in off the bed. It's near dusk. We'll walk you to the pan-house.
+BRAM: Come in off the bed. Mags says. Hester says. I say, and I'm the one with the lamp.
 ABEL: When this row's done.
 KEEPER: Why tie them, if they lean again?
 ABEL: Because they lean again. You don't stop mending a dyke because the sea comes back, child.
@@ -311,6 +371,10 @@ ABEL: You can't eat salt. Not on its own.
 ABEL: Girl cried in my cart all the way back. Didn't say a word. Just cried on the stakes.
 BRAM: I'm sorry, Abel.
 ABEL: Don't be sorry. It's the first sense the council's had. She'll eat on Hester's slate. Everybody does.
+ABEL: Mags put you in the pan book, Keeper. "Under road." I saw it.
+ABEL: Nobody's ever been in the pan book under road. Don't make me cross it out.
+KEEPER: I'll try not to.
+ABEL: Try's a poor word for a marsh. Do.
 [He ties another reed. Patch lifts her head and stamps. Then she backs the cart a step and won't stop staring at the haze over the pans.]
 ABEL: Easy. There's my girl. Easy, Patch.
 ABEL: Don't look up, Hollis. Look at the reeds. Keeper, what's in the reeds?
@@ -351,7 +415,7 @@ ABEL: Don't ask me what, Hollis. I'd have said what.
 ABEL: The reeds knew. That's all I'll say.
 [Skip summary: At dusk in the north reed bed, Abel is tying the leaning reeds upright; the glass stop has left Corra's family with salt instead of money. Plumbs step down out of the haze, and keep coming, until they stand in long straight rows across the whole marsh, twelve paces apart, every faceless head turned toward the old lighthouse. Abel says out loud that they're measuring something, and won't say what.]
 
-### Scene 5 — The crater road, the rows
+### Scene 6 — The crater road, the rows
 [The crater road, last light. Rows of Plumbs stand across the marsh on both sides of the road, and across the road itself, between the reed beds and the headland. Every one faces south.]
 [Footsteps come up the road from town. A tall man in a magistrate's coat, gloved, with no lantern.]
 [Objective: Reach the headland path.]
@@ -375,6 +439,8 @@ ABEL: No. But I am.
 IVO: Then eat, and say nothing. Tomorrow I will have a word for it.
 ABEL: You've always got a word. That's what frightens me.
 IVO: It is the only tool I own, Mr Thorn.
+ABEL: Patch has more tools than you, then. Four feet and sense.
+IVO: She also has the good grace not to speak in council.
 [Ivo turns to Bram. His voice drops.]
 IVO: The town is indoors, Hollis. Lamps out at nine. Nobody on the quay has seen this.
 IVO: If no one carries it into the smokehouse tonight, Saltreach sleeps.
@@ -402,7 +468,7 @@ BRAM: It's not.
 IVO: It is tonight.
 [Skip summary: Ivo walks up the crater road with no lantern because of his own oil ration. Abel tells him the rows are measuring something; Ivo asks him to tell no one else tonight, so the town sleeps. "Someone has to decide what the town carries to bed." Bram, with his hand on his pocket, agrees not to carry it. Seven rows stand between them and the tower, and Bram sets off through them with Ivo and the keeper.]
 
-### Scene 6 — The rows
+### Scene 7 — The rows
 [Boss cutscene, continued.]
 [The crater road where it meets the headland path. A row of Plumbs stands across it, seventeen figures wide, every faceless head to the tower. Behind it, another row. And another.]
 [Bram lifts the lantern. Its light reaches the nearest row and stops at their shins.]
@@ -423,6 +489,18 @@ BRAM: Eleven years of wick! You're not walking through it!
 IVO: Third row. Hollis, wait for it to settle.
 BRAM: I'm not waiting for anything!
 IVO: Then I will wait for you, and say so afterward.
+[Between the second row and the third there are ten paces of open reed. Bram walks them backward, lantern up. Ivo walks beside him.]
+BRAM: Ivo.
+IVO: Hollis.
+BRAM: Does it get easier? Deciding what folk can carry?
+[Ivo looks at him sideways. Bram is looking at the rows.]
+IVO: No.
+IVO: It gets quicker.
+BRAM: That's worse.
+IVO: Yes. That is the part nobody mentions.
+BRAM: You're doing that face where you've already won.
+IVO: It is my only face, Hollis. Tonight I am not certain it fits.
+[Bram's free hand goes to his pocket and away again. Only the Keeper sees.]
 [Third row. It swings faster than the first two. The Keeper's strike lands late, and a long thin arm comes down across Bram's light. The lantern flares and holds.]
 IVO: Faster than the last. I will not guess why.
 BRAM: Don't guess. Count. You're good at counting.
@@ -452,7 +530,42 @@ BRAM: Sera.
 [He runs.]
 [Skip summary: The squad breaks through the rows of Plumbs toward the lighthouse, striking the end of each row as it swings like a gate. At full dark the Belt slides a finger east, which the keeper sights off the tower top, and the lamp-room glass flares gold. Every Plumb stands still facing it, then all of them step back up into the haze. Bram runs for the tower.]
 
-### Scene 7 — The empty marsh
+### Scene 8 — The lamp room, the same minute
+[Cutaway, the same minute. The lamp room at full dark. Sera stands at the glass with the sextant up. The last clean stone is at her feet, the chalk on the sill beside it. Wren stands beside her in Bram's coat.]
+[Out on the marsh, row after pale row of tall figures, every one facing the tower.]
+WREN: They're all looking at us. Sera, are they looking at us?
+SERA: They're facing the tower. Stand back from the glass.
+WREN: Is it rude to look back? I'm looking back. Somebody should.
+SERA: Look at the Belt. The middle star. Over our own roof.
+WREN: How can you see our own roof from inside our own roof?
+SERA: You can't. I know where it is. Twenty-four.
+WREN: Twenty-four. I'll remember it for you. I'm good at numbers now. Am I?
+SERA: Better. Hold still.
+[Wren's shard begins to glow at her throat. Then her hands. Then all of her, gold, so bright the glass throws it back at them.]
+WREN: Sera. I'm doing it again. Is it the itch? It's not the itch. It's bigger than the itch.
+SERA: Twenty-three. Hold still.
+WREN: I'm holding! I'm holding so still!
+[The Belt slides. Gold fills the lamp room to the ceiling. Down on the marsh, every row stands dead still, facing the window.]
+SERA: Twenty-two.
+WREN: The floor's going. Sera, the floor's going further off. Is it meant to?
+SERA: The floor's where it was. Twenty-one.
+WREN: Then it's me going. Is it me? Don't stop counting. If you stop—
+SERA: I'm not stopping.
+SERA: Twenty.
+[The Belt stops. The gold goes out of Wren slowly. The coat that fit her this morning ends above her wrists. Her head is higher against the window bars than it was.]
+WREN: ...Did you count me?
+SERA: I counted the Belt.
+WREN: Oh.
+WREN: That's all right. The Belt's important. It's the most important. Everybody says.
+[Sera kneels at the last clean stone and chalks 20, very small. Her hand isn't quite steady. She looks up at Wren, at the top of her head against the bars, for longer than she looks at the stone.]
+[Below, on the marsh, every row steps backward into the haze at once. Far down the headland path, one lantern is running.]
+WREN: That's Bram. He runs when he's frightened. Is he frightened?
+SERA: He's late.
+WREN: Is late a kind of frightened?
+SERA: For Bram.
+[Skip summary: In the lamp room at the same minute, Sera counts the shift alone with Wren while the Plumb rows face the tower. Wren glows gold and grows as the Belt slides from twenty-four to twenty, and begs Sera not to stop counting. Afterward Wren asks if Sera counted her; Sera says she counted the Belt, and chalks twenty on the last clean stone. Bram's lantern is running up the headland path.]
+
+### Scene 9 — The empty marsh
 [The road, empty now. Bram's lantern is already small and bobbing up the headland path. Ivo stands where the last row stood. Out in the reeds, Abel's mallet starts up again, steady.]
 [Objective: Follow Bram.]
 IVO: He will be up that stair before we reach the path.
@@ -480,13 +593,13 @@ IVO: No. Tell her nothing from me. She would not want it.
 [He walks back toward town, without a lantern, at the same even pace he came.]
 [Skip summary: With the marsh empty again, Ivo won't say what the gold window was, and says the town was told not to look. Abel points out that every Plumb stood still for it. Ivo starts to send Sera a message, then stops himself, and sends the keeper up the tower after Bram.]
 
-### Scene 8 — The lamp room, after
+### Scene 10 — The lamp room, after
 [The lamp room. Sera stands at the wall with chalk in her hand and the sextant at her hip. Wren is by the glass. The last of a gold glow is going off her like heat off a stone.]
 [The coat that fit her this morning stops short. Both sleeves end above her wrists.]
 [Bram comes up the last turn of the stair with the lantern, out of breath, and stops in the doorway.]
 [Objective: Mark the last stone.]
 BRAM: Everyone still here?
-SERA: Twenty-four. Twenty. Hold still, I'm writing.
+SERA: Twenty-four. Twenty. It's on the stone.
 WREN: Bram! Bram, I'm bigger than the lantern now!
 BRAM: Then you'd better stay where I can see you, Sparrow.
 [He puts the lantern down and reaches for her cuffs out of habit, to roll them. There's nothing to roll. He tugs them down instead. They don't reach her wrists.]
@@ -499,18 +612,19 @@ SERA: Keeper. Hand.
 [The Keeper holds out a hand. "1 finger", in chalk, smudged from the stair rail.]
 SERA: A finger. Off the tower top.
 SERA: Twenty-four to twenty is four. A finger's four. Same as mine.
-[She kneels and chalks it on the last clean stone, beside her own 20, very small. Then she sits back on her heels.]
+[She kneels and chalks it on the last clean stone, beside her own 20, smaller still. Then she sits back on her heels.]
 [There is no clean stone anywhere on the wall.]
 SERA: That's the stone.
 BRAM: Full?
 SERA: Full.
 [Nobody says anything. Wren comes and stands by the wall anyway, as straight as she can, toes against it.]
-WREN: Did you see it from the marsh? It went all gold up here. I went bright.
-WREN: Sera said hold still, so I held so still. And the floor went further off.
-WREN: Is that what tall is? The floor leaving?
+WREN: Did you see it from the marsh? It went all gold up here.
 KEEPER: We saw the window.
 WREN: Was it pretty from down there? I've never seen me from down there.
-[Bram doesn't answer that. He looks at the gold fading on the glass where she stood.]
+[Bram looks at the gold fading on the glass where she stood.]
+BRAM: It was bright, Sparrow. Brightest thing on the marsh.
+WREN: The floor went further off. Bram, is that what tall is? The floor leaving?
+BRAM: It's what it is tonight, love.
 SERA: She lit at twenty-three. Out at twenty. Sixty-one seconds.
 WREN: You counted me! Bram, she counted me!
 SERA: The light was in my sextant. I counted what was in it.
@@ -545,7 +659,7 @@ WREN: Somebody's coming up. They stamped on the ninth. Is that Hester? Hester st
 BRAM: That's not Hester.
 [Skip summary: In the lamp room after the shift, Wren is taller again: the coat sleeves stop above her wrists, and Bram calls her Sparrow. Sera says Wren lit gold for sixty-one seconds, and starts to say how far she grew until Bram stops her. Sera chalks her count and the keeper's on the last clean stone: twenty-four to twenty, a finger. The wall is full. She asks for the breakwater log next, every gauge since the bar. Someone is coming up the stair.]
 
-### Scene 9 — The cut leaf
+### Scene 11 — The cut leaf
 [Jory comes up the last turn with the breakwater log under his arm. He has never been up here. He stops in the doorway and looks at the wall, the way people look at the sea.]
 JORY: Not my business. Don't anybody make a thing of it.
 BRAM: Jory Flint. Up the dead light. Your father'd have—
@@ -555,6 +669,9 @@ SERA: That's the breakwater log.
 JORY: It is.
 SERA: I was sending for it.
 JORY: Then I've saved you a stair.
+SERA: You're the old keeper's boy.
+JORY: I'm Jory.
+SERA: Jory.
 [He doesn't hand it to her. He looks at the Keeper.]
 JORY: Keeper. I told you this afternoon. Somebody's walking round with a page of this.
 JORY: Saw your window go gold from the breakwater. Thought, that's her wall done.
@@ -590,7 +707,7 @@ BRAM: Go on, love.
 [Wren goes. On the stair her voice starts counting, "One, two," going down.]
 [Skip summary: Jory climbs the lighthouse for the first time with the breakwater log, because he won't have the light's book called a liar's book. He reads Sera the stitching: one leaf from the night of the bar, cut close with a steady hand. When Sera asks the keeper what was at three o'clock, the keeper looks at Bram, and Bram takes the folded page out of his oilskin pocket and hands it to her. He sends Wren down the stair with Jory.]
 
-### Scene 10 — The quarrel
+### Scene 12 — The quarrel
 [No music. The background track cuts out as Sera unfolds the leaf, and does not come back for this scene. Under the dialogue there is only the wind on the glass, and once, the stair.]
 [Sera reads it standing, by the full wall.]
 SERA: "Three a.m. Gauge two hours forty ahead, and rising. Tables not usable."
@@ -619,6 +736,10 @@ BRAM: "Yes." Hear her. Yes.
 SERA: Yes. That's my work. That's the whole of my work.
 BRAM: I saw the bar that night, Sera. I saw what it did to *Patience*, and she's a big boat.
 BRAM: You're not a big boat. You're one woman with a stick.
+BRAM: I stood on that breakwater and watched the keeper write "rising", and all I could see was you.
+BRAM: Down at the bar with your coat floating round you, and that sextant, calling numbers at the water.
+SERA: I'd have had it to the minute.
+BRAM: You'd have had it to the minute and been under it by the next.
 SERA: So you decided.
 BRAM: Somebody had to decide. That night it was me.
 SERA: You decided what I could stand.
@@ -661,6 +782,8 @@ SERA: Nobody asked you to hold it.
 BRAM: No. Nobody ever asked.
 BRAM: Eleven years nobody's asked me to hold anything. I do it anyway.
 SERA: Then that's yours too.
+SERA: Keep your voice down. Wren's on the stair.
+BRAM: Now you remember she's on the stair.
 [Bram takes a breath. When he speaks again his voice is low and quick, and he doesn't stop.]
 BRAM: You chalked her on that wall last night. Like a tide.
 BRAM: Stood her against the stone and drew a line over her head, and wrote it down.
@@ -700,7 +823,7 @@ BRAM: The keeper's all right, Sera. Don't put this on the keeper. It's mine.
 [Sera stands with the leaf in her hand and doesn't move until it's gone.]
 [Skip summary: With no music, Sera reads the hidden page aloud: "Three a.m. Gauge two hours forty ahead, and rising. Tables not usable." It's the keeper's hand. Bram says he cut it the night of the bar to keep her off the slips, and that he'd rather have her wrong and safe than right and drowned. Sera says he decided what she could stand, that the last clean stone is gone and this isn't on it, and that the keeper held her chalk and said nothing. She tells Bram to go and keep a light for a tower nobody uses. He takes his lantern and goes.]
 
-### Scene 11 — The stair
+### Scene 13 — The stair
 [The spiral stair, halfway down. Wren sits on a step with her knees up and the short coat pulled over them. Far below, Bram's lantern goes round the last turns and out of the door.]
 [The Keeper comes down from above. Wren doesn't look up.]
 [Objective: Go after Bram.]
@@ -734,7 +857,7 @@ WREN: Go on. I'll count you down. Out loud. So somebody knows where you are.
 [The Keeper goes down. Behind them, Wren's voice starts counting, steady, all the way to the bottom.]
 [Skip summary: Halfway down the stair, Wren sits in the middle, where she could hear both of them. She stopped counting when the quarrel started. She wonders whether it was her fault, and whether she can be a reading and a Wren at once. She sends the keeper after Bram and counts them down the stair.]
 
-### Scene 12 — The smokehouse
+### Scene 14 — The smokehouse, late
 [Hester's smokehouse after supper. The benches are empty and every lamp is out by the council's ration, but the fires are banked and glowing, so the long room is red. Hester stands at the hearth with her iron fire-hook.]
 [On the side table, one lidded pot is left. SERA is chalked on the lid. Bram stands in the doorway with his lantern. The Keeper comes in behind him.]
 HESTER: Bram Hollis. You're late, you're on your own, and you've a face like a gutted cod.
@@ -754,6 +877,11 @@ HESTER: Course he is.
 HESTER: You kept a number off Sera Vant. You. You couldn't keep a herring off a gull.
 BRAM: I kept it five days.
 HESTER: Then you're better at it than I'd have liked.
+HESTER: Did she eat tonight?
+BRAM: No.
+HESTER: Did she throw anything?
+BRAM: Words.
+HESTER: Words don't break. Pots break. You've still got the pot to take her.
 [She sits down across from him. She doesn't usually sit.]
 HESTER: Why?
 BRAM: She'd have gone and stood in it.
@@ -782,7 +910,7 @@ HESTER: Then bring the pot back. Pots are on the slate.
 HESTER: And take a heel of bread out to the Flint boy. He'll not ask. Never has.
 [Skip summary: At the smokehouse, lit only by the banked fires under the oil ration, Hester gets the truth out of Bram: he hid a number from Sera for five days to stop her standing in the tide. Hester tells him that isn't his to stop, and that Sera's wrong about one thing: the tower has her in it. She puts both him and the keeper on the slate, and sends Bram up the tower with the pot of pie that has Sera's name on the lid.]
 
-### Scene 13 — The breakwater, night
+### Scene 15 — The breakwater, night
 [The breakwater after nine. Behind it the whole town is dark. In all of Saltreach only two lights burn: the breakwater lamp, and one storm lantern coming down the quay.]
 [Tam sits on the step of the lamp housing with his bandaged hands in his lap. Jory leans on the rail. Bram comes up with the lantern, the pot under one arm and a heel of bread in his hand.]
 TAM: Keeper. I'm minding it with my elbows. It's going well.
@@ -803,6 +931,11 @@ BRAM: I thought about it. On the path. You're very light. It'd have been easy.
 BRAM: Then I thought, who'd do Tam's nets.
 TAM: He does them terribly, Bram.
 BRAM: I know. I've seen them. I'd not wish that on a herring.
+JORY: Town read my family once. Took them two weeks to write us down. "Gone south." Two words.
+JORY: I wasn't having this book go the same way. That's all. Not my business.
+BRAM: I knew the old keeper, Jory. He trimmed a good wick.
+JORY: ...He did.
+[Jory looks at the lamp. It's lit.]
 [Bram sets the pot down and takes a coil of new wick out of his coat. He starts trimming the lantern.]
 TAM: That's new wick.
 BRAM: She bought it me. Twelve days after I said mine was short. Twelve days. She counted.
@@ -819,10 +952,12 @@ BRAM: Then she'll have thrown her supper. It's still supper. It still went up.
 JORY: That's daft.
 BRAM: I'm not stopping on the one night she'd notice.
 [He picks up the pot and the lantern.]
+TAM: I could come up. I can't carry. I can open doors with my feet.
+BRAM: Stay with your elbows, Tam. They're doing grand.
 BRAM: Keeper. Walk up with me. I'll not ask you to say anything. I've done enough asking.
 [Skip summary: On the dark breakwater, Tam is minding the lamp with his bandaged hands while Jory waits for Bram to be angry. Bram brings him bread from Hester and tells him he did right. He trims his lantern with the wick Sera bought him, and takes her supper up the tower anyway: "It's still supper. It still went up."]
 
-### Scene 14 — The lamp room, late
+### Scene 16 — The lamp room, late
 [The lamp room near midnight. No lamp; the ration reaches up here too. Moonlight on the glass, and the full wall pale in it.]
 [Sera sits on the floor against the wall with the leaf in her lap. Wren is asleep on the top step, half in the room and half on the stair, the short coat over her knees and her bare ankles out of it.]
 [Bram comes up the last turn with the pot and the lantern. He steps over Wren carefully, the way you step over a sleeping dog.]
@@ -847,7 +982,16 @@ KEEPER: "She'll go and stand in it."
 SERA: I would have.
 SERA: Up to my waist. With a pole. I'd have had it to the minute by four.
 [On the top step, Wren stirs without waking and pulls her bare ankles in. The coat won't cover them.]
-[Sera gets up. She takes off her surveyor's coat, crosses to the stair, and lays it over Wren's feet. She stands there a moment. Then she comes back to the wall.]
+[Sera gets up. She takes off her surveyor's coat, crosses to the stair, and lays it over Wren's feet. She stands there a moment.]
+[Under the coat, Wren half wakes.]
+WREN: Sera? Is it still the middle?
+SERA: Go to sleep.
+WREN: Did you count me tonight? Really?
+SERA: Sixty-one seconds.
+WREN: Is that good?
+SERA: ...It's exact.
+WREN: Exact. That's better than a lot.
+[She's asleep again before the end of it. Sera comes back to the wall.]
 KEEPER: You measured her tonight.
 SERA: I counted what was in the sextant.
 SERA: I put the chalk away. You saw.
