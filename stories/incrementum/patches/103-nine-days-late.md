@@ -366,12 +366,12 @@ MAGS: That's past the reeds, Corra. That's the bowl side. We've just said.
 CORRA: It's the bank. It's not the bowl. It's a foot of water.
 SERA: Corra. Don't.
 SERA: It hasn't moved in how long, Abel?
-ABEL: Since sun-up. Six hours.
+ABEL: Since sun-up. Five hours.
 SERA: Then don't be the thing that changes.
 KEEPER: What happens if we wait?
 ABEL: Tide turns at four. Channel fills. It stands in the deep instead. Then nobody crosses till morning.
 MAGS: And we lose the afternoon, and the afternoon's my wages. Everybody's wages.
-SERA: Then we lose the afternoon. It's six hours of standing still. I'd like to know what seven looks like.
+SERA: Then we lose the afternoon. It's five hours of standing still. I'd like to know what six looks like.
 KEEPER: Has anyone touched it?
 ABEL: Dunn boy threw a clod at one Tuesday. Out by the far pans.
 ABEL: It turned round. That's all I'll say about Tuesday. He's not thrown a clod since.
@@ -455,7 +455,6 @@ SERA: Nobody out here will give me a number.
 KEEPER: I gave you thirty-two.
 SERA: You held the line. That's half of thirty-two.
 SERA: It's the better half. I can't hold both ends.
-[Corra has come up behind them. She stays at the edge of the glass, well back, and doesn't look down into it.]
 [The Keeper goes to the reed line where Abel stands. He doesn't look round.]
 ABEL: You've a council coat and an honest face. That's a bad mix out here.
 KEEPER: Why?
@@ -466,6 +465,7 @@ ABEL: I've said. They leaned. Then it came down where they were pointing.
 ABEL: That's all I saw. That's all I'll say. Ask me again, I'll say it the same.
 [He turns Patch's head away from the bowl, gently, with one hand.]
 ABEL: There's my girl. Don't look. Nothing in there for you.
+[Corra has come up behind them. She stays at the edge of the glass, well back, and doesn't look down into it.]
 CORRA: Sera. Can I ask something? Not about glass.
 SERA: Ask.
 CORRA: The girl. In there. That night. Is she all right?
@@ -566,8 +566,8 @@ IVO: Keeper. You have the mail.
 IVO: You also have salt on your boots, which is not the way from the breakwater.
 KEEPER: Mags asked for a council coat.
 IVO: She asked twice. I declined twice. Persistence is a virtue in salt. It is less of one in a harbor.
-[He takes the bag, checks the seal, and hands it on to the packet clerk without opening it.]
-IVO: Sleep is also a virtue, Keeper. You light the lamp in four hours.
+[He takes the bag, checks the seal, and sets it on the step beside him without opening it.]
+IVO: Sleep is also a virtue, Keeper. You light the lamp in three hours.
 KEEPER: Abel's coming to see you.
 IVO: Mr Thorn has been coming to see me since before you were born. He comes once a year. It is usually about drains.
 KEEPER: It isn't about drains.
@@ -850,7 +850,7 @@ CORRA: That's still counting!
 [The north road back toward the harbor, the sun low and red over the reeds. Corra walks fast beside the Keeper, the shilling in her fist.]
 [Objective: Get back to the breakwater before dusk.]
 CORRA: Cobbler shuts at six. If I run, I get Mum's boots tonight. Proper ones. Not patched.
-CORRA: Two shillings, they are. I've got one and nine. And then tomorrow, the pan...
+CORRA: Two shillings, they are. I've got two and a bit, and half of it's Mags's. And then tomorrow, the pan...
 [She stops talking. She walks a few steps with her fist shut tight.]
 KEEPER: What is it?
 CORRA: He didn't haggle, Keep. Everybody haggles. Hester haggles with the tide.
@@ -865,7 +865,7 @@ CORRA: Don't tell Abel. He'll be right, and he'll be kind about it, and that's w
 CORRA: He put his coat on me. In the channel. Did you see? Like I was Patch.
 KEEPER: I saw.
 CORRA: It smelt of pony. I didn't give it back. I've still got it on. Look.
-[She holds out one arm. The old smock sleeve hangs to her knuckles.]
+[She holds out one arm. The old coat's sleeve hangs past her knuckles.]
 CORRA: I'll give it back tomorrow. When he's stopped being right.
 KEEPER: And Sera?
 CORRA: ...You can tell Sera I counted.
@@ -943,9 +943,9 @@ BRAM: That's a good line, love. Keep that one. That's better than the fish.
 WREN: But I want the fish one. Fish are what he likes. He's got fish on his face.
 BRAM: He's got what?
 WREN: You know. That face. Like a fish that's been told something.
-[Bram laughs so hard he has to put the pot down.]
+[Bram laughs so hard he has to sit down on the wall.]
 BRAM: Don't tell him that one. Promise me. Save it for when I'm there.
-[Bram laughs, then looks along the harbor road toward the customs house, where one window is still lit.]
+[Bram wipes his eyes, then looks along the harbor road toward the customs house, where one window is still lit.]
 BRAM: There's a buyer in the room over the smokehouse, Hester says. Bellwater man.
 BRAM: Paid in advance. Coins on the counter. Hester's furious. Says nobody pays, it's not how the book works.
 WREN: Can I meet him? Is a buyer a kind of fish?
@@ -1028,7 +1028,7 @@ KEEPER: One o'clock. Wind nil.
 IVO: Good morning, Keeper. Or a very late night. I have never been sure where the line is.
 IVO: Your lamp is very bright.
 IVO: From the marsh, it is the only thing in Saltreach looking back.
-KEEPER: You saw me.
+KEEPER: You knew I was watching.
 IVO: I saw the glass on its hook move. The council paid for that glass. It is a good one.
 IVO: You saw me.
 [Choice a: "I saw you."]
@@ -1094,7 +1094,7 @@ IVO: Goodnight, Keeper. Mind your lamp at dusk.
 ## Review
 
 ### Mechanical check (`check_script.py --budget 6750-13500`)
-15 scenes, 733 dialogue lines, **7,082 spoken words**, average line 9.7 words, no line over the 40-word cap, every scene has a skip summary. OK, no warnings.
+15 scenes, 733 dialogue lines, **7,090 spoken words**, average line 9.7 words, no line over the 40-word cap, every scene has a skip summary. OK, no warnings.
 - About 31 minutes of reading at 225 wpm, plus two stage battles: inside the VN main-chapter range (30-60 min).
 - The first pass came in at 4,386 words, because the clipped voices ran short. I deepened by playing beats instead of stating them, not by lengthening lines: Corra's customers and her mum's sleep; Sera's three sides and "Fewer is a number"; Mags on the night of the fall; Corra and Abel on rent and her mother; the Dunn boy's clod and the tide at four; Abel's coat on Corra; Sera on numbers nobody believes; dinner (the hens, Mags's sister); Abel's one speech a year; Ivo's "fog stands up in a marsh"; Teodor on fair people, his lodging, the second piece, Corra's pan; the walk talk at the ford; a new scene 12 where Corra counts to four hundred aloud; Bram on Ivo's habit of posting a coat; Pell's pots by the chimney (which pays off in Ivo's last scene); Ivo on the emptied port.
 - Average 9.7, near patch 000's 9.9 and a little under the 10-15 the brief gives. That's the house understatement. I didn't pad lines to raise it.
