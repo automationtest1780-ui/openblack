@@ -20,7 +20,7 @@ Structure notes: `structure-notes.md`. Incrementum's own structure settings that
 ### Protagonist role
 - **The new keeper of the breakwater light.** The council hired them this season, after the last keeper's family left in the bad year. They're new to Saltreach and know nobody. Characters call them "Keeper". Unnamed, no set gender, no backstory beyond this.
 - Speaks little: questions, choices, short commitments. Not voiced. A catalyst: never worshipped, never the star (gacha 5).
-- Why they're there: they work nights watching the sea, so they saw the light fall from the breakwater.
+- Why they're there: on their first night (night three), Pell sent them up the old lighthouse with his bearing, so they were in the lamp room with Sera when the light fell. Their own lamp burned unwatched, and Nell steered home by it.
 - Thematic job: the **second witness**. "Hold the chalk" makes them the person who shares Sera's count. Cosmology rule 2 says a shared count holds more, and Sera's fear is being the only one who believes.
 - (Claude, 2026-10-06, on the user's delegation. See open question 9.)
 
