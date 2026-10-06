@@ -111,8 +111,8 @@ Deviations: (1) Scenes 9, 10 and 11 run heavy three in a row (the shift, the dre
 ## Script
 
 ### Scene 1 — The lamp room, morning
-[Grey morning. Rain-dark glass. The chalk wall is full except for the bottom course by the door, where a new mark sits, small: 28.]
-[SERA sits against the wall with her tide book on her knees. Every column on the open page is struck through. Under the window, a heap of coat stirs.]
+[Morning, later. Rain-dark glass. The chalk wall is full except for the bottom course by the door, where the newest marks sit: 28, larger than the rest, and beside it "2.10".]
+[SERA sits against the wall with her tide book on her knees, a blanket round her. Every column on the open page is struck through. Bram's lantern burns on the cradle step; Bram and the Keeper have gone down for bread. Under the window, a heap of coat stirs.]
 [Objective: See what's changed.]
 WREN: Sera? Sera, is it morning? It smells like morning.
 SERA: It's morning.
@@ -121,6 +121,7 @@ SERA: Two things.
 WREN: Two! Which two? Good ones?
 SERA: Last night the tide came in two hours and ten minutes early.
 SERA: Then at two in the morning, the Belt moved. Thirty-two to twenty-eight.
+SERA: Then I slept through the morning turn. Bram let me. That's three.
 WREN: Without me? I slept through the whole sky?
 [WREN sits up. The coat falls off her shoulders. Her legs come out from under it, a long way.]
 [She stands. The hem that brushed her ankles hangs at her shins. Her head is past the third bar of the window frame, nearly at the fourth.]
@@ -155,7 +156,7 @@ WREN: Did I grow in my sleep? Can you do that? Is that allowed?
 SERA: I don't know what's allowed. I know when.
 WREN: When's good! When's half of it! Bram says when's the half of a supper that matters.
 [Footsteps on the stair, slow and heavy. Two sets.]
-[BRAM comes up the last turn with a loaf under his arm. His oilskin is still wet. The Keeper comes up behind him.]
+[BRAM comes up the last turn with a loaf from the baker's under his arm. His oilskin is still damp from the night. The Keeper comes up behind him.]
 BRAM: Bread, still warm, and a keeper, still damp. Nell's in. Patience is in. Everybody's—
 [He sees Wren. He stops on the top step.]
 WREN: Bram! Bram, look! I'm bigger than the lantern now!
@@ -298,9 +299,13 @@ TAM: Like a step. Ninth one, probably. Grumpy, but you'd miss it.
 [Skip summary: Wren races down the quay, jumping bollards she used to walk round, and the harbor stops to stare; children don't believe she's Bram's girl, and Hester calls her a long article and wants a word with the keeper later. On the net-loft stair Wren shows Tam she can touch the top of the door frame. Tam promises to teach her a mending knot at dusk on the stair, the day after tomorrow.]
 
 ### Scene 3 — The crater road, dusk
-[The marsh road north at dusk. Reeds on both sides, leaning. BRAM walks with the storm lantern lit. WREN walks beside him. The Keeper walks a step behind.]
-[Behind them, high on the headland, a small light climbs the dark tower: Sera, going up to count.]
+[The marsh road north, just after dusk. Reeds on both sides, leaning. BRAM walks with the storm lantern lit. WREN walks beside him. The Keeper, up from the breakwater, walks a step behind.]
+[Behind them, the breakwater lamp is lit, and a figure sits on the far bollard beside it. High on the headland, a small light shows in the lamp room: Sera, counting.]
 [Objective: Walk the crater road.]
+BRAM: Lamp lit?
+KEEPER: Lit. Jory's on it.
+BRAM: Good. Jory's good on a lamp. Better than he lets on.
+[He says it to the road ahead.]
 WREN: Bram. Bram, look at my feet.
 BRAM: I'm looking at the road, love. Road's the job.
 WREN: I'm walking your walk! I don't have to run to keep up! I've had to run since the crater!
@@ -1174,12 +1179,12 @@ SERA: Twenty-four. I'll look.
 
 ### Mechanical check (`check_script.py --budget 6750-13500`)
 ```
-Scenes: 14   Dialogue lines: 771   Spoken words: 6916
+Scenes: 14   Dialogue lines: 775   Spoken words: 6945
 Speaking roles: 14 (ABEL, ADA, BRAM, CHILD, CORRA, HESTER, JORY, KEEPER, MAGS, NELL, SERA, TAM, WOMAN, WREN)
 Average line: 9.0 words (target under 15)
-   1. The lamp room, morning      67 lines  626 words
+   1. The lamp room, morning      68 lines  638 words
    2. The quay, the loft stair    70 lines  653 words
-   3. The crater road, dusk       47 lines  452 words
+   3. The crater road, dusk       50 lines  469 words
    4. The marsh road, home        41 lines  447 words
    5. The smokehouse, noon        53 lines  563 words
    6. The slip                    49 lines  437 words
@@ -1194,7 +1199,7 @@ Average line: 9.0 words (target under 15)
 OK
 ```
 - About 31 minutes of reading at 225 wpm, plus two battles and one CG. Inside the VN main-chapter range (6,750-13,500) and the brief's 6,800-7,500 aim.
-- The first full draft came in at 4,609 words. I deepened it by playing beats, not lengthening lines: Wren at the window seeing the boats in; Bram's sideways "the sea came up to say hello"; Wren greeting Ada at the gutting table; the tops of people's heads; Mags's book ("long one"); a whole new scene for Bram on the walk home (his first lamp, Wren's question about the keeper); Hester reading Bram's face; Corra's spoon joke and the warm shard; Wren offering to hold the chalk; Jory and Tam on "leave it"; Nell, the rhyme and Hester shouting on the stair before the lesson; "Not in the middle"; Hester and Nell on Tam's boyhood bet; the women's grans; Wren running and shouting in the lanes; Nell and Abel in the lanes; "Will I stop?" on the steps; Bram and Sera on where he was. Six short same-speaker pairs were merged to bring the average line to 9.0. No line is over 25 words; nothing is near the 40 cap.
+- The first full draft came in at 4,609 words. I deepened it by playing beats, not lengthening lines: Wren at the window seeing the boats in; Bram's sideways "the sea came up to say hello"; Wren greeting Ada at the gutting table; the tops of people's heads; Mags's book ("long one"); a whole new scene for Bram on the walk home (his first lamp, Wren's question about the keeper); Hester reading Bram's face; Corra's spoon joke and the warm shard; Wren offering to hold the chalk; Jory and Tam on "leave it"; Nell, the rhyme and Hester shouting on the stair before the lesson; "Not in the middle"; Hester and Nell on Tam's boyhood bet; the women's grans; Wren running and shouting in the lanes; Nell and Abel in the lanes; "Will I stop?" on the steps; Bram and Sera on where he was. Six short same-speaker pairs were merged to bring the average line to 9.0. After 201 and 203 landed, scenes 1 and 3 were aligned with them: Bram and the keeper go down for bread and come back (201 leaves them in the lamp room at first light), the wall shows 28 and "2.10", Sera slept through the morning turn, and the keeper lights the breakwater lamp before the dusk patrol, with Jory on it. No line is over 25 words; nothing is near the 40 cap.
 
 ### Gacha 15: hard rules
 - * Can someone who owns none of these heroes follow the main story? **Yes.** Wren, Bram and Sera are free starters and carry every decision. Tam, Hester, Nell, Corra, Mags, Abel and Jory appear as NPCs. The only launch-hero action inside a battle (Nell's boathook, scene 11) is a stage direction, as in 101 and 104; nobody needs to field her.
@@ -1212,7 +1217,7 @@ OK
 - Button a feeling or a fact, not a trailer? **Feeling.** Wren asks Sera to look for her, and Sera says she will. It points at 2-3 (Sera's "Tomorrow" is the height mark) without withholding this chapter's point. The burn, the growth and the saying are all delivered before it.
 - Bench-hero scene? **Yes.** Corra gets scene 6. Mags (3), Jory (8, 13) and Abel (11) get appearances.
 - Free story cast matters? **Yes.** Wren and Bram carry the chapter; Sera opens, closes and turns the middle (scene 7).
-- Within budget? **Yes.** 6,916 of 6,750-13,500.
+- Within budget? **Yes.** 6,945 of 6,750-13,500.
 
 ### Gacha 15: craft
 - Jargon budget: **no new terms.** Plumbs, Glass Hounds, Crater Patrol and the Belt are established. "Don't look up after supper" is a saying in plain words, shown where it starts. One new proper name: Ada Marr (seen at the gutting table before she's named). "Old Mrs Cole" is a single mention in Hester's gossip.
