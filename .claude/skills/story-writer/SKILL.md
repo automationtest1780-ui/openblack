@@ -17,8 +17,13 @@ Write story content governed by a **bible** (a normative style and structure spe
 └── scripts/check_script.py   # mechanical checks on a finished script
 
 stories/<project>/        # one folder per world, at the repo root
-└── project.md            # names the bible, holds premise + tone; other files depend on the bible
+├── project.md            # names the bible and world bible, precedence, premise, tone, project review checks
+├── world-bible.md        # optional: the user's own canon document for this world, kept verbatim
+├── open-questions.md     # things neither bible settles; the place for unknowns instead of inventing them
+└── ...                   # other files depend on the bible (sheets, ledger, index, written pieces)
 ```
+
+There are two kinds of bible. A **style bible** (in `bibles/`) is reusable across worlds and governs craft. A **world bible** (in the project folder) is the user's canon for one world: its facts, characters, reveal schedule, and often its own rules. The project's `project.md` states which wins where. When it doesn't say, the world bible wins on facts about the world, the style bible wins on craft, and a real conflict goes to the user.
 
 ## Workflow
 
@@ -33,12 +38,15 @@ stories/<project>/        # one folder per world, at the repo root
 
 Read `project.md` and the project's index of released content, then only the state files the request involves: the characters who appear, the ledger, and any earlier content the request refers back to. Don't read every file for a single bond scene, but always read the ledger when writing anything with canon weight, since locked facts there can't be contradicted.
 
+If the project has a world bible, read the sections for every character and place involved, not just the derived sheets. The sheets are summaries and can lag behind. Check reveal timing too. Many worlds schedule what players learn and when, so a fact the writer knows may be one a character can't say yet. A line that leaks a later reveal is a continuity error even if the fact is true.
+
 ### 3. Check for missing inputs
 
 Bibles usually require some sheets to be filled before writing (for example, the gacha bible refuses to write a character's story if their sheet has empty fields). When something required is missing:
 
 - If the user gave enough to fill it, fill it, write it to the project, and tell them what you assumed.
-- If filling it means inventing something that matters (a wound, a faction, a locked fact), draft a proposal, mark it `Status: proposed`, and ask before building a story on it. The user owns their canon. Small, low-stakes details you may invent freely, then mention them.
+- If filling it means inventing something that matters (a wound, a faction, a locked fact), draft a proposal, mark it `Status: proposed`, add it to `open-questions.md`, and ask before building a story on it. The user owns their canon.
+- Small local color (a minor NPC's name, what's for supper) you may invent freely and mention, unless the project's invention policy says otherwise. Some world bibles ask for unknowns to stay mysterious on screen. Follow that: write around the gap, and log it as an open question.
 
 ### 4. Write in the bible's order
 
@@ -58,7 +66,7 @@ Speaker names are uppercase followed by a colon. Stage directions go in square b
 ### 5. Review before you hand it over
 
 1. Run `python3 .claude/skills/story-writer/scripts/check_script.py <file>` (pass `--budget MIN-MAX` for the bible's word range for this layer). It reports spoken word count, scene count, overlong lines, and the average line length. Fix what it flags.
-2. Run the bible's own review checklist honestly (the gacha bible's is section 11.3, "Rejection pass"). Record the answers in the output file. Where the bible says a "no" means a rewrite, rewrite the scene; don't just annotate it.
+2. Run the bible's own review checklist honestly (the gacha bible's is section 11.3, "Rejection pass"), plus any "project review additions" in `project.md`. Record the answers in the output file. Where the bible says a "no" means a rewrite, rewrite the scene; don't just annotate it.
 3. Reread one scene aloud in your head as each speaking character. If two characters could trade lines, the voices need work.
 
 ### 6. Save and update canon
@@ -77,7 +85,13 @@ The bibles are normative: the user wrote them so that requests get held to them.
 
 1. Ask for (or take from the conversation) the project name, premise, and whatever the bible's setup section requires.
 2. Copy `templates/<bible>/` to `stories/<project-slug>/` and fill in what you know. Leave unknown fields as clearly marked `TODO`s rather than inventing canon.
-3. Show the user the filled-in `project.md` before writing story content.
+3. If the user supplies a world bible, save it verbatim as `world-bible.md`, then build the derived files from it:
+   - In `project.md`: precedence between the two bibles, the world's invention policy, its tone rules, and a "project review additions" list. That list holds every rule in the world bible that a draft could break (reveal timing, silent enemies, act-specific voice and so on).
+   - Character sheets: fill each field from the world bible. Tag anything you inferred as derived and anything with no source as *proposed*. Point back to the world bible section.
+   - Ledger: seed it with the world's facts, including when each may be revealed.
+   - Open questions: copy the world bible's own open questions, and add the gaps the style bible needs filled that the world bible doesn't answer.
+   - Where the two bibles disagree, note it in `project.md` and ask the user rather than silently picking one.
+4. Show the user the filled-in `project.md` and the open questions before writing story content.
 
 ## Adding a bible
 
