@@ -110,9 +110,9 @@ Deviations: (1) Two battles in eight stages, both at the evening tide (stages 6 
 ## Script
 
 ### Scene 1 — The lamp room, morning
-[Morning on the salt-stained glass. The chalk wall is full to the floor except for one course of stone at the bottom, by the door. Its first entry is a small "19".]
+[Morning on the salt-stained glass. The chalk wall is full to the floor except for one course of stone at the bottom, by the door. Its entries run from a small "19" to last night's "24", and then clean stone.]
 [SERA kneels at the bottom course with her tide book open, writing nothing. WREN stands at the glass in Bram's coat. It fits her now: cuffs at her wrists, no rolls.]
-[The Keeper comes up the last turn of the stair with the breakwater logbook under one arm and a folded note in one hand.]
+[The Keeper comes up the last turn of the stair with a folded note in one hand.]
 [Objective: Go down to the customs house by ten.]
 WREN: Keeper! You're up! Did the lamp gutter? Was it four again?
 KEEPER: Four.
@@ -697,9 +697,9 @@ WREN: I'll count it next time. I promise. I'll count it all the way.
 WREN: Is there a next time? There is, isn't there?
 [Nobody answers her.]
 SERA: Keeper. Three o'clock isn't enough now. Read the gauge at dusk as well. Every dusk.
-KEEPER: It came in at dusk tonight. With a haze on it.
-SERA: At dusk. The table says nine. That's hours.
-SERA: Write it at dusk, and at three. Both. I'll want every one.
+KEEPER: It came in early tonight. With a haze on it.
+SERA: Then time the turn. Dusk, and three. Both, in minutes.
+SERA: When the wall's done, I'll want every one.
 [BRAM picks up the lantern. He trims the wick, though it doesn't need it.]
 BRAM: So. Funny thing about supper. Hester's sent stew, and if it gets cold she'll know, because she always knows.
 SERA: I didn't say anything about supper.
@@ -863,7 +863,7 @@ MOTHER: Don't look up after supper. Don't look.
 [The tall one turns its faceless head toward the shut shutter. Then it lifts its foot toward the first step of the stair.]
 BRAM: No you don't!
 [BRAM throws himself and the lantern onto the bottom step. The tall one strikes. The light flares white. Bram's boots slide on the wet wood.]
-BRAM: Eleven years! Earn it!
+BRAM: Hold, you old thing! Hold!
 IVO: Hollis cannot hold that alone. Not for long. A minute. Less.
 SERA: Bram. Tell him it took four beats to settle, at the bend.
 BRAM: Tell him yourself! I'm a bit busy being a door!
@@ -1039,9 +1039,9 @@ BRAM: ...Eat your supper, Sparrow.
 
 ## Review
 
-### Mechanical check (`check_script.py --budget 6750-13500`)
+### Mechanical check (re-run after the continuity pass, 2026-10-06; per-scene rows may predate it) (`check_script.py --budget 6750-13500`)
 ```
-Scenes: 15   Dialogue lines: 666   Spoken words: 6883
+Scenes: 15   Dialogue lines: 666   Spoken words: 6881
 Speaking roles: 23 (ABEL, ADA, BRAM, CHANDLER, CHILD, CORRA, CUTTER, DECKHAND, DUNN BOY, FERRIS, GAGE, HARBORMASTER, HESTER, IVO, KEEPER, MAGS, MOTHER, NELL, NET-HAULER, PELL, SERA, TEODOR, WREN)
 Average line: 10.3 words (target under 15)
 OK
@@ -1066,7 +1066,7 @@ OK
 - Button a feeling or a fact, not a trailer? **Feeling.** "Is that the same as belonging?" / "...Eat your supper, Sparrow." It points at 2-4 (the last clean stone) without withholding this chapter's point.
 - Bench-hero scene? **Yes.** Corra gets scene 7; Mags scene 6; Teodor and Hester get scenes 3 and 5.
 - Free story cast matters? **Yes.** Every decision and both battles belong to the four.
-- Within budget? **Yes.** 6,883 of 6,750-13,500.
+- Within budget? **Yes.** 6,881 of 6,750-13,500.
 
 ### Gacha 15: craft
 - Jargon budget: **one new term**, *Tide-Plumbs*, named by Pell on the slip with the things in front of him ("Plumbs in the tide." / "Tide-Plumbs, then."). "Ration", "gill" and "public order" are plain words, and "gill" was already on screen (1-2).
@@ -1100,6 +1100,11 @@ OK
 - Invented anything that should have gone to open questions? **Local color only:** the children's rhyme variant; Sera's mother's knotted cord, "a knot every hand"; Hester's herring up a penny; Ivo's quay lamps dark "by nine" (matching 2-4's "lamps out at nine"). Ada Marr is 2-2's NPC, used as written there (her house rule). Flagged rather than settled: (a) Tide-Plumbs fall as seawater when broken (marsh Plumbs' remains have not been specified on screen); (b) the reeds now lean toward town (Abel, twice); (c) the Tide-Plumbs walked in a line to the loft stair, where Wren burned Tam, and the tall one turned toward an opened shutter. All three are shown and not explained, under OQ 28 (what disturbs a Plumb) and OQ 25 (what the glass things look at).
 - Cross-checked against the parallel drafts: the saying is Ada Marr's house rule (2-2) that the council adopts; Tam's hands are in Hester's honey and linen (2-2), weeks to mend; Bram's first "Sparrow" was in 2-2 and is used here as already known; ordinary Plumbs stood in the harbor lanes on day 20 (2-2), so tonight's novelty is Plumbs in the water; the quay goes dark "by nine" to match 2-4's "lamps out at nine"; Wren's height line sits in the last course for 2-4 to find.
 - Handoff checks: Sera never speaks directly to Ivo ✓. Ivo never says "haze" in private and shows no ledger: his plain notebook appears once, on the slip, one line, contents unseen ✓. Bram never lies to Sera about the reading: when she asks for every gauge reading from now on, he changes the subject to stew ("Somebody had to."). She never asks about the night of the bar, which stays 2-4's question ✓. The cut leaf is not revealed or hinted beyond that ✓. Bond secrets kept: Bram's oil cupboard isn't mentioned (his lantern "is a house" is a joke about the ration); Sera's supper tally gets its stroke with no dialogue; Wren looks at the underside of the stair; Teodor's cases aren't named (Abel says "the buyer's back room"); Ivo's money isn't shown, though he repeats Corra's mother's rent to himself, which is a hint at most; Jory's envelopes aren't touched ✓.
+
+### Continuity pass (2026-10-06, with 201, 202, 204, 205)
+- Scene 1: the wall's last course now shows its run of entries (19 to last night's 24), and the keeper no longer carries the breakwater log up the stair (Sera hasn't read it; 2-4).
+- Scene 10: Sera no longer works out "hours" from the dusk tide. The keeper says only that it came in early; Sera asks for the turn timed at dusk and three and says she'll want every one "when the wall's done". That keeps her at 2 h 10 as her last figure until 2-4. Bram's "Not till nine" on the headland path is said to the keeper and Wren, not to Sera.
+- Scene 13: Bram's "Eleven years! Earn it!" (2-2) varied to "Hold, you old thing! Hold!".
 
 ### Read-aloud pass
 Scene 8, read as each speaker. Ivo's lines break if a contraction slips in, and Mags's break without one. Teodor with Ivo is careful and uncontracted; with Hester in scene 3 he relaxes. Abel's "Marsh gives, marsh keeps. Meaning, I don't know, and I'm frightened" is the only time he finishes the saying plainly, and it lands because scene 7 lets Corra say so. No line moves between speakers unchanged.

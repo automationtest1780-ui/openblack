@@ -5,7 +5,7 @@ Arc / version: Part 1, Act II close; version 1.4 (half-anniversary), unlocks at 
 Featured hero(es): Sera Vant, Bram Hollis, Ivo Thane, Wren (starter quartet, free)   Banner tie-in: none
 Prerequisite: Act II clear (2-4 "Out of Wall"); unlocks at the lamp room (home base)
 Reveal gate: Act II. The sky is speeding up; Wren grows with every shift; the wall runs out. Nothing from Act III on: no ledger, no "Bloom", nobody explains why the sky moves or why Wren grows. Sera never speaks directly to Ivo. No new information about the cut leaf beyond what 2-4 shows.
-Wren stage: Kindling (after the 5th shift: teenage height, the coat fits, sleeves stop short of her wrists, no rolls)
+Wren stage: Kindling (after the 5th shift: teenage height, the coat short on her, sleeves stop short of her wrists, no rolls)
 Budget: 1,500-2,800 spoken words (column: VN, with the quartet-scene override)
 Deviations: Hub group scene budget per project.md (Budget column overrides: quartet hub group scenes run 1,500-2,800 spoken words in 2-4 scenes, not the gacha 13 group-story range of 3,400-6,750). Why: quartet scenes are short home-base character pieces that carry no plot (WB §6, §8; structure notes item 1). Three scenes, one room, one evening (day 23).
 
@@ -15,7 +15,7 @@ Deviations: Hub group scene budget per project.md (Budget column overrides: quar
 
 **Featured heroes: want / obstacle / cost**
 - **Sera** wants tonight's count written down somewhere exact. Obstacle: there's no stone left, and every place anyone offers is wrong (boots, glass, a wet stair, a pot lid, the magistrate's paper). Cost: when Wren offers her arm, Sera sees what she did to Wren on the wall. She can't write on her, and has to say "I know" to Bram, the first thing she says to him tonight.
-- **Bram** wants supper eaten and the room warm again. Obstacle: Sera won't speak to him, and last night's bowl is still full. Cost: his idea (the pot lid) gets turned into an accusation: he'd like a record that washes off. Ivo tells him he'd have done the same, which is no comfort.
+- **Bram** wants supper eaten and the room warm again. Obstacle: Sera won't speak to him, and last night's pot is still full. Cost: his idea (the pot lid) gets turned into an accusation: he'd like a record that washes off. Ivo tells him he'd have done the same, which is no comfort.
 - **Ivo** wants the only lit window in Saltreach dark, and a look at the full wall. Obstacle: nobody listens to him about paper. Cost: he tells Bram the truest thing he says all act ("One gets used to it. That is the worst of it.") and has to leave without anyone hearing it but the keeper.
 - **Wren** wants to help, and to belong in Sera's counts. Obstacle: she has grown past her own height mark and there's nowhere left to be written. Cost: she offers herself as the record, and nobody can tell her plainly why that's wrong. She keeps her sleeve up, just in case.
 
@@ -27,9 +27,9 @@ Deviations: Hub group scene budget per project.md (Budget column overrides: quar
 **Link outward:** none in plot. It keeps Sera's flaw at its sharpest (WB §5, Sera and Wren: "recorded rather than loved") for Act IV's "Measuring Wren"; Ivo's "One gets used to it" to Bram rehearses Act III's confession to Bram first (OQ 2) without touching the ledger; the count goes on hands for now, so where the record goes next stays open for Act III.
 
 **Group story: pairs moved (gacha 8.4)**
-- **Sera / Bram:** still raw. They talk through the keeper and Wren. Bram replaces last night's untouched bowl without a word; Sera turns his pot-lid idea into "he'd like things that wash off". Small thaw: "Because you're not one, Sparrow" / "I know." She eats the supper cold in front of him, and he takes care not to watch. The canon deal bark is not offered.
+- **Sera / Bram:** still raw. They talk through the keeper and Wren. Bram replaces last night's untouched pot without a word; Sera turns his pot-lid idea into "he'd like things that wash off". Small thaw: "Because you're not one, Sparrow" / "I know." She eats the supper cold in front of him, and he takes care not to watch. The canon deal bark is not offered.
 - **Sera / Wren:** the arm. Wren has grown past the height Sera chalked as data, and offers to be the wall. Sera can't write on her. She tries to pull the short sleeve over Wren's wrist and holds on when it won't reach. "Warm. Not hot. I know the difference."
-- **Bram / Ivo:** at the stair head, alone with the keeper. Ivo has heard about the page and would have cut it too. "That's the bit that keeps me up." / "One gets used to it." Bark used.
+- **Bram / Ivo:** at the stair head, alone with the keeper. Ivo has worked out whose page it was and would have cut it too. "That's the bit that keeps me up." / "One gets used to it." Bark used.
 - **Bram / Wren:** canon bark on the stair ("bigger than the lantern" / "Sparrow"). "Not tonight, Sparrow" when she asks him to answer Sera back. "Because you're not one, Sparrow."
 - **Sera / Ivo (fault line):** unchanged, deliberately. Pre-Act III bark relayed through Wren. Ivo notes that Sera has "extended the arrangement" to Bram.
 - **Ivo / Wren:** paper becomes the joke; she catches him saying it on purpose. Bark used, with "On paper."
@@ -37,11 +37,11 @@ Deviations: Hub group scene budget per project.md (Budget column overrides: quar
 **New facts (for the ledger)**
 - No locked facts. The scene is a hub character piece (WB §8).
 - Soft: on the evening of day 23 the dusk count is twenty, the same as after the 5th shift. With the wall full, it goes on the back of the keeper's hand and Sera's own. "Tomorrow I'll find stone." Where the count goes next is not settled.
-- Soft: Bram took last night's untouched bowl away and set a fresh one in its place, without comment. Asked by Wren, he covered for Sera ("Sera wasn't hungry"); she refused the cover through the keeper.
+- Soft: Bram took last night's untouched pot (the pie, SERA on the lid) away and set a fresh bowl in its place, without comment. Asked by Wren, he covered for Sera ("Sera wasn't hungry"); she refused the cover through the keeper.
 - Soft: Sera and Bram speak through the keeper and Wren for most of the evening; Sera's first direct words to him are "I know." She eats tonight's supper cold, all of it.
 - Soft: the lamp room is the only lit window in Saltreach after supper under the oil ration; Ivo came up to say so.
 - Soft: Ivo suggested paper four times and nobody answered. He writes "almost" in his plain notebook ("On paper").
-- Soft: Ivo has heard, from the town, that a page was cut. He told Bram the leaf was council property and he will "fail to notice", and that he would have cut it too.
+- Soft: Jory took the breakwater log to the customs house on the morning of day 23 and asked Ivo to sign that it is a page short, without saying whose knife. Ivo worked out the rest (Bram agreed with him too quickly on the marsh, 2-4). He told Bram the leaf was council property and he will "fail to notice", and that he would have cut it too.
 - Soft: the lighthouse stair is wet below the twentieth step, and chalk runs there.
 - Soft: Wren has grown past the height Sera chalked on the wall. She offered her arm as the next place to write, and said she's "good at holding a place".
 - Soft: Wren says Tam's hands itch now (Hester: itching means mending). She doesn't hold them; she only looks.
@@ -68,11 +68,11 @@ Deviations: Hub group scene budget per project.md (Budget column overrides: quar
 
 ### Scene 1 — Out of wall
 [Dusk in the lamp room. The chalk wall is full, every stone written, down to the last one low by the door. SERA stands at the glass with the sextant raised.]
-[By the wall sits last night's bowl of stew, untouched, a skin on it. The Keeper sits on the cradle step with their chalk stub.]
+[By the wall sits last night's pot, SERA chalked on the lid, the pie in it untouched and gone grey. The Keeper sits on the cradle step with their chalk stub.]
 [Objective: Take the dusk count.]
-SERA: Keeper. Chalk.
-SERA: Twenty. A finger east of the bell post. Same as last night.
-KEEPER: Where do I write it?
+SERA: Keeper. Sight it with me. Arm straight.
+SERA: Twenty. Same as last night.
+KEEPER: Where does it go?
 [SERA lowers the sextant and turns to the wall with her own chalk raised. She stops.]
 [She looks along the bottom course, stone by stone. Then up. Then along again.]
 SERA: Hold it.
@@ -80,8 +80,8 @@ KEEPER: Hold the number?
 SERA: You've got a head. Hold it in that.
 [On the stair: a heavy tread, and the creak of the ninth step. No shout. No joke. BRAM comes up the last turn with a covered pot.]
 BRAM: Evening.
-[He says it to the room. SERA doesn't turn. BRAM looks at last night's bowl, full and cold.]
-[He picks it up without a word. He sets a fresh bowl in its place and fills it from the pot. It steams.]
+[He says it to the room. SERA doesn't turn. BRAM looks at last night's pot, full and cold.]
+[He picks it up without a word. He sets a fresh bowl in its place and fills it from tonight's pot. It steams.]
 SERA: Keeper. Tell him the ninth step's worse.
 BRAM: Keeper, tell her I know. Four generations of Hollis have known about that step.
 [Choice a: "Tell him yourself."]
@@ -91,14 +91,14 @@ SERA: Then he doesn't need telling twice.
 BRAM: Never did, Keeper. That was always the trouble with me.
 [Quick feet on the stair, two steps at a time. WREN comes up holding Bram's storm lantern high over her head.]
 WREN: Bram! Look! I'm bigger than the lantern now!
-BRAM: Then you'd better stay where I can see you, Sparrow.
+BRAM: You were bigger than it last night, Sparrow. Stay where I can see you anyway.
 WREN: You can always see me! I'm the brightest thing on the stair. After the lantern. Most nights.
 [She sets the lantern on the cradle step and holds out her arms. The coat sleeves stop short of her wrists. There is nothing left to roll.]
 WREN: Look. No rolls. It fits! It more than fits. Is more than fits a thing?
 [BRAM looks at her wrists, then away. He takes the lid off the pot.]
 BRAM: Fish soup. Hester's fish, Hester's pot, my knees on the stair, and the ninth step getting its opinion in as usual. Bowls, everybody.
-[WREN peers at the cold bowl still in Bram's other hand.]
-WREN: What's that one? It's got a skin on. Is soup allowed to grow a skin?
+[WREN peers at the cold pot still in Bram's other hand.]
+WREN: What's that one? It's gone all grey. Is pie allowed to go grey?
 BRAM: That's last night's. Sera wasn't hungry.
 SERA: Keeper. Tell him I can say what I was.
 BRAM: Keeper, tell her she didn't. Not last night. Not one word, start to finish.
@@ -152,7 +152,7 @@ IVO: This is the only lit window in Saltreach after supper. It can be seen from 
 BRAM: It's one lantern, Ivo.
 IVO: It is one lantern. It is also forty people at their doors, looking up at it, when the council has asked them not to.
 IVO: The harbor fund has oil for eleven weeks. Less, if Saltreach decides to sit up admiring a tower.
-BRAM: "Don't look up after supper." I know. I heard Hester say it to a gull this morning.
+BRAM: "Don't look up after supper." I know. I heard Hester say it to a gull this morning, like a curse.
 BRAM: We're above supper up here, though, aren't we? We're not looking up. We're the up.
 WREN: We're the up! Ivo, we're the up! Does that make us after supper?
 IVO: It makes you a matter for the council, Wren.
@@ -189,12 +189,13 @@ SERA: Wren. Come and hold the chalk.
 [At the top: BRAM, IVO and the Keeper. BRAM is still holding the lantern out over nothing. He lowers it.]
 IVO: I am told there was a page.
 BRAM: Who told you?
-IVO: Saltreach. Saltreach tells me everything, in the end. Mostly at Hester's.
+IVO: Jory Flint. He brought the breakwater log to the customs house this morning, and asked me to sign that it is a page short.
+IVO: He would not say whose knife. He did not need to. You agreed with me very quickly on the marsh, Hollis.
 IVO: A leaf from the breakwater log is council property, Hollis.
 BRAM: Going to fine me?
 IVO: I am going to fail to notice. I have had a great deal of practice.
 BRAM: You're doing that face where you've already won.
-IVO: It is my only face, Hollis.
+IVO: It is my only face, Hollis. It fits rather better tonight than I would like.
 [A pause. IVO lowers his voice, though there is nobody to hear but the Keeper.]
 IVO: For what it is worth, I would have cut it too.
 BRAM: I know you would. That's the bit that keeps me up.
@@ -232,9 +233,9 @@ IVO: Four times.
 ### Scene 3 — The arm
 [Five bowls on the cradle step, going cold. SERA stands at the full wall with the chalk raised. Twenty is still only in her head.]
 WREN: I know where.
-[WREN goes to the wall and stands with her back against it, very straight, the way she stood to be measured. In the last course, at her knee, is a number in Sera's hand: her height, two nights ago.]
+[WREN goes to the wall and stands with her back against it, very straight, the way she stood to be measured. In the last course, along the floor at her heels, runs a long chalk line with "W. 21." at its end: her height, two nights ago.]
 WREN: That one's me. Sera put me there. I'm in the last row.
-WREN: Only I'm not that any more. I'm past it. Look. I'm out of wall too.
+WREN: Only I'm not that long any more. I lay down by it. I'm past the end. I'm out of wall too.
 WREN: Isn't that funny? We're both out.
 [Nobody laughs. WREN pushes her right sleeve up her arm. It doesn't have far to go.]
 WREN: So write it on me.
@@ -247,7 +248,7 @@ WREN: Isn't that handy? I think that's handy.
 WREN: I'd hold it. I'm good at holding a place. I think it might be the thing I'm best at.
 WREN: Better than stairs, anyway. Is that a thing to be good at?
 [SERA lifts the chalk. BRAM doesn't move. IVO doesn't move.]
-[The chalk stops a finger's width from Wren's arm. SERA looks at the arm. Then at the number on the wall, at Wren's knee. Then back at the arm.]
+[The chalk stops a finger's width from Wren's arm. SERA looks at the arm. Then at the long line on the wall, at Wren's heels. Then back at the arm.]
 [BRAM opens his mouth. He shuts it again. This time, he waits.]
 SERA: Put your sleeve down.
 WREN: It doesn't go down. It stops there now.
@@ -311,11 +312,11 @@ WREN: I'll leave my sleeve up. Just in case. Is that allowed?
 
 ## Review
 
-### Mechanical check (`check_script.py --budget 1500-2800`)
+### Mechanical check (re-run after the continuity pass, 2026-10-06; per-scene rows may predate it) (`check_script.py --budget 1500-2800`)
 ```
-Scenes: 3   Dialogue lines: 162   Spoken words: 1554
+Scenes: 3   Dialogue lines: 163   Spoken words: 1606
 Speaking roles: 5 (BRAM, IVO, KEEPER, SERA, WREN)
-Average line: 9.6 words (target under 15)
+Average line: 9.9 words (target under 15)
 
    1. Out of wall                                         47 lines   459 words
    2. Paper                                               67 lines   675 words
@@ -365,14 +366,21 @@ OK
 - "Bloom", or a cosmology answer early? **No.** No ledger either: Ivo writes one line in his plain notebook (OQ 31), and "a great deal of practice" at failing to notice reads as his public manner, not a record.
 - Wren's voice right for her stage? **Kindling**, in the header. Quick and cheerful, fewer wrong words than in Act I, and one line from too far up ("I'm good at holding a place. I think it might be the thing I'm best at."), which ends on a question ("Is that a thing to be good at?"). Her scariest line, the button, ends on a question.
 - Plumbs silent, Bloom wordless? Neither appears.
-- Pair barks the right version for the act? **Yes.** Sera / Ivo uses the **pre-Act III** version, relayed through Wren. Bram / Wren and Bram / Ivo are canon (single versions). Ivo / Wren is canon with "On paper" added. Sera / Bram's deal is deliberately not offered after the quarrel.
+- Pair barks the right version for the act? **Yes.** Sera / Ivo uses the **pre-Act III** version, relayed through Wren. Bram / Wren and Bram / Ivo are canon (single versions), each varied after 2-4's use ("You were bigger than it last night"; "It fits rather better tonight"). Ivo / Wren is canon with "On paper" added. Sera / Bram's deal is deliberately not offered after the quarrel.
 - Absent heroes by letter or rumor only? **Yes.** Hester (her pot, her lid, her sayings), Tam (his hands) and Jory (implied in "a page") appear only by rumor.
 - Bench hero / mention-ahead? Not applicable to a quartet hub scene.
 - Events gated at the previous act? Not applicable (group story at Act II clear).
 - Old lamp stays dark? **Yes.** Only Bram's storm lantern burns. Ivo's oil talk is about the harbor fund; Bram's oil cupboard isn't touched.
-- Invented anything that should be an open question? **Two things flagged for the lead** (I may not edit other files): (1) Ivo has heard about the cut page through the town by day 23 (soft; check against 2-4's staging of who knew); (2) Wren's "good at holding a place" is an unexplained foreshadow of the ending (OQ 1), safe at Act II because nobody interprets it. Everything else is local color: fish soup, the shrieking two, the wet stair below the twentieth step, "four times".
+- Invented anything that should be an open question? **Two things flagged for the lead** (I may not edit other files): (1) Ivo knows about the cut page by day 23 (continuity pass: he learns it from Jory, who asks him to sign the log as a page short, and from Bram's quick agreement on the marsh in 2-4, not from Hester's); (2) Wren's "good at holding a place" is an unexplained foreshadow of the ending (OQ 1), safe at Act II because nobody interprets it. Everything else is local color: fish soup, the shrieking two, the wet stair below the twentieth step, "four times".
 - Bond secrets kept? **Yes.** Sera's supper tally: the tide book's back page is opened once, after the cold bowl, with nothing shown or said. Bram's oil cupboard: not mentioned. Wren's marks under the stair: "Not the stair!" comes with a true cover reason (she counts it), and nobody looks under it. Ivo's money: not mentioned.
 - Brief checks: Sera never speaks directly to Ivo (every line to him goes through Wren; "Or paper" gets no answer). Sera and Bram speak through the keeper and Wren until "I know"; the thaw is small (two "I know"s and "It's cold"), and the deal is not restored. Where the count goes is not resolved: hands for tonight, "Tomorrow I'll find stone." WB §6 beats: the wall runs out ✓, they argue where to write next ✓ (floor, glass, stair, paper, pot lid), Wren offers her arm ✓. Ivo suggests paper and is ignored ✓; Bram suggests something warm and useless ✓ (the lid). Ends on Wren, not the keeper ✓. No plot that exists nowhere else ✓.
+
+### Continuity pass (2026-10-06, with 201-204)
+- Wren's height mark matches 2-3: a long chalk line along the last course with "W. 21." at its end, not a number at her knee.
+- Last night's supper is 2-4's pie in its pot (SERA on the lid), not a bowl of stew.
+- Sera keeps the chalk (2-4's button): she asks the keeper to sight with her, not to hold the chalk. "A finger east of the bell post" was wrong (the bell post was 32) and is cut.
+- Ivo learns of the page from Jory (the log taken to the customs house to be signed a page short) and from Bram's quick agreement on the marsh (2-4), not from gossip at Hester's, who keeps secrets.
+- Bram/Wren and Bram/Ivo barks varied, since 2-4 used both the night before. Bram's Hester line fits 2-4 (she resents the council's saying).
 
 ### Read-aloud pass
 Scene 2 read as each speaker. Ivo's lines break with contractions ("One gets used to it, Hollis" can't become "You get used to it"); Bram's break without them. Sera's relays only work addressed to the keeper or Wren, never "you". Wren's lines all end on a question or an exclamation. No line could move to another speaker unchanged.

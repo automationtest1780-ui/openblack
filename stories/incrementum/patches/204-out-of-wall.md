@@ -59,7 +59,7 @@ Deviations: (1) Scene 8 is a cutaway to the lamp room at the moment of the shift
 - Locked: crossing a row turns the whole row (it swings about one end like a gate; the last, tallest row turned about its middle). Plumbs stop at the edge of Bram's lantern light, as the hounds did. At the 5th shift every Plumb stood still facing the tower; afterward every row stepped back up into the haze at once. Unexplained.
 - Locked: the 5th shift, dusk of day 22. Belt 24 → 20 (Sera, from the lamp room). The keeper sighted it off the tower top from the headland path with an outstretched arm: "a finger".
 - Locked: at the shift the lamp-room glass flared gold: Wren, with Sera, for sixty-one seconds (Sera: "lit at twenty-three, out at twenty"). Seen from the marsh by Bram, Ivo, Abel and the keeper, and from the breakwater by Jory. Nobody explained it.
-- Locked: after the shift Wren's coat sleeves stop short of her wrists; she's up to the keeper's eyebrows. First full use of the canon Bram/Wren bark ("Bram! I'm bigger than the lantern now!" / "Then you'd better stay where I can see you, Sparrow.").
+- Locked: after the shift Wren's coat sleeves stop short of her wrists; she's up to the keeper's eyebrows. The canon Bram/Wren bark ("Bram! I'm bigger than the lantern now!" / "Then you'd better stay where I can see you, Sparrow.") is used again as a refrain; its first full use was 2-2 scene 12.
 - Locked: Sera chalked 20 and the keeper's "1 finger" on the last clean stone. **The wall is full** (night of day 22).
 - Locked: Jory brought the breakwater log up the lighthouse stair, his first time in the lamp room, and read Sera the stitching (eight leaves to a gathering; one cut close with a steady hand). Bram took the leaf out of the right-hand pocket of his oilskin. Sera read it aloud: "Three o'clock. Gauge: water at the table's five-forty mark. Two hours forty ahead, still rising. Tables not usable." (the keeper's hand; wording as 2-1). The leaf is now in the front of Sera's tide book.
 - Locked: Bram cut it with his knife (the one he trims wicks with) at three o'clock on the bar night. He told the truth once caught, and said he'd choose it again.
@@ -84,7 +84,7 @@ Deviations: (1) Scene 8 is a cutaway to the lamp room at the moment of the shift
 - Hub (Ivo, Act II close pool): "The town slept through it. That was the intention. I find I did not."
 - Hub (Jory): "Light's book's honest again. Not that I checked. ...Every page."
 - Hub (Abel): "I said measuring. Don't ask me what. I'd have said what."
-- Pair barks used: Bram / Wren (canon, first full use); Bram / Sera (the deal kept in scene 2, begun and abandoned in scene 16); Bram / Ivo ("doing that face" / "only face", with a new tail: "Tonight I am not certain it fits."); Abel / Ivo (new, proposed: "You've always got a word. That's what frightens me." / "It is the only tool I own, Mr Thorn."); Tam / Jory (variant: elbows).
+- Pair barks used: Bram / Wren (canon, refrain after 2-2); Bram / Sera (the deal kept in scene 2, begun and abandoned in scene 16); Bram / Ivo ("doing that face" / "only face", with a new tail: "Tonight I am not certain it fits."); Abel / Ivo (new, proposed: "You've always got a word. That's what frightens me." / "It is the only tool I own, Mr Thorn."); Tam / Jory (variant: elbows).
 - Suggested post-2-4 bark for Sera / Bram (for whoever updates `groups/lamp-room.md`): Bram: "Eyes up there—" / Sera: "Finish it or don't."
 
 ## Scene cards (gacha 14.3)
@@ -146,10 +146,10 @@ JORY: It doesn't know the way. I've tried it.
 JORY: You lit late last night, by the way. Two minutes. Not that I had a watch on it.
 KEEPER: You had a watch on it.
 JORY: I had a watch near it.
-JORY: Tall ones stood in the harbor last night. At the evening tide.
-JORY: Up to their waists in it. Faces to the quay. Nobody touched them.
-KEEPER: Nobody?
-JORY: Notice says don't. Notice says a lot of things now.
+JORY: Pell's telling everybody tall ones stood in the harbor last night. At the evening tide.
+JORY: Up to their knees in it. Says he rowed into one and Hollis hauled him out by his good collar.
+KEEPER: He did.
+JORY: Nobody else saw. Notice says don't look. Notice says a lot of things now.
 JORY: Lamps out at nine. No glass to be sold. Don't look up after supper.
 JORY: That last one used to be something your nan said. Now it's got the council under it.
 KEEPER: Does anyone look?
@@ -195,7 +195,7 @@ JORY: I'll keep the book. Somebody ought to.
 [Skip summary: On day 22, on the breakwater, Jory is mending Tam's nets badly while Tam's burned hands heal, and keeping the lamp while the keeper walks the crater road. The harbor is betting on what Sera will write on once her wall is full. Jory shows the keeper a page cut out of the breakwater log on the night of the bar. He found it four days ago and said nothing, and he guesses it wasn't the keeper who cut it.]
 
 ### Scene 2 — The lamp room, afternoon
-[The lamp room. The chalk wall is covered from the ceiling down to the last course by the door. In that course: "19", the tide numbers that followed it, and a long chalk line laid flat along the stone with "W. 21." at its end: Wren's height, from last night. Past it, one clean stone.]
+[The lamp room. The chalk wall is covered from the ceiling down to the last course by the door. In that course: "19", the counts that followed it, up to "24", and a long chalk line laid flat along the stone with "W. 21." at its end: Wren's height, from last night. Past it, one clean stone.]
 [Sera kneels in front of it with the sextant across her knees. Bram sits on the top step with a loaf. Wren is at the glass in Bram's coat. It fits her now. No rolls.]
 [Objective: Mark the last stone at dusk.]
 SERA: Keeper. You're early. Good. Look.
@@ -203,7 +203,7 @@ SERA: One stone. That one. By the hinge.
 KEEPER: Tonight's?
 SERA: Tonight's. The dusk count. Then the wall's full.
 BRAM: She's been looking at it since noon. Like it owes her money.
-SERA: I've been measuring it. Nine inches by five. Room for two numbers. Small.
+SERA: I've had my rule on it. Nine inches by five. Room for two numbers. Small.
 BRAM: Two numbers. Hear that, Keeper? That's the whole future. Two numbers, small.
 SERA: Mine and yours, Keeper. If you're on the road at dusk, sight off the tower top.
 KEEPER: With no sextant?
@@ -220,7 +220,7 @@ WREN: I checked my line this morning. It's still there. It didn't move.
 WREN: I lay down next to it this morning. I'm past the end already. Just a bit. Like the line got shorter in the night.
 SERA: It didn't get shorter.
 WREN: I know. I'm being polite to it.
-WREN: Sera! Do you want me measured again? I'll stand straighter than last night.
+WREN: Sera! Do you want my height again? I'll stand straighter than last night.
 WREN: I practiced on the stair. I stood on every landing like a post.
 SERA: No room.
 WREN: I could lie over the old ones. On top of the numbers. They won't mind.
@@ -322,7 +322,7 @@ KEEPER: Tonight.
 CORRA: What'll she write on after?
 BRAM: Don't you start. The whole harbor's got a bet on.
 CORRA: I'm not betting. I'm asking. It's not the same.
-CORRA: I copied her marks onto the pan-house door. All the ones I could see from the road.
+CORRA: I chalked her numbers on the pan-house door. Forty-one to twenty-four. The keeper checked them.
 MAGS: In case of what?
 CORRA: In case she runs out. Then there's two.
 [Nobody says anything to that. Hester wipes her hands on her apron, twice.]
@@ -339,7 +339,7 @@ BRAM: Lamp's lit in daylight. Don't say anything. I'm aware.
 BRAM: It's the ration. If I can't burn it after nine, I'll burn it before. That's sums. Ivo'd be proud.
 KEEPER: Is that why?
 BRAM: No.
-[They walk. The reeds on both sides lean a little north, toward the crater, with no wind.]
+[They walk. The reeds on both sides lean a little south, toward the town, with no wind. A week ago they leaned toward the crater.]
 BRAM: Whole harbor eating supper at five like the old folk. My nan'd be pleased. She thought dark was for sleeping and nothing else.
 BRAM: She thought that about Tuesdays and all.
 BRAM: My grandad used to say the worst thing about a lighthouse is you see everything coming.
@@ -392,7 +392,7 @@ BRAM: So. Funny thing about the reed beds. There's always Abel in them. Evening,
 
 ### Scene 5 — The reed beds, dusk
 [Boss cutscene.]
-[The north reed bed at the first edge of dusk. Every reed leans the same way, toward the crater. Abel works down a row of them with a mallet and a bundle of stakes, tying each reed upright by hand.]
+[The north reed bed at the first edge of dusk. Every reed leans the same way, toward the town. Abel works down a row of them with a mallet and a bundle of stakes, tying each reed upright by hand.]
 [Patch the pony stands on the road with the cart. Bram's lantern comes up beside her.]
 [Objective: Get Abel off the reed beds before dark.]
 ABEL: Hollis. Keeper. Mind the stakes. I've only so many.
@@ -410,7 +410,7 @@ ABEL: Girl cried in my cart all the way back. Didn't say a word. Just cried on t
 BRAM: I'm sorry, Abel.
 ABEL: Don't be sorry. It's the first sense the council's had. She'll eat on Hester's slate. Everybody does.
 ABEL: Mags put you in the pan book, Keeper. "Under road." I saw it.
-ABEL: Nobody's ever been in the pan book under road. Don't make me cross it out.
+ABEL: Don't make me watch her cross it out.
 KEEPER: I'll try not to.
 ABEL: Try's a poor word for a marsh. Do.
 [He ties another reed. Patch lifts her head and stamps. Then she backs the cart a step and won't stop staring at the haze over the pans.]
@@ -685,7 +685,7 @@ BRAM: Then you'd better stay where I can see you, Sparrow.
 BRAM: ...Well. That's the coat done for. I'll have words with the sheep.
 WREN: It's not the coat. It's me. I know it's me now. You don't have to say the coat.
 BRAM: I like saying the coat.
-WREN: Then say it. I'll pretend. I'm good at pretending now. There's more of me to do it with.
+WREN: Then say it. I'll pretend it's the coat. I've been practicing on the stair.
 BRAM: Sera. You all right? Up here on your own?
 SERA: I wasn't on my own. I had Wren.
 BRAM: That's not what I—
@@ -825,8 +825,8 @@ BRAM: Sera—
 SERA: When did you cut it?
 BRAM: That night. Three o'clock. After *Patience* was in.
 SERA: Five days.
-BRAM: Near enough.
-SERA: Not near enough. Five days and an evening.
+BRAM: Four and a bit. Near enough.
+SERA: Not near enough. Four days and nineteen hours.
 SERA: Five dusks I've climbed up here and chalked. Five suppers you've carried up that stair.
 SERA: With this in your coat.
 BRAM: Yes.
@@ -850,14 +850,15 @@ SERA: You decided what I could stand.
 [Bram doesn't answer.]
 BRAM: I told the keeper, their first week. Tell me bad news straight, I'll tell her sideways.
 BRAM: That's all this was meant to be. Sideways.
-SERA: Five days isn't sideways. Five days is never.
-SERA: I put nineteen on that wall. Then thirty-one. Then two-ten.
-SERA: I thought two-ten was the worst of it. For five days I've thought that.
+SERA: Five dusks isn't sideways. Five dusks is never.
+SERA: Nineteen. Thirty-one. Fifty-two. Two-ten. That's what's on my wall.
+SERA: Two-ten's the last number I had. Five dusks, I've had nothing past it.
+SERA: I put the bar off a night for Wren. A night for Tam. A night for his council. Two-ten would keep, I thought.
 SERA: I told the slips two-ten. I told Mags. I told Nell to her face.
 SERA: My name's on every table in this harbor. Nailed up. And you knew they were done.
 BRAM: And they kept the boats in. And nobody's drowned.
 SERA: Because they were lucky. Not because they were told.
-SERA: Every boat that goes out tomorrow goes out on two-ten. Because that's all I gave them.
+SERA: Anyone who goes out goes out on two-ten. Because that's all I gave them.
 SERA: You cut "rising" out of this harbor, Bram.
 BRAM: It's one word.
 SERA: It's the only word on it that matters. Rising is faster. Rising is not done yet.
@@ -875,7 +876,7 @@ SERA: Then you watched him cut it.
 [Choice b: "I should have told you."]
 [Choices converge.]
 SERA: You held the chalk.
-SERA: Five days you held my chalk, and said nothing.
+SERA: Five dusks you held my chalk, and said nothing.
 [She turns back to Bram before the Keeper can answer.]
 BRAM: Leave the keeper out of it. I asked. That's mine.
 SERA: Everything's yours tonight.
@@ -1052,7 +1053,7 @@ JORY: ...He did.
 TAM: Did she shout, Bram?
 BRAM: She doesn't shout, Tam. She counts at you.
 TAM: That's worse.
-BRAM: It is. Five days and an evening, she said. To the evening.
+BRAM: It is. Four days and nineteen hours, she said. To the hour.
 JORY: Your book's honest again, Keeper.
 KEEPER: It's got a stub in it.
 JORY: Stub's honest. Stub says somebody cut. That's true. That's all a book's for.
@@ -1123,7 +1124,7 @@ SERA: I counted what was in the sextant.
 SERA: I put the chalk away. You saw.
 [She takes the chalk from her pocket. She looks at the wall for somewhere, out of habit. There isn't anywhere.]
 [She writes on the back of her own hand instead: 2 h 40. Then she folds the leaf and puts it in the front of her tide book, not the back.]
-SERA: Five days. Did you think about it? Up here, holding my chalk?
+SERA: Five dusks. Did you think about it? Up here, holding my chalk?
 KEEPER: Every dusk.
 SERA: And you held it anyway.
 KEEPER: I held it.
@@ -1156,9 +1157,9 @@ SERA: No. I'll hold it.
 
 ## Review
 
-### Mechanical check (`check_script.py --budget 6750-16000`)
+### Mechanical check (re-run after the continuity pass, 2026-10-06; per-scene rows may predate it) (`check_script.py --budget 6750-16000`)
 ```
-Scenes: 16   Dialogue lines: 772   Spoken words: 7027
+Scenes: 16   Dialogue lines: 773   Spoken words: 7054
 Speaking roles: 11 (ABEL, BRAM, CORRA, HESTER, IVO, JORY, KEEPER, MAGS, SERA, TAM, WREN)
 Average line: 9.1 words (target under 15)
    1. The breakwater, afternoon          55 lines   592 words
@@ -1198,14 +1199,14 @@ OK
 - Is the button a feeling or a fact, not a trailer? **A feeling.** "No. I'll hold it." closes the act on its cost: she won't share the count. It points at Act III's question (what happens when hidden records come out) without naming anything.
 - Bench-hero scene? **Yes.** Abel (scenes 5, 6, 9; the reveal line), Jory (1, 11, 15), Hester (3, 14), Tam (15), Mags and Corra (3).
 - Does the free story cast still matter? **Yes.** The Lamp Room carries the boss, the shift, the quarrel and the close.
-- Within budget? **Yes**, 7,027 of 6,750-16,000.
+- Within budget? **Yes**, 7,054 of 6,750-16,000.
 
 ### Gacha 15: craft
 - Jargon budget: **no new proper nouns, no new terms needing a gloss.** "Rows" of Plumbs (shown, CG), "the gauge" (the breakwater tide gauge, read off the leaf) and "the weather pocket" (Wren's joke, shown) are plain words tied to the screen. "Plumbs" is never spoken in this chapter, only used in stage directions.
 - Line length: average 9.1; nothing over 25 words; nothing near the 40 cap. Bram's lines run longest, as his voice notes ask.
 - Companion reacts rather than recaps? **Yes.** Wren asks ("Is that what tall is? The floor leaving?"; "Is a fight a kind of weather?") and never summarizes the quarrel. Her one restatement ("chalked her like a tide") is her quoting the line that hurt her.
 - Heavy and light alternate? **Mostly** (see the Weight column): light, light → turn, light, medium, heavy, medium, heavy, heavy (cutaway), quiet, light, heavy, heavy (deviation 2), quiet, medium, light, heavy.
-- Could two characters trade lines? **No.** Sera: numbers, orders, no softeners ("Five days and an evening."). Bram: food, family, rules he just made, and "So. Funny thing about—" with no joke arriving. Ivo: full sentences, no contractions, costs ("The harbor fund holds eleven weeks of oil. I intend to spend them slowly."). Wren: questions, plus a word from too far up ("lengths"; "no floor at all"). Abel: saying, then meaning; "child"; won't look up. Jory: "Not my business", "the old keeper", checks the lamp. Hester: fish names, slate, never "love". Mags: names and feet. Corra: money and Sera. Tam: literal ("I'm minding it with my elbows.").
+- Could two characters trade lines? **No.** Sera: numbers, orders, no softeners ("Four days and nineteen hours."). Bram: food, family, rules he just made, and "So. Funny thing about—" with no joke arriving. Ivo: full sentences, no contractions, costs ("The harbor fund holds eleven weeks of oil. I intend to spend them slowly."). Wren: questions, plus a word from too far up ("lengths"; "no floor at all"). Abel: saying, then meaning; "child"; won't look up. Jory: "Not my business", "the old keeper", checks the lamp. Hester: fish names, slate, never "love". Mags: names and feet. Corra: money and Sera. Tam: literal ("I'm minding it with my elbows.").
 - Protagonist a catalyst? **Yes.** The keeper sights the shift, strikes the hinges, carries the count on their hand, and gets Sera's question ("What was at three?"). Their look at Bram is what brings the leaf out. Nobody praises them, and Sera's cost lands on them too.
 - Canon tier labeled? **Locked.**
 
@@ -1224,7 +1225,7 @@ OK
 - "Bloom", or a cosmology answer early? **No.** No "Bloom", no ledger. "Measuring" is said by Abel (the Act II reveal the handoff assigns him), repeated by the keeper as his word, and never explained. Nobody ties Wren's gold to the rows, or the rows to the sky. Ivo writes nothing on screen. His lips move once as he counts rows (the existing navigator's habit), and he says "I would not lie to you about a number" to Bram: dramatic irony, not a hint at a ledger. Both stay below the OQ 29 ceiling.
 - Wren's voice right for her stage? **Kindling**, in the header. She's quick and cheerful and still mostly asks questions, with two words "from too far up" ("lengths"; "where it's very cold and there's no floor at all"). Her scariest lines end in a question or a joke ("Then it's me going. Is it me?"; "Bram would say Hester's pepper.").
 - Plumbs silent, Bloom wordless? **Yes.** The Plumbs never make a sound. No Bloom.
-- Pair barks the right version? **Yes.** The Bram/Wren canon bark is used in full ("Sparrow" is unlocked since 2-2). Sera/Bram: the deal is kept in scene 2 and broken off in scene 16. Sera/Ivo: they never share a scene. Ivo starts a message for her and withdraws it.
+- Pair barks the right version? **Yes.** The Bram/Wren canon bark is used in full as a refrain (first full use 2-2 scene 12; "Sparrow" is unlocked since 2-2). Sera/Bram: the deal is kept in scene 2 and broken off in scene 16. Sera/Ivo: they never share a scene. Ivo starts a message for her and withdraws it.
 - Sera never speaks directly to Ivo? **Yes.** They're never in the same place. Her one line about him ("He's decided what they can stand") is said to Bram.
 - Absent heroes by letter or rumor only? Nell and Pell are mentioned only. Launch heroes appear in person as NPCs, as they have since 000; no one needs to own them.
 - Bench scene / mention-ahead? Abel, Jory, Tam, Hester, Mags, Corra. No unreleased hero is named.
@@ -1240,7 +1241,17 @@ OK
 - 2-1: the leaf's wording, the hour (three o'clock), Bram's knife and oilskin, "She'll go and stand in it", Sera's promise to stand on the bar with a pole, and Jory finding the stub at dusk on day 18 ("four days back") all match.
 - 2-3: Wren's height is a cord-length line laid flat along the last course, marked "W. 21."; 2-4 uses the stretch past it for the last stone.
 - 205: it starts from this chapter's end state (wall full, last night's bowl untouched, Sera not speaking to Bram, sleeves short of the wrists). Its day-23 count goes on hands, which fits Sera keeping the chalk.
-- **Open seam for the continuity pass:** 2-1 has Sera ask the keeper for the breakwater gauge "every night at three". This chapter assumes she hasn't had the later three o'clocks in front of her ("For five days I've thought that"; "Every three o'clock since the bar ... I'll copy it tonight"). If 2-2 or 2-3 show the keeper reporting later readings to her, one of those lines needs a touch.
+- **Seam closed in the continuity pass:** 2-2 scene 1 has Sera ask for the three o'clocks as a week, kept in the breakwater log; 2-3 scene 10 no longer has her work out "hours" from the dusk tide, and the keeper no longer carries the log up the stair. Here she says two-ten is "the last number I had" and that she put the bar off for Wren, Tam and the council.
+
+### Continuity pass (2026-10-06, with 201-203, 205)
+- Scene 1: Jory's report of the Tide-Plumbs now matches 2-3 (knee-deep; Pell's oar; nobody else saw) and comes as Pell's rumor, so the locked "nobody else saw" holds.
+- Scenes 2 and 5 (before Abel): Sera's "I've been measuring it" and Wren's "measured again" changed ("had my rule on it"; "my height again"), so Abel is the first to say "measuring" in Act II.
+- Scenes 4-5: the reeds lean toward the town, as 2-3 has them (Abel, day 21), not toward the crater.
+- Scene 3: Corra's door numbers match 2-3 (41 to 24, checked by the keeper).
+- Scene 5: Abel's "Nobody's ever been in the pan book under road" (Bram's joke in 2-1) cut.
+- Scene 10: Wren's "There's more of me to do it with" (2-2) varied.
+- Scene 12: Sera's exact count is "four days and nineteen hours" (3 a.m. day 18 to about ten on day 22); elsewhere she counts dusks. The two-ten lines are reworded so she isn't claiming she saw nothing worse: she had no number past it, and she put the bar off.
+- The Bram/Wren bark is a refrain here, not its first full use (2-2 scene 12).
 
 ### Read-aloud pass
-I read scene 12 as each speaker. Sera's lines don't survive softening: "Five days and an evening." can't become "about five days". Bram's longest run ("You chalked her on that wall last night...") only works in his rolling clauses, and his jokes stop arriving where they used to ("So. Funny thing about—" / "No."). The keeper speaks twice, plus one choice. In scene 13, no one else could ask "Can I be a reading and a Wren?" In scene 14, Hester's "you great cod" and "haddock" can't move to Bram, and Bram's "love" can't move to Hester.
+I read scene 12 as each speaker. Sera's lines don't survive softening: "Four days and nineteen hours." can't become "about five days". Bram's longest run ("You chalked her on that wall last night...") only works in his rolling clauses, and his jokes stop arriving where they used to ("So. Funny thing about—" / "No."). The keeper speaks twice, plus one choice. In scene 13, no one else could ask "Can I be a reading and a Wren?" In scene 14, Hester's "you great cod" and "haddock" can't move to Bram, and Bram's "love" can't move to Hester.

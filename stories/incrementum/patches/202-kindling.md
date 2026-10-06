@@ -63,7 +63,8 @@ Deviations: (1) Scenes 9, 10 and 11 run heavy three in a row (the shift, the dre
 - Soft: a Glass Hound on the crater road (day 18) came up to Wren's knee and stopped, "like a question" again. Mags didn't know her: "Wren was the little one."
 - Soft: Ada Marr, a herring-gutter at the slip with three children, was up with the baby at two and saw the 3rd shift through a hole in the cloud.
 - Soft: Hester needs a bigger pot for Wren. Nine people came into the smokehouse on day 18 to ask who the long girl was.
-- Soft: Wren says "there's ever so much room" east of the Belt. Sera looks; nothing is written.
+- Soft: Wren says "there's ever so much room up there" and that everything is "leaning a little bit. Like listening." Sera looks; nothing is written. (Continuity pass: "east" removed from both lines so nothing ties the ground's lean to the sky's direction before Act III; Abel sheet, Locked until.)
+- Soft: Sera asked the keeper to keep the three o'clock gauge readings in the breakwater log and will "read the week" when there is one. She does not read them in Act II until 2-4.
 - Soft: after the burn, Tam teaches Wren the knot by voice, and she ties it in Nell's net with her own hands. It doesn't burn.
 - Soft: Wren sits with her back to the lamp-room glass after supper on day 20. Sera says she'll look for both of them.
 
@@ -90,9 +91,9 @@ Deviations: (1) Scenes 9, 10 and 11 run heavy three in a row (the shift, the dre
 
 **5. The smokehouse, noon (day 19).** Objective: get fed. Hester wants to know what the harbor's faces mean; Nell wants the sea back; Ada wants her children in. By the end, Ada has a house rule. Only-them lines: HESTER "Tired's a face. I know tired. That was another one." / ADA "Don't look up after supper. That's my house." Skip summary: the harbor talks; Ada's rule.
 
-**6. The slip, afternoon.** Objective: find Corra. Corra wants to be taller than somebody; Wren wants a friend her size. By the end, a mother walks her children round Wren. Only-them lines: CORRA "That's a loaf and a half of difference." / WREN "Everything's leaning a little bit east. Like listening." Skip summary: back to back; children walked round her.
+**6. The slip, afternoon.** Objective: find Corra. Corra wants to be taller than somebody; Wren wants a friend her size. By the end, a mother walks her children round Wren. Only-them lines: CORRA "That's a loaf and a half of difference." / WREN "Everything's leaning a little bit. Like listening." Skip summary: back to back; children walked round her.
 
-**7. The lamp room, dusk.** Objective: hold the chalk. Sera wants twenty-eight written small; Wren wants to be the same for a bit; Bram wants a reason not to be beside the keeper. By the end, he's taking the road with Abel. Only-them lines: WREN "There's ever so much room east of it." / BRAM "I'm chewing considerate tonight." Skip summary: dusk count 28; Bram splits the patrol.
+**7. The lamp room, dusk.** Objective: hold the chalk. Sera wants twenty-eight written small; Wren wants to be the same for a bit; Bram wants a reason not to be beside the keeper. By the end, he's taking the road with Abel. Only-them lines: WREN "There's ever so much room up there." / BRAM "I'm chewing considerate tonight." Skip summary: dusk count 28; Bram splits the patrol.
 
 **8. The net loft, afternoon (day 20).** Objective: finish Nell's net. Tam wants it done by dusk; Jory wants it not to be his business; Wren itches. By the end, Bram has gone up the road. Only-them lines: TAM "That's not a knot. That's a decision." / JORY "Packet was going this way." Skip summary: the itch; Bram goes without them.
 
@@ -188,6 +189,8 @@ SERA: My tables were two hours and ten minutes wrong.
 SERA: I can correct nine minutes. I can correct nineteen. I can't correct two hours.
 BRAM: Then don't. Not today. Today eat bread.
 SERA: I'll not print more. Not till I know what to print.
+SERA: Keeper. Keep the three o'clocks in your book. When there's a week of them, I'll read the week.
+BRAM: A week. Good. A week's a long time. Bread.
 [BRAM tears the loaf in four. He gives the Keeper a piece without looking at them.]
 WREN: Bram. Can I go and show Tam? He said the coat would want taking in. Now it won't! Not much!
 BRAM: Show him. Go on. Keeper, go with her.
@@ -252,7 +255,7 @@ WREN: Sera says a hand is five!
 TAM: Sera would. I'd say it's a hand.
 WREN: I'm up to your shoulder! Stand up. Stand up and see!
 [TAM stands. The top of her head is at his shoulder.]
-TAM: Shoulder. Last week you were my belt.
+TAM: Shoulder. Last week you were my top pocket.
 WREN: I'm going to be your ears next! Then your hat!
 TAM: I've not got a hat. It's at the bottom of the harbor.
 WREN: Then I'll be where your hat would be!
@@ -341,7 +344,7 @@ BRAM: Then behind it, taller. Go on.
 [Battle — Stage 2-2-2: Crater Patrol. Enemies: Glass Hounds x2, then x3. Win condition: keep the road. Wren starts the fight brighter than in Act I; her growth stacks faster.]
 [BRAM plants the lantern. The first hound walks into the edge of its light and stops, then turns to walk round it.]
 [Every hound's faceless head turns toward Wren at once. She is glowing already.]
-WREN: They're looking! Hello! I'm the same one! I'm just more of it!
+WREN: They're looking! Hello! It's still me! I've only got longer!
 BRAM: Don't chat to them!
 WREN: They chatted first! With their heads!
 BRAM: Heads isn't chatting. Keeper, left one. Wren, stay in the light.
@@ -503,7 +506,7 @@ CORRA: You're taller than me.
 WREN: Am I? Stand still!
 CORRA: You weren't taller than me last week. You came up to my chin. I remember, you breathed on my apron.
 WREN: Back to back! Bram does it with the door! Keeper, look and say!
-[They stand back to back on the slip. WREN is half a head over.]
+[They stand back to back on the slip. WREN is a finger over.]
 KEEPER: Wren.
 CORRA: Fine. Fine! It's the coat. The coat's got a heel.
 WREN: Coats don't have heels!
@@ -528,9 +531,9 @@ CORRA: You're not supposed to be nice about it. It ruins it.
 [WREN looks out past the breakwater at the water, which is higher on the slip than the tide table nailed beside it says.]
 WREN: Everything's leaning a little. Have you noticed?
 CORRA: Leaning?
-WREN: The reeds. The tide. Abel's pony, when it's stood still.
-WREN: Everything's leaning a little bit east. Like listening.
-CORRA: Tide doesn't listen.
+WREN: The reeds. Abel's pony, when it's stood still.
+WREN: Everything's leaning a little bit. Like listening.
+CORRA: Reeds don't listen.
 WREN: Doesn't it? It feels like it does. Where did I get that? I don't know where I got that.
 [She laughs.]
 WREN: Maybe I'm leaning too. Is that why I'm long? I'm just leaning upward?
@@ -557,7 +560,7 @@ WREN: Does lucky go warm? Is that how you know?
 CORRA: Mine don't. Not for me. Not like that.
 [She folds the cloth over the rest of her glass, quickly, and ties it.]
 CORRA: I'm going. Mags'll want me. Tell Sera I said— no. Don't tell her anything.
-[Skip summary: On the slip, Corra finds Wren is half a head taller than her and blames the coat. They argue about who Sera counted first and end up "neighbours" on her hand. Wren says everything is leaning a little east, and can't say where she got it. Ada Marr walks her children the long way round to avoid Wren. Corra gives her a shard, and they both see it warm in Wren's hand.]
+[Skip summary: On the slip, Corra finds Wren is a finger taller than her and blames the coat. They argue about who Sera counted first and end up "neighbours" on her hand. Wren says everything is leaning a little, like listening, and can't say where she got it. Ada Marr walks her children the long way round to avoid Wren. Corra gives her a shard, and they both see it warm in Wren's hand.]
 
 ### Scene 7 — The lamp room, dusk
 [The lamp room at dusk. SERA kneels at the bottom course with the sextant. The Keeper holds the chalk.]
@@ -600,10 +603,10 @@ WREN: When the keeper's not here, then?
 SERA: The keeper's always here.
 [WREN looks at the Keeper, and grins, and doesn't argue.]
 [She goes to the glass and looks out over the dark headland, at the three stars sitting over it.]
-WREN: There's ever so much room east of it.
-[SERA turns. The sextant comes up, east of the Belt, into the dark.]
+WREN: There's ever so much room up there.
+[SERA turns. The sextant comes up past the Belt, into the dark.]
 SERA: Where?
-WREN: Just there. Past it. Room. Lots of it.
+WREN: Just there. Round it. Room. Lots of it.
 SERA: What do you see?
 WREN: Nothing. Dark. Lots of dark.
 WREN: Is dark a thing you can have lots of? Or is it just less of something else?
@@ -636,7 +639,7 @@ BRAM: Nothing's wrong. I'm chewing. They're keeping. Everyone's very busy. Wren,
 WREN: Yes! Can I have the bit with the skin? The skin's the best bit, Tam says. Tam says nearly's the best bit, too.
 WREN: Is everything the best bit, if you ask Tam?
 BRAM: Most things. He's a mender. They're like that.
-[Skip summary: At dusk on day 19 Sera chalks twenty-eight, writing smaller; the last course is going fast. Wren asks to stay "the same for a bit". At the glass she says there's "ever so much room" east of the Belt; Sera looks, and writes nothing. Bram is quiet, and says he'll walk the crater road tomorrow with Abel and leave the keeper to mind Wren on Tam's stair. Sera asks what's wrong with the two of them, and Bram changes the subject.]
+[Skip summary: At dusk on day 19 Sera chalks twenty-eight, writing smaller; the last course is going fast. Wren asks to stay "the same for a bit". At the glass she says there's "ever so much room" up there; Sera looks, and writes nothing. Bram is quiet, and says he'll walk the crater road tomorrow with Abel and leave the keeper to mind Wren on Tam's stair. Sera asks what's wrong with the two of them, and Bram changes the subject.]
 
 ### Scene 8 — The net loft
 [Day 20, afternoon. Inside the net loft: nets on every beam, the smell of tar and smoke, the HOLLIS crate under a blanket by the chimney. TAM works on Nell's net. JORY sits in the window with his collar up, looking at the breakwater.]
@@ -1136,7 +1139,7 @@ WREN: The coat fits, Sera. No rolls. Bram tried.
 SERA: I can see.
 [SERA's hand goes to her pocket. The chalk comes out. She looks at the wall, at the clean stone left in the bottom course. Then at Wren.]
 BRAM: Not tonight.
-SERA: It's a minute.
+SERA: You said that on the fourteenth.
 BRAM: Not tonight, Sera. She's had a day.
 [SERA looks at the chalk. She puts it back.]
 SERA: Tomorrow.
@@ -1177,9 +1180,9 @@ SERA: Twenty-four. I'll look.
 
 ## Review
 
-### Mechanical check (`check_script.py --budget 6750-13500`)
+### Mechanical check (re-run after the continuity pass, 2026-10-06; per-scene rows may predate it) (`check_script.py --budget 6750-13500`)
 ```
-Scenes: 14   Dialogue lines: 775   Spoken words: 6945
+Scenes: 14   Dialogue lines: 777   Spoken words: 6970
 Speaking roles: 14 (ABEL, ADA, BRAM, CHILD, CORRA, HESTER, JORY, KEEPER, MAGS, NELL, SERA, TAM, WOMAN, WREN)
 Average line: 9.0 words (target under 15)
    1. The lamp room, morning      68 lines  638 words
@@ -1217,20 +1220,20 @@ OK
 - Button a feeling or a fact, not a trailer? **Feeling.** Wren asks Sera to look for her, and Sera says she will. It points at 2-3 (Sera's "Tomorrow" is the height mark) without withholding this chapter's point. The burn, the growth and the saying are all delivered before it.
 - Bench-hero scene? **Yes.** Corra gets scene 6. Mags (3), Jory (8, 13) and Abel (11) get appearances.
 - Free story cast matters? **Yes.** Wren and Bram carry the chapter; Sera opens, closes and turns the middle (scene 7).
-- Within budget? **Yes.** 6,945 of 6,750-13,500.
+- Within budget? **Yes.** 6,970 of 6,750-13,500.
 
 ### Gacha 15: craft
 - Jargon budget: **no new terms.** Plumbs, Glass Hounds, Crater Patrol and the Belt are established. "Don't look up after supper" is a saying in plain words, shown where it starts. One new proper name: Ada Marr (seen at the gutting table before she's named). "Old Mrs Cole" is a single mention in Hester's gossip.
 - Line length: average 9.0. Nothing near the 40-word cap; the longest lines are Bram's, as his voice notes want.
 - Companion reacts rather than recaps? **Yes.** Wren asks and reacts ("Is it smaller, or am I?"). Ada's "When it went, she went" is a witness, not a recap. Nobody summarizes the plot for the player.
 - Heavy and light alternate? **Mostly**, per the Weight column. Scenes 9-11 run heavy as one continuous hour; recorded as a deviation in the header. Scene 10 carries comedy (honey "more than most hands get all week", grans and fingers), scene 12 drops to two people on a step, and scene 13 is the chapter's warm, funny scene.
-- Could two characters trade lines? **No.** Wren: quick questions, still ends scary lines on a question or a joke ("I'll be taller than the tower. You'll have to oil me."; "If I don't look, maybe it won't look back. Is that how it works?"), with a few lines from too far up ("ever so much room east of it", "Everything's leaning a little bit east. Like listening.", "It's going to step"). Bram: food, rules he just made, "So. Funny thing about...", silence when scared. Sera: numbers ("a count of eleven", "four degrees"), no softeners. Tam: needle, literal answers ("I've never had one off"), "Well. That's a new one.", "Sit still." Hester: slate, sprat, faces, never "love" or "please". Nell: slaps, "Done.", surnames, no degrees ("Same minute"). Corra: prices ("a loaf and a half"), "Fine. Fine!", "Keep". Mags: roll call, feet, crosses through. Abel: saying, then meaning. Jory: "Not my business", glances at the breakwater. Ada: plain, frightened, a mother's house rules.
+- Could two characters trade lines? **No.** Wren: quick questions, still ends scary lines on a question or a joke ("I'll be taller than the tower. You'll have to oil me."; "If I don't look, maybe it won't look back. Is that how it works?"), with a few lines from too far up ("ever so much room up there", "Everything's leaning a little bit. Like listening.", "It's going to step"). Bram: food, rules he just made, "So. Funny thing about...", silence when scared. Sera: numbers ("a count of eleven", "four degrees"), no softeners. Tam: needle, literal answers ("I've never had one off"), "Well. That's a new one.", "Sit still." Hester: slate, sprat, faces, never "love" or "please". Nell: slaps, "Done.", surnames, no degrees ("Same minute"). Corra: prices ("a loaf and a half"), "Fine. Fine!", "Keep". Mags: roll call, feet, crosses through. Abel: saying, then meaning. Jory: "Not my business", glances at the breakwater. Ada: plain, frightened, a mother's house rules.
 - Protagonist a catalyst? **Yes.** The keeper follows Wren, fetches the bucket, pulls her clear of the Plumb, is Sera's eyes at the foot of the stair, and is the one Bram won't look at. Nobody praises them. Three light, non-branching choices (scenes 4, 9, 12).
 - Canon tier labeled? **Locked.**
 
 ### Gacha 15: common failures
 - Chosen-one plot? **No.** Wren's power is the problem here, not the solution; the lanes are won with her light sealed.
-- Cosmology monologue? **No.** Nobody explains the growth, the itch, the flare, the room east of the Belt or the Plumbs in town. Sera: "I don't know how it works."
+- Cosmology monologue? **No.** Nobody explains the growth, the itch, the flare, the "room" or the Plumbs in town. Sera: "I don't know how it works."
 - Villain explains the theme? **No.** The Plumbs and the sky are silent.
 - Twist deleting a cost? **No.** Tam's hands stay burned (weeks). The coat stays fitted.
 - Black-screen fight or burn? **No.** The burn is played on the stair, beat by beat, with reactions; the battles are stage directions with short lines.
@@ -1241,7 +1244,7 @@ OK
 - Hero seen once and dropped? **No.** Tam's bandages carry into the Lamp Night event and the rest of Act II; Ada's saying carries into 2-3.
 
 ### Project review additions
-- "Bloom" or a cosmology answer early? **No.** No "Bloom", no "measuring" in any form, no ledger. Wren's "room east of it" and "It's going to step" are unexplained, and nobody builds on them. People say what they saw (she grew when the sky moved) and nobody says why.
+- "Bloom" or a cosmology answer early? **No.** No "Bloom", no "measuring" in any form, no ledger. Wren's "room up there" and "It's going to step" are unexplained, and nobody builds on them. People say what they saw (she grew when the sky moved) and nobody says why.
 - Wren's voice right for her stage, and in the header? **Kindling**, in the header. Teenage height, quick and cheerful, words mostly right now ("Is it bad on purpose?" survives from Act I as her one wrong-shaped question), and a few lines from too far up. Every frightening line ends on a question or a joke.
 - Plumbs silent, Bloom wordless? **Yes.** The Plumbs in the lanes and the hounds on the road make no sound.
 - Pair barks right for the act? **Yes.** Bram / Wren is used in full for the first time (scene 12), after "Sparrow" arrives at the moment the brief reserves it for (she is in trouble, scene 11), and after the line is half-said in scene 1. Sera / Wren stops at "Exact." (the growth sentence is still saved). Corra / Wren uses the established "counted first / second" bark. Sera / Ivo: Sera never speaks to or about Ivo, and Ivo never speaks; he is seen once on the customs house steps.
@@ -1252,6 +1255,13 @@ OK
 - Ferrow / Bellwater / Mount Quell guardrail? Not touched.
 - Invented anything that should go to open questions? **Local color only:** Ada Marr and her three children; old Mrs Cole (one mention); the outside loft stair (twenty steps up the smokehouse wall); Bram's mam's "Sparrow"; Bram's first lighting of the old lamp at fifteen; Tam's boyhood mast bet and the net a lamp fell on in the bad year; honey and linen for burns. Two things are shown and deliberately not settled. They should go to open-questions.md when the act is collated (this writer may not edit other files): (a) Wren itches before a shift and can tell it's coming ("It's going to step"); is that a rule, and does it get stronger? (b) Plumbs came into the harbor lanes after this shift; do they now come into town at every shift, and how does that sit with 2-3's Tide-Plumbs? Neither is explained on screen.
 - Handoff rules: the chapter starts on the morning of day 18 with Wren waking at teenage height, sleeves one roll ✓; Wren grows during a shift in front of people, and that's how the town learns it ✓; the 4th shift is at dusk on day 20, 28 → 24 ✓; the coat fits, no rolls ✓; Tam can't mend for weeks ✓; ends on the night of day 20 ✓; "Don't look up after supper" starts among the harbor women, not the council ✓; Bram never lies to Sera about the reading (it isn't raised; when she asks what's wrong with him and the keeper he changes the subject) ✓; the cut leaf is never shown or named, only Bram's eyes ✓; Jory says nothing about the log ✓; bond secrets untouched (Sera's tally: the back page of the tide book, once, no dialogue; Wren's stair marks: one look at the underside of the rail; Bram's oil cupboard, Ivo's money, Jory's envelopes, Teodor's cases: not mentioned) ✓; Sera doesn't chalk Wren's height ("Tomorrow") ✓; Sera's tables are not reprinted ✓.
+
+### Continuity pass (2026-10-06, with 201, 203-205)
+- Scene 1: Sera asks the keeper to keep the three o'clocks in the breakwater log and says she'll read them as a week; Bram seizes on "a week" and offers bread (avoidance, not a lie). This is why she has no figure past 2 h 10 until 2-4.
+- Scenes 6-7: "east" removed from Wren's "leaning" and "room" lines (no tie between the ground's lean and the sky's direction before Act III); the sextant goes "past the Belt", not east of it. Both stay odd remarks nobody builds on.
+- Scene 6: Wren is "a finger over" Corra, not half a head, to fit Tam's shoulder (scene 2) and 2-3's fifteen hands and a finger. Tam's "belt" became "top pocket" for the same reason.
+- Scene 3: Wren's "I'm the same one! I'm just more of it!" (scene 2) is not repeated to the hounds.
+- Scene 14: Sera's "It's a minute" (105) varied to "You said that on the fourteenth", which 2-3's "a week of tomorrows" picks up.
 
 ### Read-aloud pass
 Scene 12 read as each speaker. Bram's lines only work with food, family and a joke in front ("I'd oil you. I've oiled worse."); Wren's only work as questions; the keeper speaks only in the choice. Scene 10 read as Hester, Tam and Nell: Hester's are orders and faces, Tam's are literal and kind, Nell's are short and end things. No line could move to another speaker without changing it.

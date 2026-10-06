@@ -8,7 +8,7 @@ Reveal gate: Act II. Allowed: the sky is speeding up ("sixteen days, then four")
 Wren stage: Fledgling (three rolls) until the 3rd shift. She is asleep in the lamp room for it and is not seen awake again in this chapter (2-2 opens on her waking).
 Budget: 6,750-13,500 spoken words (column: VN; main chapter); aim 6,800-7,500
 Production: one combat stage (Plumbs on the crater road, scene 3) and one rescue stage with no enemies (the bar, scene 10, the chapter's set piece). The 3rd shift is a small CG through a gap in cloud (scene 13), seen by two people, not a town.
-Deviations: (1) **Scene 16 is a coda set at dusk on day 18**, after the chapter's end state (morning of day 18). The handoff sheet both ends 2-1 on the morning of day 18 and gives 2-1 Jory's reading of the log "the next evening". The coda is the only way to honor both: one short breakwater scene with Jory and the keeper, no Wren, and nothing from 2-2's day. If 2-2 needs that dusk for its own breakwater scene, the coda can move into 2-2 unchanged; it references nothing from 2-2's day. (2) The rescue stage has no enemies (gacha 3.3 asks for a battle per stage; Tide-Plumbs are held for 2-3, so the bar is fought against water and time). (3) Scene 11 is a short cutaway of Bram at the lamp-room window without the keeper on screen. Why: the arc focus's choice to stay with Wren while his oldest friend is on the bar is the motive under the knife in scene 14 (the three o'clock), and it should be played, not reported (104 used the same device for its town montage). (4) Average line length is ~9 words, under the 12-15 default; that is the house understatement (000, 104, 105 run 8.8-9.9), and lines were not padded to raise it.
+Deviations: (1) **Scene 16 is a coda set at dusk on day 18**, after the chapter's end state (morning of day 18). The handoff sheet both ends 2-1 on the morning of day 18 and gives 2-1 Jory's reading of the log "the next evening". The coda is the only way to honor both: one short breakwater scene with Jory and the keeper, no Wren, and nothing from 2-2's day. Continuity pass: it sits just before 2-2's scene 3 (the keeper lights the lamp, leaves Jory on it, and goes up to the crater road with Bram and Wren; 2-2: "Lit. Jory's on it."). (2) The rescue stage has no enemies (gacha 3.3 asks for a battle per stage; Tide-Plumbs are held for 2-3, so the bar is fought against water and time). (3) Scene 11 is a short cutaway of Bram at the lamp-room window without the keeper on screen. Why: the arc focus's choice to stay with Wren while his oldest friend is on the bar is the motive under the knife in scene 14 (the three o'clock), and it should be played, not reported (104 used the same device for its town montage). (4) Average line length is ~9 words, under the 12-15 default; that is the house understatement (000, 104, 105 run 8.8-9.9), and lines were not padded to raise it.
 
 ## Planning sheet (gacha 14.2)
 
@@ -183,7 +183,7 @@ SERA: Write the minutes. Not "early". Not "a bit". The minutes.
 [Skip summary: On the slip, Sera times the morning tide thirty-one minutes ahead of her own table and stands in the water to read it. Pell jokes about the council's new "weather" notice. Sera asks the keeper to read the breakwater gauge every night at three and write it in minutes against her table. Bram coaxes her up one step. Nell plans to fish tomorrow night.]
 
 ### Scene 2 — The lamp room, dusk
-[The lamp room at dusk. The chalk wall is full except for the bottom course of stone by the door. In it, very small: 19. Sera kneels there with the sextant. The Keeper holds the chalk.]
+[The lamp room at dusk. The chalk wall is full except for the bottom course of stone by the door. In it, very small: 19, then 32 twice. Sera kneels there with the sextant. The Keeper holds the chalk.]
 [From the stair, a voice is counting, fast.]
 [Objective: Hold the chalk.]
 SERA: Thirty-two. Same as last night. Mark it small.
@@ -387,7 +387,7 @@ BRAM: She always goes down in the dark. She likes to be at the water before it i
 WREN: Can you be somewhere before water? Isn't water already everywhere?
 BRAM: Not on the stair, love. Not yet. Keep counting, you'll lose your place.
 WREN: Thirty-two. Keeper's in my way. Thirty-two and a keeper.
-KEEPER: Thirty minutes last night. At three.
+KEEPER: Thirty at ten last night. Thirty again at three.
 BRAM: Thirty. One better than the morning. I'll tell her. Sideways, with a bun.
 WREN: Thirty babies! The small hours! Is it the same babies as yesterday?
 BRAM: Different babies, love. Every day's got its own.
@@ -1065,7 +1065,7 @@ BRAM: Drink your tea. Hester'll ask if you drank it. She can tell from your face
 [Skip summary: At three Bram brings the keeper tea. He saw Patience on the bar and the shift from the tower, and couldn't leave Wren. Sera, asleep at the wall, has said she'll stand on the bar every turn with a pole. The keeper reads the gauge: two hours forty minutes ahead of the table and still rising, and writes "Tables not usable." Bram says she'll go and stand in it. He cuts the leaf out of the log with his knife, puts it in his oilskin, and asks the keeper to say nothing.]
 
 ### Scene 15 — The lamp room, first light
-[Grey first light on the salt-stained glass. The Keeper comes up the last turn of the stair. On the last course of the wall, very small: 19, 32, 31, 32, 52, and then, larger than the rest, 28, and beside it "2.10".]
+[Grey first light on the salt-stained glass. The Keeper comes up the last turn of the stair. On the last course of the wall, very small: 19, the run of 32s, 31, 52, and then, larger than the rest, 28, and beside it "2.10".]
 [Sera is asleep sitting up against the wall, a blanket over her knees, chalk in her hand. Under the window, a long shape lies curled under Bram's coat, the coat pulled up over its head. It doesn't move.]
 [Bram sits on the top step with his oilskin buttoned to the throat. He doesn't look round when the Keeper comes up.]
 [Objective: Climb to the lamp room.]
@@ -1165,14 +1165,14 @@ JORY: Book's sound.
 JORY: Go on, then. Light it.
 [The Keeper lights the lamp. The wick catches. Jory watches it the whole time.]
 JORY: Lit on time.
-[He goes back to his bollard and sits with his collar up, looking at the light and nothing else.]
+[He goes back to his bollard and sits with his collar up, looking at the light and nothing else. Up the quay, a storm lantern is waiting for the crater road. The Keeper goes to it.]
 [Skip summary: At dusk the next day, Jory asks to read the breakwater log, the way the old keeper taught him: count the leaves by the stitching before reading the words. He reads the line about Patience on the bar, then finds a leaf cut out after it. He looks at the keeper, says nothing about it, and watches the lamp lit.]
 
 ## Review
 
-### Mechanical check (`check_script.py --budget 6750-13500`)
+### Mechanical check (re-run after the continuity pass, 2026-10-06; per-scene rows may predate it) (`check_script.py --budget 6750-13500`)
 ```
-Scenes: 16   Dialogue lines: 770   Spoken words: 6816
+Scenes: 16   Dialogue lines: 770   Spoken words: 6819
 Speaking roles: 12 (BRAM, CRAB SKIPPER, CREWMAN, HESTER, JORY, KEEPER, MAGS, NELL, PELL, SERA, TAM, WREN)
 Average line: 8.9 words (target under 15)
 OK
@@ -1196,7 +1196,7 @@ OK
 - Button a feeling or a fact, not a trailer? **Both.** "Let her sleep. Water'll still be wet in an hour", with his hand on the pocket, is a feeling. The coda's stub is a fact the player and Jory now share. Neither withholds this chapter's point: the reading is hidden, and the player saw it hidden.
 - Bench-hero scene? **Yes.** Jory gets the coda and the slip; Nell gets three scenes and the set piece; Mags gets the patrol; Tam and Hester the smokehouse and the slip.
 - Free story cast matters? **Yes.** Every turn of the chapter is Bram's or Sera's.
-- Within budget? **Yes.** 6,816 of 6,750-13,500 (aim 6,800-7,500).
+- Within budget? **Yes.** 6,819 of 6,750-13,500 (aim 6,800-7,500).
 
 ### Gacha 15: craft
 - Jargon budget: **two new terms**, both on screen: *the gauge* / "the stick" (a painted post, shown and read in scene 4) and *the Nail* (a star Sera points at, glossed in one line: "Navigators steer by it"). *The bar* and *the gut* are common harbor words, shown as white water and explained once by Bram. *Tide-Plumbs* are not used.
@@ -1232,6 +1232,12 @@ OK
 - Invented anything that should have gone to open questions? **Local color only:** the painted gauge post ("the stick"), the gut and the bar's depths, the breakwater punt, the Coll family (a crewman, a wedding), the crab-boat skipper, *Patience*'s draft, Bram learning to sink off the slip, the Nail by name (WB working constellation). **Flags for open-questions.md (not added; this brief forbids editing other files):** (a) *OQ 30* (keep Jory off the tide): here he reads the bar line in silence and says nothing about the tide; recommend keeping it that way through 2-4. (b) *The water jumped at the gauge as the Belt moved* (scene 13, seen by the keeper only). Shown, not explained; it should stay unexplained until Act III. (c) *Sera's plan to read the bar herself, every turn, for a week* is now said aloud on the slip. 2-2 to 2-4 should either show her doing it at the slip only (not the bar), or let Bram's hiding be what keeps her off the bar; otherwise she would take a morning reading that shows the 2 h 40 figure herself. The handoff says she never sees it.
 - Bond secrets kept? **Yes.** Bram's oil cupboard isn't mentioned. Sera's supper tally isn't opened. Wren's stair marks are only a look at the underside of the stair. Ivo's money and Jory's envelopes are not touched. Teodor's cases are not touched.
 - Handoff rules: Sera never speaks to Ivo (he is absent). Ivo says nothing. Bram never lies outright to Sera's face: at dawn he changes the subject ("Water'll still be wet in an hour") and she is half asleep; he never states a false figure. The keeper's choice at the knife is non-branching silence.
+
+### Continuity pass (2026-10-06, with 202-205)
+- Flag (c) resolved: the three o'clock readings go into the breakwater log on its nail (the council's book), and Sera asks for them as a week, not a night (2-2 scene 1). She never reaches the bar: she puts it off for Wren, Tam and the council (2-4 scene 12), so she has no figure past 2 h 10 until 2-4.
+- Scenes 2 and 15: the last course now shows the dusk counts of days 14-15 (32 twice; 105 marked day 14's there).
+- Scene 5: the keeper's report now gives both readings of day 16 (ten o'clock lesson and three o'clock), so it agrees with scene 4.
+- The coda stands at dusk on day 18, just before 2-2's crater-road patrol; its last direction sends the keeper to the road.
 
 ### Read-aloud pass
 Scene 14 read as each speaker. Bram's lines need the food and the turn-away ("Drink your tea. Hester'll ask"); in Sera's mouth "There's no sideways on that one" would be a number. The keeper's lines are all short and factual ("Two hours forty ahead."; "That was the deal."). Scene 12 read for Nell and Hester: Nell's lines fail without the flat statements and "Done"; Hester's fail without the slate. No line moves to another speaker unchanged.

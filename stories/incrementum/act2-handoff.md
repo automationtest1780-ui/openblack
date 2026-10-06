@@ -1,5 +1,7 @@
 # Act II handoff sheet (for writers)
 
+**Status: drafted and continuity-edited (2026-10-06).** Patches 201-205 are written and folded into canon (ledger, index, sheets, roadmap). Where the patches differ from this sheet (2-1's coda at dusk on day 18; 2-4's lamp-room cutaway; Ivo learning of the leaf from Jory on day 23), the patches and the ledger win. For the state at the end of the act, see `act3-starting-state.md`.
+
 Fixed by Claude on 2026-10-06 before drafting Act II in parallel. Every Act II writer works from this so the chapters meet cleanly. Canon files win over this sheet; this sheet wins over the roadmap where they differ.
 
 ## Clock

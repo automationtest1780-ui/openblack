@@ -30,6 +30,10 @@ Act I "Supper in the Lamp Room" / Act II "The Last Clean Stone" / Act III "Two R
   - Bram: "Eyes up there, feet down here, deal?"
   - Sera: "Deal. Stay in the light."
 
+- **Pair-bond bark (after 2-4, until they make up):** *(Claude, from 204)*
+  - Bram: "Eyes up there—"
+  - Sera: "Finish it or don't."
+
 ### Sera and Ivo (the fault line)
 - **Dynamic:** Two people holding the same numbers. She told the truth and was mocked. He lied and was believed. He respects her more than anyone alive. She refuses to forgive him.
 - **Tension:** The lie. Before Act III, she resents him for dismissing her. After Act III, she knows he *knew*, which is worse.

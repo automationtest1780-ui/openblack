@@ -113,18 +113,21 @@ Every chapter opens with place and job in-world (gacha 12.3) and ships with skip
 - Featured: Bram, Sera; Nell (the near-loss hardens her plan to take the fleet south); Jory (he reads the breakwater log the way his father taught him and notices a line is gone).
 - WB beat: tides fall off the tables; boats nearly lost; Bram hides one bad reading.
 - New facts: *Patience* nearly lost on the bar **(new)**; Bram hid the reading, and the keeper is the only one who saw him do it **(new)**; Jory has noticed the gap **(new)**.
+- **Written:** `patches/201-early-water.md` (2026-10-06; day 16 to first light on day 18). Tide 31 → 52 → 2 h 10 → 2 h 40 at three; the 3rd shift about 2 a.m. through cloud (32 → 28); Bram cuts the leaf with his wick knife. **Deviations:** Bram doesn't copy the reading, he cuts the leaf out (handoff sheet); a short **coda at dusk on day 18** (Jory finds the stub), set just before 2-2's crater-road patrol; a no-enemy rescue stage on the bar; a cutaway of Bram at the tower window.
 
 **2-2 Kindling** (1.2)
 - Synopsis: Wren wakes at teenage height and runs to the net lofts to show Tam; a shift hits while she's holding his hands on the stair, and she burns them; Hester dresses the burns in the smokehouse while half the harbor watches.
 - Featured: Wren, Bram (first "Sparrow"); Tam (his hands, his work, his forgiveness); Hester (the town's eyes).
 - WB beat: Wren reaches teenage height; hurts someone by accident; the town starts to notice her; "Don't look up after supper" starts.
 - New facts: Tam's hands are burned and he can't mend for weeks **(new)**; Wren grows during a shift, in front of people **(new; Act II gate)**.
+- **Written:** `patches/202-kindling.md` (2026-10-06; morning of day 18 to the night of day 20). One roll on day 18, the coat fits after the 4th shift (dusk, day 20, 28 → 24); Ada Marr's house rule (day 19) becomes the harbor women's saying (day 20); Plumbs in the harbor lanes; first "Sparrow". Deviation: three heavy scenes in a row at the shift (one continuous hour).
 
 **2-3 Don't Look Up After Supper** (1.3)
 - Synopsis: Ivo calms the harbor with a lamp-oil ration that keeps people indoors after dark and a stop on glass sales "for public order"; it works, and the marsh turns on him; in the lamp room Sera chalks Wren's height on the wall and Bram calls her on it.
 - Featured: Ivo, Sera, Bram, Wren; Corra (the glass stop hits her family; she copies Sera's chalk marks on the pan-house door); Mags (has to tell her cutters there's no glass money); Teodor (his trade stops; he waits, unbothered).
 - WB beat: Ivo manages the town's fear and it costs him; Sera treats Wren as evidence; Bram calls her on it. Tide-Plumbs appear in the harbor.
 - New facts: the oil ration and the glass stop **(new)**; Sera marks Wren's height on the chalk wall **(new; feeds 2-4 and IV)**; Tide-Plumbs first appear (WB variant).
+- **Written:** `patches/203-dont-look-up-after-supper.md` (2026-10-06; day 21). Ivo adopts Ada Marr's saying from the benches; eleven Tide-Plumbs at the evening tide, named by Pell; Wren's height as a long line on the last course, "W. 21." Deviations: two battles only (a council day); Sera doesn't attend council; Corra chalks the bearings on the pan-house door.
 
 **2-4 Out of Wall** (1.4, Act II finale, half-anniversary)
 - Synopsis: Plumbs stand in straight lines across the marsh, all facing the lighthouse; Sera chalks the last clean stone; Jory brings the keeper's log up the stair, the hidden reading comes out, and Sera and Bram have the worst quarrel of their lives.
@@ -132,7 +135,10 @@ Every chapter opens with place and job in-world (gacha 12.3) and ships with skip
 - WB beat: act close (Sera runs out of wall; the reading comes out; the quarrel that rehearses Act III); the Plumbs seem to be measuring.
 - Production: Plumb-line set piece across the marsh; quarrel staged with no music.
 - New facts: the wall is full **(new: exact night)**; the Plumbs line up toward the lighthouse **(new)**; Sera knows Bram hid a reading **(WB)**; Bram still brings supper that night and Sera doesn't touch it **(new; the tally keeps its stroke)**.
+- **Written:** `patches/204-out-of-wall.md` (2026-10-06; afternoon of day 22 to near midnight), at the finale override (project.md). Nineteen rows facing the tower; Abel says "measuring"; the 5th shift (24 → 20) and the gold window; the wall full; Jory brings the log; the quarrel (no music); the untouched pie; Sera keeps the chalk. **Deviations:** a **cutaway** to the lamp room at the shift without the keeper (scene 8, precedent 104); two heavy scenes back to back (the leaf and the quarrel); Hester, Tam, Mags and Corra appear beside the brief's Abel and Jory.
 - **Quartet scene 2, "The Last Clean Stone"**: they argue where to write next; Wren offers her arm.
+  - **Written:** `patches/205-the-last-clean-stone.md` (2026-10-06; evening of day 23), at the quartet-scene budget override. The count goes on hands; "Tomorrow I'll find stone."
+- **Act II status:** all four chapters and quartet scene 2 written and continuity-edited as one act (2026-10-06). Timeline: 2-1 days 16-18 (coda dusk of day 18); 2-2 days 18-20; 2-3 day 21; 2-4 day 22; quartet scene day 23. Starting state for Act III: `act3-starting-state.md`.
 
 ### Act III: The Ledger (versions 1.5-2.0)
 - **WB beats:** the ledger surfaces, years deep, tying the bad year to the sky; Sera confronts Ivo; the council fractures; the town learns at the worst time. Close: the two records together hold the sky still for one night, and the town sees it. Bram caught between, picks no side. Sera: being right feels like nothing.

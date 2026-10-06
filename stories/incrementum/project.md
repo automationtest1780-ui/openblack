@@ -74,6 +74,13 @@ Skip, Auto, Log and skip-summary UI: present
 - Lamp Night and any event: the old lamp stays dark until Act V.
 - Ferrow, Bellwater and Mount Quell heroes know only what their own sky showed them (roadmap §4.3).
 - Is anything invented that should have gone to `open-questions.md`?
+- **Act III and later (from the Act II continuity pass, 2026-10-06):**
+  - The wall is full (night of day 22). Nothing new goes on the lamp-room wall; counts go on hands until a piece decides where (open question 38e). Sera keeps the chalk herself since 2-4 ("No. I'll hold it."); the keeper still counts with her but no longer holds it unless she gives it back on screen.
+  - Sera and Bram are not speaking as Act III opens, beyond "I know" and "It's cold" (205). Their deal ("Eyes up there, feet down here") is broken off; don't restore it without an on-screen cause. Bram still brings supper every night, and Sera's tally still gets its stroke.
+  - Sera's last tide figure is 2 h 10, plus the 2 h 40 on the leaf (now in the front of her tide book). She has not yet read the keeper's later gauge readings in the breakwater log; when she does, it's a scene.
+  - Ivo knows about the cut leaf (205) and told Bram he would have cut it too. He has not been seen to connect it to himself aloud; keep it that way until his confession beat (OQ 2).
+  - The town is under the oil ration and the glass stop; "Don't look up after supper" is council advice. The lamp room is the only lit window after supper.
+  - Wren is Kindling at the start of Act III: the coat sleeves stop short of her wrists. Bram calls her "Sparrow". She has stopped glowing on purpose except in a fight, and she sits "in the middle" of the stair when the others quarrel.
 
 ### Character sheet fields (gacha 16.4, plus)
 Use the gacha 16.4 sheet. Incrementum adds:
