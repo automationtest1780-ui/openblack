@@ -7,8 +7,8 @@ Prerequisite: 3-4 "The Word for It"
 Reveal gate: Act III. Allowed: Ivo knew; the ledger, years deep, ties the bad year to the sky; a new star forming (Wren's "opening", the thrift, "bloom" on the glass from 3-4); measurement *seems* to slow it (Sera's column: nights with both counts show almost no creep). Still locked: Wren is the Bloom's child and the sky is calling her (Act IV); growth can't be undone (Act V); the ending; the old lamp lit. Never: anyone explaining why counting holds. Nobody here says it does; Ivo refuses to write why.
 Wren stage: Brightening (older teen; sleeves end mid-forearm; a faint light of her own in the dark; sees in the dark; itches before a shift; slower lines, small sensory memories of "up there", always ending on a question or a joke)
 Budget: 6,750-16,000 spoken words (column: VN; arc finale at up to 1.5x a main chapter, per the project.md override); aim 7,000-8,500
-Production: **best of Part 1 so far.** Boss-weight story stage on the lighthouse stair (scene 5, Haze-Walkers, short cutscene). **CG 1:** the still sky at eleven, the due minute, over the lit harbor wall (scene 10). **CG 2:** dawn over the harbor wall, the Belt fading at twelve, the wall still lined with lamps (scene 14). **Credits** roll over the harbor wall at the end of scene 14, over the town's lamps dipping twice to the tower; scene 15 is a short post-credits button. The climax (scene 9) is staged with the score down to a single held note, so the counting is the music.
-Deviations: (1) Three cutaways to the harbor wall without the keeper (scenes 7, 10, 14). Every other scene keeps the keeper on screen. Why: the brief is "the town on the harbor wall watching, every launch hero gets a line", and the keeper is in the lamp room all night. Precedent: 104 scene 10, 204 scene 8. (2) The climax is a count, not a fight; the only battle is on the stair before it (scene 5). Why: the brief ("the climax is the counting, not a fight"). (3) Scenes 8 and 9 sit back to back at medium and heavy. Why: ten o'clock to eleven is one continuous watch; scene 8 carries a supper crust, a joke and Wren's memory to keep it light enough, and scene 10 (the wall, comic and awed) follows the climax.
+Production: **best of Part 1 so far.** Boss-weight story stage on the lighthouse stair (scene 5, Haze-Walkers, short cutscene). **CG 1:** the still sky at two in the morning, the due minute, over the lit harbor wall (scene 10). **CG 2:** dawn over the harbor wall, the Belt fading at twelve, the wall still lined with lamps (scene 14). **Credits** roll over the harbor wall at the end of scene 14, over the town's lamps dipping twice to the tower; scene 15 is a short post-credits button. The climax (scene 9) is staged with the score down to a single held note, so the counting is the music.
+Deviations: (1) Three cutaways to the harbor wall without the keeper (scenes 7, 10, 14). Every other scene keeps the keeper on screen. Why: the brief is "the town on the harbor wall watching, every launch hero gets a line", and the keeper is in the lamp room all night. Precedent: 104 scene 10, 204 scene 8. (2) The climax is a count, not a fight; the only battle is on the stair before it (scene 5). Why: the brief ("the climax is the counting, not a fight"). (3) Scenes 8 and 9 sit back to back at medium and heavy. Why: midnight to the due hour is one continuous watch; scene 8 carries a supper crust, a joke and Wren's memory to keep it light enough, and scene 10 (the wall, comic and awed) follows the climax.
 
 ## Planning sheet (gacha 14.2)
 
@@ -17,15 +17,15 @@ Deviations: (1) Three cutaways to the harbor wall without the keeper (scenes 7, 
 **Featured heroes: want / obstacle / cost**
 - **Sera** wants tonight counted twice, in one room, out loud. Obstacle: the second count is in the hands of the man who lied to her, and she can't say why two counts should matter, only that her column says so. Cost: she walks into the customs house and asks him (she calls it telling), says his name for the first time to hand him the call on the stair, gives the keeper back the chalk, and at dawn finds that being right still weighs nothing. What weighs something is the harbor wall, still lit. She says the first half of the deal to Bram.
 - **Ivo** wants Saltreach standing. Obstacle: everything he built to keep it standing (the word, the saying, the ration) is what Sera now needs him to undo. Cost: he tells the town to look up, in red, with his own name under it, lifts his own oil ration, carries the council's book up the stair of the tower whose order he signed, and stands at the glass all night with no word to hide behind. He won't write why it held, because he doesn't know.
-- **Bram** wants everyone home and nobody choosing between his two people. Obstacle: one lamp, two books, a stair full of haze, and a woman who needs the light on her page and out of her eye at the same time. Cost: he holds the lantern at the one height that works, from ten to eleven until dawn, without moving, misses his first three o'clock at the slip since the bar, and says out loud what he knows about how she writes.
+- **Bram** wants everyone home and nobody choosing between his two people. Obstacle: one lamp, two books, a stair full of haze, and a woman who needs the light on her page and out of her eye at the same time. Cost: he holds the lantern at the one height that works, from ten to two until dawn, without moving, misses his first three o'clock at the slip since the bar, and says out loud what he knows about how she writes.
 - **Wren** wants to be useful in the middle now that nobody needs messages carried. Obstacle: the itch is climbing all day, and she can feel something up there lift its foot. Cost: she holds Ivo's watch and calls every minute of the due hour while she itches. She remembers a little more of "up there" than she meant to say.
 
 **Recap blurb (written first)**
-> The next shift of the sky was due on the night of day 27, the soonest and worst yet. Sera went to the customs house and told Ivo to bring his ledger and count it with her.
+> The next shift of the sky was due late on the night of day 27, after midnight, the soonest and worst yet. Sera went to the customs house and told Ivo to bring his ledger and count it with her.
 > Ivo told the town to look up. All night Sera and Ivo counted the Ploughman's Belt aloud in the lamp room, while Bram held the light and Wren stood between them with Ivo's watch.
 > The shift never came. The Belt held at twelve until dawn, and the whole harbor watched it hold.
 
-**Link outward:** into quartet scene 3, "Two Records" (evening of day 28): the ledger stays on the cradle step beside the fair copy and Sera's tide book, and Ivo will fetch it "at dusk". Into the Interlude III/IV, "The Morning After": Ivo has told the town the truth before, not after, in red ink, and the town stayed up. Global question kept open: Wren says the thing up there is "waiting", not gone, and nobody can say why it held.
+**Link outward:** into quartet scene 3, "Two Records" (evening of day 28): Ivo takes the ledger back to the customs house at dawn and will sign it out again "properly" at dusk; the fair copy and Sera's two-column tide book stay on the cradle step; the keeper keeps the chalk. Into the Interlude III/IV, "The Morning After": Ivo has told the town the truth before, not after, in red ink, and the town stayed up. Global question kept open: Wren says the thing up there is "waiting", not gone, and nobody can say why it held.
 
 **Arc position:** finale of Act III (gacha 3.2). Close locally: the two records are together, out loud and in public, and the sky holds still for one night while the town watches. Keep one global question open: what is growing in the east, and what does it want with Wren? It isn't answered.
 **System unlock / reward:** none new (premium currency on first clear, 16.3). Act III clear. The post-Act III Sera/Ivo pair bark switches on at the end (scene 15 note).
@@ -41,29 +41,31 @@ Deviations: (1) Three cutaways to the harbor wall without the keeper (scenes 7, 
 | 5 | 3-5-2 | The lighthouse stair | Climb to the lamp room | **yes** | Haze-Walkers on the stair → "Call it." / "Thank you. Left." | heavy |
 | 6 | 3-5-3 | Lamp room, half past eight | Set up the count | — | Two bars, one watch, the chalk given back → the first "Twelve" | light |
 | 7 | — | The harbor wall, nine | — (cutaway) | — | The town lights the wall; Abel looks up | light |
-| 8 | 3-5-3 | Lamp room, ten | Keep the count | — | Two weeks; the voice for harbor dues; a crowd of lights | medium |
-| 9 | 3-5-4 | Lamp room, eleven | Count the due minute | — (held note) | Every minute → it doesn't come | heavy |
-| 10 | — | The harbor wall, eleven | — (cutaway, CG) | — | "Where's it not going to?" | mixed |
-| 11 | 3-5-4 | Lamp room, after midnight | Keep the count | — | The light where she needs it → the deal's first half | quiet |
-| 12 | 3-5-5 | Lamp room, three o'clock | Keep the count | — | Wren asleep with the watch; the fourth step; "Exact" | light |
+| 8 | 3-5-3 | Lamp room, midnight | Keep the count | — | High water; two weeks; the voice for harbor dues; no down | medium |
+| 9 | 3-5-4 | Lamp room, two o'clock | Count the due minute | — (held note) | Every minute → it doesn't come | heavy |
+| 10 | — | The harbor wall, two o'clock | — (cutaway, CG) | — | "Where's it not going to?" | mixed |
+| 11 | 3-5-4 | Lamp room, three o'clock | Keep the count | — | The light where she needs it → the deal's first half | quiet |
+| 12 | 3-5-5 | Lamp room, four o'clock | Keep the count | — | Wren calls the quarters with her eyes shut; the fourth step; "Exact" | light |
 | 13 | 3-5-5 | Lamp room, dawn | The last count | — | "Held." → being right weighs nothing → the hook isn't empty | heavy |
 | 14 | — | The harbor wall, dawn | — (cutaway, CG, credits) | — | Mags counts him; "Where's south, now?"; the lamps dip | mixed |
-| 15 | 3-5-5 | Lamp room, morning | — (then: return at dusk) | — | The book stays; "Breakfast's on me." | light |
+| 15 | 3-5-5 | Lamp room, morning | — (then: return at dusk) | — | The book goes back; "Breakfast's on me." | light |
 
 **New facts (for the ledger)**
-- Locked: the 8th shift was due on the night of day 27 (Sera: about eleven; Ivo: a quarter to eleven, "fifteen minutes apart") and **did not come**. The Belt held at twelve from dusk on day 27 to dawn on day 28. The town saw it.
-- Locked: Sera and Ivo counted it aloud together in the lamp room, Sera with her sextant on the second window bar and Ivo with his brass octant on the third, every quarter hour from half past eight to half past six (forty-one counts, all twelve), every minute from a quarter to eleven to half past. Each wrote every count in their own book (her tide book and the fair copy; his ledger). Bram held the light. Wren stood between them and called the time from Ivo's watch. The keeper held the chalk and drew one stroke on the glass under "bloom" for every count (forty-one strokes), and gave the second sight at the due minute, fingers laid from the Nail to the middle star ("Three fingers." / "Still three.").
+- Locked: the 8th shift was due on the night of day 27 (late, after midnight and before light: Sera, two; Ivo, a quarter to two, "fifteen minutes apart"), on the night of the spring high water near midnight, which Jory read at the breakwater gauge every half hour, signed "J. Flint". It **did not come**. The Belt held at twelve from dusk on day 27 to dawn on day 28. The town saw it.
+- Locked: Sera and Ivo counted it aloud together in the lamp room, Sera with her sextant on the second window bar and Ivo with his brass octant on the third, every quarter hour from half past eight to half past six (forty-one counts, all twelve), every minute from a quarter to two to half past two. Each wrote every count: Sera in her tide book in two columns, "S.V." and "I.T.", his figure in her hand beside hers, and in the fair copy's margin; Ivo in the ledger. Bram held the light. Wren stood between them and called the time from Ivo's watch. The keeper held the chalk and drew one stroke on the glass under "bloom" for every count (forty-one strokes), and gave the second sight at the due minute, fingers laid from the Nail to the middle star ("Three fingers." / "Still three.").
 - Locked: Sera's sums before the count: between shifts the Belt creeps a hair a night; on nights there is Ivo's count as well as hers, almost nothing. Observation only. Nobody says why, and at dawn Ivo refuses to write why ("I do not know why. I will write that it held.").
 - Locked: Sera went to the customs house at dusk and asked Ivo, to his face, to bring the ledger and count with her ("Same room. Same minute. Out loud."). Councillor Gage minuted it: "Item. The book went for a walk."
 - Locked: Ivo told the town from the customs house steps to **look up** (Ada Marr's saying, returned "turned round"), said the shift was due before, not after, and pinned **LOOK UP** in red ink on the bare customs house door ("Red is for things we are sure of." / "Of that. Only of that."). He had the sheet in his coat already. He lifted the oil ration for one night: every house may burn a lamp on the harbor wall, shaded and low; nine days of the harbor fund's oil.
-- Locked: Haze-Walkers came down the lighthouse stair in the haze. They stop at the edge of Bram's lantern light and keep to it step for step. Sera, sighting through the slit window on the ninety-first step, said Ivo's name to him for the first time and gave him the call: "Ivo. Call it." / "...Thank you. Left." **The post-Act III Sera/Ivo pair bark is switched on.**
+- Locked: Haze-Walkers came down the lighthouse stair in the haze. They stop at the edge of Bram's lantern light and keep to it step for step. Sera, sighting through the slit window on the ninety-first step, said Ivo's name to him for the first time and gave him the call: "Ivo. Call it." / "...Thank you. Left." This is the post-Act III Sera/Ivo pair bark, first played in battle; it is switched on at the chapter's end (scene 15 note), and 306 plays it as the dusk count.
 - Locked: Sera gave the chalk back to the keeper ("Hold the chalk."), the first time since 2-4. "I don't know what to do with the five dusks yet." / "I've decided I want two hands on it tonight."
 - Locked: first Sera/Bram thaw, with an on-screen cause. Bram held the lantern for over an hour at the one height that lit her book and kept the glare out of her right eye ("Left hand. Book on your knee."). Sera said the first half of the deal ("Eyes up there. Feet down here. Deal?"); Bram finished it ("Deal. Stay in the light."); Sera: "You're holding it." The leaf is not settled ("I've not done the leaf." / "That's for after supper.").
 - Locked: at dawn Bram hung his lantern back on its hook by the window. The harbor wall dipped its lamps twice at the tower, Bram's "seen you"; Sera lifted the lantern off the hook and answered, twice.
-- Locked: the ledger stays on the cradle step of the lamp room after dawn, beside the fair copy. It is still council property, not handed over ("The council's book can stay where the council last sat."); Ivo will fetch it at dusk. Ivo's entry for the night: "Twelve, dusk to dawn. Held. Seen from the harbor wall." The last page stays blank ("In case.").
+- Locked: at dawn Ivo takes the ledger back down to the customs house ("It is council property, and I am what is left of the council."), to sign it out again "properly" at dusk (306 opens with that). It is not handed over. Ivo's entry for the night: "Twelve, dusk to dawn. Held. Seen from the harbor wall." The last page stays blank ("In case.").
 - Soft: Wren counted the stair at a hundred and eight for the first time (going up, behind the light, with Walkers ahead). Nobody remarks on why (OQ 26).
-- Soft: Wren can see in the dark well enough to read a watch face and to see Walkers past the lantern's reach. She remembered "up there" as wide "all the way down", quiet, with "a crowd of lights, close". At the due minute she felt something "lift its foot", and after the half hour "put it down. Same place."; she says it is "waiting". Nobody interprets it.
-- Soft: Ivo's watch "has kept time on four ships and a council."
+- Soft: Wren can see in the dark well enough to read a watch face, Jory's pencil on the breakwater, and Walkers past the lantern's reach. Adding to the crowd of lights she told Corra (304), she remembered that up there "there wasn't any down. Nobody stood on anything. They just held their places." She stayed awake all night (306), calling the quarters after half past three with her eyes shut. At the due minute she felt something "lift its foot", and after the half hour "put it down. Same place."; she says it is "waiting". Nobody interprets it.
+- Soft: Ivo's watch "has kept time on four ships and a council." Wren keeps it until dusk on day 28.
+- Soft: Haze-Walkers on the stair stop at the edge of Bram's light because "on a stair there is no round" (in the lanes, 301, they walk round it). Struck from the side, they go back to their line, as in 301; at the top they stand in the haze and then are gone.
+- Soft: Sera, who told the keeper "Not yet." that morning (304), goes to Ivo at dusk ("It's dusk. That's yet."), and tells him that tonight the book she told him "can lie" (303) "can stand up".
 - Soft: Abel looked up for the first time in fifty years ("I'll look at what made it. Once."). Mags counted Ivo for the first time ("And him. Once."). Corra chalked twelve on the pan-house door ("room for two more"), and her flat-hand sighting finally held a star on her finger.
 - Soft: Bram missed his three o'clock at the slip for the first time since the bar. He said the water had been at the fourth step from the top the night before, and Sera wrote it down: "Bram. Three. Fourth step."
 - Soft: Nell offered Bram his berth on *Patience* again ("Thirtieth. First light."); Bram: "Ask me on the thirtieth. I'll be at the slip." / "To wave. Whichever." Not a decision. The Nell/Hester post-Act III bark is used at dawn.
@@ -80,8 +82,8 @@ Deviations: (1) Three cutaways to the harbor wall without the keeper (scenes 7, 
 - Hub (Wren, post-Act III pool): "I called every minute. Ivo's watch is very loud when nobody's talking. Is that what a minute sounds like?"
 - Hub (Jory): "Lamp's lit. Light was lit that night, too. It's in two books now. Not that I read them. ...Both."
 - Hub (Abel): "I looked the once. It stood still. Don't tell Mags. She'll want me to do it again."
-- Pair barks used: **Sera / Ivo post-Act III** ("Call it." / "...Thank you. Left.") switched on; Sera / Ivo pre-Act III inverted once ("Your mark is—" / "Two degrees off?" / "Exact."); Sera / Bram (the deal, said by Sera and finished by Bram); Bram / Ivo ("only face", with "indigestion"); Bram / Wren ("Sparrow", the lantern); Ivo / Wren ("almost", "Noted."); Nell / Hester post-Act III ("Still going south?" / "Where's south, now?"); Nell / Bram (slip); Abel / Mags variant; Mags / Teodor ("Price went up. Weather's turned.").
-- Bond teaser (Sera): a stroke at the back of her tide book after the stew she ate hot. No dialogue. (Bram's "in case" twitch at Ivo's "In case." brushes his oil cupboard without opening it.)
+- Pair barks used: **Sera / Ivo post-Act III** ("Call it." / "...Thank you. Left."), first in battle on the stair, switched on at the end (306 plays it as the count); Sera / Ivo pre-Act III inverted once ("Your mark is—" / "Two degrees off?" / "Exact."); Sera / Bram (the deal, said by Sera and finished by Bram); Bram / Ivo ("only face", with "indigestion"); Bram / Wren ("Sparrow", the lantern); Ivo / Wren ("almost", "Noted."); Nell / Hester post-Act III ("Still going south?" / "Where's south, now?"); Nell / Bram (slip); Abel / Mags variant; Mags / Teodor ("Price went up. Weather's turned.").
+- Bond teaser (Sera): a stroke at the back of her tide book in the morning, after the stew she ate hot. No dialogue. (Bram's "in case" twitch at Ivo's "In case." brushes his oil cupboard without opening it.)
 
 ## Scene cards (gacha 14.3)
 
@@ -99,34 +101,34 @@ Deviations: (1) Three cutaways to the harbor wall without the keeper (scenes 7, 
 
 **7. The harbor wall, nine (cutaway).** The town lights the wall and looks up; Walkers stand in the lanes behind. Only-them lines: ABEL "So I'll look at what made it. Once." / TEODOR "Tonight I'm only looking, Mrs Teller. It's very much cheaper." Skip summary: the town on the wall; Abel looks up.
 
-**8. The lamp room, ten.** Objective: keep the count. Sera wants the two weeks accounted for; Ivo wants to sight, not talk; Wren remembers. By the end the itch is "nearer the top". Only-them lines: SERA "You said it in the voice you use for harbor dues." / WREN "Nobody had supper, either. I'd have noticed." Skip summary: Sera asks Ivo about the two weeks; Wren remembers up there.
+**8. The lamp room, midnight.** Objective: keep the count. High water; Jory at the gauge. Sera wants the two weeks accounted for; Ivo wants to sight, not talk; Wren remembers. By the end the itch is "nearer the top". Only-them lines: SERA "You said it in the voice you use for harbor dues." / WREN "There wasn't any down. Nobody stood on anything." Skip summary: Sera asks Ivo about the two weeks; Wren remembers up there.
 
-**9. The lamp room, eleven.** Objective: count the due minute. Everyone wants it counted; Wren feels it lift its foot. By the end it hasn't come, and they keep counting. Only-them lines: KEEPER "Still three." / WREN "It's still got its foot up. Is that allowed? For a sky?" Skip summary: the due minute passes; the Belt holds.
+**9. The lamp room, two o'clock.** Objective: count the due minute. Everyone wants it counted; Wren feels it lift its foot. By the end it hasn't come, and they keep counting. Only-them lines: KEEPER "Still three." / WREN "It's still got its foot up. Is that allowed? For a sky?" Skip summary: the due minute passes; the Belt holds.
 
-**10. The harbor wall, eleven (cutaway, CG).** The town watches it not move. Only-them lines: CHILD "Where's it not going to?" / CORRA "It's stayed on my finger." Skip summary: the town sees it hold.
+**10. The harbor wall, two o'clock (cutaway, CG).** The town watches it not move. Only-them lines: CHILD "Where's it not going to?" / CORRA "It's stayed on my finger." Skip summary: the town sees it hold.
 
-**11. The lamp room, after midnight.** Objective: keep the count. Sera notices where the light is; Bram says how he knows. By the end she has said the deal's first half and he has finished it. Only-them lines: BRAM "Left hand. Book on your knee." / SERA "You're holding it." Skip summary: the first thaw.
+**11. The lamp room, three o'clock.** Objective: keep the count. Sera notices where the light is; Bram says how he knows. By the end she has said the deal's first half and he has finished it. Only-them lines: BRAM "Left hand. Book on your knee." / SERA "You're holding it." Skip summary: the first thaw.
 
-**12. The lamp room, three o'clock.** Objective: keep the count. Wren sleeps with the watch and wakes on every quarter; Bram misses the slip. By the end the fourth step is in Sera's book and Ivo has said "Exact." Only-them lines: SERA "Then say it, and I'll write it." / IVO "Exact. I was going to say exact." Skip summary: three o'clock; Bram's step in the book.
+**12. The lamp room, four o'clock.** Objective: keep the count. Wren calls every quarter with her eyes shut; Bram has missed the slip. By the end the fourth step is in Sera's book and Ivo has said "Exact." Only-them lines: SERA "Then say it, and I'll write it." / IVO "Exact. I was going to say exact." Skip summary: three o'clock; Bram's step in the book.
 
 **13. The lamp room, dawn.** Objective: the last count. Ivo writes "Held." and not why; Sera finds being right weighs nothing; the harbor dips its lamps. By the end she has answered them from Bram's hook. Only-them lines: IVO "I do not know why. I will write that it held." / SERA "Count the lamps." Skip summary: forty-one counts, twelve every one; Sera answers the town.
 
 **14. The harbor wall, dawn (cutaway, CG, credits).** The town stayed up. Only-them lines: MAGS "And him. Once." / NELL "Where's south, now?" Skip summary: the town saw it hold; credits.
 
-**15. The lamp room, morning.** The book stays; the bark switches on; breakfast. Only-them lines: IVO "The council's book can stay where the council last sat." / WREN "It's only waiting." Skip summary: the book stays; everyone still here.
+**15. The lamp room, morning.** The book goes back to the customs house; the chalk stays with the keeper; the bark switches on; breakfast. Only-them lines: IVO "It is council property, and I am what is left of the council." / WREN "It's only waiting." Skip summary: the book goes back till dusk; everyone still here.
 
 ## Script
 
 ### Scene 1 — The lamp room, dusk
 [Day 27, dusk. The lamp room. The chalk wall is full from the ceiling to the floor. On the glass beside the second window bar, in Sera's hand, one word in chalk: bloom.]
-[Sera sits on the cradle step with her tide book open on one knee and a sheaf of clerk's paper on the other, tied with council tape: the fair copy. Wren stands at the glass. Her sleeves end halfway down her forearms. As the light goes, she gives off a little of her own, like a lamp turned right down.]
+[Sera sits on the cradle step with her tide book open on one knee and a sheaf of clerk's paper on the other, tied with string: the fair copy. Wren stands at the glass. Her sleeves end halfway down her forearms. As the light goes, she gives off a little of her own, like a lamp turned right down.]
 [Objective: Take the dusk count.]
 SERA: Keeper. Dusk. Sight it with me. Arm straight.
 [The Keeper holds one arm out toward the glass. Sera lifts the sextant.]
 SERA: Twelve.
 KEEPER: Twelve. Same as last night.
 SERA: Same as last night.
-[She writes it in the tide book. Then she writes it again in the margin of the fair copy, beside the clerk's neat columns.]
+[She writes it in the tide book, on a page ruled down the middle into two columns, under the one headed "S.V." The other column, "I.T.", is empty. Then she writes it again in the margin of the fair copy, beside the clerk's neat figures.]
 WREN: You write everything twice now.
 WREN: Is that so the first one isn't lonely?
 SERA: It's so one isn't all there is.
@@ -145,7 +147,7 @@ KEEPER: Is it tonight?
 [Sera turns the fair copy so the Keeper can see. The clerk's columns run down the page, one line a night, in Ivo's figures. Sera's own numbers are pencilled beside them.]
 SERA: Every shift since the first. Here. Here. Here. Here.
 SERA: The gaps shrink. All but one. That one stumbled, then it shrank again.
-SERA: The next one's tonight. Before midnight. Eleven, by my sums.
+SERA: The next one's tonight. Late. After midnight, before light. Two, by my sums.
 KEEPER: The worst yet?
 SERA: The soonest yet. Soonest has been the worst every time.
 [She turns a page and lays her tide book beside the copy.]
@@ -181,7 +183,7 @@ BRAM: That was the sea's fault.
 SERA: My name's on them.
 [Bram looks at her. It's nearly the first thing she's said to him straight in days, and it's about the tables.]
 BRAM: Eat while it's hot. Hester says. Hester says it every night. I'm only the cart.
-[Sera stands. She closes the fair copy and ties the tape.]
+[Sera stands. She closes the fair copy and ties the string.]
 SERA: Keeper. Coat. We're going to the customs house.
 BRAM: The customs house.
 SERA: The book's there.
@@ -189,6 +191,8 @@ BRAM: The book. And the man sat next to it, with his gloves on, counting the flo
 SERA: I'm not going for the man.
 BRAM: You're going to ask Ivo Thane for something. Out loud. In his own room.
 SERA: I'm going to tell him.
+BRAM: This morning you told the keeper not yet.
+SERA: It's dusk. That's yet.
 BRAM: That's how you ask, Sera. That's the only way you've ever asked for anything.
 [Sera doesn't answer. She puts the tide book inside her coat.]
 WREN: Can I come? I'll be in the middle. I'm good at the middle now.
@@ -215,9 +219,9 @@ GAGE: That's more people at this table than we've had since the water.
 IVO: Surveyor.
 SERA: It's due tonight.
 IVO: Yes.
-SERA: Before midnight.
-IVO: A quarter to eleven.
-SERA: Eleven.
+SERA: After midnight. Before light.
+IVO: A quarter to two.
+SERA: Two.
 IVO: Fifteen minutes apart.
 [A beat.]
 IVO: We have not been fifteen minutes apart on anything since the haze.
@@ -269,11 +273,13 @@ SERA: I heard you.
 IVO: It did not appear to give you any pleasure.
 SERA: I thought it would weigh something. It didn't.
 IVO: No. Being right seldom does. I have been right a great deal. I do not recommend it.
-SERA: You said sorry. In this room.
+SERA: You said sorry. In this room. In the wet.
 IVO: I did.
 SERA: It didn't help.
-IVO: It was not said to help. It was said because it was owed.
-SERA: Then don't say it again. Count.
+IVO: It was not for you. It is never for the one who hears it. I told you so.
+SERA: And I told you your book could lie.
+IVO: You did.
+SERA: Tonight it can stand up. Bring it. Don't say sorry again. Count.
 [A long silence. Gage turns a page in the minute book, very quietly.]
 IVO: Keeper. You have held her chalk. Is she right about the column?
 [Choice a: "She's counted every dusk."]
@@ -302,7 +308,7 @@ IVO: A month ago this council told you not to look up after supper.
 IVO: Those were Mrs Marr's words. I took them because they were good ones.
 ADA: They were my mam's. For babies. Not for councils.
 IVO: I know, Mrs Marr. I am giving them back.
-IVO: The surveyor's figures say the sky will move again tonight. Before midnight. Mine say the same.
+IVO: The surveyor's figures say the sky will move again tonight. After midnight, before light. Mine say the same.
 IVO: It will be the soonest it has ever come. It may be the worst.
 [A sound goes through the quay, low, like a swell under a boat.]
 NELL: And you're telling us before?
@@ -402,6 +408,9 @@ JORY: Keeper. Lit at dusk. On time. Not that I looked.
 KEEPER: Will you keep it tonight?
 JORY: Somebody's got to. You're up the other one.
 JORY: I'll be on the breakwater. Not the wall. Not my wall.
+JORY: Gauge at midnight, and every half hour after, till light. My hand. Signed. She asked.
+KEEPER: High water's near midnight.
+JORY: Spring, with the drift on top. Same hours as hers. I'll have it to the half hour. J. Flint.
 HESTER: Jory Flint. Bowl.
 JORY: I've had—
 HESTER: You've had nothing. Bowl. And not on the slate. Never on the slate, you.
@@ -466,6 +475,7 @@ BRAM: In my tower. On my stair. I oiled that stair.
 [Battle — Stage 3-5-2: The Stair. Enemies: Haze-Walkers. Win condition: reach the lamp room with both books. Special: the stair turns; the lantern lights only as far as the next curve.]
 [The first Walker comes round the curve into the edge of Bram's light. It stops there, as if the edge were a line. Its faceless head tilts toward the lantern.]
 BRAM: That's it. That's the edge. Stand on it, then. Don't come in.
+IVO: In the lanes they walked round your light, Hollis. On a stair there is no round.
 IVO: They stop where the light stops. Hollis, go up one step. Only one.
 [Bram climbs one step. The light climbs with him. The Walker steps back one step, keeping exactly to the edge.]
 BRAM: Ha. It's a dance. I'm leading. My mam always said I'd never lead a dance in my life, and look at me, on a stair, with three of them.
@@ -494,7 +504,7 @@ SERA: Call it.
 [A beat. Ivo's gloved hand stops halfway to his coat.]
 IVO: ...Thank you.
 IVO: Left. Its left. Low, as it turns.
-[Sera pins it. The Keeper strikes left and low as it turns. It folds sideways off the edge of the light into the dark, and the haze closes where it was.]
+[Sera pins it. The Keeper strikes left and low as it turns. It is knocked off its line, steps back down out of the light into the dark below the curve, and stands there, waiting to walk again.]
 IVO: Again. The next is coming round the curve. Same side.
 SERA: Call it.
 IVO: Left. Now.
@@ -508,8 +518,8 @@ IVO: Then hold up. Keeper, the ones below will keep the edge if you keep still. 
 [Above, the last Walker comes down into the edge of the light, and Sera sights it.]
 SERA: Call it.
 IVO: Right. For once. Its right.
-[The Keeper strikes. It goes.]
-[The stair above is clear to the lamp-room door. Below, the two Walkers stand in the haze at the edge of the light and do not follow. When Bram climbs, they don't climb. They stand, facing up, as the haze thins round them, and then they aren't there.]
+[The Keeper strikes. It goes back to its line, above the light's edge, and doesn't come down again.]
+[The stair above is clear to the lamp-room door. Below, the Walkers stand in the haze at the edge of the light and do not follow. When Bram climbs, they don't climb. They stand, facing up, as the haze thins round them, and then they aren't there.]
 WREN: Hundred and seven. Hundred and eight. Top.
 WREN: That's the first time I've got a hundred and eight. Is that because of them?
 BRAM: It's because you were counting for somebody, love.
@@ -604,7 +614,7 @@ SERA: Twelve.
 IVO: Twelve.
 [The Keeper draws one stroke on the glass under "bloom".]
 SERA: Write it.
-[Sera writes in the tide book. Ivo opens the ledger, writes one line without looking down, and closes it.]
+[Sera writes in the tide book: twelve under "S.V.", and Ivo's twelve, in her hand, under "I.T." Ivo opens the ledger, writes one line without looking down, and closes it.]
 WREN: Is that it? Is that the counting?
 SERA: That's it.
 WREN: It's very short.
@@ -642,7 +652,7 @@ TEODOR: Tonight I'm only looking, Mrs Teller. It's very much cheaper.
 MAGS: You offered for every bit of glass on the marsh. Yesterday. I heard.
 TEODOR: I did. You declined beautifully. I've been admiring it since.
 MAGS: Price went up. Weather's turned.
-TEODOR: Weather's been turning a long while, Mrs Teller. Tonight it's said to turn at eleven.
+TEODOR: Weather's been turning a long while, Mrs Teller. Tonight it's said to turn after midnight.
 [He touches the small brass bell on his watch-chain without ringing it.]
 [Further along, Pell has a net-tag on his knee and a knife ready, and two children leaning on him.]
 CHILD: Pell. Is it going to go?
@@ -682,18 +692,22 @@ NELL: That's what frightens me.
 [On the breakwater, at the very end of everything, Jory sits by the keeper's lamp with his collar up and an empty bowl beside him.]
 JORY: Lamp's lit. Nobody's looking at it. Everybody's looking up.
 JORY: Nobody's looking at me either. First time since the packet.
+JORY: Midnight's my first reading. Then every half hour, signed. Not that anybody'll read it.
 JORY: Suits me.
 [Skip summary: At nine the harbor wall is lit for the first time in a week, every face turned up, with Haze-Walkers standing silent in the lanes behind. Corra has chalked twelve on the pan-house door with room for two more. Abel looks up at the sky for the first time in fifty years. Teodor is only looking tonight. Hester hands out pies, Nell's peg-board doesn't reach twelve, and Jory keeps the breakwater lamp.]
 
-### Scene 8 — The lamp room, ten
-[The lamp room at ten. Six strokes under "bloom" on the glass. Sera and Ivo at their bars, Wren between them with the watch. Bram sits on the cradle step with the lantern, still trying heights. The Keeper stands with the chalk.]
+### Scene 8 — The lamp room, midnight
+[The lamp room at midnight. Fourteen strokes under "bloom" on the glass. Sera and Ivo at their bars, Wren between them with the watch. Bram sits on the cradle step with the lantern, still trying heights. The Keeper stands with the chalk.]
 [Objective: Keep the count.]
-WREN: Ten o'clock. Now.
+WREN: Midnight. Now.
 SERA: Twelve.
 IVO: Twelve.
-[The Keeper draws the seventh stroke. Sera and Ivo each write.]
-WREN: Seven. That's more strokes than I've got fingers on one hand. Is that a lot of strokes?
-IVO: It is seven.
+[The Keeper draws the fifteenth stroke. Sera and Ivo each write.]
+WREN: Fifteen. That's more strokes than I've got fingers. Is that a lot of strokes?
+IVO: It is fifteen.
+SERA: High water. Midnight. Jory's at the gauge.
+[Far down on the breakwater, a small light goes to the end of the stones, stops, and comes back.]
+WREN: There he is. He's writing. I can see his pencil going. Is that rude, seeing someone's pencil?
 WREN: You sound like Sera.
 IVO: I have been accused of worse tonight. Not yet, but the night is young.
 [Quiet. Wind on the glass. Then Sera speaks without taking her eye from the sextant.]
@@ -747,10 +761,10 @@ BRAM: It's not. You did the other one on the steps. When you said look up.
 IVO: That was indigestion. It was Hester's stew.
 BRAM: You hadn't had the stew yet. You'd not even smelled it. I'd the lid on tight all the way across the quay.
 IVO: Then it was anticipation of Hester's stew.
-WREN: Quarter past ten.
+WREN: Quarter past twelve.
 SERA: Twelve.
 IVO: Twelve.
-[The eighth stroke.]
+[The sixteenth stroke.]
 IVO: You have not chosen a side tonight, Hollis.
 BRAM: I've chosen a lamp. Lamps are round. They've not got sides.
 IVO: That is the most Hollis sentence I have ever heard.
@@ -758,9 +772,9 @@ BRAM: I've got better. I'm saving them. I've got one about soup that'd make a bi
 [Wren is looking out past the Belt, into the dark east of it, where nothing shows. She hasn't scratched in a while. She is very still.]
 WREN: Ivo. When you were on ships. Was the sky the same all the way round?
 IVO: The same stars. Different places to stand.
-WREN: I remember it wasn't round. Up there. It was wide. Wide all the way down.
-WREN: And quiet. And there were lights all round me. A crowd of them. Close.
-WREN: Nobody said anything. Nobody had supper, either. I'd have noticed.
+WREN: I told Corra about the lights. Up there. A crowd of them, standing still.
+WREN: There's another bit now. There wasn't any down. Nobody stood on anything.
+WREN: They just held their places. All of them. Nobody had supper, either. I'd have noticed.
 [Bram stops with the lantern. Sera's pencil stops on the page.]
 IVO: When do you remember that from, Wren?
 WREN: I don't know. It just came back. Like a word does, when you've stopped looking for it.
@@ -769,23 +783,23 @@ BRAM: It's not bad, Sparrow. Eat your crust.
 [Wren eats her crust. Ivo looks at her a long time, over the octant, the way he looks at a sum he can't finish.]
 KEEPER: Where's the itch now?
 WREN: Nearer the top of me. Like the tide on the steps. It's not bad. It's just coming.
-SERA: Ten, nearer.
+SERA: Midnight, nearer.
 [She writes it down.]
-WREN: Half past ten. Now.
+WREN: Half past twelve. Now.
 SERA: Twelve.
 IVO: Twelve.
-[The ninth stroke.]
-[Skip summary: Through the ten o'clock counts, still twelve, Sera asks Ivo what he did with the two weeks before she saw the sky move. He says he counted, wrote, sat on the harbor dues, and then called it haze in the voice that works on a council. Wren remembers being up there: wide all the way down, quiet, a crowd of lights close round her. Her itch is climbing. Bram still can't find the right place for the light.]
+[The seventeenth stroke.]
+[Skip summary: Through the midnight counts, still twelve, with high water at the breakwater and Jory at the gauge, Sera asks Ivo what he did with the two weeks before she saw the sky move. He says he counted, wrote, sat on the harbor dues, and then called it haze in the voice that works on a council. Wren remembers more of up there: no down, nobody standing on anything, everything holding its place. Her itch is climbing. Bram still can't find the right place for the light.]
 
-### Scene 9 — The lamp room, eleven
-[The lamp room. Nine strokes on the glass. The music falls away to one held note under the wind.]
+### Scene 9 — The lamp room, two o'clock
+[The lamp room, after half past one. Twenty-one strokes on the glass. The music falls away to one held note under the wind.]
 [Ivo shifts his octant on the third bar. He doesn't look away from the glass.]
 [Objective: Count the due minute.]
-WREN: Quarter to eleven.
+WREN: Quarter to two.
 IVO: Mine. That is my minute.
 SERA: Twelve.
 IVO: Twelve.
-[The tenth stroke.]
+[The twenty-second stroke.]
 IVO: From now, every minute. Wren. Every minute.
 WREN: Every minute. I've got it.
 SERA: Keeper. When the strokes stop, write the minute instead.
@@ -844,12 +858,12 @@ IVO: Twelve.
 WREN: One to.
 SERA: Twelve.
 IVO: Twelve.
-[Below, across the harbor, the church bell begins to strike eleven. Nobody in the lamp room moves.]
-WREN: Eleven.
+[Below, across the harbor, the church bell begins to strike two. Nobody in the lamp room moves.]
+WREN: Two.
 SERA: Twelve.
 IVO: Twelve.
 KEEPER: Still three.
-[The Keeper, one arm still out, draws the eleventh stroke with the other hand.]
+[The Keeper, one arm still out, draws the twenty-third stroke with the other hand.]
 [The bell finishes. The held note holds.]
 WREN: One past.
 SERA: Twelve.
@@ -880,7 +894,7 @@ IVO: Twelve.
 WREN: Quarter past.
 SERA: Twelve.
 IVO: Twelve.
-[The Keeper draws the twelfth stroke under "bloom".]
+[The Keeper draws the twenty-fourth stroke under "bloom".]
 IVO: It is late.
 SERA: It's never been late.
 IVO: Half an hour past mine. A quarter past yours.
@@ -899,19 +913,19 @@ WREN: You knock very quietly.
 WREN: Half past.
 SERA: Twelve.
 IVO: Twelve.
-[The thirteenth stroke. The held note ends. Nobody says anything at all.]
-[Ivo lowers the octant for the first time since a quarter to eleven. His hand isn't quite steady.]
+[The twenty-fifth stroke. The held note ends. Nobody says anything at all.]
+[Ivo lowers the octant for the first time since a quarter to two. His hand isn't quite steady.]
 IVO: Surveyor. It has not come.
 SERA: It's not dawn.
 [A long pause.]
 IVO: No. It is not dawn.
 [He lifts the octant back to the bar.]
-[Skip summary: From a quarter to eleven, Sera and Ivo count every minute aloud while Wren calls the time from Ivo's watch and the keeper holds the second sight, three fingers from the Nail. Bram puts the light exactly where Sera needs it and doesn't move. Wren feels something up there lift its foot. The church bell strikes eleven, the due minute passes, and the Belt stays at twelve. At twenty past, Wren says it has put its foot down in the same place. They keep counting toward dawn.]
+[Skip summary: From a quarter to two in the morning, Sera and Ivo count every minute aloud while Wren calls the time from Ivo's watch and the keeper holds the second sight, three fingers from the Nail. Bram puts the light exactly where Sera needs it and doesn't move. Wren feels something up there lift its foot. The church bell strikes two, the due minute passes, and the Belt stays at twelve. At twenty past, Wren says it has put its foot down in the same place. They keep counting toward dawn.]
 
-### Scene 10 — The harbor wall, eleven
+### Scene 10 — The harbor wall, two o'clock
 [Cutaway, the same minute. CG: the Ploughman's Belt over Saltreach, three stars in a row, perfectly still. Below, the whole harbor wall lit with shaded lamps, every face turned up. On the headland, the lamp room glows, and in it, small against the glass, four figures side by side and a fifth with one arm held out. At the end of the breakwater, one lamp.]
-[The church bell finishes striking eleven. The wall is silent.]
-PELL: Eleven.
+[The church bell finishes striking two. The wall is silent.]
+PELL: Two.
 PELL: Nail to the middle star. A knife and a thumb at nine. A knife and a thumb now.
 [A child tugs at her mother's skirt on the wall.]
 CHILD: Mam. It's not going.
@@ -953,27 +967,28 @@ ABEL: I am looking up. My neck's old. It wants telling.
 GAGE: Somebody fetch a pen.
 GAGE: No. I've got a pen. I've just never minuted nothing happening before.
 GAGE: Seven seats. Three walked out. And I'm the one sat on the steps writing the only thing that ever mattered.
-GAGE: "Item. Eleven o'clock. It didn't go."
+GAGE: "Item. Two o'clock. It didn't go."
 [On the breakwater, Jory stands by the lamp with his hand on the rail, and looks up the headland at the lit window.]
+JORY: Two o'clock. Gauge falling. J. Flint.
 JORY: Lamp's lit. Sky's where it was.
 JORY: First night in a month that's both.
 JORY: Not that I'm counting.
 [Skip summary: At the same minute, the whole harbor wall watches the Belt not move. A child asks where it's not going to. Pell measures it off the Nail with his knife, Corra's flat hand finally holds a star, Tam has nothing to drop, Hester writes the sky in her book again, Teodor says nobody where he's from stayed up to find out, Abel thinks it stood still for him, and Jory keeps the lamp lit.]
 
-### Scene 11 — The lamp room, after midnight
-[The lamp room after midnight. Fourteen strokes under "bloom", and the minutes from a quarter to eleven written small beside them. Wren is still between the bars with the watch. Bram has not moved the lantern.]
+### Scene 11 — The lamp room, three o'clock
+[The lamp room, near three. Twenty-six strokes under "bloom", and the minutes from a quarter to two written small beside them. Wren is still between the bars with the watch. Bram has not moved the lantern.]
 [Objective: Keep the count.]
-WREN: Midnight. Now.
+WREN: Three o'clock. Now.
 SERA: Twelve.
 IVO: Twelve.
-[The fifteenth stroke.]
-WREN: Is midnight a quarter? It feels bigger than a quarter.
+[The twenty-seventh stroke.]
+WREN: Three's Bram's hour. The slip one. Is it bigger than the other quarters?
 IVO: It is the same size as all the others. People make a fuss of it.
-WREN: You're people.
-IVO: I am a magistrate. It is not the same thing. Ask the harbormaster. Wherever he has gone.
+WREN: Bram's people.
+IVO: Hollis is a great many people. Most of them carry soup.
 [Sera writes. The page is lit. She looks at the light on it, then at Bram, standing to her left a little behind her shoulder, the lantern low.]
 SERA: You've had that there an hour.
-BRAM: Hour and a quarter.
+BRAM: Hour and ten.
 SERA: It's where I need it.
 BRAM: I know where you need it.
 BRAM: Left hand. Book on your knee, tilted toward the glass.
@@ -1016,10 +1031,10 @@ BRAM: Don't.
 IVO: I was only going to say the light is very steady.
 BRAM: You were not.
 IVO: No. But I am saying that instead.
-WREN: Quarter past twelve.
+WREN: Quarter past three.
 SERA: Twelve.
 IVO: Twelve.
-[The sixteenth stroke. Sera writes, by Bram's light.]
+[The twenty-eighth stroke. Sera writes, by Bram's light.]
 SERA: Ivo.
 IVO: Surveyor.
 SERA: When it's light. What are you going to write?
@@ -1042,26 +1057,27 @@ WREN: Shall we not do me together? It's less lonely than not doing it on your ow
 IVO: That is the worst arithmetic I have ever heard.
 WREN: Did you almost smile?
 IVO: Call the quarter, Wren.
-WREN: That's not no. Half past twelve.
+WREN: That's not no. Half past three.
 SERA: Twelve.
 IVO: Twelve.
-[The seventeenth stroke.]
-[Skip summary: After midnight, still twelve, Sera notices Bram has held the light exactly where she needs it for over an hour. He tells her he's known where her light goes since the first night: left hand, book on her knee, below her shoulder. Sera says the first half of their deal herself, and Bram finishes it. She tells him that doesn't settle the leaf. Ivo says he'll write what they counted at dawn, and not why, because he doesn't know why.]
+[The twenty-ninth stroke.]
+[Skip summary: At three, still twelve, Sera notices Bram has held the light exactly where she needs it for over an hour. He tells her he's known where her light goes since the first night: left hand, book on her knee, below her shoulder. Sera says the first half of their deal herself, and Bram finishes it. She tells him that doesn't settle the leaf. Ivo says he'll write what they counted at dawn, and not why, because he doesn't know why.]
 
-### Scene 12 — The lamp room, three o'clock
-[The lamp room at three. Twenty-six strokes under "bloom". Wren has slid down to sit on the floor between the two bars, her back against the wall under the window, the open watch held up in both cupped hands. Her eyes are shut. Her faint light rises and falls with her breathing.]
+### Scene 12 — The lamp room, four o'clock
+[The lamp room at four. Thirty strokes under "bloom". Wren has slid down to sit on the floor between the two bars, her back against the wall under the window, the open watch held up in both cupped hands. Her eyes are shut. Her faint light rises and falls with her breathing.]
 [Ivo's coat is over her knees. He stands at the third bar in his waistcoat.]
 [Objective: Keep the count.]
-WREN: Three o'clock. Now.
+WREN: Four o'clock. Now.
 [Her eyes are still shut.]
 SERA: Twelve.
 IVO: Twelve.
-[The twenty-seventh stroke.]
+[The thirty-first stroke.]
 KEEPER: Is she asleep?
-IVO: Since a quarter to two. She has not missed a quarter.
-BRAM: She wakes on the quarters. Like a ship's bell. I've never seen the like.
-IVO: I have. On ships. The best hands sleep through everything but their own watch.
-IVO: She called the quarter past two to the second. I checked.
+WREN: No. I'm resting my eyes. I can see the watch through them. Is that cheating?
+IVO: She has had them shut since half past three. She has not missed a quarter.
+BRAM: She calls them like a ship's bell. I've never seen the like.
+IVO: I have. On ships. The best hands keep their own watch with their eyes shut.
+IVO: She called the quarter to four to the second. I checked.
 BRAM: Course you checked.
 IVO: Someone in this room has to check something. You were holding a lamp, and the surveyor was holding the sky.
 BRAM: You put your coat on her.
@@ -1075,8 +1091,8 @@ BRAM: I don't put people out, Ivo. I put lamps out. It's a different job.
 IVO: You have never put that one out. Not in eleven years.
 BRAM: No. Well. It's never been the right night. There's always been a good reason, and I've always had it ready, like a spare bowl.
 [Bram shifts the lantern from one hand to the other without letting the light move off Sera's page. He looks down toward the harbor, where the slips are.]
-BRAM: Three o'clock.
-SERA: I know.
+BRAM: I missed three o'clock.
+SERA: I know. You were holding the light.
 BRAM: First three o'clock I've not been down the slip since the bar.
 SERA: What step was it on? Last night.
 [Bram is quiet a moment.]
@@ -1105,29 +1121,30 @@ SERA: It's not one night. It's two weeks and a month and a bad year.
 IVO: Yes. I have it written down. All of it. In order.
 SERA: Then you know how long it'll take.
 IVO: I know how long it has been. I have never been able to do the other sum.
-[Wren stirs under Ivo's coat without opening her eyes.]
+[Wren shifts under Ivo's coat without opening her eyes.]
 WREN: Ivo. Did you almost smile?
 IVO: Go to sleep, Wren.
 WREN: That's not no.
 IVO: ...Noted.
 WREN: Under "almost"?
-IVO: Under "three o'clock". It is a new heading.
-[Wren smiles in her sleep and is gone again. Bram has to look at the ceiling for a moment.]
+IVO: Under "four o'clock". It is a new heading.
+[Wren smiles with her eyes shut, and doesn't say anything else.]
+[Bram has to look at the ceiling for a moment.]
 KEEPER: Do you want to rest your arm, Bram?
 BRAM: No. I'm all right. It's only a lamp. I've held it eleven years. I can hold it to breakfast.
-IVO: Twenty-seven strokes, Keeper. Sixteen more to dawn, if dawn keeps its appointment.
-SERA: Fourteen. It's half past six, not seven.
-IVO: Fourteen. Thank you.
+IVO: Thirty-one strokes, Keeper. Twelve more to dawn, if dawn keeps its appointment.
+SERA: Ten. It's half past six, not seven.
+IVO: Ten. Thank you.
 SERA: Don't thank me. Count.
-WREN: Quarter past three.
+WREN: Quarter past four.
 [Her eyes are still shut.]
 SERA: Twelve.
 IVO: Twelve.
-[The twenty-eighth stroke.]
-[Skip summary: At three, Wren is asleep on the floor between the bars under Ivo's coat, still calling every quarter with her eyes shut. Bram misses his three o'clock at the slip for the first time and says the water was at the fourth step last night; Sera writes it in her book. Ivo starts the old "two degrees off" and says "exact" instead. The Belt is still at twelve.]
+[The thirty-second stroke.]
+[Skip summary: At four, Wren sits on the floor between the bars under Ivo's coat with her eyes shut, awake, still calling every quarter. Bram has missed his three o'clock at the slip for the first time, and says the water was at the fourth step the night before; Sera writes it in her book. Ivo starts the old "two degrees off" and says "exact" instead. The Belt is still at twelve.]
 
 ### Scene 13 — The lamp room, dawn
-[The lamp room. Grey on the glass. Forty strokes under "bloom". The stars are going thin. Wren is awake again, standing between the bars with the watch, Ivo's coat round her shoulders. Below, the harbor wall is still lined with lamps, pale now in the dawn.]
+[The lamp room. Grey on the glass. Forty strokes under "bloom". The stars are going thin. Wren has opened her eyes and stands between the bars with the watch, Ivo's coat round her shoulders. Below, the harbor wall is still lined with lamps, pale now in the dawn.]
 [Objective: The last count.]
 WREN: Half past six. It's getting light. They're going thin. Is this the last one?
 SERA: While I can see it.
@@ -1151,7 +1168,7 @@ IVO: That is all I know. I have written more than I knew before, Surveyor. I wil
 IVO: Your column, Surveyor. It has forty-one more lines in it tonight. In both books.
 SERA: It's still a column. It's not a reason.
 IVO: It is a longer column. I am a magistrate. I have a weakness for a longer column.
-WREN: Did I do good? With the watch? I called every one. Even asleep.
+WREN: Did I do good? With the watch? I called every one. Even with my eyes shut.
 BRAM: You did good, Sparrow. You did the best of any of us.
 SERA: Every minute. Exact.
 WREN: Exact! That's better than good. Bram, it's better than good.
@@ -1190,7 +1207,7 @@ SERA: It's counting. That's all it is.
 IVO: Yes.
 SERA: It weighs more than right. I don't know why. Don't ask me.
 IVO: I would not dream of it. I have only just stopped writing things I cannot explain.
-[Bram stands. His arm has been in one place since ten to eleven, and it shows. He lifts the storm lantern, crosses to the window, and hangs it on its hook, where it hangs every night.]
+[Bram stands. His arm has been in one place since ten to two, and it shows. He lifts the storm lantern, crosses to the window, and hangs it on its hook, where it hangs every night.]
 BRAM: Light's done for the night. Sun's taken over. He's better at it. Don't tell him.
 [Down on the harbor wall, a lamp lifts and dips. Twice. Then another. Then the whole wall, lamp after lamp, lifting and dipping twice toward the tower: Bram's signal. Seen you.]
 WREN: Bram. They're doing your dips. All of them. Did you teach them?
@@ -1265,7 +1282,7 @@ NELL: Then haul yourself up off that wall. Done.
 [Skip summary: At dawn the town is still on the harbor wall. Mags counts the lamp-room window, Ivo included, for the first time. Hester asks Nell if she's still going south, and Nell answers "Where's south, now?" Corra goes to chalk "all night" on the pan-house door, Abel wakes still looking up, Teodor finds nothing for sale, Jory writes the dips on his hand, and Pell says it's exact. Credits roll over the harbor wall.]
 
 ### Scene 15 — The lamp room, morning
-[Post-credits. The lamp room in full morning light. Forty-one strokes in chalk on the glass under "bloom". On the cradle step, side by side: the black ledger, the fair copy, and Sera's tide book.]
+[Post-credits. The lamp room in full morning light. Forty-one strokes in chalk on the glass under "bloom", by the second window bar. On the cradle step, side by side: the black ledger, the fair copy, and Sera's tide book.]
 [Ivo buttons his waistcoat. He picks up his coat from Wren's shoulders, looks at her, and leaves it there.]
 WREN: Ivo. Your watch.
 IVO: Keep it until dusk, Wren. You will need it to know when dusk is.
@@ -1279,8 +1296,10 @@ BRAM: Ivo. Breakfast. Hester's. You've not been home.
 IVO: I have a council to explain this to, Hollis. What is left of one.
 BRAM: You've got Gage. Gage'll have minuted it already, in his best hand, with a drawing of the stars in the margin, and spelled your name wrong.
 IVO: That is precisely what worries me.
-IVO: The council's book can stay where the council last sat. I will fetch it at dusk.
-SERA: Dusk.
+[Ivo picks up the ledger from the cradle step and holds it flat against his chest.]
+IVO: The council's book goes back to the council. It is council property, and I am what is left of the council.
+IVO: I will sign it out again at dusk. Properly. The clerk will want it in ink.
+SERA: Dusk. In your hand. Not the clerk's.
 IVO: Dusk. If the surveyor permits.
 IVO: It may come tonight. It was late, Surveyor. Nobody said it was cancelled.
 SERA: I know.
@@ -1294,10 +1313,10 @@ SERA: Bring your octant. The third bar's yours.
 IVO: The second is better.
 SERA: The second's mine.
 [Ivo goes to the stair head. He stops there, and looks down into the turn, where the haze stood last night. It's only a stair now.]
-IVO: If there is anything on the stair, Surveyor—
-SERA: Call it.
-IVO: ...Thank you.
-[He goes down. On the ninth step, the stair creaks. He keeps to the left of it, as if he knew.]
+IVO: If there is anything on the stair, Surveyor, I shall shout.
+SERA: Shout which side.
+IVO: ...I shall.
+[He goes down, the ledger against his chest. On the ninth step, the stair creaks. He keeps to the left of it, as if he knew.]
 [Pair bark unlocked (post-Act III): Sera, "Call it." / Ivo, "...Thank you. Left."]
 [Bram stands, stretches the arm that held the lantern all night, and winces. He counts heads with a pointing finger: Sera, the Keeper, Wren. Then he does it again.]
 BRAM: Everyone still here? Good. Breakfast's on me.
@@ -1310,4 +1329,60 @@ SERA: I know what the trick is. I've had it explained every night since the firs
 WREN: It's still there. It's only waiting.
 WREN: ...So are we. Aren't we?
 [Objective: Return at dusk.]
-[Skip summary: In the morning, Ivo leaves the ledger on the cradle step beside the fair copy, to fetch at dusk, and agrees to count again tonight. At the stair head he offers to call anything on the way down, and Sera says "Call it." The Sera and Ivo post-Act III pair bark is unlocked. Bram counts everyone and offers breakfast, and Wren looks east and says the thing up there is only waiting.]
+[Skip summary: In the morning, Ivo takes the ledger back down to the customs house, to sign it out again at dusk, and agrees to count again tonight. Sera tells the keeper to keep the chalk and not wipe the glass. The Sera and Ivo post-Act III pair bark is unlocked. Bram counts everyone and offers breakfast, and Wren looks east and says the thing up there is only waiting.]
+
+## Review
+
+### Mechanical check (`check_script.py --budget 6750-16000`)
+```
+Scenes: 15   Dialogue lines: 914   Spoken words: 7536
+Speaking roles: 20 (ABEL, ADA, BRAM, CHILD, CORRA, CREWMAN, DUNN BOY, FERRIS, GAGE, HESTER, IVO, JORY, KEEPER, MAGS, NELL, PELL, SERA, TAM, TEODOR, WREN)
+Average line: 8.2 words (target under 15)
+OK
+```
+- About 34 minutes of reading at 225 wpm, plus one battle. Inside the finale override (6,750-16,000) and the 7,000-8,500 aim. Nothing is near the 40-word cap; the longest line is about 28 words (Bram, rolling, as his sheet asks).
+- Average line: 8.2 overall. Scene 9 is 105 lines of mostly one-number counting ("Twelve."), which the brief allows. Without it the average is 9.0, inside the brief's ~9-12.
+- The first pass came in at 5,053 words. I deepened by playing beats that had only been stated: Gage on the three lots; the crewman and Nell on the steps; Tam and Jory's sleeve; Bram's joke before fear on the stair; Wren losing her job as go-between; Sera on the bad year ("He had the light. I had the tide. Nobody had both."); Sera's voice failing at six past, with Ivo waiting instead of calling it alone; "Are you frightened of me?"; "You have not forgiven me." / "No." / "Good."; Bram's step entered in Sera's book; and the dawn exchange ("This is not forgiving." / "It's counting."). I also lengthened Bram's and Teodor's lines toward their sheets (Bram rolling, Teodor courteous and conditional). No line was padded.
+- **Alignment pass with 301-304 and 306 (after a container restart):** the due shift moved from eleven to "after midnight, before light" (304): Sera says two, Ivo a quarter to two. High water near midnight, with Jory reading the gauge every half hour, signed "J. Flint" (scenes 4, 7, 8, 10). The count is in two columns, "S.V." / "I.T." (scenes 1, 6). "Bloom" is by the second window bar. The fair copy is tied with string. Sera's "Not yet" turns into "It's dusk. That's yet." The Walkers keep 301's rule: they go back to their line when struck, and they only stop at the light because "on a stair there is no round". Ivo's sorry echoes 303 ("It is never for the one who hears it"; "Then it can lie" becomes "Tonight it can stand up"). Wren's new memory adds to 304's crowd of lights instead of repeating it. Wren stays awake all night, eyes shut after half past three (306: "I didn't [sleep]"). The ledger goes back to the customs house at dawn, so that 306 can open with Ivo signing it out "to myself, as chair". The stair-head "Call it" repeat in scene 15 was cut, so 306 plays the bark as the count.
+
+### Gacha 15: hard rules
+- * Can someone who owns none of these heroes follow the main story? **Yes.** The four leads are the free starters and carry the stair battle, the count and the close. The eight launch heroes appear as unowned NPC watchers, each with lines (Hard rule 1). None is a unit, and nothing is gated on owning them.
+- * Main chapter understandable without any event? **Yes.** It references no event. The 2.0 Smokehouse Feast isn't named; Hester's tables on the wall are a supper. Earlier chapters (the ledger read in the flood, three seats out, Nell's date, the crater dig, "bloom", the fair copy, the column) are each restated on screen in a line.
+- * Every story scene ends with a skip summary? **Yes**, all fifteen, including the three cutaways and the post-credits button.
+- * Contradicts a banner fantasy or teaser? **No.** Sera is competence and seeing first (she sets the hour and holds the count). Bram is protection and warmth (the light, the stew, both books). Ivo is cold control turned toward truth, and his precision still runs the count. Wren is chaos and softness (the watch, "Shall we not do me together?"). Every watcher keeps their hook: Nell's slap and "Done.", Tam's literal jokes, Hester's slate, Jory's "Not my business", Corra's prices and Sera-worship, Abel's saying then meaning, Mags's roll call, Teodor's bell and conditionals.
+- * Teaser copy spoils a fate? Not applicable.
+- * Contradicts design assumptions? **No.** There's no new unlock. Premium currency on first clear and Act III clear. The pair-bark unlock is a hub line change.
+
+### Gacha 15: structure
+- Can a skipper state today's goal from the first two lines? **Yes.** "Keeper. Dusk. Sight it with me." / "Twelve." then "The next one's tonight." Each scene has an on-screen objective that matches its dialogue (tell the town, get supper for the tower, climb, set up the count, count the due minute, the last count).
+- Does the featured hero want something that isn't the protagonist? **Yes.** Sera wants two counts in one room; Ivo wants the town told before; Bram wants everyone home with no sides; Wren wants a job in the middle.
+- Cause between scenes? **Yes.** The column and the due hour → the customs house → Ivo won't climb unseen, so he tells the town → the wall needs supper and lamps → the stair → the count is set up → the town watches → midnight high water and the talk → the due minute → the wall sees it hold → the light that was put where she needed it at ten to two → three-quarters of the night left → dawn and the lamps → the wall → morning.
+- Did someone change a habit? **Yes.** Sera speaks Ivo's name, gives him the call, gives the keeper back the chalk, writes his figures beside hers, eats her stew hot, says the deal's first half, and writes Bram into her tide book. Ivo writes LOOK UP in red, lifts his own ration, and refuses to write a reason he doesn't have. Bram misses three o'clock at the slip. Abel looks up. Mags counts Ivo.
+- Is the button a feeling or a fact, not a trailer? **A feeling.** "Breakfast's on me." and Wren's "It's only waiting. ...So are we. Aren't we?" It names nothing about Act IV, and the chapter's point (it held, the town saw) is delivered before it.
+- Bench-hero scene? **Yes.** Jory (scenes 4, 7, 10, 14, and the dawn answer) and every launch hero on the wall (7, 10, 14).
+- Free story cast matters? **Yes.** The four do everything that changes anything.
+- Within budget? **Yes.** 7,536 of 6,750-16,000.
+
+### Gacha 15: craft
+- Jargon budget: **no new terms.** "Haze-Walkers" is from 301, "bloom" and "fair copy" are from 303-304, and "octant" and "the Nail" are from Acts I-II. "Truck" and "masthead" were cut in the physics fix.
+- Line length: see above. Nothing is over the cap.
+- Companion reacts rather than recaps? **Yes.** Wren asks, jokes and calls the time ("Is that allowed? For a sky?"). Nobody recaps the confession; it is "standing in the water" and "in the wet".
+- Heavy and light alternate? **Yes**, per the Weight column: dusk turn → customs house (heavy) → steps (public) → supper on the wall (light) → stair (battle) → setup (light) → wall jokes (light) → midnight talk (medium) → the due minute (heavy) → the wall (comic and awed) → the thaw (quiet) → four o'clock jokes (light) → dawn (heavy) → credits (mixed) → breakfast (light). The meal is scene 4, and the joke on the harbor wall is scene 7 (Ferris's debt, Tam's neck, Patch in Teodor's hat).
+- Could two characters trade lines? **No.** Sera: numbers and orders, no "sorry" or "very" (her one "sorry" quotes Ivo's), and speaks to Ivo directly now. Ivo: full sentences, no contractions anywhere, costs ("Nine. I have done the sum."). Bram: food, mam, grandad, rolling sentences, a joke before fear ("I'm frightened. That's the joke."), silence when it counts. Wren: slow questions, sensory memory, every scary line ending on a question or joke.
+- Is the protagonist a catalyst? **Yes.** The keeper holds the chalk, draws the strokes, gives the second sight ("Three fingers." / "Still three."), strikes on Ivo's call, and makes three choices. Nobody praises them.
+- Canon tier labeled? **Locked.**
+- Common failures: no cosmology monologue (nobody says why it held; Ivo refuses to write why; Sera: "Don't ask me."); no villain theme speech (the Walkers and the sky are silent); no deleted cost (the leaf isn't forgiven, Ivo isn't forgiven, and the shift is only "late, not cancelled"); no black-screen fight (the battle is stage directions and short calls); no banner advertising.
+
+### Project review additions
+- "Bloom" or a cosmology answer early? **No.** "Bloom" is used by Wren, and is on the glass (allowed after 3-4). Measurement *seems* to slow it: Sera's column, observation only ("I'm saying what's on the page"). Nothing about Wren being the Bloom's child. Her memories are sensory (no down, holding places, a crowd of lights), and "It's waiting" is her own sense, uninterpreted.
+- Wren's stage? **Brightening**, in the header. She can see in the dark and itches before the shift, her voice is slower, and she ends on a question or joke.
+- Plumbs silent, Bloom wordless? **Yes.** The Walkers never make a sound, and the sky does nothing.
+- Pair barks the right version? **Yes.** Sera / Ivo is **post-Act III** ("Call it." / "...Thank you. Left."), first in battle on the stair and switched on by the scene 15 note; 306 plays it as the count. The pre-Act III bark is inverted once ("Two degrees off?" / "Exact."). Nell / Hester is post-Act III ("Still going south?" / "Where's south, now?"). Sera / Bram's deal: Sera says the first half and Bram finishes, a first thaw caused by the light; the leaf stays open.
+- Absent heroes by letter or rumor only? Launch heroes appear in person as NPC watchers, as in 104. No unmet hero is named.
+- Bench scene and mention-ahead? Jory throughout; Tam (2.0 bench per the roadmap) on the wall in 4, 7, 10 and 14. No Ferrow mention was needed.
+- Events gated? No event is referenced. The old lamp stays dark: only Bram's storm lantern burns, and its hook is answered. Bram's oil cupboard is only brushed ("In case.").
+- Invented anything that should go to open-questions.md? Flagged for the lead (I may not edit other files): (1) Wren counting 108 steps for the first time, unexplained (OQ 26); (2) Wren's "It lifted its foot... put it down. Same place." / "It's waiting" (OQ 5/32); (3) Walkers stopping at the light on a stair, unlike in the lanes (OQ 36); (4) Teodor's "nobody stayed up to find out" (Bellwater hint); (5) the church bell striking the hours (local color; 103 assumes a harbor church). Local color: Gage's "Item. The book went for a walk."; the slit window on the 91st step; Ivo's watch "four ships and a council"; nine days of oil.
+- Brief checks: Sera goes to Ivo ✓; Ivo tells the town to look up, reversing his saying, in red ✓; the fair copy and the ledger go up the stair ✓; the count is aloud and together, with Bram holding the light and Wren between ✓; the town is on the harbor wall and all eight launch heroes speak ✓; the due shift never comes and the Belt holds at 12 until dawn, and the town sees it ✓; the thaw has an on-screen cause ✓; "being right feels like nothing" (scenes 2, 13) ✓; the post-Act III bark is set up and switched on ✓; the Walkers are held at the lamplight edge, and the climax is the count ✓; CG and credits are marked ✓; nobody explains why counting holds, Wren isn't revealed, and the old lamp stays dark ✓; quartet scene 3 isn't written (306 owns it) ✓.
+
+### Read-aloud pass
+I read scene 11 as each speaker. Ivo's lines break if given a contraction ("I do not know why" can't become "I don't know"). Bram's "Left hand. Book on your knee" only works as someone who has watched and never said. Sera's "Eyes up there. Feet down here." / "Deal?" lands because it's Bram's line in her clipped mouth. Wren's every line ends on a question or a joke. None could move to another speaker unchanged.
