@@ -160,6 +160,11 @@ WREN: It's on the glass too. Your word. My word, I mean. I said it first.
 WREN: It's opening wider tonight. Like the thrift does when you're not looking at it.
 WREN: Is it rude to say it's beautiful? When it itches?
 SERA: Say what you like. Don't stand in my light.
+WREN: Sera. Did you write it on the glass because I said it? Or because it's true?
+SERA: Because you said it.
+WREN: Is it true, though?
+SERA: I don't know if it's true. I know you said it, and Corra heard. That's two.
+WREN: Two's your favorite number now. I can tell.
 [On the stair: a heavy tread, and the ninth step's creak. Bram comes up the last turn with his storm lantern and a covered pot. SERA is chalked on the lid.]
 BRAM: Evening.
 [He says it to the room. He sets the pot on the cradle step and lifts the lid. Steam comes off it.]
@@ -344,6 +349,10 @@ SERA: Then tell me where it went.
 PELL: It's past the bell post now, Surveyor. Past everything I've got.
 SERA: Then use a mast. *Patience*'s. It's not going anywhere till the thirtieth.
 NELL: First light on the thirtieth. And she'll be a good mast till then.
+NELL: You'll be counting all night, Surveyor?
+SERA: Every quarter hour. Him and me.
+NELL: Then I'll watch the masthead every quarter. If it moves off the truck, I'll know before you've written it.
+SERA: You won't. But watch it anyway.
 [Ivo takes a sheet of council paper out of his coat. It is already written, in red ink. He pins it to the bare door, in the middle of the pale squares.]
 [It says: LOOK UP.]
 GAGE: You had that in your coat.
