@@ -523,6 +523,13 @@ SERA: What.
 IVO: You said my name.
 SERA: It was quicker than "magistrate".
 IVO: It was. By a syllable.
+[At the lamp-room door, Bram takes the two books out from under his arm and holds them out, one to each.]
+BRAM: One each. Don't fight over them. I've carried both up a hundred and eight steps, and nobody's dropped either.
+BRAM: Somebody write that down. It'll be the first thing about me in either book.
+IVO: I will write it, Hollis. Under your name.
+BRAM: I haven't got a page.
+IVO: You have had a page since the night the light went dark. It is mostly about oil.
+[Bram stops, with the ledger half handed over. Ivo takes it from him gently, and goes in.]
 [Skip summary: On the lighthouse stair, Haze-Walkers come down out of the haze, stopping at the edge of Bram's lantern light and backing up the stair step for step. When one stands in Sera's sight line at the slit window, she says Ivo's name to him for the first time and gives him the call ("Ivo. Call it." / "...Thank you. Left."). They break through, and Wren counts the stair at a hundred and eight for the first time.]
 
 ### Scene 6 — The lamp room, half past eight
@@ -654,6 +661,16 @@ TAM: Hester. My neck's gone stiff.
 HESTER: You've been looking up an hour, you daft sprat.
 TAM: Bram said I had the neck for it. I think he was being kind.
 HESTER: Bram lies about necks. He's honest about pies.
+HESTER: Teller. You look thin.
+MAGS: My feet are fat. It evens out.
+HESTER: Pie. Sit them down. Both of them. Tonight's on one slate.
+MAGS: Whose?
+HESTER: I've stopped asking. It's very restful.
+[Patch has wandered down the wall and put her nose into Teodor's hat. Abel watches it happen with his head still back.]
+ABEL: My pony likes you. I don't hold with it.
+TEODOR: Animals are generous, Mr Thorn. I try to deserve it.
+ABEL: Don't try. She's looking up. Look up with her.
+TEODOR: Ah. Of course. Forgive me. I'd forgotten that was the arrangement.
 [At the slip, Nell stands by *Patience* with her grandfather's peg-board under one arm. She slaps the rail.]
 NELL: Rook. Board's no use. Twelve's not even on it. Grandad never thought it'd go past twenty.
 TAM: Hold it up anyway, Skipper. The board doesn't know it's wrong.
@@ -1026,6 +1043,9 @@ KEEPER: Is she asleep?
 IVO: Since a quarter to two. She has not missed a quarter.
 BRAM: She wakes on the quarters. Like a ship's bell. I've never seen the like.
 IVO: I have. On ships. The best hands sleep through everything but their own watch.
+IVO: She called the quarter past two to the second. I checked.
+BRAM: Course you checked.
+IVO: Someone in this room has to check something. You were holding a lamp, and the surveyor was holding the sky.
 BRAM: You put your coat on her.
 IVO: She will catch cold, and you will blame me. I am removing the cause.
 BRAM: That's the kindest thing I've ever heard said like a sum.
@@ -1183,6 +1203,12 @@ MAGS: You'll want a bigger door.
 CORRA: I'll want a bigger everything. Keep's got the chalk now. I saw from here. Sera gave it back.
 MAGS: You can't see that from here.
 CORRA: I know what giving back looks like.
+[Teodor, coming along the wall with his hat in his hand, stops to look at the chalk on her fingers.]
+TEODOR: Twelve, and "all night", on a pan-house door. A lovely piece, Miss Vey.
+CORRA: It's not for sale.
+TEODOR: No. I'd not insult it by asking.
+CORRA: You'd ask for anything. You asked for the whole marsh.
+TEODOR: I did. This morning I find I'd rather not have it. It's a great relief to both of us.
 [Abel is asleep sitting up against the wall, his head tipped back, his face still turned to the sky. Patch has her nose in his collar.]
 MAGS: Abel. Abel Thorn.
 ABEL: ...I'm looking.
