@@ -112,7 +112,7 @@ Deviations: (1) Three heavy scenes sit close at the set piece (5 the session, 7 
 [Jory sits on the step of the lamp housing with the breakwater log on his knees. Sera comes down the breakwater with her tide book under her arm. On the back of her hand, in chalk: 16.]
 [Objective: Read the log with Sera.]
 JORY: Keeper. Lamp's lit. Not that I looked.
-JORY: Surveyor. You're early. You were early yesterday as well.
+JORY: Surveyor. On the breakwater. That's new.
 SERA: The book comes up the stair every morning now. Today I came down for it.
 SERA: Springs. I want the stick as well as the book. Give it here.
 JORY: It's the keeper's book.
@@ -127,7 +127,7 @@ SERA: Three o'clock. Three hours fifty.
 SERA: Thirty minutes in a night. It jumped at the shift. Your hand says so. "Water up the stick at midnight."
 KEEPER: It slapped the stick. Same as before.
 SERA: Same as the bar night. Write that every time. Even when it's the same.
-JORY: You read it standing up. Every morning. On wet stone.
+JORY: You read it standing up. On wet stone.
 SERA: It's quicker standing.
 JORY: The old keeper read it sitting. Every line, with his finger. He said a log's read like a letter, not a bill.
 SERA: What's the difference?
@@ -1042,20 +1042,20 @@ IVO: Anyone may come and read it.
 
 ### Mechanical check (`check_script.py --budget 6750-13500`)
 ```
-Scenes: 14   Dialogue lines: 677   Spoken words: 6900
+Scenes: 14   Dialogue lines: 680   Spoken words: 6940
 Speaking roles: 16 (ADA, BRAM, CHANDLER, GAGE, HARBORMASTER, HESTER, IVO, JORY, KEEPER, NELL, NET-HAULER, PELL, SERA, TAM, WOMAN, WREN)
 Average line: 10.2 words (target under 15)
 
-   1. The breakwater, dawn                                55 lines   516 words
+   1. The breakwater, dawn                                56 lines   525 words
    2. The lamp room, morning                              61 lines   582 words
    3. The smokehouse, noon                                62 lines   538 words
    4. The customs house, before two                       48 lines   407 words
-   5. The session                                         46 lines   519 words
+   5. The session                                         47 lines   529 words
    6. The water                                           40 lines   444 words
    7. The flood fight                                     47 lines   456 words
    8. Knee-deep                                           48 lines   479 words
-   9. The ledger                                          41 lines   510 words
-  10. The room, after                                     47 lines   473 words
+   9. The ledger                                          41 lines   518 words
+  10. The room, after                                     48 lines   486 words
   11. The customs house door                              47 lines   451 words
   12. The breakwater, dusk                                40 lines   467 words
   13. The lamp room, night                                51 lines   517 words
@@ -1113,6 +1113,7 @@ OK
 - Events gated at the previous act? Not applicable (main chapter).
 - Old lamp stays dark? **Yes.** Only Bram's storm lantern burns, and one candle.
 - Invented anything that should be an open question? **Flagged for the lead (I may not edit other files):** (1) the herring boat's name, *Lark*, and the bar-night figures (fifty minutes early, no wind, light seen lit at ten and midnight from the customs house steps); (2) Ivo saw Flint's light lit himself and chose silence at the time, which deepens OQ 12's answer (it clears Flint, and it makes Ivo's silence older than the Belt); (3) the first move as "forty-one, less a hair" (the 3-3 draft's wording; the 3-1 draft calls it "a tenth of a finger"), "error, mine" with "mine" struck out the next clear night (as 3-1 has it), fourteen nights before Sera's thirty-seven; the bad-year tides early by two to four minutes (as 3-1 has it), with the bar night alone at fifty. This is consistent with "between shifts the Belt creeps a little" (3-4) and with the act's first shift being 41 → 37 as Sera saw it, but 3-4's reading of the fair copy should match these numbers; (4) Jory's two written lines at dusk are unread and should stay so until a Jory piece decides them; (5) Ivo's reason for confessing is given only as his own ("two records of this sky... I kept the second in my coat"), echoing Sera's "two books, not one" (101-102); nobody claims two records hold anything (OQ 4).
+- **Handoff from 3-1 (checked against the parallel 3-1 draft, not edited):** the log now comes up the stair each morning, so Sera goes down to the breakwater today only for the springs and the stick; Bram's deadline is "until the chair calls the first item", which is when his third try fails; the harbormaster's mooring fees give way to the tide; Ivo has the reading minuted in red, as 3-1 promised; Ivo's covered night is the *Lark* night, read here first.
 - **Handoff to 3-3 (checked against the parallel 3-3 draft, not edited):** 3-2 ends at about eight with the session adjourned to nine, Ivo alone with the open ledger, the board bare with two nail holes, the harbormaster's coat still in the room, Gage having sat an hour with Ivo, and Jory silent on the breakwater. Sera was last seen silent in the lamp room at about seven. The first move reads "forty-one, less a hair" and "fourteen nights", as 3-3 has it.
 - **Handoff to 3-5:** the last stage direction has some townsfolk at their doors looking up on their own, once the notices are gone. Ivo does not tell anyone to look up (that reversal is 3-5's); asked by Ada what to do after supper, he says the council has no advice. If 3-5 wants the town wholly indoors until Ivo speaks, cut that one clause.
 - Brief checks: Ivo never says "I'm sorry" (Bram's "I'll not tell you I'm sorry I held it" is Bram's, said to Sera, not an apology from Ivo). Ivo uses no contractions. Sera speaks only before the reading, never directly to Ivo, and says nothing after it. She sees that Bram already knew (scene 9, held shot). Jory walks out without a word and speaks no line after the reading. Nell sets "the thirtieth, first light". Ivo takes both notices down himself. The ledger lies open on the council table at the end, and the town knows. Ivo's choice is plainly his: the flood, three seats and Bram all offer him the adjournment, the keeper's choice doesn't decide it, and he names the worst possible time as his own fear and reads anyway.

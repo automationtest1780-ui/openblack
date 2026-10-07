@@ -1066,7 +1066,16 @@ SERA: You didn't write why.
 IVO: I do not know why. I will write that it held. That is what we counted.
 SERA: That's all you'll write?
 IVO: That is all I know. I have written more than I knew before, Surveyor. I will not do it again in this book.
-[He closes the ledger. Sera writes the last twelve in her tide book, and again in the margin of the fair copy. Then she sits down on the cradle step, with the sextant across her knees, as if her legs have been waiting all night to be asked.]
+[He closes the ledger. Sera writes the last twelve in her tide book, and again in the margin of the fair copy.]
+IVO: Your column, Surveyor. It has thirty-three more lines in it tonight. In both books.
+SERA: It's still a column. It's not a reason.
+IVO: It is a longer column. I am a magistrate. I have a weakness for a longer column.
+WREN: Did I do good? With the watch? I called every one. Even asleep.
+BRAM: You did good, Sparrow. You did the best of any of us.
+SERA: Every minute. Exact.
+WREN: Exact! That's better than good. Bram, it's better than good.
+[Wren holds the watch out to Ivo in both hands. He looks at it, and doesn't take it yet.]
+[Sera sits down on the cradle step, with the sextant across her knees, as if her legs have been waiting all night to be asked.]
 [Choice a: "You were right."]
 [Choice b: "It held."]
 [Choices converge.]
@@ -1138,6 +1147,15 @@ JORY: Not that it's my book.
 [Pell stands up off the wall with the net-tag in one hand. The two children are asleep against his legs.]
 PELL: Masthead at dusk. Masthead at dawn. Not a hair off.
 PELL: Somebody tell the surveyor. Tell her it's exact.
+[On the customs house steps, under LOOK UP, Gage has fallen asleep with the minute book open on his knee. Ada Marr leans over and reads it.]
+ADA: "Item. Nothing happened. All night. Whole harbor present."
+GAGE: ...I wasn't asleep. I was minuting.
+ADA: It's the first minute I'd frame, Councillor.
+[At the slip, Tam has woken under Teodor's coat. He looks at Nell, still with her board.]
+TAM: You stayed in, Skipper. That's a whole night.
+NELL: Don't keep score, Rook. Haul.
+TAM: There's nothing to haul.
+NELL: Then haul yourself up off that wall. Done.
 [The church bell strikes seven. Along the harbor wall, one by one, people pick up their cold lamps and stand, and stretch, and don't go home yet.]
 [Credits roll over the harbor wall: the lamps going out one by one in the morning, the boats at the slip, the tower on the headland with a lantern in its window, and the sky, empty and pale, holding still.]
 [Skip summary: At dawn the town is still on the harbor wall. Mags counts the lamp-room window, Ivo included, for the first time. Hester asks Nell if she's still going south, and Nell answers "Where's south, now?" Corra goes to chalk "all night" on the pan-house door, Abel wakes still looking up, Teodor finds nothing for sale, Jory writes the dips on his hand, and Pell says it's exact. Credits roll over the harbor wall.]
@@ -1145,6 +1163,18 @@ PELL: Somebody tell the surveyor. Tell her it's exact.
 ### Scene 15 — The lamp room, morning
 [Post-credits. The lamp room in full morning light. Thirty-three strokes in chalk on the glass under "bloom". On the cradle step, side by side: the black ledger, the fair copy, and Sera's tide book.]
 [Ivo buttons his waistcoat. He picks up his coat from Wren's shoulders, looks at her, and leaves it there.]
+WREN: Ivo. Your watch.
+IVO: Keep it until dusk, Wren. You will need it to know when dusk is.
+WREN: I always know when dusk is. It itches.
+IVO: Then keep it anyway. It is less trouble than an itch.
+[The Keeper holds out the chalk to Sera, the way they used to hand it back at the end of every dusk.]
+SERA: Keep it.
+KEEPER: Until when?
+SERA: Dusk. And after. Don't wipe the glass. I want those strokes where I can see them.
+BRAM: Ivo. Breakfast. Hester's. You've not been home.
+IVO: I have a council to explain this to, Hollis. What is left of one.
+BRAM: You've got Gage. Gage'll have minuted it already.
+IVO: That is precisely what worries me.
 IVO: The council's book can stay where the council last sat. I will fetch it at dusk.
 SERA: Dusk.
 IVO: Dusk. If the surveyor permits.
