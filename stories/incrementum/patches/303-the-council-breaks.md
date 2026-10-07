@@ -38,7 +38,7 @@ Deviations: (1) Three titled council NPCs speak who haven't spoken before: the *
 |---|---|---|---|---|---|---|
 | 1 | 3-3-1 | Customs house, about nine, night of day 25 | Attend the council | — | A motion to open the book → three chairs empty | heavy |
 | 2 | 3-3-1 | Smokehouse, ten | Find Bram | — | One soup, three tables | light |
-| 3 | 3-3-2 | Lamp room, eleven | Go up the stair | — | Four hours of silence → Sera goes down | medium |
+| 3 | 3-3-2 | Lamp room, eleven | Go up the stair | — | Nine hours of silence → Sera goes down | medium |
 | 4 | 3-3-2 | Customs house, midnight | (follow Sera) | — (no music) | "Fourteen nights" → "I am sorry" → "All isn't a number" | heavy |
 | 5 | 3-3-3 | Customs house steps, after | — | — | "I'm not picking", to her and then to him | medium |
 | 6 | 3-3-3 | Clerk's desk, small hours | Carry the copy at dawn | — | "She can bear the sky" | light |
@@ -55,7 +55,7 @@ Deviations: (1) Three titled council NPCs speak who haven't spoken before: the *
 - Locked: night of day 25, at about nine, the seats met in the flooded customs house on Ivo's motion to enter the ledger as council property, open to any resident. **The Harbormaster, the Chandler and the Shipwright walked out.** The Harbormaster goes south behind *Patience* on the thirtieth with his two boats; the Chandler goes home to count her stock; the Shipwright gives his carts and sand to Abel. **Councillor Gage stayed** ("I'll sit here till I've seen what it was holding up."). Three seats and the chair remain; three hands carried the motion; the chair doesn't vote.
 - Locked: the clerk wrote the minute on the dry leaves at the back of the green minute book, at Ivo's dictation, with the word "withheld" spelled in full.
 - Locked: that night the harbor split into three camps at Hester's: **leave** (Nell's slate of names for the thirtieth, first light: *Patience*, three more boats and the Harbormaster's two, six in all); **fill** (Abel's carts at the pan-house at dawn); **stay and count** (Pell, Tam and others chalking the Belt's bearing on their own doors, as Corra did on the pan-house door). Nobody kept the oil ration that night, and Hester didn't ask.
-- Locked: **Sera's first direct words to Ivo since the haze** (midnight, the customs house, keeper present): "Fourteen nights." The ledger's first entry of the move reads "Forty-one, less a hair." Ivo admitted he checked her wall against the ledger every night since the fall, and that his "two degrees off" at the first supper (105) was made against it ("It was the only way I could tell you that you were right."). Sera: "I wasn't alone. You made me alone." Ivo: "Yes."
+- Locked: **Sera's first direct words to Ivo since the haze** (midnight, the customs house, keeper present): "Fourteen nights." She reads the first entry of the move aloud ("Forty-one, less a quarter." / "Error, mine."), as read in 3-2; Ivo: "I thought it was my eye." Ivo admitted he checked her wall against the ledger every night since the fall, and that his "two degrees off" at the first supper (105) was made against it ("It was the only way I could tell you that you were right."). Sera: "I wasn't alone. You made me alone." Ivo: "Yes."
 - Locked: **Ivo's first "I'm sorry"** ("I am sorry."). Sera: "For which part?" / "All of it." / "All isn't a number." It changes nothing, and he says so. "It is not for the one who hears it." Sera refused the ledger ("Then it can lie.").
 - Locked: **Bram refused to take a side** and said so to both, separately: to Sera on the steps ("I'm not picking, Sera. Not his. Not yours."), then to Ivo inside. He would not go into the customs house while she was in it.
 - Locked: Ivo had the clerk make a **fair copy of the sky figures only** (the Belt and the Nail, every clear night from the first move; no tides) by dawn, and sent it up the stair with the keeper, unsigned by him. Labelled in the clerk's hand: "For the Surveyor. Sky figures. Fair copy." At the close of the chapter Sera has it, tied, unopened.
@@ -95,7 +95,7 @@ Deviations: (1) Three titled council NPCs speak who haven't spoken before: the *
 
 **2. The smokehouse, ten.** Objective: find Bram. Nell wants names for the thirtieth; Abel wants carts; Pell wants a door to chalk; Hester wants everyone fed. By the end the keeper has seen all three camps and learned Bram won't sit at any table. Only-them lines: NELL "You can't follow fish south from a sky. You can get out from under it." / HESTER "Three tables, three arguments, one soup." Skip summary: the harbor splits into leave, fill and stay-and-count.
 
-**3. The lamp room, eleven.** Objective: go up the stair. Wren wants someone to speak; Bram wants Sera to eat; Sera wants nothing anyone can give her up here. By the end she has gone down to the customs house and Bram has sent the keeper after her. Only-them lines: WREN "I counted. Four hours, and no words. Is that a record?" / BRAM "If I'm in that room, I'm on a side of it." Skip summary: Sera goes to Ivo; Bram won't.
+**3. The lamp room, eleven.** Objective: go up the stair. Wren wants someone to speak; Bram wants Sera to eat; Sera wants nothing anyone can give her up here. By the end she has gone down to the customs house and Bram has sent the keeper after her. Only-them lines: WREN "I counted. Nine hours, and no words. Is that a record?" / BRAM "If I'm in that room, I'm on a side of it." Skip summary: Sera goes to Ivo; Bram won't.
 
 **4. The customs house, midnight.** No music. Sera wants the number; Ivo wants to say the thing he's never said. By the end he has said "I am sorry", she has said "All isn't a number", and she has refused the book. Only-them lines: SERA "I wasn't alone. You made me alone." / IVO "It is not for the one who hears it." Skip summary: Sera's first words to Ivo; his first "I'm sorry"; it doesn't help.
 
@@ -122,9 +122,9 @@ Deviations: (1) Three titled council NPCs speak who haven't spoken before: the *
 ## Script
 
 ### Scene 1 — The customs house, about nine
-[Night of day 25. The customs house, hours after the spring tide came through it. A brown line runs along the whitewash above the bench seats. The benches are stacked against the walls, dripping. Wet sand and weed lie across the floor in long tongues.]
+[Night of day 25, nine o'clock. The customs house, hours after the spring tide came through it. A brown line of silt runs along the whitewash at knee height. The benches stand on end against the walls, dripping. Wet sand and weed lie across the floor in long tongues. The door stands open.]
 [The board outside the door is bare. Two nail holes where the notices hung.]
-[Seven chairs at the table under the window. Six seats are filled. In the middle chair, IVO, gloved, his coat dark to the knee with seawater. On the table between two candles lies a thick black book, open.]
+[Seven chairs at the table under the window. Six seats are filled. In the middle chair, IVO, gloved, his coat dark to the knee with seawater. On the table beside one candle lies a thick black book with a red ribbon, open.]
 [At a side desk, the CLERK, old and narrow, lays the green minute book's wet leaves out one by one to dry. The Keeper sits in the chair with the bad leg, by the door.]
 [Objective: Attend the council.]
 IVO: The harbor council is in session. Again. The chair thanks the seats for coming back.
@@ -156,7 +156,7 @@ CLERK: "Harbormaster's hand. Last. Wrong." I've got it, Magistrate.
 HARBORMASTER: Garrow's going on the thirtieth. First light. She says so, and this time she's put a date on it.
 HARBORMASTER: My two boats go behind her. My boy goes in the second.
 HARBORMASTER: I'll not sit in a chair that lied to my boats.
-[He pushes the chair in, square to the table, the way you'd leave a pew. Then he walks out through the wet sand without looking back. The door bangs.]
+[He pushes the chair in, square to the table, the way you'd leave a pew. Then he walks out through the wet sand without looking back, and leaves the door as it was, open.]
 [The CHANDLER has her figures book open in front of her, as she always does. She closes it.]
 CHANDLER: I sold you my oil at cost. For the breakwater. Every gill in the shop.
 CHANDLER: You said at cost'd look like a great deal of money in February. I wrote that down. I was pleased with it.
@@ -164,7 +164,7 @@ IVO: It will. It is still true.
 CHANDLER: You'd done that sum a year back, hadn't you? Before the girl. Before any of it.
 IVO: I had done most of it.
 CHANDLER: I'm not going south. I'm not digging Abel Thorn's hole either.
-CHANDLER: I'm going home to count my stock. What's left of it.
+CHANDLER: I'm going home to count my stock. What's left of it. Half's in the cellar with the sea.
 CHANDLER: Somebody in this town should count something they can sell.
 [She tucks the figures book under her arm, nods once to Gage, and goes.]
 [The SHIPWRIGHT, a heavy man with tar on his cuffs, is already standing.]
@@ -251,8 +251,8 @@ TAM: Not one. I asked was he hungry. He nodded. That's not a word.
 HESTER: Three camps in my smokehouse. Leave, fill and stop. All of them on my slate.
 HESTER: Every one of them's going to need feeding, whichever way they jump.
 KEEPER: And Ivo?
-HESTER: He's on the slate under "took". I put him there for the saying.
-HESTER: I'll not move him tonight. I'll not cross him off either. He's a line. Lines wait.
+HESTER: He's on the slate under "took". I told him I'd find him a new column.
+HESTER: I'll not find it tonight. I'll not cross him off either. He's a line. Lines wait.
 HESTER: Bram's not at any table. I asked him which. He said, "Soup."
 HESTER: Go on up, haddock. Take a heel for the girl. She eats like a gull now. She's a lot of girl to keep.
 [Skip summary: At ten that night every lamp in Hester's smokehouse is lit, and the harbor has split into three tables: Nell's names for the thirtieth with the Harbormaster's boats behind her; Abel, the Shipwright and Ada Marr planning to fill the crater at dawn, with Mags coming to count them; and Pell and Tam chalking the Belt's bearings on their own doors to stay and count. Jory is on the breakwater and hasn't spoken since the session. Bram won't sit at any table.]
@@ -262,7 +262,7 @@ HESTER: Go on up, haddock. Take a heel for the girl. She eats like a gull now. S
 [BRAM sits on the cradle step with a covered pot beside him. WREN sits halfway up the stair head, knees up, the coat's sleeves ending in the middle of her forearms. In the dark of the stairwell she gives off a faint light of her own, like a coal under ash.]
 [Objective: Go up the stair.]
 WREN: Keeper. Sera hasn't said a word since the water.
-WREN: I counted. Four hours, and no words. Is that a record?
+WREN: I counted. Nine hours, and no words. Is that a record?
 BRAM: It's a record for a Tuesday.
 WREN: It's not Tuesday.
 BRAM: Then it's a record for whatever this is.
@@ -281,21 +281,19 @@ BRAM: Ivo's Ivo. He's the same man he was this morning. We just know more of him
 WREN: Can you know more of somebody and they're still the same?
 BRAM: That's most of knowing anybody, love.
 WREN: Keeper. Was the water up to your knees? Bram says the magistrate stood in it and read.
-KEEPER: Over his boots.
+KEEPER: To his knees.
 WREN: Did his book get wet?
 KEEPER: He held it up.
 WREN: Out of the water. Like Bram holds the lantern. Is that the same?
 BRAM: It's not the same, Sparrow.
 WREN: It sounds the same.
-WREN: Bram. Did you know? Before the water? Ada Marr says Sera looked at you in there like you were a reading.
-BRAM: Ada Marr says a lot of things on that slip.
-WREN: She said it to the gutting table. The gutting table didn't argue.
-BRAM: I knew a day, Sparrow.
+WREN: Bram. You said you had a day. Before the water. You said it to Sera's back.
+BRAM: I had a day, Sparrow.
 WREN: A day's not long.
 BRAM: It's long enough. If you spend it not saying something.
 [Wren looks at her own hands. They're faintly lit. She turns them over.]
 WREN: I'm a bit lit. Since the last time. Bram says it's handy for the stair.
-WREN: Sera hasn't looked at me in four hours either. I'd have noticed. I'm easy to notice now.
+WREN: Sera hasn't looked at me in nine hours either. I'd have noticed. I'm easy to notice now.
 [Sera lifts her hand and looks at the 16 on the back of it. Then she looks at the stair.]
 WREN: Sera? Is it the stair you're looking at, or me?
 [Sera picks the sextant up off the sill and hangs it on its strap. She walks past Bram, past the pot, to the stair head.]
@@ -315,15 +313,15 @@ BRAM: If I'm in that room, I'm on a side of it. I'm not getting in that room.
 WREN: Can I go?
 BRAM: No, Sparrow. You stay where I can see you.
 WREN: You can always see me now. That's the trouble with being lit, isn't it?
-[Skip summary: In the lamp room near eleven, Sera hasn't spoken for four hours, since the flood. Wren is faintly lit in the dark now. Bram has brought the same stew up three times and jokes that he misses "six to nothing". Sera leaves without a light, going to the customs house. Bram won't follow ("If I'm in that room, I'm on a side of it") and sends the keeper after her.]
+[Skip summary: In the lamp room near eleven, Sera hasn't spoken in nine hours, since the flood. Wren is faintly lit in the dark now. Bram has brought the same stew up three times and jokes that he misses "six to nothing". Sera leaves without a light, going to the customs house. Bram won't follow ("If I'm in that room, I'm on a side of it") and sends the keeper after her.]
 
 ### Scene 4 — The customs house, midnight
-[No music. The background track cuts as Sera opens the customs house door and does not come back until she leaves. Under the dialogue there is only water dripping off the table edge onto the stone, slow.]
-[The customs house at midnight. One candle burns on the council table. The other has burned down to nothing. The floor is still a sheet of water a finger deep, and the one flame shows in it, upside down.]
+[No music. The background track cuts as Sera comes through the open customs house door and does not come back until she leaves. Under the dialogue there is only seawater dripping from the upended benches onto the stone, slow.]
+[The customs house at midnight. One candle burns on the council table, low. The floor is wet silt, and the flame shows in the puddles, upside down.]
 [IVO sits alone in the middle chair with the black ledger open before him. He isn't writing. He's reading it, as if it were somebody else's.]
 [Sera comes in, the Keeper a step behind with a lantern. Ivo stands.]
 IVO: Surveyor.
-[Sera doesn't answer. She walks through the water to the table and looks down at the ledger. It is upside down to her.]
+[Sera doesn't answer. She walks across the silt to the table and looks down at the ledger. It is upside down to her.]
 SERA: Keeper. Tell the magistrate—
 [She stops.]
 [Choice a: "Tell him yourself."]
@@ -337,10 +335,12 @@ SERA: Before me.
 IVO: Before you.
 SERA: Turn it round. I read badly upside down.
 [He turns the ledger to her. She runs a finger down the page without touching the ink.]
-SERA: "Forty-one. Forty-one. Forty-one, less a hair."
-SERA: Less a hair. You wrote "less a hair."
-IVO: It was less than a hair. I had no better word for it that night.
-SERA: I'd have had a number.
+SERA: "Forty-one. Forty-one. Forty-one, less a quarter."
+SERA: "Error, mine." You wrote "error, mine."
+IVO: I thought it was my eye. For a night, I thought it was my eye.
+SERA: It wasn't.
+IVO: No. You knew that in one night. It took me two, and then I hid it.
+SERA: I'd have had a number. Not "error."
 IVO: Yes. You would.
 SERA: How far back does it go?
 IVO: Since I came ashore. Every clear night. A navigator's habit. I could not stop.
@@ -369,7 +369,7 @@ SERA: You corrected me with it.
 IVO: It was the only way I could tell you that you were right.
 SERA: That isn't telling.
 IVO: No. It is not.
-[Water drips off the table edge. Sera looks down at it, and back.]
+[Water drips from a bench onto the stone. Sera looks down at it, and back.]
 SERA: My mother said a number doesn't care who believes it.
 SERA: I climbed that tower every dusk on that. Every dusk.
 SERA: I thought I was the only one. In the whole harbor. Till Bram, I was the only one.
@@ -412,7 +412,7 @@ IVO: I wanted someone to have tried.
 [Sera turns half away, toward the dark window. When she speaks again it is quieter, and quicker.]
 SERA: I've waited for this. Since the first night.
 SERA: Somebody standing up in this room and saying, the surveyor was right.
-SERA: You stood in the water today and said it. In front of all of them.
+SERA: You stood in the water today and read it. In front of all of them.
 IVO: I did.
 SERA: It's nothing.
 SERA: I thought it would weigh something. Being right. I thought I'd feel it land.
@@ -425,7 +425,7 @@ IVO: Surveyor.
 IVO: Sera.
 [She turns.]
 IVO: I am sorry.
-[Nothing. Water ticks off the table edge, once, twice.]
+[Nothing. Water ticks off a bench onto the stone, once, twice.]
 SERA: For which part?
 IVO: All of it.
 SERA: All isn't a number.
@@ -462,8 +462,9 @@ IVO: Yes.
 SERA: You came.
 BRAM: I'm on the steps. Steps aren't in.
 SERA: You knew a day.
-BRAM: A day and a night. Tried twice. The keeper saw me try.
-SERA: The keeper sees everything. The keeper says nothing.
+BRAM: A day. Twice in the night, and three times today. You'll have counted.
+SERA: Five.
+SERA: And the keeper watched every one. The keeper sees everything. The keeper says nothing.
 BRAM: Aye. We've both got that wrong lately.
 [He stands up, slowly, with the lantern.]
 BRAM: I've a thing to say. I've only got it the once, so let me get it out.
@@ -588,7 +589,7 @@ IVO: The crater is thirty-two paces across, Mr Thorn. Two carts. You will not fi
 ABEL: Then we'll fill it by the one after.
 IVO: Come in before dark. All of you. That is not the council asking. That is me.
 ADA: Don't look up after supper, Magistrate?
-ADA: You took that down yourself. Pell saw you do it.
+ADA: You took that down yourself. I stood there and watched you.
 IVO: I did.
 ADA: Then you can't tell us anything now. Not now. Not after that book.
 IVO: No. I see that I cannot.
@@ -871,9 +872,9 @@ CORRA: Show me. Arm straight how?
 CORRA: That's a finger. Is that a finger? I've got thin fingers.
 [Out over the pans, something walks out of the haze.]
 [It's tall and thin and faceless, like the others. But it doesn't stand. It walks. Slow, and dead straight, one long step after another, toward the crater.]
-ADA: Walking. That one's walking. They don't walk.
-BRAM: They do now. Everybody in the light. Everybody. Now.
-[Skip summary: At the edge of dusk Ivo walks out to the crater with no lantern and asks the crowd to come in before dark; nobody listens to him now. Bram arrives with his lamp and refuses to pick between the shovels and the magistrate: "I'm the lamp. Lamp stands where folk are." The keeper sights the Belt off the tower with Corra copying. Then a tall faceless figure walks out of the haze toward the crater.]
+ADA: Walking. That's the ones from my lane. Bram, that's them.
+BRAM: Haze-walkers. Everybody in the light. Everybody. Now.
+[Skip summary: At the edge of dusk Ivo walks out to the crater with no lantern and asks the crowd to come in before dark; nobody listens to him now. Bram arrives with his lamp and refuses to pick between the shovels and the magistrate: "I'm the lamp. Lamp stands where folk are." The keeper sights the Belt off the tower with Corra copying. Then a Haze-Walker, like the ones that came up Ada's lane, walks out of the haze toward the crater.]
 
 ### Scene 12 — The crater, dusk
 [Boss cutscene.]
@@ -890,15 +891,15 @@ MAGS: Names! Abel. Shipwright. Ada. Ada's big two. Dunn boys. Ferris, get up, Fe
 [A walker comes through the tipped cart. It doesn't go round it. The cart goes over, wheels up, and slides sand and all into the bowl.]
 SHIPWRIGHT: My cart! That's a good cart!
 ABEL: Let it go. Marsh keeps it. Let it go!
-[Ada's younger child stands on the rim with a bucket, directly in a walker's line, staring up at it.]
-ADA: Mattie! Mattie, come here!
-[The Keeper gets there first and pulls the child out of the line by the collar. The walker's long arm comes down where she stood, into the sand, and the walker walks on.]
+[Ada's boy Pip stands on the rim with a bucket, directly in a walker's line, staring up at it.]
+ADA: Pip! Pip, come here!
+[The Keeper gets there first and pulls him out of the line by the collar. The walker's long arm sweeps through where he stood, and the walker walks on.]
 ADA: Keeper. Keeper—
-KEEPER: She's all right.
+KEEPER: He's all right.
 ADA: Bram, bring the light! Bring the light here!
 BRAM: Coming! Everybody to the lamp! It's the one rule, it's the only one I made!
-[Bram plants himself on the north lip with the storm lantern high. A walker comes straight on toward him. At the edge of the light it slows, and leans, and stops, as if the edge of the light were another line.]
-IVO: Hollis. Hold there. They stop at your edge, as the rows did.
+[Bram plants himself on the north lip with the storm lantern high. A walker comes straight on toward him. At the edge of the light it slows, and steps round the edge of it, as if round a puddle, and straightens past it, and walks on.]
+IVO: Hollis. Hold there. They go round your light, as they did in the lanes. Whoever is inside it, they go round.
 BRAM: Eleven years of wick! Not past it! Not tonight!
 [Mags stands in front of the Dunn boys with her pay-tin up like a shield. A walker's arm comes down on the tin. It rings like a bell. She doesn't move.]
 MAGS: That's my lot! Go round!
@@ -922,7 +923,7 @@ IVO: Well struck, Mr Thorn.
 ABEL: Don't you praise me, Magistrate. I'd not know where to put it.
 IVO: Then put it with the rest. Two more from the reeds. The same. Legs, as they pass.
 ABEL: I heard you the first time. I'm old, not deaf.
-[Two more walkers come out of the reeds on their straight lines. Abel takes the first at the legs. The Keeper takes the second as it passes the edge of Bram's light, where it slows, and it breaks across the shins and is gone.]
+[Two more walkers come out of the reeds on their straight lines. Abel takes the first at the legs. The Keeper takes the second from the side as it steps round the edge of Bram's light, and it breaks across the shins and is gone.]
 BRAM: That's three! Ivo, tell me that's three!
 IVO: That is three, Hollis. I would not lie to you about a number.
 BRAM: You'd not lie to me about a number. Everything else, though.
@@ -1000,7 +1001,7 @@ MAGS: Come on, then. I'll count you in. I've the book.
 [Bram stands at the rim with the lantern. Ivo stands a little way off in the dark beyond its edge.]
 BRAM: Ivo. Come in the light. You're making me nervous.
 IVO: I am perfectly well where I am.
-BRAM: You're standing where the light stops. You know what stands there.
+BRAM: You're standing where the light stops. You know what walks round there.
 [A pause. Ivo steps into the light.]
 IVO: Sixteen to twelve. If the surveyor's count agrees.
 BRAM: It'll agree.
@@ -1110,23 +1111,23 @@ SERA: ...Five.
 
 ### Mechanical check (`check_script.py --budget 6750-13500`)
 ```
-Scenes: 14   Dialogue lines: 742   Spoken words: 6909
+Scenes: 14   Dialogue lines: 743   Spoken words: 6929
 Speaking roles: 19 (ABEL, ADA, BRAM, CHANDLER, CLERK, CORRA, GAGE, HARBORMASTER, HESTER, IVO, KEEPER, MAGS, NELL, PELL, SERA, SHIPWRIGHT, TAM, TEODOR, WREN)
 Average line: 9.3 words (target under 15)
 
-   1. The customs house, about nine                       59 lines   617 words
-   2. The smokehouse, ten o'clock                         45 lines   556 words
-   3. The lamp room, eleven                               46 lines   432 words
-   4. The customs house, midnight                        111 lines   866 words
-   5. The customs house steps                             49 lines   407 words
+   1. The customs house, about nine                       59 lines   624 words
+   2. The smokehouse, ten o'clock                         45 lines   558 words
+   3. The lamp room, eleven                               44 lines   405 words
+   4. The customs house, midnight                        113 lines   884 words
+   5. The customs house steps                             50 lines   415 words
    6. The clerk's desk, small hours                       43 lines   423 words
-   7. The customs house steps, dawn                       56 lines   604 words
+   7. The customs house steps, dawn                       56 lines   605 words
    8. The lamp room, morning                              54 lines   424 words
    9. The slip, noon                                      37 lines   386 words
   10. The crater, afternoon                               39 lines   477 words
-  11. The crater, before dusk                             41 lines   442 words
-  12. The crater, dusk                                    52 lines   451 words
-  13. The crater rim, after                               46 lines   370 words
+  11. The crater, before dusk                             41 lines   443 words
+  12. The crater, dusk                                    52 lines   460 words
+  13. The crater rim, after                               46 lines   371 words
   14. The lamp room, night                                64 lines   454 words
 
 OK
@@ -1150,10 +1151,10 @@ OK
 - Is the button a feeling or a fact, not a trailer? **A feeling.** "...Five." Sera concedes paper, without opening it. It points at 3-4 without doing 3-4's work.
 - Bench-hero scene? **Yes.** Abel (scenes 2, 7, 10-13) and Teodor (scene 7), the version's rate-up pair (roadmap 1.7). Also Mags, Corra, Hester, Nell and Tam.
 - Does the free story cast still matter? **Yes.** The Lamp Room carries the confrontation, the refusal, the boss calls and the close.
-- Within budget? **Yes**, 6,909.
+- Within budget? **Yes**, 6,929.
 
 ### Gacha 15: craft
-- Jargon budget: **one new term on screen, "walkers"**, tied to the thing walking out of the haze ("Walking. That one's walking. They don't walk."). "Haze-Walkers" appears only in stage directions and the battle line (3-1 owns the first appearance; nobody here names them formally). "Fair copy" is plain and shown. No new proper nouns except a child's name (Mattie).
+- Jargon budget: **no new terms.** "Haze-walkers" is Bram's word from 3-1, reused here and tied on screen to the thing walking out of the haze ("That's the ones from my lane."). "Fair copy" is plain and shown on the parcel's label. No new proper nouns; Pip is Ada Marr's boy from 3-1.
 - Line length: average 9.3; nothing over 25 words.
 - Companion reacts rather than recaps? **Yes.** Wren asks ("Can you know more of somebody and they're still the same?"; "Is it still where I came from?") and never summarizes the reading or the confrontation.
 - Heavy and light alternate? **Yes** (see the Weight column): heavy, light, medium, heavy, medium, light, medium, light, medium, light → medium, medium, heavy, quiet, medium.
@@ -1181,7 +1182,7 @@ OK
 - Bench scene / mention-ahead? Abel and Teodor (1.7 rate-ups). No unreleased hero is named; nothing mentions Ferrow.
 - Events gated at the previous act? Not applicable (main chapter).
 - Old lamp stays dark? **Yes.** The window is Wren. The cradle stays empty. Bram's oil cupboard isn't touched.
-- Invented anything that should be an open question? **Local color only**, plus items to flag for `open-questions.md` (not added; this brief allows edits to this file only): (a) Haze-Walkers here walk straight lines, strike what stands in the line, pass people who step aside, stop at the edge of Bram's light, and stand still facing the tower at the shift. These are consistent with OQ 28, 34 and 36 but should be checked against 3-1's first appearance. (b) A walker crossed the bowl in thirty-two steps, Sera's paces (103); unexplained, nobody interprets it (Sera: "Then it agrees with me."). (c) Ivo's "Two lines crossing... there is a gap" is a working observation like OQ 35, not a rule. (d) Wren felt the walkers from the tower "like a draught under a door" (extends OQ 32/33). (e) Teodor's offer to take "the bowl, if it will come up" and Ivo's "I would like to know why before I sell it" keep the Teodor question open; Part 2 owns the answer.
+- Invented anything that should be an open question? **Local color only**, plus items to flag for `open-questions.md` (not added; this brief allows edits to this file only): (a) Haze-Walkers here walk straight lines, strike what stands in the line, pass people who step aside, step round the edge of Bram's light as in 3-1 (so whoever is inside it is passed by), break when struck from the side, and stand still facing the tower at the shift. Consistent with 3-1's first appearance and with OQ 28, 34 and 36; the standing-still at the shift extends OQ 34. (b) A walker crossed the bowl in thirty-two steps, Sera's paces (103); unexplained, nobody interprets it (Sera: "Then it agrees with me."). (c) Ivo's "Two lines crossing... there is a gap" is a working observation like OQ 35, not a rule. (d) Wren felt the walkers from the tower "like a draught under a door" (extends OQ 32/33). (e) Teodor's offer to take "the bowl, if it will come up" and Ivo's "I would like to know why before I sell it" keep the Teodor question open; Part 2 owns the answer.
 - **Act III rules (handoff):** Ivo's first "I'm sorry" is here and nowhere before ✓; he uses no contractions in this chapter ✓. Sera's first direct words to Ivo are here ✓ ("Fourteen nights."). Bram refuses a side and says so to both ✓. Ivo has the fair copy sent up with the keeper ✓. Abel leads the crowd at dawn ✓. Teodor's offer and Ivo's "surprised by none of it" ✓. 7th shift at dusk at the crater, 16 → 12, Haze-Walkers among the crowd ✓. The crater isn't filled ✓. Corra is at the crater ✓. Nobody says "bloom" ✓. Seats: Harbormaster, Chandler and the Shipwright walk out; Gage stays ✓.
 - **Bond secrets kept?** **Yes.** Sera's tally: one stroke, no dialogue. Bram's oil cupboard: absent. Wren's marks under the stair: absent. Ivo's money: absent (he says only "I let them" about the Flints, and the clerk's page reads "Flint's light lit. Water wrong."). Jory's envelopes: absent. Teodor's cases: absent ("in Bellwater", never "under my bed").
 - **Ledger fit:** the 102 seat facts hold (the Harbormaster's boy on the pans and his last hand; the Chandler is "she" and sells rope and oil; Gage the cooper's grandfather's word). Sera's thirty-two paces (103) and Ivo hearing it without writing it down. The ration is not repealed on screen; the town simply ignores it this night ("Nobody's counting gills tonight"). The notices are down (3-2). The glass stop stands. Sera reads the breakwater log every morning (handoff).
@@ -1189,7 +1190,8 @@ OK
 
 ### Seams for the parallel writers
 - 3-1: Ivo showed Bram the ledger "last night, in Mrs Pike's back room"; Bram "tried twice" (the keeper saw). Sleeves end mid-forearm; Wren faintly lit.
-- 3-2: depth of the flood is kept vague ("over his boots", "a finger deep" by midnight). Ivo took the notices down himself ("Pell saw you do it"). Nell's date: "the thirtieth, first light." Jory walked out without a word and hasn't spoken since (rumor).
+- 3-2 (checked against the draft on disk): the seats come back at nine for the motion, as 3-2's link outward says; the Harbormaster comes back "for our coats" (he left his). The water is gone by evening, leaving silt at knee height; one candle burns on the table; the door is left open. The first entry reads "forty-one, less a quarter" / "error, mine". Ivo read the ledger knee-deep; Ada watched him take the notices down. Hester has Ivo under "took" and owes him a new column. Nell's date: "the thirtieth, first light." Jory walked out without a word and hasn't spoken since (rumor). The chandler's cellar flooded.
+- 3-1 (checked against the draft on disk): Haze-walkers is Bram's name for them; they step round lamplight; Pip is Ada's boy; the book runs "since I came ashore". Bram tried twice in the night of day 24; 3-2 adds three more tries ("Five.").
 - 3-4: Sera has the fair copy tied and unopened; Corra went home with Mags; the count is on hands (16, 12); "Is this five?" / "Five." sets up the move to paper. Corra's thirty-two is in the keeper's head only ("Write that nowhere. Not yet.").
 
 ### Read-aloud pass

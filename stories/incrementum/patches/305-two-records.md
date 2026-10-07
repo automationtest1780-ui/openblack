@@ -233,6 +233,8 @@ IVO: It may be coincidence.
 SERA: Then I'll count a coincidence. Tonight. With you.
 IVO: With me.
 SERA: Same room. Same minute. Out loud. Up the tower.
+IVO: Why aloud?
+SERA: So the other one hears it when it's said. Not at breakfast. Not in a drawer.
 IVO: We could each count where we stand, and compare at breakfast.
 SERA: You counted where you stood for years. I've counted where I stood since it moved.
 SERA: I'm done comparing at breakfast.
@@ -423,6 +425,10 @@ HESTER: Go on. Before the stew grows a skin.
 HESTER: And Bram. Make her eat it hot. Once. For me.
 BRAM: I'll try.
 HESTER: Don't try. Hold the bowl where she can't miss it.
+HESTER: And you, haddock. You're up there all night with the pair of them.
+KEEPER: I've got the chalk. If she gives it me.
+HESTER: She'll give it you. She's only been holding it to see who'd ask for it back.
+HESTER: Don't ask. Hold your hand out and say nothing. That's how you get anything off Sera Vant.
 [Skip summary: Hester carries her tables out onto the harbor wall and feeds the whole town on one slate while the lamps go out along it. Nell offers Bram his berth on Patience again for the thirtieth; he says he'll be at the slip, to wave or to go. Jory, whose father the ledger cleared, says it didn't feel like anything, and takes the breakwater lamp for the night.]
 
 ### Scene 5 — The stair
@@ -544,6 +550,8 @@ SERA: Keeper.
 SERA: Hold the chalk.
 [The Keeper takes it. Sera doesn't let go at once.]
 SERA: I don't know what to do with the five dusks yet. I said so.
+SERA: You held it with that in your head. Every one of them. And I counted beside you.
+SERA: I've not decided what that makes you. I've decided I want two hands on it tonight.
 SERA: I know what to do with tonight. One stroke on the glass every quarter hour, under the word. One for every count that agrees.
 [Choice a: "I'll hold it."]
 [Choice b: "And if they don't agree?"]
@@ -900,6 +908,9 @@ TAM: I wasn't looking, Skipper. I was looking up. Like I'm told.
 ABEL: I looked the once. And it stood still for me.
 MAGS: It didn't stand still for you, Abel.
 ABEL: Don't tell me what it did. I was there. Looking.
+ABEL: Reeds'll be leaning, out on the north bed. Nobody's staked them tonight.
+MAGS: I know, Abel. Look up anyway.
+ABEL: I am looking up. My neck's sixty-eight. It wants telling.
 [On the customs house steps, under LOOK UP in red, Councillor Gage stands with the green minute book open on his arm.]
 GAGE: Somebody fetch a pen.
 GAGE: No. I've got a pen. I've just never minuted nothing happening before.
@@ -973,6 +984,24 @@ SERA: And why?
 IVO: I do not know why. I will not write a thing I do not know. I did that once, in council.
 SERA: Good.
 [It's the first thing she has ever said to him that sounds like agreement. He hears it. He doesn't turn round.]
+[Wren has been watching Ivo sideways for a while, the watch held up in both hands.]
+WREN: Ivo. Are you frightened of me?
+[Bram's light doesn't move. Everything else in the room goes still.]
+IVO: Why do you ask, Wren?
+WREN: Hester says you look at me like a sum.
+IVO: I look at everything like a sum. It is a failing. Hollis will tell you.
+WREN: Yes. But you look at me like one you can't do.
+[Ivo lowers the octant a finger's breadth. He doesn't answer at once.]
+IVO: ...Yes.
+WREN: That's all right. I can't do me either.
+WREN: Shall we not do me together? It's less lonely than not doing it on your own.
+IVO: That is the worst arithmetic I have ever heard.
+WREN: Did you almost smile?
+IVO: Call the quarter, Wren.
+WREN: That's not no. Half past twelve.
+SERA: Twelve.
+IVO: Twelve.
+[The eighteenth stroke.]
 [Skip summary: After midnight, still twelve, Sera notices Bram has held the light exactly where she needs it for over an hour. He tells her he's known where her light goes since the first night: left hand, book on her knee, below her shoulder. Sera says the first half of their deal herself, and Bram finishes it. She tells him that doesn't settle the leaf. Ivo says he'll write what they counted at dawn, and not why, because he doesn't know why.]
 
 ### Scene 12 — The lamp room, three o'clock
@@ -1022,6 +1051,13 @@ SERA: You were going to say two degrees.
 IVO: Habit. I had a month of it.
 SERA: Break it.
 IVO: I am attempting to. You may have noticed. It is very late, and I am attempting it.
+IVO: You have not forgiven me, Surveyor.
+SERA: No.
+IVO: Good. I would not trust it if you had. Not in one night.
+SERA: It's not one night. It's two weeks and a month and a bad year.
+IVO: Yes. I have it written down. All of it. In order.
+SERA: Then you know how long it'll take.
+IVO: I know how long it has been. I have never been able to do the other sum.
 [Wren stirs under Ivo's coat without opening her eyes.]
 WREN: Ivo. Did you almost smile?
 IVO: Go to sleep, Wren.
@@ -1092,6 +1128,17 @@ SERA: All of them.
 [The Keeper counts along the wall from the slip. Twenty. Forty. They lose the line by the smokehouse.]
 KEEPER: I can't. There's too many.
 SERA: Good.
+SERA: On night three there was one count on that wall. Mine. Then yours. Then Pell's tag.
+SERA: The second time, the whole harbor saw it go. By market day it was beads on a string.
+SERA: Tonight they saw it not go. Nobody can make that into beads.
+[She doesn't say anything else for a while. Ivo stands at the third bar with the closed ledger under his hand, and lets her not say it.]
+IVO: Surveyor. This is not forgiving. I know that.
+SERA: It's not.
+IVO: I did not take it for that.
+SERA: It's counting. That's all it is.
+IVO: Yes.
+SERA: It weighs more than right. I don't know why. Don't ask me.
+IVO: I would not dream of it. I have only just stopped writing things I cannot explain.
 [Bram stands. His arm has been in one place since a quarter to eleven, and it shows. He lifts the storm lantern, crosses to the window, and hangs it on its hook, where it hangs every night.]
 BRAM: Light's done for the night. Sun's taken over. He's better at it. Don't tell him.
 [Down on the harbor wall, a lamp lifts and dips. Twice. Then another. Then the whole wall, lamp after lamp, lifting and dipping twice toward the tower: Bram's signal. Seen you.]
@@ -1178,6 +1225,14 @@ IVO: That is precisely what worries me.
 IVO: The council's book can stay where the council last sat. I will fetch it at dusk.
 SERA: Dusk.
 IVO: Dusk. If the surveyor permits.
+IVO: It may come tonight. It was late, Surveyor. Nobody said it was cancelled.
+SERA: I know.
+IVO: If it comes, we will count it moving.
+SERA: Then we'll count it moving. Both books. Out loud.
+IVO: And if the town is on the wall again?
+SERA: Then you'll have to buy nine more days of oil.
+IVO: Eight. I have already done the sum. Hester will not charge me for the tables.
+BRAM: She will. She'll put it under "took".
 SERA: Bring your octant. The third bar's yours.
 IVO: The second is better.
 SERA: The second's mine.

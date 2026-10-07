@@ -54,12 +54,12 @@ Deviations: (1) Scene 4 is a cutaway without the keeper. Why: the brief makes Co
 **New facts (for the ledger)**
 - Locked: night of day 26, small hours. Wren walked out to the crater alone, lay down in the glass bowl and looked east of the Belt. Corra Vey followed her and stayed on the rim, out of the bowl. Wren said the dark east of the Belt is "opening", "like the thrift on the headland", and called it "the bloom". She is the first to say the word; Corra was the only witness, and said "I believe you."
 - Locked: the word is Bram's flower word. On the headland path early on he showed Wren the thrift (sea pink) and told her a flower opening is "a bloom". A late clump by the tower door was a tight knot on day 25 and opening on day 26; by the afternoon of day 27 it is fully open.
-- Locked: what Wren remembers of "up there" in this chapter: cold that doesn't bite, wide, quiet, a crowd of lights all standing still and "nobody counting them". She doesn't remember anything "down here" before Bram's coat. She "hears" the opening "not with ears", like bread rising. Nobody interprets any of it.
-- Locked: Haze-Walkers came down on the salt pans in the small hours of day 27 and walked straight lines across the pans, through stakes, carts and the pan-house fence, without turning aside. One that is struck stops and stands; the line behind it stops too. Mags counted heads under them (short two, then home). Nobody named them on screen in this chapter (Mags: "the walking ones").
+- Locked: what Wren remembers of "up there" in this chapter (after 301's ticking cold): a different cold that doesn't bite, wide, quiet, a crowd of lights all standing still and "nobody counting them". She doesn't remember anything "down here" before Bram's coat. She "hears" the opening "not with ears", like bread rising. Nobody interprets any of it.
+- Locked: Haze-Walkers came down on the salt pans in the small hours of day 27 and walked straight lines across the pans, through stakes, carts and the pan-house fence, without turning aside. Struck from the side, one is knocked off its line and stands until it finds it again, and the ones behind it on that line wait (consistent with 301: "goes back to its line"). At Wren's gold the last line stood still facing her, then all of them turned and walked back into the haze. Mags counted heads under them (short two, then home). Nobody named them on screen in this chapter (Mags: "the walking ones").
 - Locked: Mags counted Wren by her name for the first time ("Corra. Wren."), after "little one" and "long one".
 - Locked: Corra took Wren's hand on the pans to pull her behind Mags ("Warm. Not hot."). She had said in 2-3 she'd never hold it.
 - Locked: Corra climbed the lighthouse stair for the first time, counting aloud with the keeper listening, and got 108. Sera let her in ("Learn. Then come." / "Then come."). Corra told Sera "She said bloom. I believe her."
-- Locked: Sera sighted where Wren pointed (east of the Belt) and could measure nothing there. She wrote "bloom" on the lamp-room glass at that place, small: the first word on the glass, and not a number.
+- Locked: Sera sighted where Wren pointed (east of the Belt; Corra: "Past the end star. Two fingers past. Then up, a hair.") and could measure nothing there. She wrote "bloom" on the lamp-room glass at that place, small, on the pane beside the second window bar: the first word on the glass, and not a number.
 - Locked (observation only, OQ 4): Sera laid the clerk's fair copy of Ivo's sky figures along the foot of the full wall. Ivo reads the Belt to the minute; Sera's wall has whole degrees. Between shifts, his figures creep a few minutes a night (eight, eleven, nine) on nights with no mark on her wall: the two weeks before her first mark, and two dusks lost to cloud at the tower (day 6, day 11) that he sighted later from the customs house. On nights her wall has a mark beside his figure, the creep is almost nothing (one, two, none). Shift nights are left out. Nobody explains it. Sera: "It means write both columns."
 - Locked: **the count moves to paper.** Sera wrote 12 (dusk, day 26) in her tide book and in the fair copy's margin beside the clerk's entry for the same night, in her own hand. Wren: "Ivo said paper." Ivo wasn't there.
 - Locked: Sera worked out the next shift from the gaps (sixteen days, four, two and three-quarters, two, two and a quarter, one and three-quarters): **tomorrow night (night of day 27), late, after midnight and before light**, the soonest yet. She noted the two-and-a-quarter gap as "the long one" and declined to say why it was long.
@@ -174,9 +174,9 @@ BRAM: Supper's side. I said. Supper's side's going home now, with the pot.
 [Sera says nothing. But she watches him stack the bowls, all the way to the last one.]
 WREN: I remembered another bit. At dusk. When it went.
 BRAM: Did you, love.
-WREN: Not a whole bit. A corner of one. I'll tell you when it's a whole one.
+WREN: Not the ticking. A new bit. A corner of one. I'll tell you when it's a whole one.
 SERA: Tell me now. A corner's something.
-WREN: It's cold. That's the corner. I'll do the rest when I've got it.
+WREN: It's cold again. A different cold. That's the corner. I'll do the rest when I've got it.
 [Bram looks at Sera. Sera is looking at Wren. Neither of them says anything.]
 WREN: Bram. Can I go out? Just to look.
 BRAM: Look at what?
@@ -458,7 +458,7 @@ MAGS: My feet have opinions about this. I'm not asking them.
 ### Scene 6 — The pans
 [The salt pans at night, white crust under haze. Tall faceless figures walk out of the haze in straight lines, slowly, a long step at a time, all heading south. Each line is as straight as a rule. They make no sound.]
 [MAGS stands at the pan-house step with the pay-tin up. ABEL beside her with his reed-hook. The Keeper with the pan book.]
-[Battle — Stage 3-4-4: The Pans at Night. Enemies: Haze-Walkers. Each walks a dead straight line and moves through anything in it. A struck Haze-Walker stops and stands, and every one behind it on its line stops too. Win condition: stop every line before it reaches the pan-house. Mags shares the damage.]
+[Battle — Stage 3-4-4: The Pans at Night. Enemies: Haze-Walkers. Each walks a dead straight line and moves through anything in it. Struck from the side, a Haze-Walker is knocked off its line and stands until it finds it again; every one behind it on that line waits. Win condition: keep every line off the pan-house until they go. Mags shares the damage.]
 MAGS: Right. Names. Ferris.
 [From the shed, a cracked old voice.]
 FERRIS: Here!
@@ -471,8 +471,8 @@ MAGS: They walk through it. My fence. They walk through my fence.
 ABEL: Don't cross in front of one. Hit it from the side.
 KEEPER: Why the side?
 ABEL: It's a line, child. You don't stop a line by standing in it. Ask any tide.
-[The Keeper strikes the leading one from the side. It stops dead mid-step, and stands. The one behind it on the same line stops too, a long step back.]
-MAGS: That's stopped one. That's stopped two. Keeper, again.
+[The Keeper strikes the leading one from the side. It staggers off its line and stands, mid-step. The one behind it on the same line stops too, a long step back, and waits.]
+MAGS: That's held one. That's held two. Keeper, again.
 [A second line comes on across the far pan. It walks through the salt cart. The cart goes over.]
 ABEL: Patch's cart!
 MAGS: Patch is in the stable. The cart's a cart. Again!
@@ -485,7 +485,7 @@ MAGS: You've seen! Now you've been seen! Up!
 [Choice b: "Mags, stay on the step."]
 [Choices converge.]
 ABEL: I've got it. Stand still for what stands still. Meaning, hit what doesn't.
-[Abel steps in from the side with the reed-hook as the line passes the shed, and catches the leader across the back of the knee. It stops, and stands. So does the one behind it.]
+[Abel steps in from the side with the reed-hook as the line passes the shed, and catches the leader across the back of the knee. It staggers off its line and stands, feeling for it. So does the one behind it.]
 ABEL: There. Straight as my father's line. Never seen a thing out here go straight before this autumn.
 [From the north, along the crater path, two figures come running. One is lit faintly gold. One isn't.]
 CORRA: Mags! Mags, they're on the pans!
@@ -499,7 +499,7 @@ WREN: I had decided. Is it allowed to undecide?
 WREN: Corra. You're holding it.
 CORRA: Warm. Not hot. Shut up, I know. Get behind Mags. She's wide.
 MAGS: I'm wide enough for both of you. Behind me!
-[The Keeper strikes the second line's leader from the side. It stops. The line stops behind it.]
+[The Keeper strikes the second line's leader from the side. It staggers off its line. The line waits behind it.]
 [A third line comes out of the haze, straight at Mags.]
 ABEL: Steady. Stand still for what stands still.
 MAGS: That one's not standing, Abel!
@@ -513,7 +513,7 @@ CORRA: Fine! Have it! I can't sell it anyway!
 CORRA: Wren!
 WREN: Only a little. I'm only doing a little.
 [The gold reaches the third line. The tall figures in it stop mid-step, every one, and stand. Their faceless heads turn toward her. They hold there.]
-[Then they turn back, all together, and walk the way they came, straight, into the haze. The stopped ones follow. The pans are empty.]
+[Then they turn back, all together, and walk the way they came, straight, into the haze. The held ones find their lines again and follow. The pans are empty.]
 [Wren's light goes down slowly to a glow again.]
 WREN: I didn't do Starfall. Did you see? I did a little. Is a little allowed?
 ABEL: You mind yourself, child. Whatever you are.
@@ -539,7 +539,7 @@ ABEL: What's news is a thing out here walking straight.
 MAGS: Abel. Not tonight. Tonight it's names. Tomorrow you can have news.
 [She looks at the dent in her pay-tin at last. She runs her thumb round it.]
 MAGS: Fair's fair. It took the knock. That's what a tin's for.
-[Skip summary: On the salt pans, tall faceless figures walk out of the haze in straight lines and through everything in their way: fences, stakes, the salt cart. Struck from the side, they stop and stand. Wren and Corra come running back from the crater; Corra takes Wren's hand to pull her behind Mags, which she swore she'd never do. Wren glows a little, the last line turns back into the haze, and Mags counts everyone home, calling Wren by her name for the first time.]
+[Skip summary: On the salt pans, tall faceless figures walk out of the haze in straight lines and through everything in their way: fences, stakes, the salt cart. Struck from the side, they're knocked off their lines and have to find them again. Wren and Corra come running back from the crater; Corra takes Wren's hand to pull her behind Mags, which she swore she'd never do. Wren glows a little, the last line turns back into the haze, and Mags counts everyone home, calling Wren by her name for the first time.]
 
 ### Scene 7 — The marsh road
 [The marsh road south toward the headland, before three. The reeds lean toward the town. The Keeper walks with Wren; Wren's faint light is all the light there is. Corra walks on Wren's other side.]
@@ -872,7 +872,7 @@ CORRA: Fine. Fine. It's still stupid. Even if it's right.
 SERA: Keeper. Two fingers past the end star. Then up a hair.
 KEEPER: Where Corra said.
 SERA: Where Corra said. She's got a good eye. Don't tell her.
-[She lifts the chalk to the glass, low in one corner of the pane where the dark east of the Belt shows through.]
+[She lifts the chalk to the glass, to the pane beside the second window bar, where the dark east of the Belt shows through.]
 KEEPER: You said the glass was no good. You'd be sighting through your own numbers.
 SERA: It's not a number.
 [She writes, small, in square letters, on the glass over the empty dark: bloom.]
@@ -1158,11 +1158,11 @@ WREN: I liked the knot better. Is that allowed?
 
 ### Mechanical check (`check_script.py --budget 6750-13500`)
 ```
-Scenes: 15   Dialogue lines: 796   Spoken words: 6958
+Scenes: 15   Dialogue lines: 796   Spoken words: 6964
 Speaking roles: 11 (ABEL, BRAM, CORRA, DUNN BOY, FERRIS, JORY, KEEPER, MAGS, NELL, SERA, WREN)
 Average line: 8.7 words (target under 15)
 
-   1. The lamp room, night                                55 lines   528 words
+   1. The lamp room, night                                55 lines   534 words
    2. The stair and the quay                              41 lines   468 words
    3. The breakwater, midnight                            37 lines   337 words
    4. The crater, night                                   81 lines   776 words
@@ -1202,7 +1202,7 @@ Scene 4 read as each speaker. Corra's lines break if they lose a price ("three-f
 - Button a feeling, not a trailer? **Feeling.** "I liked the knot better." It names nothing that happens next.
 - Bench-hero scene? **Yes.** Jory (scenes 3, 14, where he hears his father's night read back as true and takes the gauge for tonight); Abel (5, 6); Nell (14); Mags and Corra are the drop's featured NPCs.
 - Free story cast still matters? **Yes.** Wren says the word; Sera finds the observation and the date.
-- Within budget? **Yes.** 6,958 spoken words, inside 6,750-13,500 and the brief's 6,800-7,500 aim; about 31 minutes at 225 wpm, plus one battle stage.
+- Within budget? **Yes.** 6,964 spoken words, inside 6,750-13,500 and the brief's 6,800-7,500 aim; about 31 minutes at 225 wpm, plus one battle stage.
 
 ### Gacha 15: craft
 - Jargon: three new terms, each tied to the screen: "bloom" (the thrift by the door, shown in scene 15 and pointed at in the CG), "fair copy" (the labelled parcel, from 3-3, opened on screen), "thrift" (the flower itself). "Minutes" of arc are glossed as "a farthing" in one line. The Haze-Walkers are not named in dialogue (Mags: "the walking ones"); their name is left to whichever chapter first says it (see flags).
@@ -1245,3 +1245,4 @@ Scene 4 read as each speaker. Corra's lines break if they lose a price ("three-f
 4. **Tide figure.** Scene 14 gives only the gauge marks and "high water near midnight", no hours-ahead figure, to avoid colliding with 3-1's log readings.
 5. **OQ 4 (observation only):** Sera's comparison uses Ivo's minutes and the wall's marks as a key for which nights both looked. If the lead prefers Sera's own minutes, she has them "in the sextant" (scene 11), which isn't on paper.
 6. **OQ 18** says Sera writes "bloom" on the wall; the handoff says the glass. This chapter follows the handoff.
+7. **Seams with 301 and 305 as drafted (read only).** 301: Bram named them "Haze-walkers"; struck from the side one "goes back to its line", so here they are knocked off their lines and wait, not broken; Wren's first memory is a cold that "ticked", so here her new memory is "a different cold". 305: "bloom" sits on the glass beside the second window bar (matched here), and Sera's two-column book is what she carries into the count. One small mismatch for 305 to settle: it ties the fair copy with council tape; 303 and this chapter have it tied with string, and Sera unties it here in scene 10.
