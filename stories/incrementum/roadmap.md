@@ -152,6 +152,7 @@ Every chapter opens with place and job in-world (gacha 12.3) and ships with skip
 - Featured: Ivo, Bram (caught between); Hester (her back room; she hears nothing she'll repeat); Nell (comes in mid-scene wanting Bram to crew *Patience* south, and leaves without knowing what she walked past).
 - WB beat: the ledger surfaces; Ivo might confess to Bram first (WB §5); Haze-Walkers first appear.
 - New facts: Ivo told Bram first (OQ 2); the ledger exists and is thicker than the wall (WB); Bram promised to tell Sera within a day and didn't **(new)**.
+- **Written:** `patches/301-the-thicker-book.md` (2026-10-07; morning of day 24 to about 2 a.m. on day 25). Sera reads the breakwater log (Bram's first line in it); the first Haze-Walkers in the lanes at dusk, named by Bram; Ivo shows Bram and the keeper the ledger in Hester's back room at ten, covering the *Lark* night; Nell asks Bram to crew south; the 6th shift about midnight (20 → 16), Wren Brightening and her first memory (a cold that ticked); Bram tries twice. **Deviations:** Ivo says "I do not know" once (caused on screen); the 6th shift comes late (due at dusk); a short Haze-Walker stage on the headland path; Pip (Ada Marr's boy) is new.
 
 **3-2 Spring Tide in Session** (1.6)
 - Synopsis: a spring tide floods the customs house during council and the town crowds in to shout; Ivo opens the ledger in open session, reads back years of numbers to the bad year, and the room goes silent at the worst possible time.
@@ -159,18 +160,21 @@ Every chapter opens with place and job in-world (gacha 12.3) and ships with skip
 - WB beat: the ledger ties the bad year to the sky; the town learns at the worst time; Ivo's fear comes true (OQ 2).
 - Production: the flood fight in the customs house; the confession as a held, silent shot.
 - New facts: Ivo saw the Belt move two weeks before Sera (WB); the ledger goes back years (WB); the confession was in open council during a flood (OQ 2).
+- **Written:** `patches/302-spring-tide-in-session.md` (2026-10-07; day 25, dawn to about eight at night). Sera's spring-tide figure (half past two; table twenty to seven) through the harbormaster; the water at a quarter past two; Tide-Plumbs in the flood fight; the reading in the water (the *Lark*, Flint cleared, Ivo saw the light lit; "forty-one, less a hair", fourteen nights); Bram's third try; Jory walks out; Nell's "The thirtieth, first light"; both notices down. **Deviations:** Sera has no line after the reading; Jory none after it; the flood fight uses Tide-Plumbs, not Haze-Walkers.
 
 **3-3 The Council Breaks** (1.7)
 - Synopsis: three seats walk out and the harbor splits into factions overnight; Sera finds Ivo in the empty customs house and the fault line breaks open; he says he is sorry, for the first time, and it doesn't help.
 - Featured: Sera, Ivo, Bram (refuses to take a side); Abel (leads a crowd out to fill in the crater); Teodor (offers, mildly, to buy every piece of glass and take it south; Ivo notes he isn't surprised by any of it).
 - WB beat: Sera confronts Ivo; the council fractures; Bram refuses to pick a side; Ivo's first "I'm sorry" (WB voice note).
 - New facts: three council seats walk out **(new)**; Ivo says "I'm sorry" for the first time **(new, locked: it's an arc marker)**; Teodor's offer **(new; hint only, no explanation)**.
+- **Written:** `patches/303-the-council-breaks.md` (2026-10-07; nine at night on day 25 to the night of day 26). Harbormaster, Chandler and Shipwright walk out, Gage stays, "withheld" minuted; three camps; Sera's first words to Ivo ("Fourteen nights."), his first "I am sorry"; Bram refuses a side to both; the fair copy (sky only, string-tied) carried up by the keeper; Abel's dig, Teodor's dawn offer; the 7th shift at the crater (16 → 12) with walkers among the crowd; Wren sees in the dark. **Deviations:** two new titled NPCs (the Shipwright, the clerk); Jory by rumor only.
 
 **3-4 The Word for It** (1.8)
 - Synopsis: Wren walks out to the crater at night and Corra follows her; Wren says the sky is opening "like the thrift on the headland" and calls it the bloom; back in the lamp room, Sera sets her wall beside the parts of the ledger she can bear to read and sees the drift slowed on nights both were kept.
 - Featured: Wren (Brightening), Sera; Corra (the only witness to what Wren says at the crater, and she believes her); Mags (counts heads when Haze-Walkers come down on the pans).
 - WB beat: Wren remembers the sky and hears the Bloom; a new star is forming; the word "Bloom" first used; measurement seems to slow it.
 - New facts: Wren is the first to say "the bloom" **(new; see OQ list)**; nights with both records kept show less drift **(new; observation only, OQ 4)**.
+- **Written:** `patches/304-the-word-for-it.md` (2026-10-07; about eleven at night on day 26 to the late afternoon of day 27). Wren in the crater bowl says "the bloom" to Corra (the thrift by the tower door, Bram's word); walkers on the pans (Mags counts Wren by name); Corra climbs the stair, 108; Sera unties the fair copy, finds the both-nights creep almost flat ("write both columns"), writes "bloom" on the **glass** (not the wall: OQ 18 amended), and works out the shift is due the next night after midnight. **Deviations:** a cutaway without the keeper (scene 4); scenes 9-11 run heavy-medium-heavy.
 
 **3-5 Two Records** (2.0, Act III finale, first anniversary)
 - Synopsis: on the worst night of the drift yet, Sera and Ivo carry the wall's copy and the ledger up to the lamp room and count aloud together, the town watching from the harbor wall; for one night the sky holds still.
@@ -178,7 +182,10 @@ Every chapter opens with place and job in-world (gacha 12.3) and ships with skip
 - WB beat: act close (the two records together hold the sky for one night; the town sees it).
 - Production: best of Part 1 so far (CG, the still sky, credits over the harbor wall).
 - New facts: the sky held still for one night and the town saw it (WB); post-Act III pair barks switch on (WB §5 Sera/Ivo).
+- **Written:** `patches/305-two-records.md` (2026-10-07; dusk of day 27 to the morning of day 28), at the finale override. Sera fetches Ivo; LOOK UP in red, the ration lifted for one night; walkers on the stair and Sera's first "Ivo. Call it."; the chalk given back to the keeper; 41 counts, every minute from 1.45 to 2.30; the 8th shift (due about two) never comes and the Belt holds at 12 to dawn; the deal's first half; the harbor wall dips its lamps. **Deviations:** three cutaways to the harbor wall without the keeper; the climax is a count, not a fight; Wren counts 108 for the first time.
 - **Quartet scene 3, "Two Records"**: the wall and the ledger side by side; nobody speaks for a long time; Bram finally does.
+  - **Written:** `patches/306-two-records-quartet.md` (2026-10-07; dusk and evening of day 28), at the quartet-scene budget override. Ivo signs the ledger out "to myself, as chair"; "Call it." as the dusk count; the long silence; Bram's mam and grandad; "Two counts. Same place."; "Herring pie. Adequate."; "Good."
+- **Act III status:** all five chapters and quartet scene 3 written and continuity-edited as one act (2026-10-07). Timeline: 3-1 day 24 to the small hours of day 25; 3-2 day 25; 3-3 night of day 25 to night of day 26; 3-4 night of day 26 to day 27; 3-5 dusk of day 27 to morning of day 28; quartet scene day 28. Shifts: 6th about midnight on the night of day 24 (20 → 16), 7th at dusk on day 26 (16 → 12), 8th due about 2 a.m. on the night of day 27, did not come. **Deviations from this roadmap:** the ledger is entered as council property and goes back to the customs house each dawn (not handed to Sera); Sera writes "bloom" on the glass, not the wall; Wren says "bloom" lying in the crater bowl, the thrift being the clump by the tower door; the first thaw (the deal's first half) is in 3-5. Starting state for Act IV: `act4-starting-state.md`.
 
 ### Interlude III/IV: The Morning After (2.1)
 - Synopsis: the morning after the still night; Ivo sits in the customs house all day answering every question anyone brings, while Wren, brighter, can't stop looking east.

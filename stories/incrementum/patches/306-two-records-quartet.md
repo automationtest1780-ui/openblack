@@ -4,8 +4,8 @@ Canon tier: canon
 Arc / version: Part 1, Act III close; version 2.0 (first anniversary), unlocks at Act III clear
 Featured hero(es): Sera Vant, Bram Hollis, Ivo Thane, Wren (starter quartet, free)   Banner tie-in: none
 Prerequisite: Act III clear (3-5 "Two Records"); unlocks at the lamp room (home base)
-Reveal gate: Act III. Allowed: Ivo knew; the ledger, years deep; the count on paper; "bloom" (on the glass, unspoken). Nothing from Act IV on: nobody says why counting holds, nobody ties Wren to the sky beyond a small sensory memory (cold, wide), the old lamp stays dark, and the ledger's last page isn't touched. Ivo's only new line about Wren is a supper remark ("Warmed by Wren"), not an entry about what she is.
-Wren stage: Brightening (older teen, a faint glow in the dark, sleeves end mid-forearm; hears far off and sees in the dark; voice slower, still ends on a question or a joke)
+Reveal gate: Act III. Allowed: Ivo knew; the ledger, years deep; the count on paper; "bloom" (on the glass, unspoken). Nothing from Act IV on: nobody says why counting holds, nobody ties Wren to the sky beyond a small sensory memory (all outside, nobody anywhere), the old lamp stays dark, and the ledger's last page isn't touched. Ivo's only new line about Wren is a supper remark ("Warmed by Wren"), not an entry about what she is.
+Wren stage: Brightening (older teen, a faint glow in the dark, coat sleeves near the elbow since the 7th shift; hears far off and sees in the dark; voice slower, still ends on a question or a joke)
 Budget: 1,500-2,800 spoken words (column: VN, with the quartet-scene override)
 Deviations: Hub group scene budget per project.md (Budget column overrides: quartet hub group scenes run 1,500-2,800 spoken words in 2-4 scenes, not the gacha 13 group-story range of 3,400-6,750). Why: quartet scenes are short home-base character pieces that carry no plot (WB §6, §8; structure notes item 1). Four scenes, one room, one evening (day 28). Scene 2 is mostly stage direction by design: WB §6 asks for a long silence, and the silence is the content.
 
@@ -17,7 +17,7 @@ Deviations: Hub group scene budget per project.md (Budget column overrides: quar
 - **Sera** wants Ivo's own hand, not the clerk's copy, laid against her wall night by night. Obstacle: reading it means reading the two weeks he had before her, and every night since that he matched her and said nothing. Cost: she gets proof of everything and it feels "like twelve"; the warm things she does are to stop herself measuring Wren's memory ("It doesn't need a number"), copy his first two weeks into the front of her own book ("I'll write small"), and tell him to bring it back tomorrow.
 - **Bram** wants a supper eaten hot by everyone in the room. Obstacle: nobody picks up a bowl, and he won't take a side. Cost: he has to find words for something that isn't a joke, and he gets the first attempt wrong ("Broth's gone cold."). He still won't pick a side: "I picked supper. It's a side."
 - **Ivo** wants to hand over his record without asking for anything back. Obstacle: he's lost "the face" and has no costing for being thanked. Cost: Sera asks him to call the count, which he isn't ready for; his pie remark is read aloud (by Sera); the ledger shows he wrote "clear" on the night he told the council haze, and the keeper says so; Wren gets an "almost", near the top; and he has to say "Good."
-- **Wren** wants to know whether she's in the book. Obstacle: she isn't, except as "it" on night three. Cost: she remembers what before her name was like (cold, wide, nobody anywhere), and decides "Wren" was a promotion because it came with a coat.
+- **Wren** wants to know whether she's in the book. Obstacle: she isn't, except as "it" on night three. Cost: she remembers what before her name was like (all outside, nobody anywhere), and decides "Wren" was a promotion because it came with a coat.
 
 **Recap blurb (written first)**
 > The evening after the sky held still, Ivo brings his ledger up the stair, signed out to himself.
@@ -29,7 +29,7 @@ Deviations: Hub group scene budget per project.md (Budget column overrides: quar
 **Group story: pairs moved (gacha 8.4)**
 - **Sera / Ivo (fault line):** moves. Her first words to him tonight are "You're late." She asks him to call the dusk count: **post-Act III bark used in play** ("Call it." / "...Thank you." / "Left."). She wants his hand, not the clerk's ("He makes his sevens like ones"). After the silence, his only words about the records: "Your hand was steadier than mine. At the start." / "I didn't read it for you." / "No. I know." She copies his first two weeks into her book and asks him back tomorrow at dusk. They agree out loud for the first time, about a pie. No forgiveness is said, and he doesn't say sorry again.
 - **Sera / Bram:** the thaw holds from 3-5, small. "Bram. Light." and he holds it where she needs it. The broth is hot, and she eats it hot: "It's hot." / "It's meant to be." (rhymes with 205's "It's cold."). The deal bark is not used; 3-5 owns its return.
-- **Bram / Ivo:** canon bark varied for after the confession: "You're not doing the face." / "I appear to have mislaid it, Hollis." "You weren't invited. You were counted." Bram doesn't pick a side, and says so.
+- **Bram / Ivo:** canon bark varied for after the confession: "You're still not doing the face." / "I have looked for it, Hollis. It has not turned up." "You weren't invited. You were counted." Bram doesn't pick a side, and says so.
 - **Ivo / Wren:** "It was accurate, for that night. It would not be accurate now." The corner of his mouth moves a degree (measured by Sera). Noted "Under 'almost.' Near the top." No full smile.
 - **Bram / Wren:** "Gently, Sparrow." She warms the cold broth with her hands; he calls it the most useful thing anybody's done in the tower in years.
 - **Sera / Wren:** Sera's finger rests on Wren's height line longer than on any number. No dialogue; the bark's growth sentence is still saved.
@@ -41,7 +41,7 @@ Deviations: Hub group scene budget per project.md (Budget column overrides: quar
 - Soft: Hester has chalked LAMP ROOM on the pot lid, not names, "till Saltreach works out who's speaking to who".
 - Soft: Bram brought five bowls, one each with the keeper, and the spare stayed in his coat ("You weren't invited. You were counted.").
 - Soft: the ledger has a remarks column. Night of day 14: "Herring pie. Adequate." Night three: "Something fell in the marsh. Hollis named it." Day 28: "Barley broth. Warmed by Wren. Good." Sera agrees the 105 crust was underdone.
-- Soft: Wren can hear slow footsteps far down the stair before anyone else, and says seeing in the dark is "mostly dust". She warmed the broth by holding the pot ("It's not a shift. I'm only warm."). She remembers before her name as cold, very wide, "and nobody was anywhere".
+- Soft: Wren can hear slow footsteps far down the stair before anyone else, and says seeing in the dark is "mostly dust". She warmed the broth by holding the pot ("It's not a shift. I'm only warm."). She remembers before her name as "all outside", with no in anywhere, "and nobody was anywhere".
 - Soft: Sera copies Ivo's first two weeks (before her wall begins) into the front of her tide book, small.
 - Soft: night three in the ledger reads "Clear." Ivo told the council haze and wrote down clear ("It keeps you as well."); the keeper said so to his face.
 - Soft: Sera told Ivo to bring the ledger back at dusk on day 29 ("You'll be on time for then."); Wren asked him to come "even if it moves" ("Especially if it moves."). Ivo says nobody left on the council would carry it up a stair.
@@ -74,7 +74,7 @@ Deviations: Hub group scene budget per project.md (Budget column overrides: quar
 ### Scene 1 — Called
 [Dusk in the lamp room. The chalk wall is full, door to cradle. On the glass, in Sera's chalk, one word: bloom.]
 [SERA stands at the glass with the sextant, her tide book open on the sill. The clerk's fair copy lies on the cradle step under the chalk tin. The Keeper sits beside it.]
-[WREN sits on the floor with her back to the glass, knees up. The coat sleeves end mid-forearm. In the dusk there's a faint light at her wrists and throat.]
+[WREN sits on the floor with her back to the glass, knees up. The coat sleeves end near her elbows. In the dusk there's a faint light at her wrists and throat.]
 [Objective: Take the dusk count.]
 SERA: Keeper. Up. Arm straight.
 KEEPER: Where am I looking?
@@ -137,10 +137,10 @@ IVO: I was not invited, Hollis.
 BRAM: You weren't invited. You were counted. It's a different thing altogether.
 IVO: Then I stand corrected. Or sit, if that is on offer.
 [BRAM looks at him properly for the first time.]
-BRAM: You're not doing the face.
+BRAM: You're still not doing the face.
 IVO: Which face?
 BRAM: The one where you've already won.
-IVO: I appear to have mislaid it, Hollis. I shall look for it in the morning.
+IVO: I have looked for it, Hollis. It has not turned up. I shall try again in the morning.
 [BRAM ladles broth into five bowls. Nobody picks one up. IVO is looking at the wall. SERA is looking at the book under his arm.]
 SERA: That's the book.
 IVO: It is.
@@ -254,11 +254,11 @@ IVO: I did, Keeper. And I came home and wrote down clear.
 IVO: Both are in my hand. That is the trouble with keeping a record. It keeps you as well.
 WREN: It. I was an it.
 BRAM: For about a minute, love. Then you were a Wren.
-WREN: I remember before. Being an it. It was cold, and very wide, and nobody was anywhere.
-SERA: How cold?
+WREN: I remember before. Being an it. It was all outside. No in, anywhere. And nobody was anywhere.
+SERA: How far?
 [She has the pencil up. She stops. She puts it down on the tide book.]
 SERA: No. Never mind. It doesn't need a number.
-WREN: Good. I haven't got one. It was just cold, all the way out.
+WREN: Good. I haven't got one. It just went on, all the way out.
 WREN: Then Bram said "Wren", and everything got small. In a good way. Like a room?
 [BRAM goes very quiet. Then he finds his voice.]
 BRAM: Like a room. That's it exactly, Sparrow. Rooms are for who's in. I told you that.
@@ -387,10 +387,10 @@ OK
 - Advertises a banner? **No.** Story text and objectives disagree? **No.** One objective; the count is taken, twice over.
 
 ### Project review additions
-- "Bloom", or a cosmology answer, early? **No.** "Bloom" is chalk on the glass only (allowed from 3-4, unspoken). Nobody explains why the records agree or why the sky held. Wren's memory is sensory (cold, wide, "nobody was anywhere") and doesn't say what she is (Act IV).
+- "Bloom", or a cosmology answer, early? **No.** "Bloom" is chalk on the glass only (allowed from 3-4, unspoken). Nobody explains why the records agree or why the sky held. Wren's memory is sensory ("all outside", "nobody was anywhere") and doesn't say what she is (Act IV).
 - Wren's voice right for her stage? **Brightening**, in the header. Her voice is slower, with a faint glow at her wrists and throat. She hears far off and sees in the dark ("mostly dust"), and has one line from further off ("Even if it moves?"). Every frightening-adjacent line ends on a question or a joke ("Like a room?", "I think that was mine."). She isn't bright enough to read by; that's Act IV.
 - Plumbs silent, Bloom wordless? Neither appears.
-- Pair barks the right version for the act? **Yes.** Sera / Ivo uses the **post-Act III** version, played as the dusk count ("Call it." / "...Thank you." / "Left."), and Sera speaks to him directly throughout. Bram / Ivo's canon bark is varied for after the confession ("I appear to have mislaid it"). Ivo / Wren's is varied ("Near the top"). Sera / Bram's deal is not used, because 3-5 owns its first half.
+- Pair barks the right version for the act? **Yes.** Sera / Ivo uses the **post-Act III** version, played as the dusk count ("Call it." / "...Thank you." / "Left."), and Sera speaks to him directly throughout. Bram / Ivo's canon bark is varied for after the confession ("I have looked for it... It has not turned up", the sequel to 303's "mislaid"). Ivo / Wren's is varied ("Near the top"). Sera / Bram's deal is not used, because 3-5 owns its first half.
 - Absent heroes by letter or rumor only? **Yes.** Hester, Tam and the clerk appear by rumor only.
 - Events gated at the previous act? Not applicable (group story at Act III clear).
 - Old lamp stays dark? **Yes.** Only Bram's storm lantern burns, and the cradle stays empty. "My lantern counts as a house" is the 203 joke, not the oil cupboard.
@@ -400,3 +400,9 @@ OK
 
 ### Read-aloud pass
 Scenes 3 and 4 read aloud as each speaker. Ivo's lines break with contractions ("It would not be accurate now" can't become "It wouldn't"), and Bram's break without them ("I'm not made of knees"). Sera's lines only work as numbers or orders; "Like twelve" can't go to anyone else. Wren's all end on a question or a joke. No line could move to another speaker unchanged.
+
+### Continuity pass (2026-10-07, Act III as one act)
+- Wren's sleeves end near her elbows (after the 7th shift).
+- Bram / Ivo: 3-3 already played "You're not doing the face." / "I appear to have mislaid it.", so here it is the sequel: "You're still not doing the face." / "I have looked for it, Hollis. It has not turned up."
+- Wren's memory of before her name was "cold, and very wide" (3-1 and 3-4 already have the cold and the width); it is now "all outside. No in, anywhere", and Sera stops at "How far?".
+- Checker after the pass: 1,552 spoken words (1,500-2,800), OK.

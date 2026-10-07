@@ -81,6 +81,19 @@ Skip, Auto, Log and skip-summary UI: present
   - Ivo knows about the cut leaf (205) and told Bram he would have cut it too. He has not been seen to connect it to himself aloud; keep it that way until his confession beat (OQ 2).
   - The town is under the oil ration and the glass stop; "Don't look up after supper" is council advice. The lamp room is the only lit window after supper.
   - Wren is Kindling at the start of Act III: the coat sleeves stop short of her wrists. Bram calls her "Sparrow". She has stopped glowing on purpose except in a fight, and she sits "in the middle" of the stair when the others quarrel.
+- **Act IV and later (from the Act III continuity pass, 2026-10-07; full brief in `act4-starting-state.md`):**
+  - The count is on **paper**: Sera's tide book in two columns ("S.V." / "I.T.") and the fair copy's margin. The lamp-room wall stays full; the glass holds only "bloom" (by the second window bar) and the 41 strokes under it from the still night. Don't wipe them without an on-screen cause.
+  - **The keeper holds the chalk again** (305, "Hold the chalk."; "Keep it. Dusk. And after.").
+  - Sera speaks to Ivo directly and by name; the post-Act III Sera/Ivo bark ("Call it." / "...Thank you. Left.") is live and the pre-Act III bark is retired. She has **not forgiven** him; don't write forgiveness in Act IV without a cause. Ivo has said "I am sorry" once (303); a second one needs a reason.
+  - Sera and Bram: the deal's **first half is restored** (305: she asks, he finishes). The leaf is **not settled** ("That's for after supper."). Bram still won't pick a side ("supper's side"). WB §7 keeps "what he never said" for Act V.
+  - **The ledger** is council property; it lives in the customs house and Ivo signs it out "to myself, as chair" at dusk and returns it each morning. Sera has asked for it at dusk on day 29. It is **not handed to Sera** until Act V ("Fixed. Witnessed by all of Saltreach."). Its last page stays blank.
+  - Use "forty-one, less a hair" and "fourteen nights" for the first move; "error, mine"; the *Lark* night (Flint's light lit, seen by Ivo; the tide fifty minutes early). Don't re-litigate them.
+  - Ivo still uses **no contractions**. "I do not know" is now allowed when it's true (301, 305), never as a dodge.
+  - Measurement *seems* to slow it, and the town saw one held night. **Nobody explains why** (OQ 4). In Act IV the town counting together holds Wren down (4-3): show it, don't explain it.
+  - Wren is Brightening, edging to Called: older teen, a steady light of her own, sees in the dark, sleeves near the elbow, slower voice. Her "up there" lines are sensory only (OQ 44); from Act IV she may say plainly that she came from the bloom and it wants her back (4-1), but not before 4-1.
+  - Haze-Walkers are the Act III variant (OQ 39-41); they stand at lamp edges and walk straight lines. Plumbs stop lashing out near Wren only from Act IV (roadmap 4-1).
+  - Council: three seats and the chair (Gage stays); the Harbormaster, the Chandler and the Shipwright walked out. The glass stop stands. The oil ration stands except for the one lifted night. "LOOK UP" is on the customs house door in red.
+  - Nell's date is **the thirtieth, first light**; she has said "Where's south, now?" but not changed it. Roadmap 4-3 has her stay ("not tonight").
 
 ### Character sheet fields (gacha 16.4, plus)
 Use the gacha 16.4 sheet. Incrementum adds:

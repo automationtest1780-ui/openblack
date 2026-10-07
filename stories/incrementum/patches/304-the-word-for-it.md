@@ -64,7 +64,7 @@ Deviations: (1) Scene 4 is a cutaway without the keeper. Why: the brief makes Co
 - Locked: **the count moves to paper.** Sera wrote 12 (dusk, day 26) in her tide book and in the fair copy's margin beside the clerk's entry for the same night, in her own hand. Wren: "Ivo said paper." Ivo wasn't there.
 - Locked: Sera worked out the next shift from the gaps (sixteen days, four, two and three-quarters, two, two and a quarter, one and three-quarters): **tomorrow night (night of day 27), late, after midnight and before light**, the soonest yet. She noted the two-and-a-quarter gap as "the long one" and declined to say why it was long.
 - Soft: Sera wrote "3. Slip." in her tide book when Bram's lantern went down to the slip at three. She did not answer it.
-- Soft: Sera reads the breakwater log every morning now and copies it onto paper in her tide book. High water on the night of day 27 is due near midnight, on a spring tide, with the drift on top (Jory, from the log).
+- Soft: Sera reads the breakwater log every morning now and copies it onto paper in her tide book. High water on the night of day 27 is due after three in the morning, on a spring tide, with the drift on top (Jory, from the log; consistent with 302's afternoon high water at a quarter past two on day 25).
 - Soft: after the walking ones, Mags sent Corra up the tower "under road" with the keeper ("Under road. Three.").
 - Soft: Bram heard the word "bloom" from Wren on the afternoon of day 27, at the thrift, and knew it for his. Wren asked him to bring his lantern "all the way in" tonight, not leave it on the step. Wren keeps Bram's words in order (sky, gull, smoke; then supper, thrift, bloom).
 - Soft: Sera asked Jory to read the breakwater gauge at midnight and every half hour until light on the night of day 27, in his own hand, signed "J. Flint"; he agreed. Jory logged Wren's walk north and Bram on the slip at three.
@@ -112,7 +112,7 @@ Deviations: (1) Scene 4 is a cutaway without the keeper. Why: the brief makes Co
 
 **13. Lamp room, before light.** Sera works out the next shift. Only-her lines: SERA "Tomorrow night. Late. After midnight. Before light." / "That one's long. I don't know why. It's written." Skip summary: the next shift is due tomorrow night, the soonest yet.
 
-**14. Breakwater, morning of day 27.** Objective: read the log. Sera reads the log onto paper; Jory reads the water; Nell wants tonight's water and gets it. By the end Jory has agreed to keep the gauge tonight in his own hand. Only-them lines: JORY "High water's on it. Near enough midnight." / NELL "I can steer by the log. Tell me the water tomorrow, and all. I'll be on the slip. Done." Skip summary: high water and the shift fall together tonight; Sera carries both records.
+**14. Breakwater, morning of day 27.** Objective: read the log. Sera reads the log onto paper; Jory reads the water; Nell wants tonight's water and gets it. By the end Jory has agreed to keep the gauge tonight in his own hand. Only-them lines: JORY "High water's on it after three. Can't swear the minute." / NELL "I can steer by the log. Tell me the water tomorrow, and all. I'll be on the slip. Done." Skip summary: high water and the shift fall together tonight; Sera carries both records.
 
 **15. Headland, afternoon.** Wren at the thrift; Bram comes up with the pot. By the end he knows the word is his, and has been asked to bring the lantern all the way in. Only-them lines: BRAM "That's my word. I gave you that one." / WREN "I liked the knot better. Is that allowed?" Skip summary: the thrift is fully open; Bram hears his word.
 
@@ -223,8 +223,6 @@ BRAM: "Take it. It's empty." Four words, tonight. I'm counting them like she cou
 BRAM: Earlier she asked had Ivo told me what he said to her. That's more. I've lost count. That's a first for this tower.
 BRAM: Hester says that's a thaw. Hester says a lot of things, at the moment, mostly to me.
 [At the bottom of the stair he stops at the tower door. He doesn't open it straight away.]
-BRAM: So. Funny thing about the dark.
-[He waits for the rest of the joke. It doesn't come.]
 BRAM: She named me every reed on the north bed tonight, Keeper. From the window. In the dark.
 BRAM: I can't see my own boots down here. I've got the lantern, and I can't see them.
 KEEPER: She's brighter.
@@ -296,7 +294,7 @@ JORY: Not my business. Go.
 [Skip summary: At midnight on the breakwater, Jory is minding the lamp and mending Tam's nets badly. Nell has told the harbor she sails on the thirtieth at first light. Jory points out a small pale light walking north on the marsh road with no lantern: Wren, alone. The keeper goes after her.]
 
 ### Scene 4 — The crater, night
-[Cutaway. The crater at night, a little earlier. The bowl of fused glass lies pale under the stars. On the rim: spades left standing in a heap of sand, a barrow on its side, a hat. The reeds all round lean away from it, toward the town.]
+[Cutaway. The crater at night, a little earlier. The bowl of fused glass lies pale under the stars. On the rim: spades left standing in a heap of sand, a hat. In the bowl, a few paces in, a cart on its side. The reeds all round lean away from it, toward the town.]
 [WREN comes along the rim. She gives off a faint light, enough to see her own feet by. She doesn't need it.]
 [Behind her, at a distance, a girl follows with her arms wrapped round herself and no lantern: CORRA. She stops well back from the edge.]
 WREN: You can come closer. I won't go bright. I've decided.
@@ -315,7 +313,7 @@ WREN: Isn't it? It sounds how things work.
 [Wren lies down on her back in the middle of the glass. Her coat spreads round her. She looks straight up.]
 WREN: It's warm. Still. Down here's always warm.
 CORRA: It's been warm since that night. I know. I picked it.
-WREN: There were so many people here today. I watched from the window. Spades. Barrows. Abel shouting psalms at it.
+WREN: There were so many people here today. I watched from the window. Spades. Carts. Abel shouting psalms at it.
 WREN: The bowl didn't mind. It just stayed a bowl.
 CORRA: I was here. At dusk. With everyone.
 WREN: I know. I saw you, after, when I could see. You were holding a spade and not using it.
@@ -347,7 +345,7 @@ WREN: Like something put away. That's starting to come out.
 [CG: The crater at night, from above. Wren lies on her back in the middle of the glass bowl, faintly lit, her coat spread round her, one arm raised and pointing east past the Belt into the dark. On the rim above her, Corra lies on her back at the very edge, her head to the glass, looking where Wren points.]
 WREN: I remembered something. At dusk. When it went.
 CORRA: Remembered what?
-WREN: Cold. But not the biting kind. The kind that doesn't need anything.
+WREN: Cold. But not the ticking kind, this time. The kind that doesn't need anything.
 WREN: And wide. Wider than the sea. You couldn't swim across it. You wouldn't want to.
 WREN: And quiet. And lights. A whole crowd of them. All standing very still.
 WREN: Nobody counting them. Isn't that funny? All those lights and nobody counting.
@@ -427,11 +425,11 @@ ABEL: I'll not say it. I'll put my boots on.
 KEEPER: The crater. Did you fill it?
 ABEL: We didn't fill it.
 ABEL: Don't ask me more. I've a spade's worth of answers and they're all the same.
-MAGS: Two hundred barrows. I counted them. He made me.
-MAGS: Two hundred barrows and it's still a bowl. My feet went out and came back two hundred times.
+MAGS: Fourteen carts and two hundred buckets. I counted them. He made me.
+MAGS: Two hundred buckets and it's still a bowl. My feet went out and came back two hundred times.
 MAGS: And Mr Lisle, in his good gloves, offering to buy every piece. Every piece, and take it south.
 KEEPER: What did you say?
-MAGS: I said I'd think. I'm thinking. I've been thinking all day. It's very tiring, thinking at a price.
+MAGS: Nothing. The magistrate said the stop stands. I'm thinking anyway. It's very tiring, thinking at a price.
 ABEL: You'll not sell it to him.
 MAGS: I'll not sell it to anybody tonight, Abel. Tonight I'm counting.
 ABEL: Count, then. I'll mind the door.
@@ -441,9 +439,9 @@ MAGS: You'll mind your feet. They've done two hundred barrows.
 [Not standing. Walking. A tall thin shape, faceless, coming slowly out of the haze across the far pan, one long step and then another, dead straight.]
 MAGS: Keeper.
 KEEPER: I see it.
-MAGS: They stand. That's what they do. They stand. They don't walk.
-ABEL: Hester said in the lanes. Three nights back. Walking.
-MAGS: Hester says a lot of things in the lanes.
+MAGS: Them again. The walking ones. Same as the bowl at dusk.
+ABEL: Ada's lanes, three nights back. My bowl at dusk. Now my pans.
+MAGS: Don't you count them for me, Abel. I'll count.
 [A second one comes out of the haze beside it. A third. Each on its own straight line, all the same way, south, across the pans toward the town.]
 [The first one reaches Abel's row of reed stakes. It doesn't go round. It walks through them. The stakes go down like teeth.]
 ABEL: My stakes.
@@ -469,7 +467,7 @@ MAGS: Stay there and all. Abel. Me. Keeper, under road. Two short.
 [The nearest line comes straight at the pan-house fence. It walks through it. Boards split and fall.]
 MAGS: They walk through it. My fence. They walk through my fence.
 ABEL: Don't cross in front of one. Hit it from the side.
-KEEPER: Why the side?
+MAGS: Why the side? You did it at the bowl and never said.
 ABEL: It's a line, child. You don't stop a line by standing in it. Ask any tide.
 [The Keeper strikes the leading one from the side. It staggers off its line and stands, mid-step. The one behind it on the same line stops too, a long step back, and waits.]
 MAGS: That's held one. That's held two. Keeper, again.
@@ -503,7 +501,7 @@ MAGS: I'm wide enough for both of you. Behind me!
 [A third line comes out of the haze, straight at Mags.]
 ABEL: Steady. Stand still for what stands still.
 MAGS: That one's not standing, Abel!
-[The tall figure reaches Mags. A long arm comes down. Mags takes it on the pay-tin. The tin rings like a bell.]
+[The tall figure reaches Mags. A long arm comes down. Mags takes it on the pay-tin, the way she did at the bowl. This time the tin doesn't ring. It dents.]
 MAGS: That's the Dunn boys' boots, that is! That's Ferris's coal!
 [Corra lets go of Wren with one hand, digs in her apron pocket, and throws a fistful of crater glass at the tall figure's legs.]
 CORRA: That's a week! That's a whole week of bread, that!
@@ -535,7 +533,7 @@ MAGS: I've a pencil. I can use it. Eight. That's everybody. Feet, you can stop n
 ABEL: My stakes. Forty stakes, that row. They walked through every one.
 MAGS: You'll tie them again.
 ABEL: I'll tie them again. They'll lie down again. That's not news.
-ABEL: What's news is a thing out here walking straight.
+ABEL: What's news is them twice in a night. Bowl at dusk. Pans at two.
 MAGS: Abel. Not tonight. Tonight it's names. Tomorrow you can have news.
 [She looks at the dent in her pay-tin at last. She runs her thumb round it.]
 MAGS: Fair's fair. It took the knock. That's what a tin's for.
@@ -808,7 +806,7 @@ SERA: Once. It didn't help. It's not a number.
 SERA: He reads to the minute. Degrees and minutes. Navigator's habit.
 SERA: I chalk whole degrees. The minutes stay in the sextant.
 CORRA: What's a minute? In the sky?
-SERA: A sixtieth of a degree. A hair. You'd not see it with your eye.
+SERA: A sixtieth of a degree. Less than a hair. You'd not see it with your eye.
 CORRA: So it's like a farthing.
 SERA: It's exactly like a farthing.
 [She checks one line against the wall first: a night from the middle of the wall, his figure against her chalk.]
@@ -1032,8 +1030,8 @@ JORY: So did I. Didn't stay for the end. Not my business.
 [He closes the log. He doesn't put it down.]
 SERA: Jory. Tonight's water. When?
 JORY: Spring tide. The big one, after the flood. And the drift on top of it.
-JORY: By the marks, it's coming earlier every tide. High water's on it near midnight.
-SERA: Near midnight. Tonight.
+JORY: By the marks, it's coming earlier every tide. High water's on it after three.
+SERA: After three. Tonight.
 JORY: Near enough. Can't swear the minute. Nobody can now.
 SERA: Then it's both.
 JORY: Both what?
@@ -1054,7 +1052,7 @@ NELL: Flint. Keeper. Surveyor.
 NELL: You're reading his book now, Vant? I heard you'd taken to it. Every morning, Hester says.
 SERA: Every morning.
 NELL: What's tonight's water?
-SERA: Near midnight. Spring. Over the steps.
+SERA: After three. Spring. Over the steps.
 NELL: Your figure?
 SERA: The log's. Jory's marks and the keeper's.
 NELL: And the other thing? The sky thing? Hester says you've got a time for that and all.
@@ -1082,7 +1080,7 @@ SERA: It's heavier.
 JORY: Everything worth carrying is. The old keeper said that about the log. In winter. It weighs nothing.
 SERA: Then he meant something else.
 JORY: He usually did. Took me till this month to work out what.
-[Skip summary: On the morning of day 27, Sera reads the breakwater log at the breakwater, as she does every morning now, and copies it onto paper in her tide book. Jory has logged Wren's walk and Bram at the slip. Tonight's spring tide, with the drift on top, will be high near midnight: the same hours as the shift. Sera asks Jory to read the gauge every half hour tonight in his own hand, and he agrees. Nell asks for tonight's water and says she can steer by the log. Sera is carrying both records now, her book and Ivo's figures.]
+[Skip summary: On the morning of day 27, Sera reads the breakwater log at the breakwater, as she does every morning now, and copies it onto paper in her tide book. Jory has logged Wren's walk and Bram at the slip. Tonight's spring tide, with the drift on top, will be high after three in the morning: the same hours as the shift, near enough. Sera asks Jory to read the gauge every half hour tonight in his own hand, and he agrees. Nell asks for tonight's water and says she can steer by the log. Sera is carrying both records now, her book and Ivo's figures.]
 
 ### Scene 15 — The headland, afternoon
 [Day 27, late afternoon, before dusk. The headland outside the old tower door. Brown grass flattened by wind. The sea loud below. By the doorstep, in the lee of the wall, one clump of thrift: a round pink head, wide open.]
@@ -1246,3 +1244,12 @@ Scene 4 read as each speaker. Corra's lines break if they lose a price ("three-f
 5. **OQ 4 (observation only):** Sera's comparison uses Ivo's minutes and the wall's marks as a key for which nights both looked. If the lead prefers Sera's own minutes, she has them "in the sextant" (scene 11), which isn't on paper.
 6. **OQ 18** says Sera writes "bloom" on the wall; the handoff says the glass. This chapter follows the handoff.
 7. **Seams with 301 and 305 as drafted (read only).** 301: Bram named them "Haze-walkers"; struck from the side one "goes back to its line", so here they are knocked off their lines and wait, not broken; Wren's first memory is a cold that "ticked", so here her new memory is "a different cold". 305: "bloom" sits on the glass beside the second window bar (matched here), and Sera's two-column book is what she carries into the count. One small mismatch for 305 to settle: it ties the fair copy with council tape; 303 and this chapter have it tied with string, and Sera unties it here in scene 10.
+
+### Continuity pass (2026-10-07, Act III as one act)
+- Mags and Abel faced Haze-Walkers at the crater at dusk (3-3), so scene 5 no longer has Mags say "They stand... They don't walk." She knows them ("Same as the bowl at dusk"), and Abel's news is "twice in a night". Mags now asks "Why the side?". The pay-tin, which rang like a bell at the bowl in 3-3, dents this time (a callback, not a repeat).
+- Scene 5: "Two hundred barrows" is now "Fourteen carts and two hundred buckets", matching 3-3's fourteen carts; the crater shows 3-3's cart on its side in the bowl. Mags no longer says she answered Teodor (he made the offer to Ivo, 3-3).
+- Scene 4: Wren's new cold is "not the ticking kind, this time" (was "not the biting kind", 3-1's exact words).
+- Scene 2: Bram's "So. Funny thing about the dark." and the joke that doesn't come were cut; scene 15 keeps that beat.
+- Scene 11: a minute of arc is "less than a hair", so "forty-one, less a hair" and "a hair a night" read as small amounts, not one minute.
+- Tide: high water on the night of day 27 is "after three" (was "near midnight"). From 302's afternoon high water at 2:15 on day 25, the night tides run about half past three on day 27 and about four on day 28 before the drift, and Jory's own log in scene 14 shows the water still rising at three on the night of day 26. Sera's "the same hours" still holds near enough with the shift due at two.
+- Checker after the pass: 6,981 spoken words (6,750-13,500), OK.

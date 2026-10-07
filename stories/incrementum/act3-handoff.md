@@ -1,5 +1,7 @@
 # Act III handoff sheet (for writers)
 
+**Status: drafted and continuity-edited (2026-10-07).** Written as patches 301-306; the continuity pass aligned them as one act and folded them into the ledger, sheets, index, roadmap and open questions. Where the drafts settled something differently from this sheet (the ledger goes back to the customs house each dawn; "bloom" on the glass; the 8th shift due about 2 a.m., not "late" in general; high water after three on the night of day 27), the patches and the ledger win. For Act IV, read `act4-starting-state.md`.
+
 Fixed by Claude on 2026-10-07 before drafting Act III in parallel. Read `act3-starting-state.md` first; it describes where everyone is at the end of Act II (evening of day 23). Canon files win over this sheet; this sheet wins over the roadmap where they differ.
 
 ## Clock

@@ -50,7 +50,7 @@ Deviations: (1) Three heavy scenes sit close at the set piece (5 the session, 7 
 | 14 | 3-2-8 | Customs house, night | Take Ivo his soup | — | One line in the book → the door left open | quiet |
 
 **New facts (for the ledger)**
-- Locked: day 25 was a spring tide. Hester's and every slip's tables put high water at twenty past six in the evening. From the keeper's log (dusk, 3 h 20 ahead; three o'clock, 3 h 50 ahead), Sera put it at half past two, springs, over the quay. It came under the customs house door at a quarter past two and stood knee-deep in the council room.
+- Locked: day 25 was a spring tide. Hester's and every slip's tables put high water at twenty to seven in the evening. From the keeper's log (dusk on day 24, 3 h 55 ahead; three o'clock on day 25, 4 h 10 ahead, fifteen minutes up across the 6th shift, the third shift running), Sera put it at half past two, springs, over the quay. It came under the customs house door at a quarter past two and stood knee-deep in the council room.
 - Locked: Ivo called the session for two o'clock, posted as "Item: a report from the chair." He brought the green minute book and a thick black book with a red ribbon. Before the flood, the council took Sera's tide (through the harbormaster) and sent to clear the slips.
 - Locked: the harbor crowded into the flooded customs house to shout at the council ("Council's watching it!"). Tide-Plumbs came in with the water and stood among the benches; a man's elbow stirred them; the squad held the room with Bram's lantern, Nell's boathook and the keeper. The tall one that keeps their count broke in the doorway and fell as seawater; the rest walked back out on the tide.
 - Locked: the harbormaster and Gage asked the chair to adjourn, and Bram asked Ivo for "another day". Ivo refused ("I would know, Hollis.") and read the ledger standing in the water, with Bram holding the storm lantern over it.
@@ -77,7 +77,7 @@ Deviations: (1) Three heavy scenes sit close at the set piece (5 the session, 7 
 
 ## Scene cards (gacha 14.3)
 
-**1. The breakwater, dawn.** Objective: read the log with Sera. Sera wants today's tide from the keeper's book; Jory wants to keep the book without being thanked for it. By the end Sera has half past two, springs, over the quay, and Jory is bringing the log to council. Only-them lines: SERA "Twenty past six on the table. Less four hours. Springs on top." / JORY "I'll carry it. Somebody ought to. Not that it's my book." Skip summary: Sera reads the breakwater log; the spring tide will come at half past two, hours early; she'll take it to council.
+**1. The breakwater, dawn.** Objective: read the log with Sera. Sera wants today's tide from the keeper's book; Jory wants to keep the book without being thanked for it. By the end Sera has half past two, springs, over the quay, and Jory is bringing the log to council. Only-them lines: SERA "Twenty to seven on the table. Less four hours ten. Springs on top." / JORY "I'll carry it. Somebody ought to. Not that it's my book." Skip summary: Sera reads the breakwater log; the spring tide will come at half past two, hours early; she'll take it to council.
 
 **2. The lamp room, morning.** Objective: take Bram's bread down. Bram wants a way to say it; Wren wants to come down and see a council. By the end Bram has promised himself the road. Only-them lines: WREN "Tell him sixteen's a tidy number. See if his face does anything." / BRAM "I asked for a day. I had it. It went past me on the stair." Skip summary: Bram hasn't told Sera; Wren, brighter, stays up the tower.
 
@@ -122,9 +122,9 @@ SERA: Then the keeper can give it here.
 [Choices converge.]
 JORY: Go on. Don't make a thing of it.
 [Jory holds the log out. Sera kneels on the wet stone with it and runs a finger down the last page.]
-SERA: Dusk. Three hours twenty ahead.
-SERA: Three o'clock. Three hours fifty.
-SERA: Thirty minutes in a night. It jumped at the shift. Your hand says so. "Water up the stick at midnight."
+SERA: Dusk. Three hours fifty-five ahead.
+SERA: Three o'clock. Four hours ten.
+SERA: Fifteen across the shift. Three times now. Your hand says so. "Water up the stick at midnight."
 KEEPER: It slapped the stick. Same as before.
 SERA: Same as the bar night. Write that every time. Even when it's the same.
 JORY: You read it standing up. On wet stone.
@@ -136,8 +136,8 @@ SERA: I check everything.
 JORY: I know. That's why I give it you.
 [She opens her own tide book beside it, at the printed table. Every column is struck through in pencil.]
 SERA: Springs today. Biggest water of the month.
-SERA: The table says high water at twenty past six tonight.
-SERA: Less four hours, by your book. Twenty past two. Call it half past.
+SERA: The table says high water at twenty to seven tonight.
+SERA: Less four hours ten, by your book. Half past two.
 SERA: Springs on top. Over the quay by a foot. More, if the wind backs.
 JORY: Council sits at two. Notice went up on the door last night.
 JORY: "Item: a report from the chair." Whole harbor's talking about it. He's never reported anything.
@@ -171,7 +171,7 @@ SERA: Keeper. Bram's been at the tower since six. With bread.
 KEEPER: He wanted to talk to you.
 SERA: He can talk at supper. It's cold either way.
 KEEPER: He said it was important.
-SERA: Everything he carries is important. He carried a page five days.
+SERA: Everything he carries is important. He carried a page four days and nineteen hours.
 SERA: Half past two is important. That's what I'm carrying today.
 SERA: Go up and get your bread. Then two o'clock. Your chair's the one by the door.
 [Skip summary: At dawn on day 25, Sera reads the keeper's breakwater log, as she does every morning now. The tide jumped at last night's shift, and today is a spring tide: by her sums it will come at half past two, hours ahead of the table, and over the quay. The council sits at two for "a report from the chair". She asks Jory to bring the log to council, and puts Bram off until supper.]
@@ -264,8 +264,8 @@ KEEPER: How are the hands?
 TAM: Itching. Hester says itching's mending. I'm mending so hard I could scream.
 NELL: Keeper. You've come from the breakwater. What's the water doing?
 KEEPER: Sera says half past two. Springs. Over the quay.
-NELL: Half past two. The table says six.
-NELL: The table's said six all week. The table's a liar with a nail through it.
+NELL: Half past two. The table says near seven.
+NELL: The table's a liar with a nail through it.
 HESTER: Not her table. The tide's the liar. Get it right, Garrow.
 NELL: Fine. The tide's a liar. I still can't steer by either of them.
 [She slaps a flat hand on the end of the bench. Spoons jump.]
@@ -406,12 +406,12 @@ HARBORMASTER: I'd mooring fees on the list. Mooring fees can wait.
 HARBORMASTER: The fleet wants a tide. Tables are struck through at every slip.
 HARBORMASTER: The surveyor has a figure. Surveyor.
 SERA: Harbormaster. Tell the seats I've read the keeper's log. Every dusk and every three o'clock since the bar.
-SERA: The water's three hours fifty ahead at three this morning. Thirty minutes more than at dusk.
-SERA: Today's springs. The table says twenty past six.
+SERA: The water's four hours ten ahead at three this morning. Fifteen minutes more than at dusk.
+SERA: Today's springs. The table says twenty to seven.
 SERA: It'll be over the quay at half past two. By a foot. Clear the slips, the road, the lower rooms.
 CHANDLER: Half past two? My stock's in the cellar!
 SERA: Then it's in the sea at half past two.
-CHANDLER: The table says six. I paid for that table. The harbor fund paid for it.
+CHANDLER: The table says seven. I paid for that table. The harbor fund paid for it.
 SERA: Harbormaster. Tell the chandler I drew that table. I struck it through myself.
 HARBORMASTER: She drew it, she struck it, Chandler. I'd move the rope.
 NELL: Garrow, from the back. Is that the fleet's tide, Surveyor? To go out on?
@@ -467,7 +467,7 @@ ADA: My bairns! Where's my eldest? He was on the steps!
 GAGE: Order! Order in the—
 NET-HAULER: Order? It's up to my knees, Councillor! Order that!
 [The room fills with people and water both. Someone has the tide table off the wall by the door and is shaking it.]
-NET-HAULER: Six o'clock! It says six o'clock! It's not half two!
+NET-HAULER: Twenty to seven! It says twenty to seven! It's not half two!
 PELL: Course it's not six! She told you! She told you at the slip a week back!
 [A man near the door stabs a finger at the window, at the board outside where the notices hang.]
 NET-HAULER: "Weather. The council is watching it."
@@ -1121,3 +1121,9 @@ OK
 
 ### Read-aloud pass
 Scene 8 read as each speaker. Ivo's lines break with a contraction ("I would know, Hollis" can't become "I'd know"). Bram's break without them ("Not in this. Another day. Nobody'd know."). Hester's "Pots are on the slate" can only be hers; Tam's "They're mending elbows. They're allowed." only his. The seats (Harbormaster: cellars and boats; Gage: plain and tired; Chandler: rope and stock) stay distinct.
+
+### Continuity pass (2026-10-07, Act III as one act)
+- Tide figures aligned with 301: dusk on day 24 is 3 h 55 ahead and 3 a.m. on day 25 is 4 h 10 (fifteen across the 6th shift, "three times now"; it had read 3 h 20 / 3 h 50 and a thirty-minute jump). To keep Sera's half past two and the water's quarter past, the table's evening high water is now twenty to seven (was twenty past six); Nell, the chandler and the net-hauler say "near seven" / "seven" / "twenty to seven".
+- Sera's "He carried a page five days" is now "four days and nineteen hours" (204's exact figure; she is exact).
+- First-move wording flagged in this review ("less a hair" vs 3-1's "a tenth of a finger") is resolved: all of Act III now reads "forty-one, less a hair".
+- Checker after the pass: 6,934 spoken words (6,750-13,500), OK.

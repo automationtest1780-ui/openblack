@@ -40,6 +40,7 @@ Release: pullable quartet at launch (gacha 8.1). Suggested featured order: Nell 
 - **Bark (after Act III, once the bad year is tied to the sky):**
   - Hester: "Still going south?"
   - Nell: "Where's south, now?"
+  - *Live from Act III clear: first played at dawn on day 28 (305). 3-2 earned it (the reading) and held it for the hub.*
 
 ### Nell and Jory
 - **Dynamic:** Nell crewed out of the breakwater when his father kept it, and said hard things about the Flints when they left. Now she's planning the same thing in daylight.

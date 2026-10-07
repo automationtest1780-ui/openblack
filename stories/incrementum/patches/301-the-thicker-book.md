@@ -62,7 +62,7 @@ Deviations: (1) Ivo says "I do not know" once (scene 6), against the "would neve
 - Locked: about 11.30 that night, four Haze-Walkers walked up the headland path toward the old tower. One was broken; three walked straight off the headland edge and up. Sera counted them from the glass.
 - Locked: Ivo said "I do not know" to Ada Marr when she asked whether the walking would keep on. Bram had never heard him say it.
 - Locked: Ivo paid Hester a shilling for her back room (Teodor's lodging) at ten, "a candle, and no supper". Teodor walks the quay until the fires bank. Hester sat at her fires and "heard nothing".
-- Locked: **Ivo showed Bram the black book**, with the keeper present: thick, black, red ribbon, in a small hard hand like a row of nails; the Belt, the Nail, and the harbor tide against Sera's mother's tables, every clear night "since I came ashore" (the early pages brown with age; the exact span is unsaid). It shows the Belt "a tenth of a finger" east, marked "error, mine", and "mine" struck out the next clear night, two weeks before Sera brought her figure to council. In the bad year the tide already ran early by two, three, four minutes, "before anything I could see in the sky had moved". One night Ivo covered with his hand: "A night that belongs to someone else. They will hear it read once, aloud, with the rest."
+- Locked: **Ivo showed Bram the black book**, with the keeper present: thick, black, red ribbon, in a small hard hand like a row of nails; the Belt, the Nail, and the harbor tide against Sera's mother's tables, every clear night "since I came ashore" (the early pages brown with age; the exact span is unsaid). It shows the Belt at "forty-one, less a hair" (the wording 3-2 reads aloud), marked "error, mine", and "mine" struck out the next clear night, two weeks before Sera brought her figure to council. In the bad year the tide already ran early by two, three, four minutes, "before anything I could see in the sky had moved". One night Ivo covered with his hand: "A night that belongs to someone else. They will hear it read once, aloud, with the rest."
 - Locked: the keeper asked about the crater on day 9. Ivo: he took a sight over where it fell, his hand on the glass "to know it was real", and it went in the book "a line, like any other night."
 - Locked: Ivo will read the book into the minutes "in red" at the council session on the afternoon of day 25, whatever Bram does. Bram asked for one day to tell Sera himself, not from a bench; Ivo gave him "until the chair calls the first item… about fifteen hours."
 - Locked: asked to say he's sorry, Ivo said: "Not to you, Hollis. You are not the one it is owed to." **Ivo has not said "I'm sorry."**
@@ -649,7 +649,7 @@ IVO: It went in here that night. With the rest. A line, like any other night.
 BRAM: A line. A girl fell out of the sky and you wrote a line.
 IVO: It is what I had, Hollis. You had a coat.
 [He reaches across, turns the leaves forward, and stops on one. He lays a gloved finger under a line.]
-IVO: Here. The Belt. A tenth of a finger east of where it has been for three hundred years.
+IVO: Here. The Belt. "Forty-one, less a hair." East of where it has been for three hundred years, by a hair.
 IVO: I wrote "error, mine."
 [He turns one leaf.]
 IVO: The next clear night, the same. I struck out "mine."
@@ -1220,3 +1220,8 @@ OK
 
 ### Read-aloud pass
 I read scene 10 as each speaker. Ivo's "Not to you, Hollis. You are not the one it is owed to." doesn't survive a contraction ("You're not the one…" sounds like comfort). Bram's "It wasn't a habit. It was a lamp." only works in his flat nouns; Ivo would never call the light "a lamp". In scene 15, Sera's relays ("Tell him not that name.") couldn't pass to Bram's "Keeper, tell her it's important.", whose plainness is all appeal. In scene 9, Nell's "You were being furniture." and Ivo's "It is a gift." can't swap.
+
+### Continuity pass (2026-10-07, Act III as one act)
+- The first move now reads "Forty-one, less a hair." in Ivo's hand, the wording 3-2 reads aloud and 3-3 quotes; Ivo's gloss is "by a hair" (was "a tenth of a finger").
+- Checked against 302-306: Bram's two tries here + three in 3-2 = Sera's "Five." in 3-3; no "I'm sorry", no "bloom", no direct Sera-to-Ivo line; the covered night is the *Lark* night (3-2). The tide series here (3 h 50 at 3 a.m. on day 24) now continues in 3-2 as 3 h 55 at dusk on day 24 and 4 h 10 at 3 a.m. on day 25.
+- Checker after the pass: 6,855 spoken words (6,750-13,500), OK.

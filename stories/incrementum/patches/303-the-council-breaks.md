@@ -55,7 +55,7 @@ Deviations: (1) Three titled council NPCs speak who haven't spoken before: the *
 - Locked: night of day 25, at about nine, the seats met in the flooded customs house on Ivo's motion to enter the ledger as council property, open to any resident. **The Harbormaster, the Chandler and the Shipwright walked out.** The Harbormaster goes south behind *Patience* on the thirtieth with his two boats; the Chandler goes home to count her stock; the Shipwright gives his carts and sand to Abel. **Councillor Gage stayed** ("I'll sit here till I've seen what it was holding up."). Three seats and the chair remain; three hands carried the motion; the chair doesn't vote.
 - Locked: the clerk wrote the minute on the dry leaves at the back of the green minute book, at Ivo's dictation, with the word "withheld" spelled in full.
 - Locked: that night the harbor split into three camps at Hester's: **leave** (Nell's slate of names for the thirtieth, first light: *Patience*, three more boats and the Harbormaster's two, six in all); **fill** (Abel's carts at the pan-house at dawn); **stay and count** (Pell, Tam and others chalking the Belt's bearing on their own doors, as Corra did on the pan-house door). Nobody kept the oil ration that night, and Hester didn't ask.
-- Locked: **Sera's first direct words to Ivo since the haze** (midnight, the customs house, keeper present): "Fourteen nights." She reads the first entry of the move aloud ("Forty-one, less a quarter." / "Error, mine."), as read in 3-2; Ivo: "I thought it was my eye." Ivo admitted he checked her wall against the ledger every night since the fall, and that his "two degrees off" at the first supper (105) was made against it ("It was the only way I could tell you that you were right."). Sera: "I wasn't alone. You made me alone." Ivo: "Yes."
+- Locked: **Sera's first direct words to Ivo since the haze** (midnight, the customs house, keeper present): "Fourteen nights." She reads the first entry of the move aloud ("Forty-one, less a hair." / "Error, mine."), as read in 3-2; Ivo: "I thought it was my eye." Ivo admitted he checked her wall against the ledger every night since the fall, and that his "two degrees off" at the first supper (105) was made against it ("It was the only way I could tell you that you were right."). Sera: "I wasn't alone. You made me alone." Ivo: "Yes."
 - Locked: **Ivo's first "I'm sorry"** ("I am sorry."). Sera: "For which part?" / "All of it." / "All isn't a number." It changes nothing, and he says so. "It is not for the one who hears it." Sera refused the ledger ("Then it can lie.").
 - Locked: **Bram refused to take a side** and said so to both, separately: to Sera on the steps ("I'm not picking, Sera. Not his. Not yours."), then to Ivo inside. He would not go into the customs house while she was in it.
 - Locked: Ivo had the clerk make a **fair copy of the sky figures only** (the Belt and the Nail, every clear night from the first move; no tides) by dawn, and sent it up the stair with the keeper, unsigned by him. Labelled in the clerk's hand: "For the Surveyor. Sky figures. Fair copy." At the close of the chapter Sera has it, tied, unopened.
@@ -335,7 +335,7 @@ SERA: Before me.
 IVO: Before you.
 SERA: Turn it round. I read badly upside down.
 [He turns the ledger to her. She runs a finger down the page without touching the ink.]
-SERA: "Forty-one. Forty-one. Forty-one, less a quarter."
+SERA: "Forty-one. Forty-one. Forty-one, less a hair."
 SERA: "Error, mine." You wrote "error, mine."
 IVO: I thought it was my eye. For a night, I thought it was my eye.
 SERA: It wasn't.
@@ -700,8 +700,8 @@ WREN: Before that it was very quiet. Not empty quiet. Full quiet. Like a room wi
 [She scratches her arm again, harder.]
 WREN: My arms are thinking about itching. They're not doing it yet. They're thinking about it.
 SERA: Since when?
-WREN: Since I woke up. It's the going-somewhere kind. It's going to step. Not now. Later. Is later a time?
-SERA: Later's a time. Keeper. Be on the crater road by dusk.
+WREN: Since I woke up. It's the going-somewhere kind. It's going to step. Not now. Later. Bram says later's the worst time there is.
+SERA: Dusk, by the gaps. Keeper. Be on the crater road by dusk.
 SERA: Sight off the tower top. Arm straight. Bring it back on your hand.
 KEEPER: You'll count from here?
 SERA: From here. With her.
@@ -900,7 +900,7 @@ ADA: Bram, bring the light! Bring the light here!
 BRAM: Coming! Everybody to the lamp! It's the one rule, it's the only one I made!
 [Bram plants himself on the north lip with the storm lantern high. A walker comes straight on toward him. At the edge of the light it slows, and steps round the edge of it, as if round a puddle, and straightens past it, and walks on.]
 IVO: Hollis. Hold there. They go round your light, as they did in the lanes. Whoever is inside it, they go round.
-BRAM: Eleven years of wick! Not past it! Not tonight!
+BRAM: Not past my lamp! Not one of you! Not tonight!
 [Mags stands in front of the Dunn boys with her pay-tin up like a shield. A walker's arm comes down on the tin. It rings like a bell. She doesn't move.]
 MAGS: That's my lot! Go round!
 [It doesn't go round. It walks on, and she steps sideways with the boys behind her, out of its line, as if she'd meant to all along.]
@@ -947,7 +947,7 @@ BRAM: Sparrow.
 [The middle star slides off the top of the window, and past the edge of the tower, and stops.]
 KEEPER: A finger. It went a finger.
 IVO: Write it on your hand.
-[The Keeper writes it. In the tower, the white goes out of the window slowly, like heat going out of a stone.]
+[The Keeper writes it. In the tower, the white goes out of the window slowly, like a coal going grey.]
 [Then every walker in the marsh steps up, out of the sand, out of the reeds, back into the haze. All at once.]
 [The marsh is empty. The crowd stands where it stood, with its spades, looking up.]
 SHIPWRIGHT: ...It went. Did everybody see it go?
@@ -1062,7 +1062,7 @@ SERA: I said they wouldn't.
 BRAM: You did. To the cart.
 BRAM: They all looked up, Sera. The whole crater. When the window went.
 BRAM: Ada Marr, saying "don't look up" with her face turned up like a plate.
-SERA: Ivo?
+SERA: The magistrate?
 BRAM: Him too. He was looking before anybody.
 SERA: He's always looked up. That was never the trouble.
 WREN: What was the trouble?
@@ -1190,9 +1190,15 @@ OK
 
 ### Seams for the parallel writers
 - 3-1: Ivo showed Bram the ledger "last night, in Mrs Pike's back room"; Bram "tried twice" (the keeper saw). Sleeves end mid-forearm; Wren faintly lit.
-- 3-2 (checked against the draft on disk): the seats come back at nine for the motion, as 3-2's link outward says; the Harbormaster comes back "for our coats" (he left his). The water is gone by evening, leaving silt at knee height; one candle burns on the table; the door is left open. The first entry reads "forty-one, less a quarter" / "error, mine". Ivo read the ledger knee-deep; Ada watched him take the notices down. Hester has Ivo under "took" and owes him a new column. Nell's date: "the thirtieth, first light." Jory walked out without a word and hasn't spoken since (rumor). The chandler's cellar flooded.
+- 3-2 (checked against the draft on disk): the seats come back at nine for the motion, as 3-2's link outward says; the Harbormaster comes back "for our coats" (he left his). The water is gone by evening, leaving silt at knee height; one candle burns on the table; the door is left open. The first entry reads "forty-one, less a hair" / "error, mine". Ivo read the ledger knee-deep; Ada watched him take the notices down. Hester has Ivo under "took" and owes him a new column. Nell's date: "the thirtieth, first light." Jory walked out without a word and hasn't spoken since (rumor). The chandler's cellar flooded.
 - 3-1 (checked against the draft on disk): Haze-walkers is Bram's name for them; they step round lamplight; Pip is Ada's boy; the book runs "since I came ashore". Bram tried twice in the night of day 24; 3-2 adds three more tries ("Five.").
 - 3-4: Sera has the fair copy tied and unopened; Corra went home with Mags; the count is on hands (16, 12); "Is this five?" / "Five." sets up the move to paper. Corra's thirty-two is in the keeper's head only ("Write that nowhere. Not yet.").
 
 ### Read-aloud pass
 Scene 4 read as each speaker. Ivo's lines break with a contraction ("I did not expect it to" can't become "I didn't"). Sera's lines break if softened ("All isn't a number" can't be "That's not really a number"). "I am sorry" works only because it's the shortest thing he says in the scene. Bram's scene 5 lines can't move to anyone else ("That's not a side. That's a stair."). In scene 7 Teodor's "The bowl as well, if it will come up" and Ivo's "with your gloves on, to buy the hole" can't swap.
+
+### Continuity pass (2026-10-07, Act III as one act)
+- The first entry now reads "Forty-one, less a hair." (was "less a quarter"), matching 3-1 and 3-2.
+- Scene 14: Sera's "Ivo?" to Bram is now "The magistrate?", so her first use of his name stays on the stair in 3-5.
+- Repeats varied: Wren's "Is later a time?" (3-1's line) becomes a callback to Bram's "worst time there is", and Sera answers "Dusk, by the gaps."; the window fading "like heat going out of a stone" (3-1) is now "like a coal going grey"; Bram's "Eleven years of wick!" (3-2) is now "Not past my lamp!".
+- Checker after the pass: 6,936 spoken words (6,750-13,500), OK.

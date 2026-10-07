@@ -20,6 +20,14 @@ Release: starter quartet, free through the story (open question 7). Gacha 8.
 
 ## Quartet scenes (WB §6)
 Act I "Supper in the Lamp Room" / Act II "The Last Clean Stone" / Act III "Two Records" / Act IV "Measuring Wren" / Act V "The Blank Page". No plot that exists nowhere else (WB §8).
+Written: 105 (Act I), 205 (Act II), 306 (Act III, evening of day 28).
+
+## Post-Act III barks now live (from Act III clear, 2026-10-07)
+- Sera / Ivo post-Act III ("Call it." / "...Thank you. Left."): **live**.
+- Hester / Nell post-Act III ("Still going south?" / "Where's south, now?", Net Lofts): **live** (305, dawn).
+- Sera / Bram deal: **half-restored** in 305 (see below); the post-2-4 bark retires.
+- Sera / Wren: first half only; the growth sentence is still held.
+- Events running while Act III is live stay gated at Act II clear and never mention the ledger (project.md).
 
 ## Pair matrix (copied from WB §5)
 
@@ -33,6 +41,7 @@ Act I "Supper in the Lamp Room" / Act II "The Last Clean Stone" / Act III "Two R
 - **Pair-bond bark (after 2-4, until they make up):** *(Claude, from 204)*
   - Bram: "Eyes up there—"
   - Sera: "Finish it or don't."
+- **Act III status (continuity pass, 2026-10-07):** the deal is **half-restored** in 305, with an on-screen cause: Bram held the lantern for over an hour at the one height that lit her book and kept the glare out of her right eye, and Sera said the first half herself ("Eyes up there. Feet down here. Deal?" / "Deal. Stay in the light." / "You're holding it."). The leaf is not settled ("That's for after supper."). From Act III clear the canon bark may play with the roles swapped as in 305 (Sera asks, Bram finishes); the post-2-4 bark retires. 306 deliberately withholds the deal bark.
 
 ### Sera and Ivo (the fault line)
 - **Dynamic:** Two people holding the same numbers. She told the truth and was mocked. He lied and was believed. He respects her more than anyone alive. She refuses to forgive him.
@@ -43,6 +52,7 @@ Act I "Supper in the Lamp Room" / Act II "The Last Clean Stone" / Act III "Two R
 - **Bark (post-Act III):**
   - Sera: "Call it."
   - Ivo: "...Thank you. Left."
+- **Act III status:** the pre-Act III bark was retired in 303 (Sera turns "two degrees" into the wound: he corrected her mark against the hidden ledger) and inverted once in 305 ("Your mark is—" / "Two degrees off?" / "Exact."). **The post-Act III bark is live from Act III clear:** first played in battle on the lighthouse stair (305, "Ivo. Call it.", the first time she says his name), unlocked at 305's end, and played as the dusk count in 306. She speaks to him directly from 303; he said "I am sorry" once (303); she has not forgiven him.
 
 ### Sera and Wren
 - **Dynamic:** Wren worships Sera. To Sera, Wren is proof, a walking measurement that she was right.
@@ -50,6 +60,7 @@ Act I "Supper in the Lamp Room" / Act II "The Last Clean Stone" / Act III "Two R
 - **Bark:**
   - Wren: "Did you see? Did you count it?"
   - Sera: "I counted. That was well done." *(The second sentence is the growth.)*
+- **Act III status:** first half only (301: "I counted."). The second sentence is still held. Sera stopped herself measuring Wren's memories twice ("That one's yours", 301; "It doesn't need a number", 306) and counted "Both" (Wren and the Belt) at the 7th shift (303).
 
 ### Bram and Ivo
 - **Dynamic:** They've known each other for years. Ivo signed the order that closed the old light, and Bram forgave him for it long ago, which Ivo has never understood.
@@ -57,6 +68,7 @@ Act I "Supper in the Lamp Room" / Act II "The Last Clean Stone" / Act III "Two R
 - **Bark:**
   - Bram: "You're doing that face where you've already won."
   - Ivo: "It's my only face, Hollis."
+- **Act III status:** Ivo showed Bram the ledger first (301) and Bram refused to pick a side, to both (303). Variants played: "It is not my only face today, Hollis. It turns out I have another." (302); "You're not doing the face." / "No. I appear to have mislaid it." (303); "It is the usual one" / "That was indigestion" (305); "You're still not doing the face." / "I have looked for it, Hollis. It has not turned up." (306). Post-Act III, Ivo has "lost" the face; use the mislaid variants.
 
 ### Bram and Wren
 - **Dynamic:** He found her, named her, and gave her his coat. She calls him family, the first word she learned for it.
@@ -71,6 +83,7 @@ Act I "Supper in the Lamp Room" / Act II "The Last Clean Stone" / Act III "Two R
 - **Bark:**
   - Wren: "Was that funny? Did you almost smile?"
   - Ivo: "I noted it. Under 'almost.'"
+- **Act III status:** "Under 'later.'" (301, the paper joke); "Under 'four o'clock'. It is a new heading." (305); "Under 'almost.' Near the top." (306). Wren asked "Are you frightened of me?" and he said "Yes." (305). No full smile yet.
 
 ## Cross-quartet pairs worth using in events (proposed)
 - **Bram and Nell Garrow** (Net Lofts): grew up on the same slip (roster). He's the one who stayed with a dead light; she's the one leaving with a live boat. Bark: Nell: "Still oiling hinges, Hollis?" / Bram: "Still threatening to leave, Garrow? Eat something first."

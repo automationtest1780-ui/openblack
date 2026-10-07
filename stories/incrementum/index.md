@@ -13,3 +13,9 @@
 | 203 | patches/203-dont-look-up-after-supper.md | Main story, Act II ch 2-3 | Ivo, Sera, Bram, Wren; Mags, Corra, Abel, Teodor, Hester, Nell as NPCs; Pell, Ada Marr | Locked | 2-2 |
 | 204 | patches/204-out-of-wall.md | Main story, Act II ch 2-4 (finale) | Bram (arc focus), Sera, Wren, Ivo; Abel, Jory featured as NPCs; Hester, Tam, Mags, Corra | Locked | 2-3 |
 | 205 | patches/205-the-last-clean-stone.md | Group story (Lamp Room quartet scene 2, hub) | Sera, Bram, Ivo, Wren | Canon (soft facts only) | Act II clear (2-4) |
+| 301 | patches/301-the-thicker-book.md | Main story, Act III ch 3-1 (arc opener) | Ivo, Bram (caught between); Sera (the log), Wren (the 6th shift, Brightening); Hester, Nell, Jory, Tam as NPCs; Ada Marr, Pip | Locked | Act II clear (2-4) |
+| 302 | patches/302-spring-tide-in-session.md | Main story, Act III ch 3-2 | Ivo (the confession), Sera; Bram, Wren; Jory, Nell featured as NPCs; Hester, Tam; the council seats, Pell, Ada Marr | Locked | 3-1 |
+| 303 | patches/303-the-council-breaks.md | Main story, Act III ch 3-3 | Sera, Ivo (first "I am sorry"), Bram (no side), Wren; Abel, Teodor (rate-up pair), Corra, Mags, Hester, Nell, Tam as NPCs; the Shipwright, the clerk | Locked | 3-2 |
+| 304 | patches/304-the-word-for-it.md | Main story, Act III ch 3-4 | Wren ("the bloom"), Sera; Bram; Corra, Mags featured as NPCs; Abel, Jory, Nell | Locked | 3-3 |
+| 305 | patches/305-two-records.md | Main story, Act III ch 3-5 (finale, first anniversary) | Sera, Ivo (arc focus), Bram, Wren; all eight launch heroes as watchers | Locked | 3-4 |
+| 306 | patches/306-two-records-quartet.md | Group story (Lamp Room quartet scene 3, hub) | Sera, Bram, Ivo, Wren | Canon (soft facts only) | Act III clear (3-5) |
