@@ -940,6 +940,8 @@ ABEL: I am looking up. My neck's sixty-eight. It wants telling.
 [On the customs house steps, under LOOK UP in red, Councillor Gage stands with the green minute book open on his arm.]
 GAGE: Somebody fetch a pen.
 GAGE: No. I've got a pen. I've just never minuted nothing happening before.
+GAGE: Seven seats. Three walked out. And I'm the one sat on the steps writing the only thing that ever mattered.
+GAGE: "Item. Eleven o'clock. It didn't go."
 [On the breakwater, Jory stands by the lamp with his hand on the rail, and looks up the headland at the lit window.]
 JORY: Lamp's lit. Sky's where it was.
 JORY: First night in a month that's both.
@@ -1279,6 +1281,10 @@ IVO: ...Thank you.
 [Pair bark unlocked (post-Act III): Sera, "Call it." / Ivo, "...Thank you. Left."]
 [Bram stands, stretches the arm that held the lantern all night, and winces. He counts heads with a pointing finger: Sera, the Keeper, Wren. Then he does it again.]
 BRAM: Everyone still here? Good. Breakfast's on me.
+BRAM: And supper. Tonight. Up here. Before the count.
+SERA: Hot.
+BRAM: Hot. That's the trick of it.
+SERA: I know what the trick is. I've had it explained every night since the first one.
 [Sera opens the back of her tide book and makes one short stroke there. She closes it before anyone can see.]
 [Wren has gone back to the glass. She looks east, past the strokes and the word, into the pale sky where the Belt was and where something else is, a moment too long.]
 WREN: It's still there. It's only waiting.
